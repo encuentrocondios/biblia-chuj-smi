@@ -1,0 +1,266 @@
+[
+    {
+        "name": "GÉNESIS",
+        "short_name": "Gn"
+    },
+    {
+        "name": "ÉXODO",
+        "short_name": "Ex"
+    },
+    {
+        "name": "LEVÍTICO",
+        "short_name": "Lv"
+    },
+    {
+        "name": "NÚMEROS",
+        "short_name": "Nm"
+    },
+    {
+        "name": "DEUTERONOMIO",
+        "short_name": "Dt"
+    },
+    {
+        "name": "JOSUÉ",
+        "short_name": "Jos"
+    },
+    {
+        "name": "JUECES",
+        "short_name": "Jue"
+    },
+    {
+        "name": "RUT",
+        "short_name": "Rut"
+    },
+    {
+        "name": "1 SAMUEL",
+        "short_name": "1Sam"
+    },
+    {
+        "name": "2 SAMUEL",
+        "short_name": "2Sam"
+    },
+    {
+        "name": "1 REYES",
+        "short_name": "1Re"
+    },
+    {
+        "name": "2 REYES",
+        "short_name": "2Re"
+    },
+    {
+        "name": "1 CRÓNICAS",
+        "short_name": "1Cr"
+    },
+    {
+        "name": "2 CRÓNICAS",
+        "short_name": "2Cr"
+    },
+    {
+        "name": "ESDRAS",
+        "short_name": "Esd"
+    },
+    {
+        "name": "NEHEMÍAS",
+        "short_name": "Ne"
+    },
+    {
+        "name": "ESTER",
+        "short_name": "Est"
+    },
+    {
+        "name": "JOB",
+        "short_name": "Job"
+    },
+    {
+        "name": "SALMOS",
+        "short_name": "Sl"
+    },
+    {
+        "name": "PROVERBIOS",
+        "short_name": "Pr"
+    },
+    {
+        "name": "ECLESIASTÉS",
+        "short_name": "Ecl"
+    },
+    {
+        "name": "CANTARES",
+        "short_name": "Ct"
+    },
+    {
+        "name": "ISAÍAS",
+        "short_name": "Is"
+    },
+    {
+        "name": "JEREMÍAS",
+        "short_name": "Jer"
+    },
+    {
+        "name": "LAMENTACIONES",
+        "short_name": "Lam"
+    },
+    {
+        "name": "EZEQUIEL",
+        "short_name": "Ez"
+    },
+    {
+        "name": "DANIEL",
+        "short_name": "Dn"
+    },
+    {
+        "name": "OSEAS",
+        "short_name": "Os"
+    },
+    {
+        "name": "JOEL",
+        "short_name": "Jl"
+    },
+    {
+        "name": "AMÓS",
+        "short_name": "Am"
+    },
+    {
+        "name": "ABDÍAS",
+        "short_name": "Ab"
+    },
+    {
+        "name": "JONÁS",
+        "short_name": "Jon"
+    },
+    {
+        "name": "MIQUEAS",
+        "short_name": "Mi"
+    },
+    {
+        "name": "NAHUM",
+        "short_name": "Na"
+    },
+    {
+        "name": "HABACUC",
+        "short_name": "Hab"
+    },
+    {
+        "name": "SOFONÍAS",
+        "short_name": "Sof"
+    },
+    {
+        "name": "HAGEO",
+        "short_name": "Hag"
+    },
+    {
+        "name": "ZACARÍAS",
+        "short_name": "Zac"
+    },
+    {
+        "name": "MALAQUÍAS",
+        "short_name": "Mal"
+    },
+    {
+        "name": "SAN MATEO",
+        "short_name": "Mt"
+    },
+    {
+        "name": "SAN MARCOS",
+        "short_name": "Mc"
+    },
+    {
+        "name": "SAN LUCAS",
+        "short_name": "Lc"
+    },
+    {
+        "name": "SAN JUAN",
+        "short_name": "Jn"
+    },
+    {
+        "name": "HECHOS",
+        "short_name": "He"
+    },
+    {
+        "name": "ROMANOS",
+        "short_name": "Rom"
+    },
+    {
+        "name": "1 CORINTIOS",
+        "short_name": "1Cor"
+    },
+    {
+        "name": "2 CORINTIOS",
+        "short_name": "2Cor"
+    },
+    {
+        "name": "GALATAS",
+        "short_name": "Gal"
+    },
+    {
+        "name": "EFESIOS",
+        "short_name": "Ef"
+    },
+    {
+        "name": "FILIPENSES",
+        "short_name": "Flp"
+    },
+    {
+        "name": "COLOSENSES",
+        "short_name": "Col"
+    },
+    {
+        "name": "1 TESALONICENSES",
+        "short_name": "1Te"
+    },
+    {
+        "name": "2 TESALONICENSES",
+        "short_name": "2Te"
+    },
+    {
+        "name": "1 TIMOTEO",
+        "short_name": "1Tim"
+    },
+    {
+        "name": "2 TIMOTEO",
+        "short_name": "2Tim"
+    },
+    {
+        "name": "TITO",
+        "short_name": "Tit"
+    },
+    {
+        "name": "FILEMÓN",
+        "short_name": "Flm"
+    },
+    {
+        "name": "HEBREOS",
+        "short_name": "Heb"
+    },
+    {
+        "name": "SANTIAGO",
+        "short_name": "Sant"
+    },
+    {
+        "name": "1 SAN PEDRO",
+        "short_name": "1Pe"
+    },
+    {
+        "name": "2 SAN PEDRO",
+        "short_name": "2Pe"
+    },
+    {
+        "name": "1 SAN JUAN",
+        "short_name": "1Jn"
+    },
+    {
+        "name": "2 SAN JUAN",
+        "short_name": "2Jn"
+    },
+    {
+        "name": "3 SAN JUAN",
+        "short_name": "3Jn"
+    },
+    {
+        "name": "SAN JUDAS",
+        "short_name": "Jds"
+    },
+    {
+        "name": "APOCALIPSIS",
+        "short_name": "Ap"
+    }
+]
