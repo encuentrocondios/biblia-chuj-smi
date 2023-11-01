@@ -1,0 +1,37 @@
+name: Convert Zefania XML to JSON
+
+on:
+  push:
+    paths:
+      - 'CHSM.xml'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install xmltodict
+
+    - name: Convert Zefania XML to JSON
+      run: python tools/convert_zefania_to_json.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@users.noreply.github.com'
+
+    - name: Upload JSON files to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: output
+        publish_branch: json
