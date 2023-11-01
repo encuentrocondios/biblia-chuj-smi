@@ -1,9 +1,6 @@
 name: Convert Zefania XML to JSON
 
-on:
-  push:
-    paths:
-      - 'CHSM.xml'
+on: push
 
 jobs:
   convert:
