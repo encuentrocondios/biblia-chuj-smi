@@ -11,22 +11,16 @@ def parse_xml_line_by_line(file_path):
     with open(file_path, 'r', encoding='utf-8') as xml_file:
         lines = xml_file.readlines()
 
-    for i in range(len(lines)):
+    for i, line in enumerate(lines, start=1):
         try:
-            xmltodict.parse(''.join(lines[:i+1]))
+            xmltodict.parse(line)
         except xml.parsers.expat.ExpatError as e:
-            print(f"ExpatError at line {i+1}: {e}")
+            print(f"ExpatError at line {i}: {e}")
             break
-
-
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
 
-# Load the Zefania XML data
-# with open(input_xml_file, 'r', encoding='utf-8') as xml_file:
-#     data = xmltodict.parse(xml_file.read())
-    
 try:
     with open(input_xml_file, 'r', encoding='utf-8') as xml_file:
         data = xmltodict.parse(xml_file.read())
@@ -34,8 +28,10 @@ try:
 except xml.parsers.expat.ExpatError as e:
     print(f"ExpatError while parsing entire file: {e}")
     parse_xml_line_by_line(input_xml_file)
+    exit()
 except Exception as e:
     print(f"An error occurred: {e}")
+    exit()
 
 # Create a JSON file containing the list of books
 books = [{'name': book['@bname'], 'short_name': book['@bsname']} for book in data['XMLBIBLE']['BIBLEBOOK']]
@@ -47,7 +43,7 @@ for book_data in data['XMLBIBLE']['BIBLEBOOK']:
     book_name = book_data['@bname']
     book_short_name = book_data['@bsname']
     book_output_dir = os.path.join(output_dir, book_short_name)
-    print(f"{book_name}=> {book_output_dir}")
+    print(f"{book_name} => {book_output_dir}")
 
     # Create a directory for each book
     os.makedirs(book_output_dir, exist_ok=True)

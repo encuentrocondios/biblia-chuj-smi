@@ -19,7 +19,7 @@ jobs:
         python-version: 3.x
 
     - name: Install dependencies
-      run: pip install xmltodict
+      run: pip install xmltodict pandas 
 
     - name: Convert Zefania XML to JSON
       run: python tools/convert_zefania_to_json.py
