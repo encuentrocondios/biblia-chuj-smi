@@ -3,7 +3,7 @@
     "verses": [
         {
             "number": "1",
-            "text": "Ach ko Diosal, smoj wal yalji wach' lolonel t'ayach t'a Sion. Ha moj wal skak'elk'och tas scaltej t'ayach."
+            "text": "Ach ko Diosal, smoj wal yalji wach' lolonel t'ayach t'a Sion. Ha moj wal skak'elk'och tas skaltej t'ayach."
         },
         {
             "number": "2",
@@ -15,15 +15,15 @@
         },
         {
             "number": "4",
-            "text": "Te wach' quico', yujto a ach ix onh a sik'caneli yic wach' ayonhek' t'a a templo. Wach' caj yuj swach'il tas ay t'a a cajnub', aton a templo te niwan yelk'ochi."
+            "text": "Te wach' quico', yujto a ach ix onh a sik'kaneli yic wach' ayonhek' t'a a templo. Wach' kaj yuj swach'il tas ay t'a a kajnub', aton a templo te niwan yelk'ochi."
         },
         {
             "number": "5",
-            "text": "Ach Dios ko Kolumal, tza pactzitej ko lesal yet' tas satub'tac tza k'ulej t'a stojolal. Masanil anima cajan t'a yol yib'anhk’inal tik, aton heb' cajan t'a tik yet' heb' cajan t'a sk'axepal ha' mar, ol ach yak'och heb' yipoc sk'ool."
+            "text": "Ach Dios ko Kolumal, tza pactzitej ko lesal yet' tas satub'tac tza k'ulej t'a stojolal. Masanil anima kajan t'a yol yib'anhk’inal tik, aton heb' kajan t'a tik yet' heb' kajan t'a sk'axepal ha' mar, ol ach yak'och heb' yipoc sk'ool."
         },
         {
             "number": "6",
-            "text": "Te tzatz ix utejcan juntzanh lum niwac witz yuj a poder yet' ipalil."
+            "text": "Te tzatz ix utejkan juntzanh lum niwac witz yuj a poder yet' ipalil."
         },
         {
             "number": "7",
@@ -31,7 +31,7 @@
         },
         {
             "number": "8",
-            "text": "Ha heb' cajan t'a juntzanh najatil lu'um, tz'ib'xik'e heb' t'a yichanh tas satub'tac tza k'ulej. Uuj wal ay tzalajk'olal b'aj sjawi k'u, masanto b'aj tz'em k'u."
+            "text": "Ha heb' kajan t'a juntzanh najatil lu'um, tz'ib'xik'e heb' t'a yichanh tas satub'tac tza k'ulej. Uuj wal ay tzalajk'olal b'aj sjawi k'u, masanto b'aj tz'em k'u."
         },
         {
             "number": "9",
@@ -47,11 +47,11 @@
         },
         {
             "number": "12",
-            "text": "Syaxb'i anh ank'ultak t'a tzinan lu'um b'aj swa nok' calnel. Axo tzalquixtac wach' tz'aj yilji yuj avb'en."
+            "text": "Syaxb'i anh ank'ultak t'a tzinan lu'um b'aj swa nok' kalnel. Axo tzalquixtac wach' tz'aj yilji yuj avb'en."
         },
         {
             "number": "13",
-            "text": "Sb'ud'jiel tzalquixtac yuj nok' calnel. Axo opquixtac, sb'ud'jicanel yuj ixim trigo. Yuj chi' sb'itan heb' anima smasanil, tz'el yav heb' yuj tzalajk'olal."
+            "text": "Sb'ud'jiel tzalquixtac yuj nok' kalnel. Axo opquixtac, sb'ud'jikanel yuj ixim trigo. Yuj chi' sb'itan heb' anima smasanil, tz'el yav heb' yuj tzalajk'olal."
         }
     ]
 }
