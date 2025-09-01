@@ -1,2 +1,13 @@
-output/
-venv/
+
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+outputs/
+runs/
+checkpoints/
+models/
+.DS_Store
+Thumbs.db
+data/
+logs/
