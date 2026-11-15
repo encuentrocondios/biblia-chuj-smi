@@ -1,0 +1,6 @@
+# Decisiones del revisor (hablante), palabra por palabra. Columnas: tipo, antes, después, nota
+# tipo: palabra = la palabra entera | inicio = palabras que empiezan así | contiene = en cualquier parte | queda = revisada, no cambia
+inicio	junel	jun'el	ALMG: jun'el, jun'elxo
+inicio	u'uj	hu'uj	ALMG: hu'uj
+contiene	uk'tak	uktak	ALMG: yuktak
+queda	tzul		no es tz'ul (bordar)
