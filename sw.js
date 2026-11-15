@@ -1,5 +1,5 @@
-/* Service worker: la app abre sin red y lo ya leído sigue disponible. 202611152322 lo reemplaza tools/build_api.py en cada publicación. */
-const BUILD = '202611152322';
+/* Service worker: la app abre sin red y lo ya leído sigue disponible. 202611152331 lo reemplaza tools/build_api.py en cada publicación. */
+const BUILD = '202611152331';
 const SHELL = `chuj-shell-${BUILD}`, DATA = 'chuj-data';
 const PRE = ['./', 'index.html', 'app.css', 'app.js', 'manifest.webmanifest', 'books.json', 'version.json', 'icons/icon.svg', 'icons/icon-192.png',
   'fonts/literata-latin.woff2', 'fonts/literata-italic-latin.woff2', 'fonts/atkinson-latin.woff2'];
