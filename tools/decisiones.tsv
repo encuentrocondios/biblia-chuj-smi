@@ -1,6 +1,16 @@
 # Decisiones del revisor (hablante), palabra por palabra. Columnas: tipo, antes, después, nota
-# tipo: palabra = la palabra entera | inicio = palabras que empiezan así | contiene = en cualquier parte | queda = revisada, no cambia
+# tipo: palabra = la palabra entera | inicio = empieza así | fin = termina así | contiene = en cualquier parte | queda = revisada, no cambia
 inicio	junel	jun'el	ALMG: jun'el, jun'elxo
 inicio	u'uj	hu'uj	ALMG: hu'uj
 contiene	uk'tak	uktak	ALMG: yuktak
 queda	tzul		no es tz'ul (bordar)
+fin	k'ol	k'o'ol	k'ol, sk'ol, ajk'ol = k'o'ol (los compuestos en -k'olal no cambian: la ALMG trae kusk'olal, wach'k'olal)
+palabra	wuj	wu'uj	por mí
+palabra	wujok	wu'ujok	
+palabra	wujnhej	wu'ujnhej	
+palabra	kuj	ku'uj	por nosotros (kujub' es otra palabra)
+inicio	eyuj	eyu'uj	por ustedes
+inicio	slum	slu'um	su tierra
+contiene	lheb'	leb'	resto del reemplazo eb' -> heb' de 2024 (ALMG: leb'lon)
+contiene	mheb'	meb'	ídem (meb'a')
+contiene	sheb'b'i	seb'b'i	ídem
