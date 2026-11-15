@@ -1,33 +1,37 @@
 {
-    "chapter": "124",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Tato manhoc Jehová ix och qued'oc ¿tas am ix onh ajkani? Ex wetisraelal, kalek icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Tato manhoc Jehová ix och qued'oc ayic ix k'e waan heb' anima yak' yowal t'ayonh,"
-        },
-        {
-            "number": "3",
-            "text": "ix am onh spitzanchiejb'at heb' ayic ix te cot yowal heb'."
-        },
-        {
-            "number": "4",
-            "text": "Icha am tz'aj quik'jib'ey yuj ha' eluma' te ov, icham chi' ix aj ko satel yuj yowal sk'ool heb' chi'."
-        },
-        {
-            "number": "5",
-            "text": "Calec wach' lolonel t'a Jehová, yujto maj yal sk'ool ix onh satjiel yuj heb'."
-        },
-        {
-            "number": "6",
-            "text": "Toxonhej ix onh el t'a yol sk'ab' heb'. Icha tz'aj scolchaj junok nok' much t'a junok yaal. Ix onh colchaji, ichato ix d'inhchajb'at sch'anhal jun yaal chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ha t'a Jehová scot ko colnab'il, aton b'oannac satcha’anh yet' sat lu'um tik."
-        }
-    ]
+  "chapter": "124",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Tato manhok Jehová ix och ket'ok ¿tas am ix onh ajkani? Ex wetisraelal, kalek icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Tato manhok Jehová ix och ket'ok ayik ix k'e waan heb' anima yak' yowal t'ayonh,"
+    },
+    {
+      "number": "3",
+      "text": "ix am onh spitzanchiejb'at heb' ayik ix te kot yowal heb'."
+    },
+    {
+      "number": "4",
+      "text": "Icha am tz'aj kik'jib'ey yuj ha' eluma' te ow, icham chi' ix aj ko satel yuj yowal sk'ool heb' chi'."
+    },
+    {
+      "number": "5",
+      "text": "Kalek wach' lolonel t'a Jehová, yujto maj yal sk'ool ix onh satjiel yuj heb'."
+    },
+    {
+      "number": "6",
+      "text": "Toxonhej ix onh el t'a yol sk'ab' heb'. Icha tz'aj skolchaj junok nok' much t'a junok yaal. Ix onh kolchaji, ichato ix t'inhchajb'at sch'anhal jun yaal chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ha t'a Jehová skot ko kolnab'il, haton b'oannak satcha'anh yet' sat lu'um tik."
+    }
+  ]
 }

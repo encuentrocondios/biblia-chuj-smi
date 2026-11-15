@@ -1,57 +1,61 @@
 {
-    "chapter": "17",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi', ix yalan Jehová t'a winhaj Moisés chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Al t'a heb' winh yajalil chonhab' t'a junjun inhtilal to syik'cot junjunoc sk'ococh heb' winh, syalelk'ochi to lajchawe' te' scot t'a smasanil, tz'och sb'i junjun heb' winh t'a te' sk'ococh chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ha te' yic yinhtilal Leví, a sb'i winhaj Aarón tz'och t'a te', yujto junjun sk'ococh heb' winh yajalil junjun inhtilal ol cotoc."
-        },
-        {
-            "number": "4",
-            "text": "Tzak'kanoch te' t'a yichanh skaxail trato ay t'a yol in kajnub' b'aj tzin ch'ox in b'a."
-        },
-        {
-            "number": "5",
-            "text": "Ata' ol wak' wolan sk'ococh mach syal in k'ool to ol in sik'kaneli, yuj chi' ol och waan heb' anima tik yalan he pecal, xchi Jehová chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ixlajwi chi' ix yalan winhaj Moisés t'a heb' winh yajalil chonhab' t'a junjun inhtilal. Ix yak'an sk'ococh junjun heb' winh t'a winh, lajchawe' te' t'a smasanil. Aypaxoch te' yic winhaj Aarón chi' t'a skal te'."
-        },
-        {
-            "number": "7",
-            "text": "Ix yak'anoch te' k'ococh chi' winhaj Moisés chi' t'a yichanh Jehová t'a yol kajnub' yic trato."
-        },
-        {
-            "number": "8",
-            "text": "Axo t'a junxo q'uinhib'alil ix k'och winh ta', ix yilanoch te' sk'ococh winhaj Aarón chi' winh t'a yic yinhtilal Leví, toxo ix elta swol te', ayxo xumaquil yet' pax sat, q'uinhxo te' almendro chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ixlajwi chi', ix yik'anelta te' k'ococh chi' winh t'a yichanh Jehová, ix sch'oxan te' winh t'a masanil heb' yetisraelal. Axo ix lajwi yilan te' heb', ix yak'anxi junjun te' yic heb' winh chi' winh."
-        },
-        {
-            "number": "10",
-            "text": "Ixlajwi chi', ix yalan Jehová t'a winh icha tik: Ak'kanoch te' sk'ococh winhaj Aarón t'a yichanh skaxail trato. Sik'kanb'at te' ta' yic snacot juntzanh anima te pit tik. Yuj chi' ol yaktej heb' yalan chukal lolonel t'ayin yic max cham heb', xchi t'a winh."
-        },
-        {
-            "number": "11",
-            "text": "Ix sk'anab'ajej winhaj Moisés sk'ulan masanil tas ix yal Jehová chi'."
-        },
-        {
-            "number": "12",
-            "text": "Axo ix yalan heb' chonhab' chi' t'a winh icha tik: Junelnhej chamnac onhxo el ko masanil."
-        },
-        {
-            "number": "13",
-            "text": "Tato jichan scham masanil heb' snitzcot sb'ha t'a skajnub' Jehová, ol onh cham ko masanil syal chi', xchi heb'."
-        }
-    ]
+  "chapter": "17",
+  "book": "NÚMEROS",
+  "book_short": "Nm",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi', ix yalan Jehová t'a winhaj Moisés chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Al t'a heb' winh yajalil chonhab' t'a junjun inhtilal to syik'kot junjunok sk'okoch heb' winh, syalelk'ochi to lajchawe' te' skot t'a smasanil, tz'och sb'i junjun heb' winh t'a te' sk'okoch chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ha te' yik yinhtilal Leví, a sb'i winhaj Aarón tz'och t'a te', yujto junjun sk'okoch heb' winh yajalil junjun inhtilal ol kotok."
+    },
+    {
+      "number": "4",
+      "text": "Tzak'kanoch te' t'a yichanh skaxail trato ay t'a yol in kajnub' b'aj tzin ch'ox in b'a."
+    },
+    {
+      "number": "5",
+      "text": "Ata' ol wak' wolan sk'okoch mach syal in k'ool to ol in sik'kaneli, yuj chi' ol och waan heb' anima tik yalan he pekal, xchi Jehová chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ixlajwi chi' ix yalan winhaj Moisés t'a heb' winh yajalil chonhab' t'a junjun inhtilal. Ix yak'an sk'okoch junjun heb' winh t'a winh, lajchawe' te' t'a smasanil. Aypaxoch te' yik winhaj Aarón chi' t'a skal te'."
+    },
+    {
+      "number": "7",
+      "text": "Ix yak'anoch te' k'okoch chi' winhaj Moisés chi' t'a yichanh Jehová t'a yol kajnub' yik trato."
+    },
+    {
+      "number": "8",
+      "text": "Axo t'a junxo q'uinhib'alil ix k'och winh ta', ix yilanoch te' sk'okoch winhaj Aarón chi' winh t'a yik yinhtilal Leví, toxo ix elta swol te', ayxo xumakil yet' pax sat, q'uinhxo te' almendro chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ixlajwi chi', ix yik'anelta te' k'okoch chi' winh t'a yichanh Jehová, ix sch'oxan te' winh t'a masanil heb' yetisraelal. Axo ix lajwi yilan te' heb', ix yak'anxi junjun te' yik heb' winh chi' winh."
+    },
+    {
+      "number": "10",
+      "text": "Ixlajwi chi', ix yalan Jehová t'a winh icha tik: Ak'kanoch te' sk'okoch winhaj Aarón t'a yichanh skaxail trato. Sik'kanb'at te' ta' yik snakot juntzanh anima te pit tik. Yuj chi' ol yaktej heb' yalan chukal lolonel t'ayin yik max cham heb', xchi t'a winh."
+    },
+    {
+      "number": "11",
+      "text": "Ix sk'anab'ajej winhaj Moisés sk'ulan masanil tas ix yal Jehová chi'."
+    },
+    {
+      "number": "12",
+      "text": "Axo ix yalan heb' chonhab' chi' t'a winh icha tik: Junelnhej chamnak onhxo el ko masanil."
+    },
+    {
+      "number": "13",
+      "text": "Tato jichan scham masanil heb' snitzkot sb'a t'a skajnub' Jehová, ol onh cham ko masanil syal chi', xchi heb'."
+    }
+  ]
 }

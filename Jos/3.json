@@ -1,73 +1,77 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Axo t'a junxo k'u te ak'walto, ix b'at winhaj Josué yet' heb' yetisraelal, ix el heb' t'a Sitim, ix k'och heb' t'a sti' ha' Jordán, ix och waan heb' t'a sti' ha' chi', majto ek'laj heb'."
-        },
-        {
-            "number": "2",
-            "text": "Axo t'a schab'jial ix ek' heb' yajalil chonhab' t'a masanil campamento,"
-        },
-        {
-            "number": "3",
-            "text": "ix yalan heb' t'a masanil heb' yetisraelal chi' icha tik: Ha wal ol eyilan yek' te' skaxail strato Jehová ko Diosal yuj heb' sacerdote, heb' yinhtilalkan winhaj Leví, tzex och tzak'an yuj te'."
-        },
-        {
-            "number": "4",
-            "text": "Icha chi' ol aj eyojtakaneli, b'ajtil ol ex b'atoc, yujto mantalaj junok ex eyojtak jun b'e chi', manh ex te k'och t'a slak'anil te', najat tzak'anto he b'at yuj te', icha am junok kilómetro tzak'an ex t'a spatic te', xchi heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ix yalan winhaj Josué t'a heb' anima chi': Ha tiknaik, sacb'itejec he b'a yujto a k'ik'an sch'ox Jehová tas satub'tac yilji t'a ko kal, xchi winh."
-        },
-        {
-            "number": "6",
-            "text": "Ix yalanpax winh t'a heb' sacerdote: Ik'ecb'at te' skaxail trato, tzex b'ab'laj yuj masanil heb' anima tik, xchi winh. Yuj chi' ix sb'akhanb'at te' heb', ix b'ab'laj heb' yuj heb' anima chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ixlajwi chi', ix yalan Jehová t'a winhaj Josué chi': Ha tiknaik ol in chael yich ach wik'anchaanh yet' opisio, yic wach' syil heb' to ayinnhejoch ed'oc, icha ix in ochnhej yet' winhaj Moisés."
-        },
-        {
-            "number": "8",
-            "text": "Tzalan t'a heb' sacerdote tz'ik'anb'at te' skaxail trato tik: Ayic ol ex k'och t'ha ha' Jordán chi', ol ex b'at jab'oc t'a yol ha', ol ex kan tek'tek' t'a yol ha' chi', xa chi t'a heb', xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Ix yalan winhaj Josué t'a heb' israel chi': Nitzeccot he b'a tzeyab'an tas syal Jehová ko Diosal."
-        },
-        {
-            "number": "10",
-            "text": "Ha yuj tas ol eyil tiknaik, ata' ol nachajel eyuuj to ayek' Dios pitzan t'a ko kal. Ha Jehová chi' ol ik'anel heb' cananeo, heb' hitita, heb' heweo, heb' ferezeo, heb' gergeseo, heb' amorreo yet' heb' jebuseo t'a quichanh."
-        },
-        {
-            "number": "11",
-            "text": "Axo tiknaik jun, a te' skaxail strato Jehová, aton Dios ay yic masanil yol yib'anhk’inal tik, ol b'ab'laj b'akhchajb'at te' t'a yol ha' Jordán t'a quichanh."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' tze sik'el jaywanhoc heb' yajalil chonhab' ol och yopisio, junjun heb' t'a junjun inhtilal."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ol yak'anem yoc heb' sacerdote t'a yol ha' chi', aton heb' ed'jinac te' skaxail strato Jehová, aton Dios ay yic masanil yol yib'anhk’inal tik, ol spojan sb'ha ha', ha ha' tz'emul t'a yib'anh, ol wanaj ha', icha nhajab' ol yutokkan sb'ha ha', xchi winh."
-        },
-        {
-            "number": "14",
-            "text": "Yuj chi' ix yik'ank'e wan sk'ael heb', yic sk'axpajek' heb' t'ha ha' Jordán chi', b'ab'el heb' sacerdote ed'jinac te' skaxail trato chi' yuj heb'."
-        },
-        {
-            "number": "15",
-            "text": "Te ayk'e ha', tz'el ha' t'a stitac smelemal, aton wal t'a stiempoal sjochchaj ixim trigo. Anhej yic ix yak'anem yoc heb' sacerdote chi' t'a yol ha',"
-        },
-        {
-            "number": "16",
-            "text": "elanhchamelnhej ix och waan ha' yemuli. Najatto ix smolb'ejkan sb'ha ha' t'a stojolal chonhab' Adán masanto ix k'och ha' t'a chonhab' Saretán. Axo pax ha' ix kan t'a yalanh chi' jun, ix b'atnhej ha' masanto ix lajwib'at ha' t'a yol ha' mar Muerto. Ichaton chi' ix aj spojan sb'ha ha' Jordán chi. Ix ek' heb' israel t'a stak'inhal t'a yol ha' chi', t'a yichanhcot chonhab' Jericó."
-        },
-        {
-            "number": "17",
-            "text": "Axo heb' sacerdote ed'jinac te' skaxail strato Jehová chi', ix ochkan waan heb' t'a snanhal yol sb'e ha' chi', taquinh lum b'aj ix kan tek'tek' heb' chi', haxo masanil heb' israel wan sk'axpajek' heb'."
-        }
-    ]
+  "chapter": "3",
+  "book": "JOSUÉ",
+  "book_short": "Jos",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Axo t'a junxo k'u te ak'walto, ix b'at winhaj Josué yet' heb' yetisraelal, ix el heb' t'a Sitim, ix k'och heb' t'a sti' ha' Jordán, ix och waan heb' t'a sti' ha' chi', majto ek'laj heb'."
+    },
+    {
+      "number": "2",
+      "text": "Axo t'a schab'jial ix ek' heb' yajalil chonhab' t'a masanil kampamento,"
+    },
+    {
+      "number": "3",
+      "text": "ix yalan heb' t'a masanil heb' yetisraelal chi' icha tik: Ha wal ol eyilan yek' te' skaxail strato Jehová ko Diosal yuj heb' sakerdote, heb' yinhtilalkan winhaj Leví, tzex och tzak'an yuj te'."
+    },
+    {
+      "number": "4",
+      "text": "Icha chi' ol aj eyojtakaneli, b'ajtil ol ex b'atok, yujto mantalaj junok ex eyojtak jun b'e chi', manh ex te k'och t'a slak'anil te', najat tzak'anto he b'at yuj te', icha am junok kilómetro tzak'an ex t'a spatik te', xchi heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ix yalan winhaj Josué t'a heb' anima chi': Ha tiknaik, sakb'itejek he b'a yujto a k'ik'an sch'ox Jehová tas satub'tak yilji t'a ko kal, xchi winh."
+    },
+    {
+      "number": "6",
+      "text": "Ix yalanpax winh t'a heb' sakerdote: Ik'ekb'at te' skaxail trato, tzex b'ab'laj yuj masanil heb' anima tik, xchi winh. Yuj chi' ix sb'akhanb'at te' heb', ix b'ab'laj heb' yuj heb' anima chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ixlajwi chi', ix yalan Jehová t'a winhaj Josué chi': Ha tiknaik ol in chael yich ach wik'anchaanh yet' opisio, yik wach' syil heb' to ayinnhejoch et'ok, icha ix in ochnhej yet' winhaj Moisés."
+    },
+    {
+      "number": "8",
+      "text": "Tzalan t'a heb' sakerdote tz'ik'anb'at te' skaxail trato tik: Ayik ol ex k'och t'a ha' Jordán chi', ol ex b'at jab'ok t'a yol ha', ol ex kan tek'tek' t'a yol ha' chi', xa chi t'a heb', xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Ix yalan winhaj Josué t'a heb' israel chi': Nitzekkot he b'a tzeyab'an tas syal Jehová ko Diosal."
+    },
+    {
+      "number": "10",
+      "text": "Ha yuj tas ol eyil tiknaik, ata' ol nachajel eyuuj to ayek' Dios pitzan t'a ko kal. Ha Jehová chi' ol ik'anel heb' kananeo, heb' hitita, heb' heweo, heb' ferezeo, heb' gergeseo, heb' amorreo yet' heb' jebuseo t'a kichanh."
+    },
+    {
+      "number": "11",
+      "text": "Axo tiknaik jun, a te' skaxail strato Jehová, haton Dios ay yik masanil yol yib'anhk'inal tik, ol b'ab'laj b'akhchajb'at te' t'a yol ha' Jordán t'a kichanh."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' tze sik'el jaywanhok heb' yajalil chonhab' ol och yopisio, junjun heb' t'a junjun inhtilal."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ol yak'anem yok heb' sakerdote t'a yol ha' chi', haton heb' et'jinak te' skaxail strato Jehová, haton Dios ay yik masanil yol yib'anhk'inal tik, ol spojan sb'a ha', ha ha' tz'emul t'a yib'anh, ol wanaj ha', icha nhajab' ol yutokkan sb'a ha', xchi winh."
+    },
+    {
+      "number": "14",
+      "text": "Yuj chi' ix yik'ank'e wan sk'ael heb', yik sk'axpajek' heb' t'a ha' Jordán chi', b'ab'el heb' sakerdote et'jinak te' skaxail trato chi' yuj heb'."
+    },
+    {
+      "number": "15",
+      "text": "Te ayk'e ha', tz'el ha' t'a stitak smelemal, haton wal t'a stiempoal sjochchaj ixim trigo. Anhej yik ix yak'anem yok heb' sakerdote chi' t'a yol ha',"
+    },
+    {
+      "number": "16",
+      "text": "elanhchamelnhej ix och waan ha' yemuli. Najatto ix smolb'ejkan sb'a ha' t'a stojolal chonhab' Adán masanto ix k'och ha' t'a chonhab' Saretán. Axo pax ha' ix kan t'a yalanh chi' jun, ix b'atnhej ha' masanto ix lajwib'at ha' t'a yol ha' mar Muerto. Ichaton chi' ix aj spojan sb'a ha' Jordán chi. Ix ek' heb' israel t'a stak'inhal t'a yol ha' chi', t'a yichanhkot chonhab' Jericó."
+    },
+    {
+      "number": "17",
+      "text": "Axo heb' sakerdote et'jinak te' skaxail strato Jehová chi', ix ochkan waan heb' t'a snanhal yol sb'e ha' chi', takinh lum b'aj ix kan tek'tek' heb' chi', haxo masanil heb' israel wan sk'axpajek' heb'."
+    }
+  ]
 }

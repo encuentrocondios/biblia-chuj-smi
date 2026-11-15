@@ -1,49 +1,53 @@
 {
-    "chapter": "42",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, tzach in nib'ej wal icha junok nok' k'ultaquil chej tzek' sayoj ha' yuj taquinhtial."
-        },
-        {
-            "number": "2",
-            "text": "Ach Dios pitzan, a wal in pensar tzach nib'anochi, ¿b'aq'uinh ol in k'och t'a ichanh junelxo?"
-        },
-        {
-            "number": "3",
-            "text": "k'ual t'ak'wal woq'ui. Axonhej wok'el tik ayoch in waeloc, yacb'an sb'uchwaj heb' anima t'ayin sk'anb'ejnhej heb': ¿B'ajtil ay jun a Diosal chi? xchi heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ayic tzin naan juntzanh tik, ste och pitz'an t'a in k'ool. Tzin naancoti ayic ay in ek' t'a skal heb' anima, yic tzin cuchb'an heb', yic tzonh b'at t'a a templo. Manhxo jantacoc yel yav heb' yuj tzalajk'olal yet' ak'oj yuj diosal. Niwan q'uinh ton wal jun chi'."
-        },
-        {
-            "number": "5",
-            "text": "¿Tas wal yuj schab'axk'e in k'ool? ¿Tas yuj somchaj in pensar? Ach in Diosal, ayach och yipoc in k'ool, olto wal wach' lolonel t'ayach, in Kolumal, in Diosal aji."
-        },
-        {
-            "number": "6",
-            "text": "Ach in Diosal te cusk'olal waj ticnaik, yuj chi', manh jantacoc ach in naancot t'a yol yic ha' Jordán yet' t'a yol yic switzal Hermón yet' switzal Mizar."
-        },
-        {
-            "number": "7",
-            "text": "Icha sk'anh yem ponholjoc ha ha' t'a niwac pajav, icha wal chi' juntzanh niwac cusk'olal tzek' t'a wib'anh uuj."
-        },
-        {
-            "number": "8",
-            "text": "Ach Jehová, ha t'a k'ualil tza ch'oxnhej a wach'k'olal t'ayin, haxo t'ak'walil, max in och waan ach in b'itani, max in och pax waan in lesalwi t'ayach, yujto a ach tzak' in k 'inal."
-        },
-        {
-            "number": "9",
-            "text": "Swalan icha tik t'ayach: Ach in Kolumal, ¿tas yuj tzin b'atkan satk'olal uuj? Yuj chi' cusnac in k'ool ayic tzin b'eyeq'ui, yujto tzin yixtej wal heb' ayoch ajk'olal t'ayin, xin chi."
-        },
-        {
-            "number": "10",
-            "text": "Swab' wal syail, icha wal to smak'jipoj in b'aquil b'aj tzin yixtej heb' ajk'ool chi'. Junjun rato sb'uchwaj heb' t'ayin sk'anb'an heb': ¿B'ajtil ay jun a Diosal chi'? xchi heb'."
-        },
-        {
-            "number": "11",
-            "text": "¿Tas wal yuj schab'axk'e in k'ool? ¿Tas yuj somchaj in pensar? Ach in Diosal, ayach och yipoc in k'ool, olto wal wach' lolonel t'ayach, in Kolumal, in Diosal aji."
-        }
-    ]
+  "chapter": "42",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, tzach in nib'ej wal icha junok nok' k'ultakil chej tzek' sayoj ha' yuj takinhtial."
+    },
+    {
+      "number": "2",
+      "text": "Ach Dios pitzan, a wal in pensar tzach nib'anochi, ¿b'aq'uinh ol in k'och t'a ichanh junelxo?"
+    },
+    {
+      "number": "3",
+      "text": "k'ual t'ak'wal woq'ui. Axonhej wok'el tik ayoch in waelok, yakb'an sb'uchwaj heb' anima t'ayin sk'anb'ejnhej heb': ¿B'ajtil ay jun a Diosal chi? xchi heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ayik tzin naan juntzanh tik, ste och pitz'an t'a in k'ool. Tzin naankoti ayik ay in ek' t'a skal heb' anima, yik tzin kuchb'an heb', yik tzonh b'at t'a a templo. Manhxo jantakok yel yaw heb' yuj tzalajk'olal yet' ak'oj yuj diosal. Niwan q'uinh ton wal jun chi'."
+    },
+    {
+      "number": "5",
+      "text": "¿Tas wal yuj schab'axk'e in k'ool? ¿Tas yuj somchaj in pensar? Ach in Diosal, ayach och yipok in k'ool, olto wal wach' lolonel t'ayach, in Kolumal, in Diosal aji."
+    },
+    {
+      "number": "6",
+      "text": "Ach in Diosal te kusk'olal waj tiknaik, yuj chi', manh jantakok ach in naankot t'a yol yik ha' Jordán yet' t'a yol yik switzal Hermón yet' switzal Mizar."
+    },
+    {
+      "number": "7",
+      "text": "Icha sk'anh yem ponholjok ha ha' t'a niwak pajaw, icha wal chi' juntzanh niwak kusk'olal tzek' t'a wib'anh uuj."
+    },
+    {
+      "number": "8",
+      "text": "Ach Jehová, ha t'a k'ualil tza ch'oxnhej a wach'k'olal t'ayin, haxo t'ak'walil, max in och waan ach in b'itani, max in och pax waan in lesalwi t'ayach, yujto a ach tzak' in k 'inal."
+    },
+    {
+      "number": "9",
+      "text": "Swalan icha tik t'ayach: Ach in Kolumal, ¿tas yuj tzin b'atkan satk'olal uuj? Yuj chi' kusnak in k'ool ayik tzin b'eyeq'ui, yujto tzin yixtej wal heb' ayoch ajk'olal t'ayin, xin chi."
+    },
+    {
+      "number": "10",
+      "text": "Swab' wal syail, icha wal to smak'jipoj in b'akil b'aj tzin yixtej heb' ajk'ool chi'. Junjun rato sb'uchwaj heb' t'ayin sk'anb'an heb': ¿B'ajtil ay jun a Diosal chi'? xchi heb'."
+    },
+    {
+      "number": "11",
+      "text": "¿Tas wal yuj schab'axk'e in k'ool? ¿Tas yuj somchaj in pensar? Ach in Diosal, ayach och yipok in k'ool, olto wal wach' lolonel t'ayach, in Kolumal, in Diosal aji."
+    }
+  ]
 }

@@ -1,45 +1,49 @@
 {
-    "chapter": "11",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik: --Ol wak'cot junokxo yaelal t'a yib'anh winh rey tik yet' t'a yib'anh masanil anima t'a yol yic Egipto tik. Ol lajwoc yek' jun tik, manh tonhejoc ol ex actajel yuj winh rey tik, palta to a wal lak'an winh ol ex pechanel t'a tik t'a junelnhej."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi' al t'a masanil heb' israel, heb' winh winak yet' heb' ix ix to sk'an k'een oro heb' yet' k'een plata t'a heb' aj Egipto kajan t'a slak'anil, xchi."
-        },
-        {
-            "number": "3",
-            "text": "(Axo Jehová ix lolon t'a spensar heb' anima aj Egipto chi', yic syak'an swach'k'olal heb' t'a heb' israel. Anheja' heb' winh ay yopisio yet' winh rey, ix yalan heb' winh to niwan yelk'och winhaj Moisés t'a yol sat heb' winh. Anheja' icha chi' ix aj yalan masanil heb' anima t'a Egipto chi'.)"
-        },
-        {
-            "number": "4",
-            "text": "Ayic manto eltalaj winhaj Moisés chi', ix yalanxikan winh t'a winh rey chi': --Icha tik yalan Jehová: Ayic ol och chimilak'wal, ol in ek' t'a masanil yol yic Egipto tik,"
-        },
-        {
-            "number": "5",
-            "text": "yic swak'ancham masanil heb' b'ab'el unin t'a junjun patil heb' aj Egipto. Ol schael yich t'a winh a b'ab'el uninal, winh d'inhan yochcan a k'exuloc t'a a despacho tik, masanto schampax sb'ab'el unin heb' ix a chekab' wan scheni t'a k'een cha'. Ol champax nok' sb'ab'el yune' nok' nok'."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a masanil yol yic Egipto tik, manhxo jantacoc ok'el ol ujok, malaj b'aj ix uji t'a yalanhtaxo, manhxa pax b'aj olto ujok."
-        },
-        {
-            "number": "7",
-            "text": "Axo heb' israel malaj tas ol ik'an heb', malaj pax tas ol ik'an nok' smolb'etzal nok' heb', yic tzeyojtaquejeli to ch'oc yel heb' israel t'a yichanh heb' a chonhab' t'a yol in sat a in Jehová in tik, xchi Jehová."
-        },
-        {
-            "number": "8",
-            "text": "Ichato wal chi' ol jawok juntzanh heb' winh ay yopisio ed'oc yic ol ul in yilani, ol em cuman heb', ol yalan heb' t'ayin: Ixic yet' masanil mach tzak'anoch uuj, xcham heb'. Yuj chi', ato ta' ol onh b'atoc, xchi winhaj Moisés chi'. Yelxo wal te yowal winh ayic ix elixta winh t'a yichanh winh rey chi'."
-        },
-        {
-            "number": "9",
-            "text": "Yalnacpax Jehová t'a winh: --Manhton wal ol schalaj yab' winh rey tas ol eyala'. Yuj chi' tzijtumto tas satub'tac ol in k'ulej t'a Egipto tik, xchinakkani."
-        },
-        {
-            "number": "10",
-            "text": "Ha winhaj Moisés yet' winhaj Aarón ix laj sk'ulejnhej heb' masanil tastac ix laj alchaj tik to satub'tac t'a yichanh winh rey, palta toton wal a Jehová ix ak'annhej pitb'oquel spensar winh rey chi', yuj chi' maj actajel heb' israel yuj winh t'a yol smacb'en chi'."
-        }
-    ]
+  "chapter": "11",
+  "book": "ÉXODO",
+  "book_short": "Ex",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik: --Ol wak'kot junokxo yaelal t'a yib'anh winh rey tik yet' t'a yib'anh masanil anima t'a yol yik Egipto tik. Ol lajwok yek' jun tik, manh tonhejok ol ex aktajel yuj winh rey tik, palta to a wal lak'an winh ol ex pechanel t'a tik t'a junelnhej."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi' al t'a masanil heb' israel, heb' winh winak yet' heb' ix ix to sk'an k'een oro heb' yet' k'een plata t'a heb' aj Egipto kajan t'a slak'anil, xchi."
+    },
+    {
+      "number": "3",
+      "text": "(Axo Jehová ix lolon t'a spensar heb' anima aj Egipto chi', yik syak'an swach'k'olal heb' t'a heb' israel. Anheja' heb' winh ay yopisio yet' winh rey, ix yalan heb' winh to niwan yelk'och winhaj Moisés t'a yol sat heb' winh. Anheja' icha chi' ix aj yalan masanil heb' anima t'a Egipto chi'.)"
+    },
+    {
+      "number": "4",
+      "text": "Ayik manto eltalaj winhaj Moisés chi', ix yalanxikan winh t'a winh rey chi': --Icha tik yalan Jehová: Ayik ol och chimilak'wal, ol in ek' t'a masanil yol yik Egipto tik,"
+    },
+    {
+      "number": "5",
+      "text": "yik swak'ancham masanil heb' b'ab'el unin t'a junjun patil heb' aj Egipto. Ol schael yich t'a winh a b'ab'el uninal, winh t'inhan yochkan a k'exulok t'a a despacho tik, masanto schampax sb'ab'el unin heb' ix a chekab' wan scheni t'a k'een cha'. Ol champax nok' sb'ab'el yune' nok' nok'."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a masanil yol yik Egipto tik, manhxo jantakok ok'el ol ujok, malaj b'aj ix uji t'a yalanhtaxo, manhxa pax b'aj olto ujok."
+    },
+    {
+      "number": "7",
+      "text": "Axo heb' israel malaj tas ol ik'an heb', malaj pax tas ol ik'an nok' smolb'etzal nok' heb', yik tzeyojtakejeli to ch'ok yel heb' israel t'a yichanh heb' a chonhab' t'a yol in sat a in Jehová in tik, xchi Jehová."
+    },
+    {
+      "number": "8",
+      "text": "Ichato wal chi' ol jawok juntzanh heb' winh ay yopisio et'ok yik ol ul in yilani, ol em kuman heb', ol yalan heb' t'ayin: Ixik yet' masanil mach tzak'anoch uuj, xcham heb'. Yuj chi', ato ta' ol onh b'atok, xchi winhaj Moisés chi'. Yelxo wal te yowal winh ayik ix elixta winh t'a yichanh winh rey chi'."
+    },
+    {
+      "number": "9",
+      "text": "Yalnakpax Jehová t'a winh: --Manhton wal ol schalaj yab' winh rey tas ol eyala'. Yuj chi' tzijtumto tas satub'tak ol in k'ulej t'a Egipto tik, xchinakkani."
+    },
+    {
+      "number": "10",
+      "text": "Ha winhaj Moisés yet' winhaj Aarón ix laj sk'ulejnhej heb' masanil tastak ix laj alchaj tik to satub'tak t'a yichanh winh rey, palta toton wal a Jehová ix ak'annhej pitb'okel spensar winh rey chi', yuj chi' maj aktajel heb' israel yuj winh t'a yol smakb'en chi'."
+    }
+  ]
 }

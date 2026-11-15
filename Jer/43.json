@@ -1,57 +1,61 @@
 {
-    "chapter": "43",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix lajwi walan masanil tas ix schec Jehová wal t'a heb' anima chi',"
-        },
-        {
-            "number": "2",
-            "text": "haxo winhaj Jezanías yuninal winhaj Osaías, winhaj Johanán yuninal winhaj Carea yet' pax juntzanhxo heb' winh winak te ak'umtac, ix yalan heb' winh t'ayin: Manh yeloc juntzanh lolonel tzal chi'. Yujto a Jehová ko Diosal maj yal-laj t'ayach to max onh b'at t'a Egipto yic tzonh kajnaj ta'."
-        },
-        {
-            "number": "3",
-            "text": "Ha winhaj Baruc yuninal winhaj Nerías, a winh tz'alan juntzanh lolonel tik t'a ko patic yic tzonh yak'och winh t'a yol sk'ab' heb' aj Babilonia chi', yic tzonh smilancham heb', ma onh yik'anb'at heb' t'a Babilonia chi', xchi heb' winh."
-        },
-        {
-            "number": "4",
-            "text": "Icha chi' ix aj yoch spitalil winhaj Johanán yet' heb' winh yajal soldado yet' pax masanil heb' anima. Maj canlaj heb' t'a Judá icha ix aj yalan Jehová chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' aj Judá ix saclemb'at t'a junjun nación, aton heb' toxo ix smolb'ejxi sb'ha t'a Judá chi' yic skajnajxi heb' ta', a winhaj Johanán chi' yet' heb' winh yajal soldado ix ik'anb'at heb' t'a Egipto."
-        },
-        {
-            "number": "6",
-            "text": "Ix yik'anpaxb'at heb' winh winak heb' winh, heb' ix ix, heb' unin yet' heb' ix yisil winh rey yet' masanil heb' ix ak'jikanoch t'a yol sk'ab' winhaj Gedalías yuj winhaj Nabuzaradán. Ix in yik'anpaxb'at heb' winh yet' winhaj Baruc."
-        },
-        {
-            "number": "7",
-            "text": "Manh jab'oc ix sk'anab'ajej heb' tas ix yal Jehová. Ix onh b'at ko masanil t'a Egipto chi'. Ato t'a jun chonhab' scuch Tafnes ix onh k'och kajan."
-        },
-        {
-            "number": "8",
-            "text": "Ha t'a chonhab' Tafnes chi' ix lolon Jehová t'ayin, ix yalan icha tik:"
-        },
-        {
-            "number": "9",
-            "text": "Ik'b'at jayeoc niwac k'een, tza mukan t'a skal lum b'ak'uech lum t'a sti' yamaq'uil spalacio heb' winh sreyal Egipto ay t'a jun chonhab' tik. D'a yichanh heb' etchonhab' chi' tza muquem k'een."
-        },
-        {
-            "number": "10",
-            "text": "Tzalan t'a heb' icha tik: Ha Jehová ko Diosal a onh israel onh tik, Yajal t'a Smasanil, a tz'alani: Ol wik'cot winhaj Nabucodonosor in chekab', winh sreyal Babilonia, ol wak' yak'em sk'ojnub' winh, ol sb'oank'e smantiado winh yenhuloc t'a yib'anh juntzanh k'een k'een ix a muquem tik."
-        },
-        {
-            "number": "11",
-            "text": "Ol jawok winh, ol satanel Egipto tik winh. Ha mach yic yaj scham yuj ilya, a ilya chi' ol ik'an schami. Ha mach yic yaj yik'jib'at t'a ch'oc chonhab'il, ol ik'jocnhejb'atoc. Ha mach yic yaj smiljicham t'a owal, t'a owal chi' ol chamoc."
-        },
-        {
-            "number": "12",
-            "text": "Ol snhusantz'a juntzanh stemplo sdiosal heb' aj Egipto tik winh, ol yik'anb'at juntzanh scomon diosal heb' chi' winh. Icha junok tanhwum kalnel pilan syik'el nok' sip t'a spichul, icha chi' ol yutej Egipto tik winhaj Nabucodonosor chi', pilan ol yik'b'at sb'eyumal winh, junk'olal ol meltzaj winh."
-        },
-        {
-            "number": "13",
-            "text": "Ol juchajpaxem juntzanh obelisco t'a Bet-semes t'a Egipto, haxo stemplo sdiosal heb' ol nhusjoctz'aoc, xchi Jehová, xin chi t'a heb'."
-        }
-    ]
+  "chapter": "43",
+  "book": "JEREMÍAS",
+  "book_short": "Jer",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix lajwi walan masanil tas ix schek Jehová wal t'a heb' anima chi',"
+    },
+    {
+      "number": "2",
+      "text": "haxo winhaj Jezanías yuninal winhaj Osaías, winhaj Johanán yuninal winhaj Carea yet' pax juntzanhxo heb' winh winak te ak'umtak, ix yalan heb' winh t'ayin: Manh yelok juntzanh lolonel tzal chi'. Yujto a Jehová ko Diosal maj yal-laj t'ayach to max onh b'at t'a Egipto yik tzonh kajnaj ta'."
+    },
+    {
+      "number": "3",
+      "text": "Ha winhaj Baruc yuninal winhaj Nerías, a winh tz'alan juntzanh lolonel tik t'a ko patik yik tzonh yak'och winh t'a yol sk'ab' heb' aj Babilonia chi', yik tzonh smilancham heb', ma onh yik'anb'at heb' t'a Babilonia chi', xchi heb' winh."
+    },
+    {
+      "number": "4",
+      "text": "Icha chi' ix aj yoch spitalil winhaj Johanán yet' heb' winh yajal soldado yet' pax masanil heb' anima. Maj kanlaj heb' t'a Judá icha ix aj yalan Jehová chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' aj Judá ix saklemb'at t'a junjun nakión, haton heb' toxo ix smolb'ejxi sb'a t'a Judá chi' yik skajnajxi heb' ta', a winhaj Johanán chi' yet' heb' winh yajal soldado ix ik'anb'at heb' t'a Egipto."
+    },
+    {
+      "number": "6",
+      "text": "Ix yik'anpaxb'at heb' winh winak heb' winh, heb' ix ix, heb' unin yet' heb' ix yisil winh rey yet' masanil heb' ix ak'jikanoch t'a yol sk'ab' winhaj Gedalías yuj winhaj Nabuzaradán. Ix in yik'anpaxb'at heb' winh yet' winhaj Baruc."
+    },
+    {
+      "number": "7",
+      "text": "Manh jab'ok ix sk'anab'ajej heb' tas ix yal Jehová. Ix onh b'at ko masanil t'a Egipto chi'. Ato t'a jun chonhab' skuch Tafnes ix onh k'och kajan."
+    },
+    {
+      "number": "8",
+      "text": "Ha t'a chonhab' Tafnes chi' ix lolon Jehová t'ayin, ix yalan icha tik:"
+    },
+    {
+      "number": "9",
+      "text": "Ik'b'at jayeok niwak k'een, tza mukan t'a skal lum b'ak'uech lum t'a sti' yamaq'uil spalakio heb' winh sreyal Egipto ay t'a jun chonhab' tik. T'a yichanh heb' etchonhab' chi' tza mukem k'een."
+    },
+    {
+      "number": "10",
+      "text": "Tzalan t'a heb' icha tik: Ha Jehová ko Diosal a onh israel onh tik, Yajal t'a Smasanil, a tz'alani: Ol wik'kot winhaj Nabucodonosor in chekab', winh sreyal Babilonia, ol wak' yak'em sk'ojnub' winh, ol sb'oank'e smantiado winh yenhulok t'a yib'anh juntzanh k'een k'een ix a mukem tik."
+    },
+    {
+      "number": "11",
+      "text": "Ol jawok winh, ol satanel Egipto tik winh. Ha mach yik yaj scham yuj ilya, a ilya chi' ol ik'an schami. Ha mach yik yaj yik'jib'at t'a ch'ok chonhab'il, ol ik'joknhejb'atok. Ha mach yik yaj smiljicham t'a owal, t'a owal chi' ol chamok."
+    },
+    {
+      "number": "12",
+      "text": "Ol snhusantz'a juntzanh stemplo sdiosal heb' aj Egipto tik winh, ol yik'anb'at juntzanh skomon diosal heb' chi' winh. Icha junok tanhwum kalnel pilan syik'el nok' sip t'a spichul, icha chi' ol yutej Egipto tik winhaj Nabucodonosor chi', pilan ol yik'b'at sb'eyumal winh, junk'olal ol meltzaj winh."
+    },
+    {
+      "number": "13",
+      "text": "Ol juchajpaxem juntzanh obelisko t'a Bet-semes t'a Egipto, haxo stemplo sdiosal heb' ol nhusjoktz'aok, xchi Jehová, xin chi t'a heb'."
+    }
+  ]
 }

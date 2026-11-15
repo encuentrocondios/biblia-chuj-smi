@@ -1,105 +1,109 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix lajwiek' juntzanh chi', ix skatab'an winhaj Job chi' jun k'u b'aj aljinac. Ix yalan winh icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Tzin katab'ej jun ak'wal ayic skuchannac in och ix in nun. Tzin katab'ej jun k'u ayic waljinac."
-        },
-        {
-            "number": "3",
-            "text": "Comonoc a jun k'u chi' och t'ak'walilal. Comonoc kannhej icha chi' yuj Dios, maj sacb'oc."
-        },
-        {
-            "number": "4",
-            "text": "Comonoc ay wal junok niwan wewen ochnac, yic wach' k'ik'b'ikaneli. Comonoc ay wal junok niwan k'ik' asun musani, ma junok k'ik' och t'a sat k'u, yic ay xivk'olal t'a jun k'u chi'."
-        },
-        {
-            "number": "5",
-            "text": "Comonoc k’ik’ k’inal ajkan jun ak'wal chi', yic wach' maj och jun k'u chi' sb'isuloc sk'ual yic jun uj chi' yet' jun ab'il chi'."
-        },
-        {
-            "number": "6",
-            "text": "Comonoc malaj tas uji t'a jun ak'wal chi', yic wach' malaj av yic tzalajk'olal ochi."
-        },
-        {
-            "number": "7",
-            "text": "Comonoc skatab'aj jun ak'wal chi' yuj heb' ajb'aal, aton heb' syal scuchb'an nok' lewiatán."
-        },
-        {
-            "number": "8",
-            "text": "Comonoc maj k'eul k'een niwac k'anal t'a jun q'uinhib'alil chi'. Comonoc maj k'eul sakil k'inal stanhwaj sk'euli yet' saquil yich chaanh."
-        },
-        {
-            "number": "9",
-            "text": "Tzin katab'ej jun ak'wal chi', yujto maj syamoch waan waljub'al. Tato maay, tekan max wil jantac yaelal yet' cusk'olal tik."
-        },
-        {
-            "number": "10",
-            "text": "Octom cham in t'a yol sk'ol ix in nun. Octom cham in ayic wan walji."
-        },
-        {
-            "number": "11",
-            "text": "Octom malaj jolom penec chaan in. Octom malaj im in chu'u yic tzin q'uib'i."
-        },
-        {
-            "number": "12",
-            "text": "Octom chamnac in, tzalajk'olal am tzin way ticnaik. Junk'olal am swik' wip"
-        },
-        {
-            "number": "13",
-            "text": "yet' heb' rey yet' heb' yajal, aton heb' ix b'oanxik'e juntzanh niwac pat emnac lanhnajoc,"
-        },
-        {
-            "number": "14",
-            "text": "ma yet' heb' niwac yajal b'ut'an spalacio yuj k'een oro yet' k'een plata."
-        },
-        {
-            "number": "15",
-            "text": "¿Tas yuj maj in mucchaj icha junok unin tonhej tz'eq'ui, ma icha junok unin chamnacxo tz'alji?"
-        },
-        {
-            "number": "16",
-            "text": "Ha b'aj smucchaj heb' chamnac, ata' slajwikan b'aj syixtej anima heb' chuk. Ha pax ta' syik' yip heb' tz'ixtaj yuj heb' chi'."
-        },
-        {
-            "number": "17",
-            "text": "Ata' syik' yip heb' icha preso yaj t'a munlajel, manhxa b'aj syab' heb' stumaj yuj heb' tz'ilan munlajel chi'."
-        },
-        {
-            "number": "18",
-            "text": "Ata' ayek' heb' niwac yelk'ochi yet' heb' malaj yelk'ochi yet' heb' elnacxo t'a yalanh smandar spatrón. Lajanxonhej heb' smasanil."
-        },
-        {
-            "number": "19",
-            "text": "¿Tas yuj syak' Dios sakil k'inal yil heb' tz'ixtaji? ¿Tas yuj syak' sk'inal heb' ayoch t'a syaelal,"
-        },
-        {
-            "number": "20",
-            "text": "heb' snib'ej cham sb'a, palta max chamlaj heb', wach'chom snib'ej chamel chi' heb' t'a yichanh b'eyumal?"
-        },
-        {
-            "number": "21",
-            "text": "Ha jun anima chi' schax stzalajk'olal yuj ayic toxo ix b'atkan t'a yol b'aj smucchaji."
-        },
-        {
-            "number": "22",
-            "text": "¿Tas yuj anheja' yak'an in k 'inal Dios, a in to manh wojtakoc tas ol in ajoc, a in icha wal to makan in yuj?"
-        },
-        {
-            "number": "23",
-            "text": "Maxtzac yal in wa'i, maxtzac yal pax wuk'an ha' yuj ok'el yuj in yaelal."
-        },
-        {
-            "number": "24",
-            "text": "Ha tas b'aj swecxiv in b'a, aton sjawi t'a wib'anh."
-        },
-        {
-            "number": "25",
-            "text": "Maxtzac yal wik'an jab'oc wip, manhxalaj swach'il waji. Manhxa jab'oc in junk'olal, axonhej yaelal tzin ik'ani, xchi winhaj Job chi'."
-        }
-    ]
+  "chapter": "3",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": false,
+  "es_verses": 26,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix lajwiek' juntzanh chi', ix skatab'an winhaj Job chi' jun k'u b'aj aljinak. Ix yalan winh icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Tzin katab'ej jun ak'wal ayik skuchannak in och ix in nun. Tzin katab'ej jun k'u ayik waljinak."
+    },
+    {
+      "number": "3",
+      "text": "Komonok a jun k'u chi' och t'ak'walilal. Komonok kannhej icha chi' yuj Dios, maj sakb'ok."
+    },
+    {
+      "number": "4",
+      "text": "Komonok ay wal junok niwan wewen ochnak, yik wach' k'ik'b'ikaneli. Komonok ay wal junok niwan k'ik' asun musani, ma junok k'ik' och t'a sat k'u, yik ay xiwk'olal t'a jun k'u chi'."
+    },
+    {
+      "number": "5",
+      "text": "Komonok k'ik' k'inal ajkan jun ak'wal chi', yik wach' maj och jun k'u chi' sb'isulok sk'ual yik jun uj chi' yet' jun ab'il chi'."
+    },
+    {
+      "number": "6",
+      "text": "Komonok malaj tas uji t'a jun ak'wal chi', yik wach' malaj aw yik tzalajk'olal ochi."
+    },
+    {
+      "number": "7",
+      "text": "Komonok skatab'aj jun ak'wal chi' yuj heb' ajb'aal, haton heb' syal skuchb'an nok' lewiatán."
+    },
+    {
+      "number": "8",
+      "text": "Komonok maj k'eul k'een niwak k'anal t'a jun q'uinhib'alil chi'. Komonok maj k'eul sakil k'inal stanhwaj sk'euli yet' sakil yich chaanh."
+    },
+    {
+      "number": "9",
+      "text": "Tzin katab'ej jun ak'wal chi', yujto maj syamoch waan waljub'al. Tato maay, tekan max wil jantak yaelal yet' kusk'olal tik."
+    },
+    {
+      "number": "10",
+      "text": "Oktom cham in t'a yol sk'ol ix in nun. Oktom cham in ayik wan walji."
+    },
+    {
+      "number": "11",
+      "text": "Oktom malaj jolom penek chaan in. Oktom malaj im in chu'u yik tzin q'uib'i."
+    },
+    {
+      "number": "12",
+      "text": "Oktom chamnak in, tzalajk'olal am tzin way tiknaik. Junk'olal am swik' wip"
+    },
+    {
+      "number": "13",
+      "text": "yet' heb' rey yet' heb' yajal, haton heb' ix b'oanxik'e juntzanh niwak pat emnak lanhnajok,"
+    },
+    {
+      "number": "14",
+      "text": "ma yet' heb' niwak yajal b'ut'an spalakio yuj k'een oro yet' k'een plata."
+    },
+    {
+      "number": "15",
+      "text": "¿Tas yuj maj in mukchaj icha junok unin tonhej tz'eq'ui, ma icha junok unin chamnakxo tz'alji?"
+    },
+    {
+      "number": "16",
+      "text": "Ha b'aj smukchaj heb' chamnak, ata' slajwikan b'aj syixtej anima heb' chuk. Ha pax ta' syik' yip heb' tz'ixtaj yuj heb' chi'."
+    },
+    {
+      "number": "17",
+      "text": "Ata' syik' yip heb' icha preso yaj t'a munlajel, manhxa b'aj syab' heb' stumaj yuj heb' tz'ilan munlajel chi'."
+    },
+    {
+      "number": "18",
+      "text": "Ata' ayek' heb' niwak yelk'ochi yet' heb' malaj yelk'ochi yet' heb' elnakxo t'a yalanh smandar spatrón. Lajanxonhej heb' smasanil."
+    },
+    {
+      "number": "19",
+      "text": "¿Tas yuj syak' Dios sakil k'inal yil heb' tz'ixtaji? ¿Tas yuj syak' sk'inal heb' ayoch t'a syaelal,"
+    },
+    {
+      "number": "20",
+      "text": "heb' snib'ej cham sb'a, palta max chamlaj heb', wach'chom snib'ej chamel chi' heb' t'a yichanh b'eyumal?"
+    },
+    {
+      "number": "21",
+      "text": "Ha jun anima chi' schax stzalajk'olal yuj ayik toxo ix b'atkan t'a yol b'aj smukchaji."
+    },
+    {
+      "number": "22",
+      "text": "¿Tas yuj anheja' yak'an in k 'inal Dios, a in to manh wojtakok tas ol in ajok, a in icha wal to makan in yuj?"
+    },
+    {
+      "number": "23",
+      "text": "Maxtzak yal in wa'i, maxtzak yal pax wuk'an ha' yuj ok'el yuj in yaelal."
+    },
+    {
+      "number": "24",
+      "text": "Ha tas b'aj swekxiw in b'a, haton sjawi t'a wib'anh."
+    },
+    {
+      "number": "25",
+      "text": "Maxtzak yal wik'an jab'ok wip, manhxalaj swach'il waji. Manhxa jab'ok in junk'olal, axonhej yaelal tzin ik'ani, xchi winhaj Job chi'."
+    }
+  ]
 }

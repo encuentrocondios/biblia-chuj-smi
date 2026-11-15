@@ -1,49 +1,53 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi', ix wilan junxo ángel t'a satcha’anh, te niwan spoder. Ix emta t'a yol yib'anhk’inal. Moyanoch jun asun t'ay, ichato ha' ayoch spichuloc. Axo t'a sjolom, ayk'e jun chacpan. Axo sat, toxonhej sweei icha yoc k'u. Axo yoc, lajan icha yoc k'ak' sk'e nhilnhonoc."
-        },
-        {
-            "number": "2",
-            "text": "Ay jun ch'anh yune' uum t'a yol sk'ab', jakan ch'anh. Axo jun yoc t'a swach' ix yak'em tek'tek' t'a sat ha' mar. Axo sk'exanh ix yak'em tek'tek' t'a sat lu'um."
-        },
-        {
-            "number": "3",
-            "text": "Ixlajwi chi' ix awaji. Te chaanh ix awaj icha yel yav nok' choj. Ayic ix awaj chi', uquel ix k'anh k'u ix loloni."
-        },
-        {
-            "number": "4",
-            "text": "Ayic ix lajwi slolon jun k'u sk'anh chi' t'a yuquelal, ijan ix in tz'ib'ej tas ix wab' chi', palta ay jun ix lolonemta t'ayin t'a satcha’anh: --Ichnhejokab'ta skan tas ix yal jun k'u uquel ix k'anh chi'. Manh a tz'ib'ejkani, xchi t'ayin."
-        },
-        {
-            "number": "5",
-            "text": "Axo jun ángel tek'tek'em yoc t'a sat ha' mar yet' t'a sat lu'um chi', ix yik'chaanh swach'k'ab'."
-        },
-        {
-            "number": "6",
-            "text": "Ayic ix loloni, ix sloc sb'i Dios pitzan t'a junelnhej, aton jun b'oannac satcha’anh yet' sat lu'um, ha' mar yet' masanil tas ay t'a junjun. Ix yalan jun ángel chi':"
-        },
-        {
-            "number": "7",
-            "text": "--Manhxo ol ek'laj tiempo yelk'och tas nab'ilkan yuj Dios. Ayic ol schaanel yich jun yuquil ángel spu'an strompeta, haxo yelk'och tas nab'ilkan yuj chi', alb'ilxo yuj t'a heb' yak'umal serwil, aton heb' schekab', xchi jun ángel chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha jun jaj ix wab' yoch t'a satcha’anh chi', ix lolonpax t'ayin junelxo: --Ixic. Ix b'at cha jun ch'anh yune' uum jakan, aton jun ch'anh ayek' t'a yol sk'ab' jun ángel tek'tek'em yoc t'a sat ha' mar yet' t'a sat lu'um, xchi."
-        },
-        {
-            "number": "9",
-            "text": "Yuj chi' ix in b'at t'a jun ángel chi', ix in k'ananek' jun ch'anh uum chi' t'ay. Axo ix yalan t'ayin: --Ina ch'anh tik. k'uxb'at ch'anh. Te chi' ol aj yol a ti' yuj ch'anh icha nok' yal chab', haxo yol a k'ool, te k'a' ol aj yuj ch'anh, xchi t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Ixlajwi chi', ix in chaanek' ch'anh t'ay. Ix in k'uxan ch'anh. Chi' julinac yochk'och ch'anh t'a yol in ti' icha yal chab', palta haxo yol in k'ool te k'a ix aj yuj ch'anh."
-        },
-        {
-            "number": "11",
-            "text": "Ixlajwi chi', ix aljipax t'ayin: --Yowalil ol al junelxo tastac ol ja t'a yib'anh juntzanh anima, t'a yib'anh juntzanh nación, t'a yib'anh junjun makan ti'al yet' t'a yib'anh heb' rey, xchi t'ayin."
-        }
-    ]
+  "chapter": "10",
+  "book": "APOCALIPSIS",
+  "book_short": "Ap",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi', ix wilan junxo ángel t'a satcha'anh, te niwan spoder. Ix emta t'a yol yib'anhk'inal. Moyanoch jun asun t'ay, ichato ha' ayoch spichulok. Axo t'a sjolom, ayk'e jun chakpan. Axo sat, toxonhej sweei icha yok k'u. Axo yok, lajan icha yok k'ak' sk'e nhilnhonok."
+    },
+    {
+      "number": "2",
+      "text": "Ay jun ch'anh yune' uum t'a yol sk'ab', jakan ch'anh. Axo jun yok t'a swach' ix yak'em tek'tek' t'a sat ha' mar. Axo sk'exanh ix yak'em tek'tek' t'a sat lu'um."
+    },
+    {
+      "number": "3",
+      "text": "Ixlajwi chi' ix awaji. Te chaanh ix awaj icha yel yaw nok' choj. Ayik ix awaj chi', ukel ix k'anh k'u ix loloni."
+    },
+    {
+      "number": "4",
+      "text": "Ayik ix lajwi slolon jun k'u sk'anh chi' t'a yukelal, ijan ix in tz'ib'ej tas ix wab' chi', palta ay jun ix lolonemta t'ayin t'a satcha'anh: --Ichnhejokab'ta skan tas ix yal jun k'u ukel ix k'anh chi'. Manh a tz'ib'ejkani, xchi t'ayin."
+    },
+    {
+      "number": "5",
+      "text": "Axo jun ángel tek'tek'em yok t'a sat ha' mar yet' t'a sat lu'um chi', ix yik'chaanh swach'k'ab'."
+    },
+    {
+      "number": "6",
+      "text": "Ayik ix loloni, ix slok sb'i Dios pitzan t'a junelnhej, haton jun b'oannak satcha'anh yet' sat lu'um, ha' mar yet' masanil tas ay t'a junjun. Ix yalan jun ángel chi':"
+    },
+    {
+      "number": "7",
+      "text": "--Manhxo ol ek'laj tiempo yelk'och tas nab'ilkan yuj Dios. Ayik ol schaanel yich jun yukil ángel spu'an strompeta, haxo yelk'och tas nab'ilkan yuj chi', alb'ilxo yuj t'a heb' yak'umal serwil, haton heb' schekab', xchi jun ángel chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha jun jaj ix wab' yoch t'a satcha'anh chi', ix lolonpax t'ayin junelxo: --Ixik. Ix b'at cha jun ch'anh yune' uum jakan, haton jun ch'anh ayek' t'a yol sk'ab' jun ángel tek'tek'em yok t'a sat ha' mar yet' t'a sat lu'um, xchi."
+    },
+    {
+      "number": "9",
+      "text": "Yuj chi' ix in b'at t'a jun ángel chi', ix in k'ananek' jun ch'anh uum chi' t'ay. Axo ix yalan t'ayin: --Ina ch'anh tik. k'uxb'at ch'anh. Te chi' ol aj yol a ti' yuj ch'anh icha nok' yal chab', haxo yol a k'ool, te k'a' ol aj yuj ch'anh, xchi t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Ixlajwi chi', ix in chaanek' ch'anh t'ay. Ix in k'uxan ch'anh. Chi' julinak yochk'och ch'anh t'a yol in ti' icha yal chab', palta haxo yol in k'ool te k'a ix aj yuj ch'anh."
+    },
+    {
+      "number": "11",
+      "text": "Ixlajwi chi', ix aljipax t'ayin: --Yowalil ol al junelxo tastak ol ja t'a yib'anh juntzanh anima, t'a yib'anh juntzanh nakión, t'a yib'anh junjun makan ti'al yet' t'a yib'anh heb' rey, xchi t'ayin."
+    }
+  ]
 }

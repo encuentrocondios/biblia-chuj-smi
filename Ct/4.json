@@ -1,69 +1,73 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te wach' ilji ach xajanab'il wuuj, yelxo wal te wach' ilji. Ha yol a sat chequel t'a spatic smusil a sat lajan yilji icha yol sat nok' paramuch. Ha xil a jolom, lajan wal yilji icha yemta nhililoc nok' chiwa t'a pak'an yic Galaad."
-        },
-        {
-            "number": "2",
-            "text": "Axo k'een e, te wach' yilji k'een, lajan yilji k'een icha yilji nok' kalnel sb'icji ayic toxo sjoxji. Tz'akan k'een, malaj junok k'een malaj yetb'eyum, icha nok' nun kalnel junnhej sb'ey yet' yune'."
-        },
-        {
-            "number": "3",
-            "text": "Chactz'ob'inac a ti' icha chacchac ch'al. Sat in k'ool yuj swach'il a loloni. Axo spak'ultac a ti' musan yuj junok k'apac, icha wal yilji k'axepoc te' granada."
-        },
-        {
-            "number": "4",
-            "text": "Ha wal a jaj, lajan wal icha torre b'ob'il yuj winhaj rey Dawid, locjab'och mil maclab' jul-lab' yic heb' soldado jelan t'a spatictac yelwanub'oc."
-        },
-        {
-            "number": "5",
-            "text": "Ha im schab'il, lajan wal yilji icha chawanhoc yunetac ch'ucul tiox swa t'a skaltac anh chochol."
-        },
-        {
-            "number": "6",
-            "text": "Yacb'an manta ik' t'a q'uinhib'alil, ayic manto sakb'i, ol in b'at t'a jolomtac witz b'aj ay anh mirra, t'a tzalquixtac b'aj suk'uq'ui sjab'."
-        },
-        {
-            "number": "7",
-            "text": "Te wach' ilji ach xajanab'il wuuj, te wach' yilji a niwanil smasanil, te malaj jab'oc a paltail."
-        },
-        {
-            "number": "8",
-            "text": "Ach to ol ach och wetb'eyumoc, conh el t'a Líbano, conh el t'a jolom witz Líbano. Ol ko puclaj ko b'a yet' jolom witz Amana tik, yet' jolom witz Senira. Ol kactejkan witz Hermón, b'aj ay snhak'een nok' choj yet' b'aj ay nok' leopardo."
-        },
-        {
-            "number": "9",
-            "text": "Ach xajanab'il wuuj, ol ach och wetb'eyumoc, toxo ix kan in gana t'ayach, yujnhej to ix ach cot k'elan junel t'ayin, ix wilan jun ch'anhal tonh lokanoch t'a a jaj. Junelnhej ix mutz'mutz'an a sat t'ayin. Icha chi' ix aj yik'ji in pixan uuj."
-        },
-        {
-            "number": "10",
-            "text": "Ach ix ol ach och wetb'eyumoc, manh jantacoc swach'il in a xajanani, yelxo te wach' t'a yichanh wino. Yelxo te wach' a perfume tza k'an t'a yichanh masanil tas sumumi sjab'."
-        },
-        {
-            "number": "11",
-            "text": "Ach ol ach och wetb'eyumoc, icha yalchab' ayoch t'a a ti', icha wal yalchab' yet' lech ay t'a yol a ti'. Icha suk'uq'uial sjab' Líbano, icha wal chi' sjab' a pichul."
-        },
-        {
-            "number": "12",
-            "text": "Ach ol ach och wetb'eyumoc, lajan ach icha junok avb'en makan, icha sjaj ha ha' to makan, te wach' yaj smacchaji."
-        },
-        {
-            "number": "13",
-            "text": "Lajan ach icha junok avb'en b'aj swolan te' granado, a sat tas awab'il ta' manh jantacoc schi'al, ay pax anh alheña,"
-        },
-        {
-            "number": "14",
-            "text": "anh nardo, anh azafrán yet' juntzanh te wale' suk'uq'ui sjab', te' canela yet' masanil makanhil te' incienso, mirra yet' pax áloes, masanil tastac te wach' yel sjab'."
-        },
-        {
-            "number": "15",
-            "text": "Lajan ach pax icha sjaj ha ha' t'a skal tas awab'il, aton ha' sk'eul sjaj tz'emta t'a Líbano, xchi winh."
-        },
-        {
-            "number": "16",
-            "text": "Ha ik' scot t'a stojolal norte yet' ik' scot t'a stojolal sur, ek'okab' xumumoc t'a skal wavb'en, yic wach' sb'eyb'at suk'uq'uial sjab'. Syalan ix cob'es: Cotanh ach xajanab'il wuuj, ochanh t'a wavb'en, tza loan sat tas awab'il manh jantacoc schi'al, xchi ix."
-        }
-    ]
+  "chapter": "4",
+  "book": "CANTARES",
+  "book_short": "Ct",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te wach' ilji ach xajanab'il wuuj, yelxo wal te wach' ilji. Ha yol a sat chekel t'a spatik smusil a sat lajan yilji icha yol sat nok' paramuch. Ha xil a jolom, lajan wal yilji icha yemta nhililok nok' chiwa t'a pak'an yik Galaad."
+    },
+    {
+      "number": "2",
+      "text": "Axo k'een e, te wach' yilji k'een, lajan yilji k'een icha yilji nok' kalnel sb'ikji ayik toxo sjoxji. Tz'akan k'een, malaj junok k'een malaj yetb'eyum, icha nok' nun kalnel junnhej sb'ey yet' yune'."
+    },
+    {
+      "number": "3",
+      "text": "Chaktz'ob'inak a ti' icha chakchak ch'al. Sat in k'ool yuj swach'il a loloni. Axo spak'ultak a ti' musan yuj junok k'apak, icha wal yilji k'axepok te' granada."
+    },
+    {
+      "number": "4",
+      "text": "Ha wal a jaj, lajan wal icha torre b'ob'il yuj winhaj rey David, lokjab'och mil maklab' jul-lab' yik heb' soldado jelan t'a spatiktak yelwanub'ok."
+    },
+    {
+      "number": "5",
+      "text": "Ha im schab'il, lajan wal yilji icha chawanhok yunetak ch'ukul tiox swa t'a skaltak anh chochol."
+    },
+    {
+      "number": "6",
+      "text": "Yakb'an manta ik' t'a q'uinhib'alil, ayik manto sakb'i, ol in b'at t'a jolomtak witz b'aj ay anh mirra, t'a tzalkixtak b'aj suk'uq'ui sjab'."
+    },
+    {
+      "number": "7",
+      "text": "Te wach' ilji ach xajanab'il wuuj, te wach' yilji a niwanil smasanil, te malaj jab'ok a paltail."
+    },
+    {
+      "number": "8",
+      "text": "Ach to ol ach och wetb'eyumok, konh el t'a Líbano, konh el t'a jolom witz Líbano. Ol ko puklaj ko b'a yet' jolom witz Amana tik, yet' jolom witz Senira. Ol kaktejkan witz Hermón, b'aj ay snhak'een nok' choj yet' b'aj ay nok' leopardo."
+    },
+    {
+      "number": "9",
+      "text": "Ach xajanab'il wuuj, ol ach och wetb'eyumok, toxo ix kan in gana t'ayach, yujnhej to ix ach kot k'elan junel t'ayin, ix wilan jun ch'anhal tonh lokanoch t'a a jaj. Junelnhej ix mutz'mutz'an a sat t'ayin. Icha chi' ix aj yik'ji in pixan uuj."
+    },
+    {
+      "number": "10",
+      "text": "Ach ix ol ach och wetb'eyumok, manh jantakok swach'il in a xajanani, yelxo te wach' t'a yichanh wino. Yelxo te wach' a perfume tza k'an t'a yichanh masanil tas sumumi sjab'."
+    },
+    {
+      "number": "11",
+      "text": "Ach ol ach och wetb'eyumok, icha yalchab' ayoch t'a a ti', icha wal yalchab' yet' lech ay t'a yol a ti'. Icha suk'uq'uial sjab' Líbano, icha wal chi' sjab' a pichul."
+    },
+    {
+      "number": "12",
+      "text": "Ach ol ach och wetb'eyumok, lajan ach icha junok awb'en makan, icha sjaj ha ha' to makan, te wach' yaj smakchaji."
+    },
+    {
+      "number": "13",
+      "text": "Lajan ach icha junok awb'en b'aj swolan te' granado, a sat tas awab'il ta' manh jantakok schi'al, ay pax anh alheña,"
+    },
+    {
+      "number": "14",
+      "text": "anh nardo, anh azafrán yet' juntzanh te wale' suk'uq'ui sjab', te' kanela yet' masanil makanhil te' inkienso, mirra yet' pax áloes, masanil tastak te wach' yel sjab'."
+    },
+    {
+      "number": "15",
+      "text": "Lajan ach pax icha sjaj ha ha' t'a skal tas awab'il, haton ha' sk'eul sjaj tz'emta t'a Líbano, xchi winh."
+    },
+    {
+      "number": "16",
+      "text": "Ha ik' skot t'a stojolal norte yet' ik' skot t'a stojolal sur, ek'okab' xumumok t'a skal wawb'en, yik wach' sb'eyb'at suk'uq'uial sjab'. Syalan ix kob'es: Kotanh ach xajanab'il wuuj, ochanh t'a wawb'en, tza loan sat tas awab'il manh jantakok schi'al, xchi ix."
+    }
+  ]
 }

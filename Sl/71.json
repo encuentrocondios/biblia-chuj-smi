@@ -1,101 +1,105 @@
 {
-    "chapter": "71",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, a t'ayach tzin col in b'a, mokab' in kan t'a q'uixwelal uuj."
-        },
-        {
-            "number": "2",
-            "text": "Colin, colinel t'a yol sk'ab' heb' ajk'ool yajoch t'ayin, yujto tojol ach. Ab' wal tas swala', tzin a colani."
-        },
-        {
-            "number": "3",
-            "text": "Ochanh wenhuloc icha junok nhak'een b'aj syal in colan in b'a. Ala' to tzin colchaji yujto icha in cuartel aji, icha in nhak'een aji."
-        },
-        {
-            "number": "4",
-            "text": "Ach in Diosal, colinel t'a heb' chuk, t'a heb' milumcham anima yet' t'a heb' ixtum anima."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová Vajalil, toxonton yip ach in k'ool yictax t'a in quelemal."
-        },
-        {
-            "number": "6",
-            "text": "Yictax ix in alji t'a ix in nun, a t'ayach swik' wip. Ha ach ix in ak' aljoc. Ol ach in b'itejnhej."
-        },
-        {
-            "number": "7",
-            "text": "Tzijtum mach sat sk'ol yilan tas tzin ik'ani, palta ach in Diosal, anhej t'ayach tzin col in b'a."
-        },
-        {
-            "number": "8",
-            "text": "Masanil tiempo, swal wach' lolonel t'ayach yuj sniwanil elk'ochi."
-        },
-        {
-            "number": "9",
-            "text": "Manh in a patiquejeli, yujto icham winaquinxo. Manh in actejkani yujto manhxalaj wip."
-        },
-        {
-            "number": "10",
-            "text": "Ha heb' ayoch ajk'olal t'ayin snib'ej in smilanchamoc, smol yetb'eyum heb', slajtian sb'a heb' t'a in patic."
-        },
-        {
-            "number": "11",
-            "text": "Syalan heb': Pechec, yamec. Manhxo ayococh Dios yet'oc, manhxalaj mach ol colanel ticnaik, xchi heb'."
-        },
-        {
-            "number": "12",
-            "text": "Ach in Diosal, manh najatoc tzach el t'a in tz'ey. Cotanh t'a elanhchamel, ochanh wed'oc."
-        },
-        {
-            "number": "13",
-            "text": "Ha heb' ayoch ajk'olal t'ayin, chamokab' heb' yuj q'uixwelal. Ha heb' tz'alan tas chuk t'a in patic yic tzin yixtan heb' yalani, malajokab' tz'ajkan yelk'och heb'."
-        },
-        {
-            "number": "14",
-            "text": "Palta, a inxo tik ach in Diosal, ayachnhej och yipoc in k'ol t'a junjun rato. Ol ach in b'itej yet' in tzalajk'olal."
-        },
-        {
-            "number": "15",
-            "text": "Masanil tiempo ol walel yab'ixal a tojolal yet' a colwal, wach'chom max nachaj wuuj smasanil."
-        },
-        {
-            "number": "16",
-            "text": "Mamin Jehová Cajalil, a juntzanh tastac te satub'tac ix a k'ulej, ha' ol in b'itej. Ol walel ab'ixal to a achnhej tojol ach."
-        },
-        {
-            "number": "17",
-            "text": "Ach in Diosal, yictax in quelemal, ix in a k'ayb'ani. Anhejtona' walanel juntzanh tastac niwac b'ob'ilkan uuj ticnaik."
-        },
-        {
-            "number": "18",
-            "text": "Ach in Diosal, wach'chom icham inxo, sacxo xil in jolom, palta manh in actejkani yic ol yal walanel yab'ixal a poder t'a heb' toto ol aljoc."
-        },
-        {
-            "number": "19",
-            "text": "Ach in Diosal, yelxo wal te niwan a tojolal icha snajatil satcha’anh. Niwan tastac ix a k'ulej. Malaj junok mach icha ach tik."
-        },
-        {
-            "number": "20",
-            "text": "Wach'chom tzijtum tas ix in ik'ani yet' yaelal ix ak' t'ayin, palta ol in ak'xi pitzwoc. Ol in ik'xik'eta t'a sjulal lum lum."
-        },
-        {
-            "number": "21",
-            "text": "Te niwan ol aj welk'och uuj, ol ak'anpax sniwanil in k'ool."
-        },
-        {
-            "number": "22",
-            "text": "Ha inxo tik, ol ach in b'itej yujto tzak'elk'och tas tzala'. Ol wak'an yuj diosal t'ayach yet' te' arpa yet' te' chinhb'il. Ach in Diosal, ko Diosal ach a onh aj israel onh tik."
-        },
-        {
-            "number": "23",
-            "text": "Ol ach in b'itej t'a tzalajk'olal, yujto ix in a colo'."
-        },
-        {
-            "number": "24",
-            "text": "Ol walel a tojolal t'a masanil k 'inal. Ha heb' ix nib'an to ay tas ix in ik'ani, ix telwi heb', ix te q'uixwikanel heb'."
-        }
-    ]
+  "chapter": "71",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 24,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, a t'ayach tzin kol in b'a, mokab' in kan t'a q'uixwelal uuj."
+    },
+    {
+      "number": "2",
+      "text": "Kolin, kolinel t'a yol sk'ab' heb' ajk'ool yajoch t'ayin, yujto tojol ach. Ab' wal tas swala', tzin a kolani."
+    },
+    {
+      "number": "3",
+      "text": "Ochanh wenhulok icha junok nhak'een b'aj syal in kolan in b'a. Ala' to tzin kolchaji yujto icha in kuartel aji, icha in nhak'een aji."
+    },
+    {
+      "number": "4",
+      "text": "Ach in Diosal, kolinel t'a heb' chuk, t'a heb' milumcham anima yet' t'a heb' ixtum anima."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová Wajalil, toxonton yip ach in k'ool yiktax t'a in kelemal."
+    },
+    {
+      "number": "6",
+      "text": "Yiktax ix in alji t'a ix in nun, a t'ayach swik' wip. Ha ach ix in ak' aljok. Ol ach in b'itejnhej."
+    },
+    {
+      "number": "7",
+      "text": "Tzijtum mach sat sk'ol yilan tas tzin ik'ani, palta ach in Diosal, anhej t'ayach tzin kol in b'a."
+    },
+    {
+      "number": "8",
+      "text": "Masanil tiempo, swal wach' lolonel t'ayach yuj sniwanil elk'ochi."
+    },
+    {
+      "number": "9",
+      "text": "Manh in a patikejeli, yujto icham winakinxo. Manh in aktejkani yujto manhxalaj wip."
+    },
+    {
+      "number": "10",
+      "text": "Ha heb' ayoch ajk'olal t'ayin snib'ej in smilanchamok, smol yetb'eyum heb', slajtian sb'a heb' t'a in patik."
+    },
+    {
+      "number": "11",
+      "text": "Syalan heb': Pechek, yamek. Manhxo ayokoch Dios yet'ok, manhxalaj mach ol kolanel tiknaik, xchi heb'."
+    },
+    {
+      "number": "12",
+      "text": "Ach in Diosal, manh najatok tzach el t'a in tz'ey. Kotanh t'a elanhchamel, ochanh wet'ok."
+    },
+    {
+      "number": "13",
+      "text": "Ha heb' ayoch ajk'olal t'ayin, chamokab' heb' yuj q'uixwelal. Ha heb' tz'alan tas chuk t'a in patik yik tzin yixtan heb' yalani, malajokab' tz'ajkan yelk'och heb'."
+    },
+    {
+      "number": "14",
+      "text": "Palta, a inxo tik ach in Diosal, ayachnhej och yipok in k'ol t'a junjun rato. Ol ach in b'itej yet' in tzalajk'olal."
+    },
+    {
+      "number": "15",
+      "text": "Masanil tiempo ol walel yab'ixal a tojolal yet' a kolwal, wach'chom max nachaj wuuj smasanil."
+    },
+    {
+      "number": "16",
+      "text": "Mamin Jehová Kajalil, a juntzanh tastak te satub'tak ix a k'ulej, ha' ol in b'itej. Ol walel ab'ixal to a achnhej tojol ach."
+    },
+    {
+      "number": "17",
+      "text": "Ach in Diosal, yiktax in kelemal, ix in a k'ayb'ani. Anhejtona' walanel juntzanh tastak niwak b'ob'ilkan uuj tiknaik."
+    },
+    {
+      "number": "18",
+      "text": "Ach in Diosal, wach'chom icham inxo, sakxo xil in jolom, palta manh in aktejkani yik ol yal walanel yab'ixal a poder t'a heb' toto ol aljok."
+    },
+    {
+      "number": "19",
+      "text": "Ach in Diosal, yelxo wal te niwan a tojolal icha snajatil satcha'anh. Niwan tastak ix a k'ulej. Malaj junok mach icha ach tik."
+    },
+    {
+      "number": "20",
+      "text": "Wach'chom tzijtum tas ix in ik'ani yet' yaelal ix ak' t'ayin, palta ol in ak'xi pitzwok. Ol in ik'xik'eta t'a sjulal lum lum."
+    },
+    {
+      "number": "21",
+      "text": "Te niwan ol aj welk'och uuj, ol ak'anpax sniwanil in k'ool."
+    },
+    {
+      "number": "22",
+      "text": "Ha inxo tik, ol ach in b'itej yujto tzak'elk'och tas tzala'. Ol wak'an yuj diosal t'ayach yet' te' arpa yet' te' chinhb'il. Ach in Diosal, ko Diosal ach a onh aj israel onh tik."
+    },
+    {
+      "number": "23",
+      "text": "Ol ach in b'itej t'a tzalajk'olal, yujto ix in a kolo'."
+    },
+    {
+      "number": "24",
+      "text": "Ol walel a tojolal t'a masanil k 'inal. Ha heb' ix nib'an to ay tas ix in ik'ani, ix telwi heb', ix te q'uixwikanel heb'."
+    }
+  ]
 }

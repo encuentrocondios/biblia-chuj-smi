@@ -1,37 +1,41 @@
 {
-    "chapter": "20",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a junxo ab'il, t'a stiempoal sb'at heb' rey t'a owal, ix kan winhaj rey Dawid t'a Jerusalén, haxo winhaj Joab ix molb'anb'at heb' soldado yetisraelal yic syixtanb'at heb' tastac ay t'a yol smacb'en heb' amonita. Ix b'atnhej heb', ix yoymitan chonhab' Rabá heb', ix yak'an owal heb' yet'oc, masanto ix yak' ganar jun chonhab' chi' heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ixlajwi chi' ix k'och winhaj rey Dawid yik'cot scorona winh sreyal heb' amonita chi'. Nab'a oro jun corona chi', tzijtum k'een k'een wach' yilji ayoch t'ay, ay am oxeoc arroba yalil. Ix yak'ank'e heb' t'a sjolom winhaj rey Dawid chi'. Manh jantacoc tas caro stojol ix yik' winh t'a jun chonhab' chi'."
-        },
-        {
-            "number": "3",
-            "text": "Axo masanil heb' anima ixto kani, ix ik'jib'at heb' yuj winh, ix ak'chajoch heb' t'a munlajel yet' k'een sierra, k'een piocha yet' k'een ch'akab'. Anheja' icha chi' ix sk'ulej winh yet' heb' amonita t'a juntzanhxo chonhab'. Ixlajwi chi' ix meltzajcot winh yet' masanil heb' soldado t'a Jerusalén."
-        },
-        {
-            "number": "4",
-            "text": "Ixlajwi chi' ix och jun owal yet' heb' filisteo t'a Gezer. Ha t'a jun owal chi', a winhaj Sibecai aj Husa ix milancham winhaj Sipai. Ha winhaj Sipai chi' yinhtilal winh heb' chaanh steel. Icha chi' ix aj skan heb' filisteo t'a yol sk'ab' heb' israel."
-        },
-        {
-            "number": "5",
-            "text": "Ix och junxo owal yet' heb' filisteo chi'. Ha winhaj Elhanán yuninal winhaj Jair ix milancham winhaj Lahmi yuk'tac winhaj Goliat aj Gat. Te niwan spatic yoc slanza winhaj Lahmi chi', icha am spatic te te' b'aj sb'ak'chajoch anh ch'al yic heb' sch'alwi."
-        },
-        {
-            "number": "6",
-            "text": "Ix och junxo owal t'a Gat. Ay junxo winh winak ta' te chaanh steel, lajchawe' yiximal sk'ab' winh, lajchawe' pax yiximal yoc winh, yinhtilal pax winh heb' chaanh steel."
-        },
-        {
-            "number": "7",
-            "text": "Ha jun winh chi', ix b'uchwaj winh t'a heb' israel, yuj chi' ix miljicham winh yuj winhaj Jonatán yuninal winhaj Simea yuk'tac winhaj rey Dawid chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha juntzanh heb' winh niwac winak chi', a winhaj Réfah aj Gat ay yinhtilal heb' winh, palta ix miljicham heb' winh yuj winhaj rey Dawid yet' heb' soldado winh."
-        }
-    ]
+  "chapter": "20",
+  "book": "1 CRÓNICAS",
+  "book_short": "1Cr",
+  "aligned": true,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a junxo ab'il, t'a stiempoal sb'at heb' rey t'a owal, ix kan winhaj rey David t'a Jerusalén, haxo winhaj Joab ix molb'anb'at heb' soldado yetisraelal yik syixtanb'at heb' tastak ay t'a yol smakb'en heb' amonita. Ix b'atnhej heb', ix yoymitan chonhab' Rabá heb', ix yak'an owal heb' yet'ok, masanto ix yak' ganar jun chonhab' chi' heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ixlajwi chi' ix k'och winhaj rey David yik'kot skorona winh sreyal heb' amonita chi'. Nab'a oro jun korona chi', tzijtum k'een k'een wach' yilji ayoch t'ay, ay am oxeok arroba yalil. Ix yak'ank'e heb' t'a sjolom winhaj rey David chi'. Manh jantakok tas karo stojol ix yik' winh t'a jun chonhab' chi'."
+    },
+    {
+      "number": "3",
+      "text": "Axo masanil heb' anima ixto kani, ix ik'jib'at heb' yuj winh, ix ak'chajoch heb' t'a munlajel yet' k'een sierra, k'een piocha yet' k'een ch'akab'. Anheja' icha chi' ix sk'ulej winh yet' heb' amonita t'a juntzanhxo chonhab'. Ixlajwi chi' ix meltzajkot winh yet' masanil heb' soldado t'a Jerusalén."
+    },
+    {
+      "number": "4",
+      "text": "Ixlajwi chi' ix och jun owal yet' heb' filisteo t'a Gezer. Ha t'a jun owal chi', a winhaj Sibecai aj Husa ix milancham winhaj Sipai. Ha winhaj Sipai chi' yinhtilal winh heb' chaanh steel. Icha chi' ix aj skan heb' filisteo t'a yol sk'ab' heb' israel."
+    },
+    {
+      "number": "5",
+      "text": "Ix och junxo owal yet' heb' filisteo chi'. Ha winhaj Elhanán yuninal winhaj Jair ix milancham winhaj Lahmi yuk'tak winhaj Goliat aj Gat. Te niwan spatik yok slanza winhaj Lahmi chi', icha am spatik te te' b'aj sb'ak'chajoch anh ch'al yik heb' sch'alwi."
+    },
+    {
+      "number": "6",
+      "text": "Ix och junxo owal t'a Gat. Ay junxo winh winak ta' te chaanh steel, lajchawe' yiximal sk'ab' winh, lajchawe' pax yiximal yok winh, yinhtilal pax winh heb' chaanh steel."
+    },
+    {
+      "number": "7",
+      "text": "Ha jun winh chi', ix b'uchwaj winh t'a heb' israel, yuj chi' ix miljicham winh yuj winhaj Jonatán yuninal winhaj Simea yuk'tak winhaj rey David chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha juntzanh heb' winh niwak winak chi', a winhaj Réfah aj Gat ay yinhtilal heb' winh, palta ix miljicham heb' winh yuj winhaj rey David yet' heb' soldado winh."
+    }
+  ]
 }

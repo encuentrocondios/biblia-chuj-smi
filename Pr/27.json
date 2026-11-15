@@ -1,113 +1,117 @@
 {
-    "chapter": "27",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Manh eyik'chaanh he b'a yuj tas tze k'ulej k'ik'an eyalani, yujto manh eyojtakoc tas tzuji k'ik'an chi'."
-        },
-        {
-            "number": "2",
-            "text": "Ch'ocokab' heb' tzex alan wach'il, yujto manh wach'oc tato a ex tik tzeyaloch he b'a wach'ilal."
-        },
-        {
-            "number": "3",
-            "text": "Ha k'een yax k'een yet' k'een arena te al k'een, pural sk'e k'een cuuj, icha pax chi' yaj yowal heb' chuk spensar, yelxo wal max techajlaj cuuj."
-        },
-        {
-            "number": "4",
-            "text": "Ha k'ak'alk'olal te chuk, niwan tas tz'ixtaxb'at yuj, palta haxo chichonk'olal, malaj mach syal stek'b'an sb'ha t'a yichanh."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' tzonh xajanani, tzonh skach heb' t'a juntzanh chukal sko k'ulej."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' wach' eyak'an yet'oc, say heb' tas wach' tz'och he wach'iloc wach'chom ya tzeyab'i. Axo heb' tz'och lak'naj t'ayex jun, tzeyil he b'ha t'a heb', yujto a heb' chi', ajk'ool yajoch heb' t'ayex."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' b'ut'anxo sk'ool, wach'chom a nok' yal chab' syuk' heb', palta chuclaj yuk'ji nok' syab' heb'. Axo pax heb' ay swejel jun, wach'chom k'a' junok tasi, palta te chi' syab' heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' syactejkan yal yuninal, lajan heb' icha junok nok' much syactejkan so' yet' yune'."
-        },
-        {
-            "number": "9",
-            "text": "Ha yuj perfume yet' tas skak'ek' t'a ko jolom, yuj chi' stzalajb'i ko k'ool, icha chi' tz'aj ko tzalaj yuj razón syak' heb' camigo t'ayonh yuj onh xajanan heb'."
-        },
-        {
-            "number": "10",
-            "text": "Malaj b'ak'uinh tze chaquel heb' eyamigo yet' pax heb' yamigo heb' he mam. Manh ex b'at eyal he cusk'olal t'a junok he k'ab' eyoc. Te wach' tato tzeyal he cusk'olal chi' t'a heb' eyamigo kajan t'a he lak'anil, t'a yichanh heb' he k'ab' eyoc kajan t'a najat."
-        },
-        {
-            "number": "11",
-            "text": "Ex wuninal, jelan tzeyutej he b'a, yic wach' tzeyak' tzalajb'oc in k'ool, yic wach' ay tas syal in pactzitan t'a heb' tzin patikaneli."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' ay spensar, syil heb' tastac ay smay, scolan sb'a heb' t'ay, haxo pax heb' malaj spensar jun, sb'eynhejb'at heb' masanto sjawi yaelal t'a yib'anh heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ha heb' syak'och sb'a fiadoral t'a heb' anima manh yojtakoc, yak'okab'kan junok mojanh spichul heb' yuj k'een tumin chi'."
-        },
-        {
-            "number": "14",
-            "text": "Tato ayic wanto sakb'i, tzonh awaj t'a heb' camigo yic sko k'anb'an sk'ol heb', a tz'aj yab'an heb', ichato chuk wan kalan t'a heb'."
-        },
-        {
-            "number": "15",
-            "text": "Ha heb' ix ix owalnhej yaji, lajan heb' ix icha junok tz'uj sd'ujd'ujan t'a stiempoal nhab'il k 'inal."
-        },
-        {
-            "number": "16",
-            "text": "Tato sko nib'ej tz'och waan heb' ix t'a yowal sk'ool chi', lajan icha to sko nib'ej sko yamoch waan ik', icha pax to sko nib'ej sko yam aceite t'a yol ko k'ab'."
-        },
-        {
-            "number": "17",
-            "text": "Ha k'een k'een, snhicchajk'e ye k'een yet' junocxo yetk'enal, icha pax chi' heb' anima syik' sjelanil heb' yuj slolon yet' junocxo yetanimail."
-        },
-        {
-            "number": "18",
-            "text": "Ha heb' stanhwan te' higo awab'il yuj, slo sat te' heb', icha pax chi' heb' ayoch spensar t'a spatrón, tz'ik'jichaanh heb' yuj heb' spatrón chi'."
-        },
-        {
-            "number": "19",
-            "text": "Icha wal scutej quilanem ko sat t'a yol ha ha', icha pax chi' scutej quilani tas yaj ko b'eyb'al ayic squilanoch ko pensar."
-        },
-        {
-            "number": "20",
-            "text": "Ha chamel yet' b'aj smucchaj heb' chamnac, malaj b'ak'uinh sb'ud'ji, icha chi' heb' anima, malaj b'ak'uinh stzactzaj heb' snib'anoch tastac."
-        },
-        {
-            "number": "21",
-            "text": "Ha k'een oro yet' k'een plata, tz'ak'chaj prowal k'een t'a skal k'ak', icha pax chi' heb' anima, tz'ak'chaj prowal heb' yuj tas b'aj syal wach' lolonel."
-        },
-        {
-            "number": "22",
-            "text": "Wach'chom sko ten chojoc heb' malaj spensar t'a yib'anh junok tenlab', palta max el-laj smanh pensaril heb' chi' t'ay."
-        },
-        {
-            "number": "23",
-            "text": "Ayexnhejokab' och ijan eyilan nok' he kalnel, scham wal eyilanpax tas tzeyutej he tanhwan nok',"
-        },
-        {
-            "number": "24",
-            "text": "yujto a he b'eyumal yet' eyopisio manh masaniloc tiempo ayek' eyed'oc."
-        },
-        {
-            "number": "25",
-            "text": "Ayic sjochchaj k'e waan anh ank'ultak yet' anh ac t'a jolomtac witz, smolchaj k'e waan anh, swolanxi anh junelxo."
-        },
-        {
-            "number": "26",
-            "text": "Ha xil nok' he kalnel tz'och he pichuloc, ay pax he tumin yuj nok' he chiwa yic syal he manan he lu'um,"
-        },
-        {
-            "number": "27",
-            "text": "a pax nok' he chiwa chi', manh jantacoc lech syak' nok' yic tzeyuk'ej yet' heb' ix eyetb'eyum, heb' eyuninal yet' pax heb' smunlaj t'ayex."
-        }
-    ]
+  "chapter": "27",
+  "book": "PROVERBIOS",
+  "book_short": "Pr",
+  "aligned": true,
+  "es_verses": 27,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Manh eyik'chaanh he b'a yuj tas tze k'ulej k'ik'an eyalani, yujto manh eyojtakok tas tzuji k'ik'an chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ch'okokab' heb' tzex alan wach'il, yujto manh wach'ok tato a ex tik tzeyaloch he b'a wach'ilal."
+    },
+    {
+      "number": "3",
+      "text": "Ha k'een yax k'een yet' k'een arena te al k'een, pural sk'e k'een kuuj, icha pax chi' yaj yowal heb' chuk spensar, yelxo wal max techajlaj kuuj."
+    },
+    {
+      "number": "4",
+      "text": "Ha k'ak'alk'olal te chuk, niwan tas tz'ixtaxb'at yuj, palta haxo chichonk'olal, malaj mach syal stek'b'an sb'a t'a yichanh."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' tzonh xajanani, tzonh skach heb' t'a juntzanh chukal sko k'ulej."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' wach' eyak'an yet'ok, say heb' tas wach' tz'och he wach'ilok wach'chom ya tzeyab'i. Axo heb' tz'och lak'naj t'ayex jun, tzeyil he b'a t'a heb', yujto a heb' chi', ajk'ool yajoch heb' t'ayex."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' b'ut'anxo sk'ool, wach'chom a nok' yal chab' syuk' heb', palta chuklaj yuk'ji nok' syab' heb'. Axo pax heb' ay swejel jun, wach'chom k'a' junok tasi, palta te chi' syab' heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' syaktejkan yal yuninal, lajan heb' icha junok nok' much syaktejkan so' yet' yune'."
+    },
+    {
+      "number": "9",
+      "text": "Ha yuj perfume yet' tas skak'ek' t'a ko jolom, yuj chi' stzalajb'i ko k'ool, icha chi' tz'aj ko tzalaj yuj razón syak' heb' kamigo t'ayonh yuj onh xajanan heb'."
+    },
+    {
+      "number": "10",
+      "text": "Malaj b'ak'uinh tze chakel heb' eyamigo yet' pax heb' yamigo heb' he mam. Manh ex b'at eyal he kusk'olal t'a junok he k'ab' eyok. Te wach' tato tzeyal he kusk'olal chi' t'a heb' eyamigo kajan t'a he lak'anil, t'a yichanh heb' he k'ab' eyok kajan t'a najat."
+    },
+    {
+      "number": "11",
+      "text": "Ex wuninal, jelan tzeyutej he b'a, yik wach' tzeyak' tzalajb'ok in k'ool, yik wach' ay tas syal in paktzitan t'a heb' tzin patikaneli."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' ay spensar, syil heb' tastak ay smay, skolan sb'a heb' t'ay, haxo pax heb' malaj spensar jun, sb'eynhejb'at heb' masanto sjawi yaelal t'a yib'anh heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ha heb' syak'och sb'a fiadoral t'a heb' anima manh yojtakok, yak'okab'kan junok mojanh spichul heb' yuj k'een tumin chi'."
+    },
+    {
+      "number": "14",
+      "text": "Tato ayik wanto sakb'i, tzonh awaj t'a heb' kamigo yik sko k'anb'an sk'ol heb', a tz'aj yab'an heb', ichato chuk wan kalan t'a heb'."
+    },
+    {
+      "number": "15",
+      "text": "Ha heb' ix ix owalnhej yaji, lajan heb' ix icha junok tz'uj st'ujt'ujan t'a stiempoal nhab'il k 'inal."
+    },
+    {
+      "number": "16",
+      "text": "Tato sko nib'ej tz'och waan heb' ix t'a yowal sk'ool chi', lajan icha to sko nib'ej sko yamoch waan ik', icha pax to sko nib'ej sko yam akeite t'a yol ko k'ab'."
+    },
+    {
+      "number": "17",
+      "text": "Ha k'een k'een, snhikchajk'e ye k'een yet' junokxo yetk'enal, icha pax chi' heb' anima syik' sjelanil heb' yuj slolon yet' junokxo yetanimail."
+    },
+    {
+      "number": "18",
+      "text": "Ha heb' stanhwan te' higo awab'il yuj, slo sat te' heb', icha pax chi' heb' ayoch spensar t'a spatrón, tz'ik'jichaanh heb' yuj heb' spatrón chi'."
+    },
+    {
+      "number": "19",
+      "text": "Icha wal skutej kilanem ko sat t'a yol ha ha', icha pax chi' skutej kilani tas yaj ko b'eyb'al ayik skilanoch ko pensar."
+    },
+    {
+      "number": "20",
+      "text": "Ha chamel yet' b'aj smukchaj heb' chamnak, malaj b'ak'uinh sb'ut'ji, icha chi' heb' anima, malaj b'ak'uinh stzaktzaj heb' snib'anoch tastak."
+    },
+    {
+      "number": "21",
+      "text": "Ha k'een oro yet' k'een plata, tz'ak'chaj prowal k'een t'a skal k'ak', icha pax chi' heb' anima, tz'ak'chaj prowal heb' yuj tas b'aj syal wach' lolonel."
+    },
+    {
+      "number": "22",
+      "text": "Wach'chom sko ten chojok heb' malaj spensar t'a yib'anh junok tenlab', palta max el-laj smanh pensaril heb' chi' t'ay."
+    },
+    {
+      "number": "23",
+      "text": "Ayexnhejokab' och ijan eyilan nok' he kalnel, scham wal eyilanpax tas tzeyutej he tanhwan nok',"
+    },
+    {
+      "number": "24",
+      "text": "yujto a he b'eyumal yet' eyopisio manh masanilok tiempo ayek' eyet'ok."
+    },
+    {
+      "number": "25",
+      "text": "Ayik sjochchaj k'e waan anh ank'ultak yet' anh ak t'a jolomtak witz, smolchaj k'e waan anh, swolanxi anh junelxo."
+    },
+    {
+      "number": "26",
+      "text": "Ha xil nok' he kalnel tz'och he pichulok, ay pax he tumin yuj nok' he chiwa yik syal he manan he lu'um,"
+    },
+    {
+      "number": "27",
+      "text": "a pax nok' he chiwa chi', manh jantakok lech syak' nok' yik tzeyuk'ej yet' heb' ix eyetb'eyum, heb' eyuninal yet' pax heb' smunlaj t'ayex."
+    }
+  ]
 }

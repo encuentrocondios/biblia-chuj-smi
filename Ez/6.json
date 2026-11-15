@@ -1,61 +1,65 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ach anima, ixic k'elan t'a stojolal jolomtac witz yic Israel, tzalan t'a yib'anh heb' kajan ta'"
-        },
-        {
-            "number": "3",
-            "text": "icha tik: Ab'ec wal tas syal Jehová t'a yib'anh heb' syak'em sb'ha t'a comon Dios t'a jolomtac witz yic Israel, t'a tzalquixtac, t'a pak'quiltac yet' t'a ch'olquixtac: Ol wak'b'at owal t'a heb'. Ol in satpaxel juntzanh lugar chaanh b'aj tz'och ejmelal."
-        },
-        {
-            "number": "4",
-            "text": "Ol in mak'poj juntzanh altar b'aj syak' silab' heb' yet' b'aj snhus incienso heb'. Ol in milancham heb' winak t'a yichanh juntzanh yechel chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ol wak'kan teljab' sniwanil heb' t'a yichanh juntzanh comon Dios chi'. Axo t'a spatictac juntzanh yechel chi' ol in saclemejek' sb'aquil heb'."
-        },
-        {
-            "number": "6",
-            "text": "Ol kan tzinan masanil schonhab' heb' b'ajtac kajan yet' masanil lugar chaanh b'aj tz'och ejmelal. Masanil yaltar heb' chi' ol pojcanb'atoc yet' masanil juntzanh yechel chi' chok' ol ajkanoc yet' altar b'aj snhus incienso heb', ol em lanhnajoc. Masanil tas b'ob'il yuj heb' anima chi' ol sateloc."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' olto kanok, ayic ol yilan sniwanil heb' ix cham t'a skal heb', ichato chi' ol nachajel yuj heb' to a in ton Jehová sDiosal in heb'."
-        },
-        {
-            "number": "8",
-            "text": "Palta ha t'a skal heb' ol in saclemejkanb'at t'a juntzanhxo nación chi', ay heb' b'aj ol ok' in k'ool, ol in colcanel heb' t'a yol sk'ab' chamel."
-        },
-        {
-            "number": "9",
-            "text": "Ha heb' manh ol cham chi', ol in snacot heb' t'a juntzanh nación b'aj ayek' chi'. Ol snacot heb' tas ix aj wab'an syail yuj b'aj in spatiquejel heb' ayic yochnac heb' ejmelal t'a juntzanh comon Dios. Toxonhej ol syajlaj sb'a heb' yuj jantac chukal sk'ulejnac yuj sb'eyb'al heb' te yajb'entac,"
-        },
-        {
-            "number": "10",
-            "text": "yuj chi' ol nachajel yuj heb' to a in Jehová in, a innhej Dios in, manh tonhejoc ix wala' to ix wak'b'at juntzanh yaelal tik t'a yib'anh heb', xchi Jehová."
-        },
-        {
-            "number": "11",
-            "text": "Ix yalanxi Jehová Cajalil icha tik t'ayin: Pok'ub'tanhej a k'ab', tek'ub'tanhejem oc, elokab' av yic tz'el a k'ol yuj jantac tas ix jawi t'a yib'anh heb' etisraelal yuj jantac tas yajb'entac sk'ulej heb'. Yuj chi' ix cham heb' yuj owal, yuj wejel yet' yuj ilya."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' najat aykanb'ati, ol cham heb' yuj ilya, haxo heb' lak'an ayeq'ui, ol cham heb' yuj owal. Axo heb' manh ol cham yuj owal chi', a wejel ol ik'an scham heb'. Icha chi' ol aj slajwi wik'anel yowal in k'ol t'a heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ol yilan sniwanil heb' milb'ilcham t'a spatictac juntzanh yechel chi' heb', t'a spatictac juntzanh altar, t'a tzalquixtac, t'a jolomtac witz, t'a yichtac te te' k'ayum xiil yet' t'a yichtac te' ji k'ayum xiil, aton t'a juntzanh lugar b'aj snhustz'a incienso heb' silab'il t'a juntzanh comon Dios chi', icha chi' ol aj snachajel yuj heb' to a in ton Jehová sDiosal in heb'."
-        },
-        {
-            "number": "14",
-            "text": "Ol wik'chaanh in k'ab' wak'an syaelal heb' yalnhej b'aj kajan. Masanil juntzanh lugar b'aj ek'nac kajan heb', toxonhej ol kan tzinan icha lum tzinan lu'um yic sur, masanto sk'och t'a Diblat t'a norte. Icha chi' ol aj snachajel yuj heb' to a in ton Jehová sDiosal in heb', xchi Jehová."
-        }
-    ]
+  "chapter": "6",
+  "book": "EZEQUIEL",
+  "book_short": "Ez",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ach anima, ixik k'elan t'a stojolal jolomtak witz yik Israel, tzalan t'a yib'anh heb' kajan ta'"
+    },
+    {
+      "number": "3",
+      "text": "icha tik: Ab'ek wal tas syal Jehová t'a yib'anh heb' syak'em sb'a t'a komon Dios t'a jolomtak witz yik Israel, t'a tzalkixtak, t'a pak'kiltak yet' t'a ch'olkixtak: Ol wak'b'at owal t'a heb'. Ol in satpaxel juntzanh lugar chaanh b'aj tz'och ejmelal."
+    },
+    {
+      "number": "4",
+      "text": "Ol in mak'poj juntzanh altar b'aj syak' silab' heb' yet' b'aj snhus inkienso heb'. Ol in milancham heb' winak t'a yichanh juntzanh yechel chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ol wak'kan teljab' sniwanil heb' t'a yichanh juntzanh komon Dios chi'. Axo t'a spatiktak juntzanh yechel chi' ol in saklemejek' sb'akil heb'."
+    },
+    {
+      "number": "6",
+      "text": "Ol kan tzinan masanil schonhab' heb' b'ajtak kajan yet' masanil lugar chaanh b'aj tz'och ejmelal. Masanil yaltar heb' chi' ol pojkanb'atok yet' masanil juntzanh yechel chi' chok' ol ajkanok yet' altar b'aj snhus inkienso heb', ol em lanhnajok. Masanil tas b'ob'il yuj heb' anima chi' ol satelok."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' olto kanok, ayik ol yilan sniwanil heb' ix cham t'a skal heb', ichato chi' ol nachajel yuj heb' to a in ton Jehová sDiosal in heb'."
+    },
+    {
+      "number": "8",
+      "text": "Palta ha t'a skal heb' ol in saklemejkanb'at t'a juntzanhxo nakión chi', ay heb' b'aj ol ok' in k'ool, ol in kolkanel heb' t'a yol sk'ab' chamel."
+    },
+    {
+      "number": "9",
+      "text": "Ha heb' manh ol cham chi', ol in snakot heb' t'a juntzanh nakión b'aj ayek' chi'. Ol snakot heb' tas ix aj wab'an syail yuj b'aj in spatikejel heb' ayik yochnak heb' ejmelal t'a juntzanh komon Dios. Toxonhej ol syajlaj sb'a heb' yuj jantak chukal sk'ulejnak yuj sb'eyb'al heb' te yajb'entak,"
+    },
+    {
+      "number": "10",
+      "text": "yuj chi' ol nachajel yuj heb' to a in Jehová in, a innhej Dios in, manh tonhejok ix wala' to ix wak'b'at juntzanh yaelal tik t'a yib'anh heb', xchi Jehová."
+    },
+    {
+      "number": "11",
+      "text": "Ix yalanxi Jehová Kajalil icha tik t'ayin: Pok'ub'tanhej a k'ab', tek'ub'tanhejem ok, elokab' aw yik tz'el a k'ol yuj jantak tas ix jawi t'a yib'anh heb' etisraelal yuj jantak tas yajb'entak sk'ulej heb'. Yuj chi' ix cham heb' yuj owal, yuj wejel yet' yuj ilya."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' najat aykanb'ati, ol cham heb' yuj ilya, haxo heb' lak'an ayeq'ui, ol cham heb' yuj owal. Axo heb' manh ol cham yuj owal chi', a wejel ol ik'an scham heb'. Icha chi' ol aj slajwi wik'anel yowal in k'ol t'a heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ol yilan sniwanil heb' milb'ilcham t'a spatiktak juntzanh yechel chi' heb', t'a spatiktak juntzanh altar, t'a tzalkixtak, t'a jolomtak witz, t'a yichtak te te' k'ayum xiil yet' t'a yichtak te' ji k'ayum xiil, haton t'a juntzanh lugar b'aj snhustz'a inkienso heb' silab'il t'a juntzanh komon Dios chi', icha chi' ol aj snachajel yuj heb' to a in ton Jehová sDiosal in heb'."
+    },
+    {
+      "number": "14",
+      "text": "Ol wik'chaanh in k'ab' wak'an syaelal heb' yalnhej b'aj kajan. Masanil juntzanh lugar b'aj ek'nak kajan heb', toxonhej ol kan tzinan icha lum tzinan lu'um yik sur, masanto sk'och t'a Diblat t'a norte. Icha chi' ol aj snachajel yuj heb' to a in ton Jehová sDiosal in heb', xchi Jehová."
+    }
+  ]
 }

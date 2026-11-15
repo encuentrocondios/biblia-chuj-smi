@@ -1,117 +1,121 @@
 {
-    "chapter": "12",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ach anima, a juntzanh anima b'aj kajan ach ek' t'a skal tik, te pit heb'. Nab'anhej ay yol sat heb', palta max yil-laj heb'. Nab'anhej ay schiquin heb', palta max yab' heb' tas swala', yujto a jun chonhab' tik junelnhej te pit."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' molb'ej a k'ael, ichato wan ik'jib'at t'a ch'oc chonhab'il. D'a k'ualil, yichanh wal heb' tzach elta t'a yol a pat, ch'ocxo b'aj tzach b'atkani, tekan ol nachajel yuj heb' icha chi, wach'chom te pit heb'."
-        },
-        {
-            "number": "4",
-            "text": "D'a k'ualil, wal t'a yichanh heb' smasanil, tzik'anelta a k'ael chi', ichato tzach ik'jib'ati. Anheja' t'a yemk'ualil, tzach elta pax t'a yichanh heb', ichato tzach ik'jib'at t'a ch'oc chonhab'il."
-        },
-        {
-            "number": "5",
-            "text": "Ol junok olan t'a sat a pat, tzach el ta' yet' masanil a k'ael t'a yichanh heb' smasanil."
-        },
-        {
-            "number": "6",
-            "text": "Ayic wanxo sq'uik'b'i, tza jolomjenhjab'an masanil a k'ael chi', wal t'a yichanh heb' smasanil tzach eli. Tza musej a sat yic wach' max yal ilan b'aj tzach b'ati. In gana to a ach tzach och ch'oxnab'ilal t'a heb' etisraelal tik, xchi t'ayin."
-        },
-        {
-            "number": "7",
-            "text": "Ix wak'an lista masanil in k'ael icha wal ix aj yalan Jehová chi' t'ayin. D'a k'ualil ix in elta yet' in k'ael chi', icha wal heb' wan yik'jib'at t'a ch'oc chonhab'il. Axo t'a yemk'ualil ix in b'oan jun olan t'a sat in pat, haxo yic wan sq'uik'b'i, ix in jolomjenhjab'an masanil in k'ael chi'. Yichanh wal heb' ix in elta."
-        },
-        {
-            "number": "8",
-            "text": "Axo t'a q'uinhib'alil t'a junxo k'u, ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "9",
-            "text": "Ach anima, a heb' etisraelal tik yelxo te pit heb', ¿toc wal maj sk'anb'ej heb' t'ayach yuj tas wan a k'ulan chi'?"
-        },
-        {
-            "number": "10",
-            "text": "Al t'a heb' icha tik: Ha Jehová Kajal tz'alan icha tik: Ha jun tzin chec k'ulaj tik, ch'oxnab'il yaji, icha wal tik ol aj winh sreyal Jerusalén yet' masanil anima kajan ta', xchi Jehová, xa chi t'a heb'."
-        },
-        {
-            "number": "11",
-            "text": "Tzalan paxi to ch'oxnab'il aj t'a heb'. Yujto yowalil icha chi' ol aj heb' aj Jerusalén chi', icha wal wan utan a b'a chi', yujto ol ik'jocb'at heb' t'a ch'oc chonhab'il."
-        },
-        {
-            "number": "12",
-            "text": "Ha winh sreyal heb', yowalil ol sjolomjenhjab'ejb'at sk'ael winh ayic wan sq'uik'b'i, ol el winh t'a jun olan b'ob'il yuj heb' t'a smuroal Jerusalén chi'. Ol smusan sat winh, yic wach' manh ol yil winh b'aj sb'ati."
-        },
-        {
-            "number": "13",
-            "text": "Ha in ol wak'b'at jun icha ch'anh yaal t'a yib'anh winh rey chi', ol kan winh t'a yol ch'anh, ol ik'joccot winh t'a Babilonia, t'a slum heb' caldeo tik, palta manh ol yil-laj jun chonhab' tik winh. Ha t'a tik ol cham winh."
-        },
-        {
-            "number": "14",
-            "text": "Ol saklemkanb'at heb' soldado stanhwan winh yet' pax juntzanhxo heb' soldado. Ha in ol wak' pechjoc heb' yet' k'een espada."
-        },
-        {
-            "number": "15",
-            "text": "Ayic toxo ix in saclemejb'at heb' t'a juntzanhxo nación chi', ol nachajel yuj heb' to a in ton Jehová sDiosal in heb'."
-        },
-        {
-            "number": "16",
-            "text": "Palta a in ol wak' colchajkanel jaywanhocxo heb' t'a skal owal, t'a skal wejel yet' t'a skal ilya, yic wach' ha t'a juntzanhxo nación b'aj ol b'atkan heb' chi', ol yal heb' yuj jantac tas yajb'entac sk'ulejnac. Ol yojtaquejpaxel heb' to a in ton Jehová sDiosal in heb', xchi Jehová."
-        },
-        {
-            "number": "17",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "18",
-            "text": "Ach anima, luclonanhk'e yuj xiwelal yet' ilk'olal ayic tzach wa'i yet' ayic tzuk'an ha'."
-        },
-        {
-            "number": "19",
-            "text": "Al t'a masanil heb' etchonhab' chi' icha tik: Icha wal tik yalan Jehová Cajalil t'a heb' kajan t'a Jerusalén yet' t'a masanil heb' kajan t'a smacb'en Israel chi': D'a skal ilk'olal ol wa heb', t'a skal somk'olal ol yuk'ej ha' heb', yujto a jun nación chi' ol lajwoquemoc. Ol kan wal tzinan yuj masanil ixtoj anima sk'ulej heb' kajan t'ay."
-        },
-        {
-            "number": "20",
-            "text": "Masanil chonhab' b'ajtac kajan anima ol laj emkan lanhnajoc, ol kan pax tzinan lum smacb'en heb' chi'. Icha chi' ol aj snachajel eyuuj to a in ton Jehová he Diosal in, xchi t'ayin."
-        },
-        {
-            "number": "21",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "22",
-            "text": "Ach anima, ¿tas syalelk'och jun slolonel heb' israel syal icha tik? Tonhej b'elb'on yek' tiempo, max elk'ochlaj tas syal heb' schekab' Dios, xchi heb'."
-        },
-        {
-            "number": "23",
-            "text": "Yuj chi' al t'a heb': Icha tik yalan Jehová Cajalil: Ha yuj tas ol in k'ulej, manhxo ol eyal-laj jun lolonel chi', yujto toxo ol k'och stiempoal yelk'och juntzanh tas in ch'oxnac yil heb' in chekab', xchi Jehová, xa chi t'a heb'."
-        },
-        {
-            "number": "24",
-            "text": "Yujto manhxa mach ol stz'ac yala' to ay tas te wach' ix yil t'a swayich, ma snaanchaanh junok esal lolonel t'a he kal."
-        },
-        {
-            "number": "25",
-            "text": "Yujto a in Jehová in ol in lolonoc. Yalnhej tas ol wal chi' elanhchamel ol elk'ochoc. Ha ex anima ex te pit ex tik, ol eyil wal to a in ol in lolonoc, ol wak'anelk'och tas swal chi', xchi t'ayin."
-        },
-        {
-            "number": "26",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "27",
-            "text": "Ach anima, a heb' etisraelal chi', syal heb' to a juntzanh ix in ch'ox ila' yet' juntzanh lolonel ix ala' to olto heb' yelk'ochi,"
-        },
-        {
-            "number": "28",
-            "text": "yuj chi' al t'a heb' to a in Jehová in swala' to a tas swala' manh ol ek' tiempo yelk'ochi, yowalil ol elk'och t'a elanhchamel, xchi Jehová t'ayin."
-        }
-    ]
+  "chapter": "12",
+  "book": "EZEQUIEL",
+  "book_short": "Ez",
+  "aligned": true,
+  "es_verses": 28,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ach anima, a juntzanh anima b'aj kajan ach ek' t'a skal tik, te pit heb'. Nab'anhej ay yol sat heb', palta max yil-laj heb'. Nab'anhej ay schikin heb', palta max yab' heb' tas swala', yujto a jun chonhab' tik junelnhej te pit."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' molb'ej a k'ael, ichato wan ik'jib'at t'a ch'ok chonhab'il. T'a k'ualil, yichanh wal heb' tzach elta t'a yol a pat, ch'okxo b'aj tzach b'atkani, tekan ol nachajel yuj heb' icha chi, wach'chom te pit heb'."
+    },
+    {
+      "number": "4",
+      "text": "T'a k'ualil, wal t'a yichanh heb' smasanil, tzik'anelta a k'ael chi', ichato tzach ik'jib'ati. Anheja' t'a yemk'ualil, tzach elta pax t'a yichanh heb', ichato tzach ik'jib'at t'a ch'ok chonhab'il."
+    },
+    {
+      "number": "5",
+      "text": "Ol junok olan t'a sat a pat, tzach el ta' yet' masanil a k'ael t'a yichanh heb' smasanil."
+    },
+    {
+      "number": "6",
+      "text": "Ayik wanxo sq'uik'b'i, tza jolomjenhjab'an masanil a k'ael chi', wal t'a yichanh heb' smasanil tzach eli. Tza musej a sat yik wach' max yal ilan b'aj tzach b'ati. In gana to a ach tzach och ch'oxnab'ilal t'a heb' etisraelal tik, xchi t'ayin."
+    },
+    {
+      "number": "7",
+      "text": "Ix wak'an lista masanil in k'ael icha wal ix aj yalan Jehová chi' t'ayin. T'a k'ualil ix in elta yet' in k'ael chi', icha wal heb' wan yik'jib'at t'a ch'ok chonhab'il. Axo t'a yemk'ualil ix in b'oan jun olan t'a sat in pat, haxo yik wan sq'uik'b'i, ix in jolomjenhjab'an masanil in k'ael chi'. Yichanh wal heb' ix in elta."
+    },
+    {
+      "number": "8",
+      "text": "Axo t'a q'uinhib'alil t'a junxo k'u, ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "9",
+      "text": "Ach anima, a heb' etisraelal tik yelxo te pit heb', ¿tok wal maj sk'anb'ej heb' t'ayach yuj tas wan a k'ulan chi'?"
+    },
+    {
+      "number": "10",
+      "text": "Al t'a heb' icha tik: Ha Jehová Kajal tz'alan icha tik: Ha jun tzin chek k'ulaj tik, ch'oxnab'il yaji, icha wal tik ol aj winh sreyal Jerusalén yet' masanil anima kajan ta', xchi Jehová, xa chi t'a heb'."
+    },
+    {
+      "number": "11",
+      "text": "Tzalan paxi to ch'oxnab'il aj t'a heb'. Yujto yowalil icha chi' ol aj heb' aj Jerusalén chi', icha wal wan utan a b'a chi', yujto ol ik'jokb'at heb' t'a ch'ok chonhab'il."
+    },
+    {
+      "number": "12",
+      "text": "Ha winh sreyal heb', yowalil ol sjolomjenhjab'ejb'at sk'ael winh ayik wan sq'uik'b'i, ol el winh t'a jun olan b'ob'il yuj heb' t'a smuroal Jerusalén chi'. Ol smusan sat winh, yik wach' manh ol yil winh b'aj sb'ati."
+    },
+    {
+      "number": "13",
+      "text": "Ha in ol wak'b'at jun icha ch'anh yaal t'a yib'anh winh rey chi', ol kan winh t'a yol ch'anh, ol ik'jokkot winh t'a Babilonia, t'a slum heb' kaldeo tik, palta manh ol yil-laj jun chonhab' tik winh. Ha t'a tik ol cham winh."
+    },
+    {
+      "number": "14",
+      "text": "Ol saklemkanb'at heb' soldado stanhwan winh yet' pax juntzanhxo heb' soldado. Ha in ol wak' pechjok heb' yet' k'een espada."
+    },
+    {
+      "number": "15",
+      "text": "Ayik toxo ix in saklemejb'at heb' t'a juntzanhxo nakión chi', ol nachajel yuj heb' to a in ton Jehová sDiosal in heb'."
+    },
+    {
+      "number": "16",
+      "text": "Palta a in ol wak' kolchajkanel jaywanhokxo heb' t'a skal owal, t'a skal wejel yet' t'a skal ilya, yik wach' ha t'a juntzanhxo nakión b'aj ol b'atkan heb' chi', ol yal heb' yuj jantak tas yajb'entak sk'ulejnak. Ol yojtakejpaxel heb' to a in ton Jehová sDiosal in heb', xchi Jehová."
+    },
+    {
+      "number": "17",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "18",
+      "text": "Ach anima, luklonanhk'e yuj xiwelal yet' ilk'olal ayik tzach wa'i yet' ayik tzuk'an ha'."
+    },
+    {
+      "number": "19",
+      "text": "Al t'a masanil heb' etchonhab' chi' icha tik: Icha wal tik yalan Jehová Kajalil t'a heb' kajan t'a Jerusalén yet' t'a masanil heb' kajan t'a smakb'en Israel chi': T'a skal ilk'olal ol wa heb', t'a skal somk'olal ol yuk'ej ha' heb', yujto a jun nakión chi' ol lajwokemok. Ol kan wal tzinan yuj masanil ixtoj anima sk'ulej heb' kajan t'ay."
+    },
+    {
+      "number": "20",
+      "text": "Masanil chonhab' b'ajtak kajan anima ol laj emkan lanhnajok, ol kan pax tzinan lum smakb'en heb' chi'. Icha chi' ol aj snachajel eyuuj to a in ton Jehová he Diosal in, xchi t'ayin."
+    },
+    {
+      "number": "21",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "22",
+      "text": "Ach anima, ¿tas syalelk'och jun slolonel heb' israel syal icha tik? Tonhej b'elb'on yek' tiempo, max elk'ochlaj tas syal heb' schekab' Dios, xchi heb'."
+    },
+    {
+      "number": "23",
+      "text": "Yuj chi' al t'a heb': Icha tik yalan Jehová Kajalil: Ha yuj tas ol in k'ulej, manhxo ol eyal-laj jun lolonel chi', yujto toxo ol k'och stiempoal yelk'och juntzanh tas in ch'oxnak yil heb' in chekab', xchi Jehová, xa chi t'a heb'."
+    },
+    {
+      "number": "24",
+      "text": "Yujto manhxa mach ol stz'ak yala' to ay tas te wach' ix yil t'a swayich, ma snaanchaanh junok esal lolonel t'a he kal."
+    },
+    {
+      "number": "25",
+      "text": "Yujto a in Jehová in ol in lolonok. Yalnhej tas ol wal chi' elanhchamel ol elk'ochok. Ha ex anima ex te pit ex tik, ol eyil wal to a in ol in lolonok, ol wak'anelk'och tas swal chi', xchi t'ayin."
+    },
+    {
+      "number": "26",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "27",
+      "text": "Ach anima, a heb' etisraelal chi', syal heb' to a juntzanh ix in ch'ox ila' yet' juntzanh lolonel ix ala' to olto heb' yelk'ochi,"
+    },
+    {
+      "number": "28",
+      "text": "yuj chi' al t'a heb' to a in Jehová in swala' to a tas swala' manh ol ek' tiempo yelk'ochi, yowalil ol elk'och t'a elanhchamel, xchi Jehová t'ayin."
+    }
+  ]
 }

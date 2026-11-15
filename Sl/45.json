@@ -1,73 +1,77 @@
 {
-    "chapter": "45",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ay wal ek' wach' lolonel t'a in pensar. Ol in b'itan t'a winh rey yet' juntzanh in lolonel chi'. Ha in ti' lajan icha stz'ib'lab' junok mach te jelan stz'ib'ani."
-        },
-        {
-            "number": "2",
-            "text": "Ach rey, a achnhej wach' ilji t'a yichanh masanil heb' winh winak. Te wach'nhej tas tzala', te jelan a loloni yujto syak'nhej swach'k'olal Dios t'a ib'anh."
-        },
-        {
-            "number": "3",
-            "text": "Ak'och jachan k'een espada t'a a nanhal, ach winak te ak'um owal, te b'inajnac ach, te ay wal elk'ochi."
-        },
-        {
-            "number": "4",
-            "text": "Ixic t'a yib'anh nok' a chej yet' a poder yic tzak'an ganar owal, yic sb'oji yaj lolonel t'a stojolal t'a heb' emnaquil. Niwan tastac satub'tac ol a k'ulej yet' ipalil."
-        },
-        {
-            "number": "5",
-            "text": "Ach ko reyal, a jul-lab' te jay snhi' ol b'at ch'apnaj t'a snhi' sk'ool heb' ajk'ool. Yuj chi' ol telwoc heb' anima yic juntzanh chonhab' t'a skal oc."
-        },
-        {
-            "number": "6",
-            "text": "Ach ko Diosal, yajal ach t'a smasanil tiempo. Yajal ach, wach'nhej tz'aj a ch'olb'itan tastac."
-        },
-        {
-            "number": "7",
-            "text": "Ha wal tojolal scha a k'ool, max schalaj a k'ool chukal. Yuj chi' ix ach sik'el Dios, aton a Diosal. Ix yak' niwan tzalajk'olal t'ayach t'a yichanh juntzanhxo heb' ay yopisio ed'oc."
-        },
-        {
-            "number": "8",
-            "text": "Tz'el sjab' sperfumeal mirra, áloes yet' te' canela ayoch t'a a pichul. Ha son ay sch'anhal ol ak'an tzalaj a k'ool t'a a pat marfilnhej ayoch yelwanub'oc."
-        },
-        {
-            "number": "9",
-            "text": "Ay heb' ix yisil heb' winh rey t'a skal heb' avtab'il uuj. Ha t'a a tz'ey t'a a wach', ata' ayek' ix reina. Ha k'een oro yelxo wal wach' ayoch t'a spichul ix."
-        },
-        {
-            "number": "10",
-            "text": "Ach yisil rey, maclej wal ab'i, scham wal ab'an tas ol wal t'ayach. Manhxo a na heb' a k'ab' oc yet' heb' etchonhab',"
-        },
-        {
-            "number": "11",
-            "text": "yujto a winh rey chi' snib'an swach'il ilji, aton winh ajalil. Hak'uem a b'ha t'a winh."
-        },
-        {
-            "number": "12",
-            "text": "Ol yak' silab' heb' aj Tiro t'ayach. Ha heb' niwac b'eyum, ol snib'ej heb' yoch amigooc."
-        },
-        {
-            "number": "13",
-            "text": "Tik sja ix ix wan yoch yetb'eyumoc winh rey, wach'nhej yilji ix, yisil pax ix junocxo winh rey. Oro ayoch yelwanub'oc spichul ix."
-        },
-        {
-            "number": "14",
-            "text": "Wach'nhej yaj sb'o ix yet' spichul, tz'ik'jib'at ix t'a winh rey. Tzak'anoch heb' ix cob'estac yuk'lewoc ix, aton heb' ix yamiga ix."
-        },
-        {
-            "number": "15",
-            "text": "Stzalaj heb' ix sb'at heb' ix, masanto sk'och heb' ix t'a spat winh rey chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ach rey, a heb' uninal ol em k'ojan b'aj tz'emtaxon k'ojan heb' a mam icham. Ol ak'anoch yopisio heb' yic syilan masanil yol a macb'en tik heb'."
-        },
-        {
-            "number": "17",
-            "text": "Ha in ol wak' nachajcot a b'i yuj masanil anima toto ol aljoc t'a yol yib'anhk’inal tik. Ol yal wach' lolonel junjun chonhab' t'ayach t'a masanil tiempo."
-        }
-    ]
+  "chapter": "45",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ay wal ek' wach' lolonel t'a in pensar. Ol in b'itan t'a winh rey yet' juntzanh in lolonel chi'. Ha in ti' lajan icha stz'ib'lab' junok mach te jelan stz'ib'ani."
+    },
+    {
+      "number": "2",
+      "text": "Ach rey, a achnhej wach' ilji t'a yichanh masanil heb' winh winak. Te wach'nhej tas tzala', te jelan a loloni yujto syak'nhej swach'k'olal Dios t'a ib'anh."
+    },
+    {
+      "number": "3",
+      "text": "Ak'och jachan k'een espada t'a a nanhal, ach winak te ak'um owal, te b'inajnak ach, te ay wal elk'ochi."
+    },
+    {
+      "number": "4",
+      "text": "Ixik t'a yib'anh nok' a chej yet' a poder yik tzak'an ganar owal, yik sb'oji yaj lolonel t'a stojolal t'a heb' emnakil. Niwan tastak satub'tak ol a k'ulej yet' ipalil."
+    },
+    {
+      "number": "5",
+      "text": "Ach ko reyal, a jul-lab' te jay snhi' ol b'at ch'apnaj t'a snhi' sk'ool heb' ajk'ool. Yuj chi' ol telwok heb' anima yik juntzanh chonhab' t'a skal ok."
+    },
+    {
+      "number": "6",
+      "text": "Ach ko Diosal, yajal ach t'a smasanil tiempo. Yajal ach, wach'nhej tz'aj a ch'olb'itan tastak."
+    },
+    {
+      "number": "7",
+      "text": "Ha wal tojolal scha a k'ool, max schalaj a k'ool chukal. Yuj chi' ix ach sik'el Dios, haton a Diosal. Ix yak' niwan tzalajk'olal t'ayach t'a yichanh juntzanhxo heb' ay yopisio et'ok."
+    },
+    {
+      "number": "8",
+      "text": "Tz'el sjab' sperfumeal mirra, áloes yet' te' kanela ayoch t'a a pichul. Ha son ay sch'anhal ol ak'an tzalaj a k'ool t'a a pat marfilnhej ayoch yelwanub'ok."
+    },
+    {
+      "number": "9",
+      "text": "Ay heb' ix yisil heb' winh rey t'a skal heb' awtab'il uuj. Ha t'a a tz'ey t'a a wach', ata' ayek' ix reina. Ha k'een oro yelxo wal wach' ayoch t'a spichul ix."
+    },
+    {
+      "number": "10",
+      "text": "Ach yisil rey, maklej wal ab'i, scham wal ab'an tas ol wal t'ayach. Manhxo a na heb' a k'ab' ok yet' heb' etchonhab',"
+    },
+    {
+      "number": "11",
+      "text": "yujto a winh rey chi' snib'an swach'il ilji, haton winh ajalil. Hak'uem a b'a t'a winh."
+    },
+    {
+      "number": "12",
+      "text": "Ol yak' silab' heb' aj Tiro t'ayach. Ha heb' niwak b'eyum, ol snib'ej heb' yoch amigook."
+    },
+    {
+      "number": "13",
+      "text": "Tik sja ix ix wan yoch yetb'eyumok winh rey, wach'nhej yilji ix, yisil pax ix junokxo winh rey. Oro ayoch yelwanub'ok spichul ix."
+    },
+    {
+      "number": "14",
+      "text": "Wach'nhej yaj sb'o ix yet' spichul, tz'ik'jib'at ix t'a winh rey. Tzak'anoch heb' ix kob'estak yuk'lewok ix, haton heb' ix yamiga ix."
+    },
+    {
+      "number": "15",
+      "text": "Stzalaj heb' ix sb'at heb' ix, masanto sk'och heb' ix t'a spat winh rey chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ach rey, a heb' uninal ol em k'ojan b'aj tz'emtaxon k'ojan heb' a mam icham. Ol ak'anoch yopisio heb' yik syilan masanil yol a makb'en tik heb'."
+    },
+    {
+      "number": "17",
+      "text": "Ha in ol wak' nachajkot a b'i yuj masanil anima toto ol aljok t'a yol yib'anhk'inal tik. Ol yal wach' lolonel junjun chonhab' t'ayach t'a masanil tiempo."
+    }
+  ]
 }

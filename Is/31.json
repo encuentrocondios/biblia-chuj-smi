@@ -1,41 +1,45 @@
 {
-    "chapter": "31",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ob'iltac heb' b'at k'anan scolwal Egipto. Ha heb' soldado yic Egipto chi', te niwan sb'isul nok' schej heb' yet' skarruaje, te ay pax yip heb'. Ha juntzanh chi' syak'och heb' yipoc sk'ool, palta max k'e k'elan heb' t'a Jehová sDiosal Israel Axonhej Ochi, max sk'anpax scolwal heb' t'ay."
-        },
-        {
-            "number": "2",
-            "text": "Palta te jelan pax Jehová chi', ol yik'cot somk'olal t'a yib'anh heb'. Max ek'b'at tas syal t'a spatic jun chonhab' chuk yet' t'a spatic heb' skolwaj t'a heb' sk'ulan chukal chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' aj Egipto chi' animanhej heb', manh Diosoc heb'. Axo nok' schej heb', nok'nhej wal nok', tocwal espíritu nok'. Yuj wal chi' jun, ayic ol yik'anchaanh sk'ab' Jehová, ol telwoc heb' colwajum, ol telwoc pax heb' scolji, junnhej ol aj scham heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha Jehová Yajal t'a Smasanil ix alan t'ayin icha tik: Ayic tz'el yav nok' niwac choj, ayic wan schianb'at junok kalnel nok' toxo ix yik'a', maxtzac xivlaj nok' ayic tz'el yav heb' tanhwum kalnel xib'tani, wach'chom tzijtum heb' tzoymaj t'a spatictac nok'. Icha chi' ol wutej in b'a, malaj mach syal in skachanoch waan yic tzin emul in col tzalan Sion."
-        },
-        {
-            "number": "5",
-            "text": "Icha syutej nok' much stanhwan yune' t'a yol so', tzek' jenhenhoc nok' t'a yib'anh, icha wal chi' ol wutej in tanhwan chonhab' Jerusalén, ol in tanhwej, ol in colani, xchi."
-        },
-        {
-            "number": "6",
-            "text": "Ex wetisraelal, meltzajanhec t'a Jehová b'aj pit ix eyutej he b'a."
-        },
-        {
-            "number": "7",
-            "text": "Yujto ayic ol he chakanel juntzanh yechel ix he b'o yuj he pitalil, aton juntzanh yechel b'ob'il yet' k'een plata yet' k'een oro,"
-        },
-        {
-            "number": "8",
-            "text": "ol telwoc Asiria yuj k'een espada manh animaoc ol ak'lab'anoc. Ol elkan lemnaj heb' soldado, haxo heb' ol yamchajoc, ol ochkan heb' chekab'oc."
-        },
-        {
-            "number": "9",
-            "text": "Yuj wal xiwelal, ol b'at winh sreyal heb' elelal yet' heb' yajalil heb' soldado, ol yaktejkan sbandera heb'. Ha Jehová ay yic altar t'a tzalan Sion, a tz'alan jun tik, a yowal sk'ol tz'och sk'ak'al t'a Jerusalén."
-        }
-    ]
+  "chapter": "31",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ob'iltak heb' b'at k'anan skolwal Egipto. Ha heb' soldado yik Egipto chi', te niwan sb'isul nok' schej heb' yet' skarruaje, te ay pax yip heb'. Ha juntzanh chi' syak'och heb' yipok sk'ool, palta max k'e k'elan heb' t'a Jehová sDiosal Israel Axonhej Ochi, max sk'anpax skolwal heb' t'ay."
+    },
+    {
+      "number": "2",
+      "text": "Palta te jelan pax Jehová chi', ol yik'kot somk'olal t'a yib'anh heb'. Max ek'b'at tas syal t'a spatik jun chonhab' chuk yet' t'a spatik heb' skolwaj t'a heb' sk'ulan chukal chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' aj Egipto chi' animanhej heb', manh Diosok heb'. Axo nok' schej heb', nok'nhej wal nok', tokwal espíritu nok'. Yuj wal chi' jun, ayik ol yik'anchaanh sk'ab' Jehová, ol telwok heb' kolwajum, ol telwok pax heb' skolji, junnhej ol aj scham heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha Jehová Yajal t'a Smasanil ix alan t'ayin icha tik: Ayik tz'el yaw nok' niwak choj, ayik wan schianb'at junok kalnel nok' toxo ix yik'a', maxtzak xiwlaj nok' ayik tz'el yaw heb' tanhwum kalnel xib'tani, wach'chom tzijtum heb' tzoymaj t'a spatiktak nok'. Icha chi' ol wutej in b'a, malaj mach syal in skachanoch waan yik tzin emul in kol tzalan Sion."
+    },
+    {
+      "number": "5",
+      "text": "Icha syutej nok' much stanhwan yune' t'a yol so', tzek' jenhenhok nok' t'a yib'anh, icha wal chi' ol wutej in tanhwan chonhab' Jerusalén, ol in tanhwej, ol in kolani, xchi."
+    },
+    {
+      "number": "6",
+      "text": "Ex wetisraelal, meltzajanhek t'a Jehová b'aj pit ix eyutej he b'a."
+    },
+    {
+      "number": "7",
+      "text": "Yujto ayik ol he chakanel juntzanh yechel ix he b'o yuj he pitalil, haton juntzanh yechel b'ob'il yet' k'een plata yet' k'een oro,"
+    },
+    {
+      "number": "8",
+      "text": "ol telwok Asiria yuj k'een espada manh animaok ol ak'lab'anok. Ol elkan lemnaj heb' soldado, haxo heb' ol yamchajok, ol ochkan heb' chekab'ok."
+    },
+    {
+      "number": "9",
+      "text": "Yuj wal xiwelal, ol b'at winh sreyal heb' elelal yet' heb' yajalil heb' soldado, ol yaktejkan sbandera heb'. Ha Jehová ay yik altar t'a tzalan Sion, a tz'alan jun tik, a yowal sk'ol tz'och sk'ak'al t'a Jerusalén."
+    }
+  ]
 }

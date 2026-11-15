@@ -1,57 +1,61 @@
 {
-    "chapter": "85",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, yelxo wal te wach' ach t'ayonh a onh a chonhab' onh tik. Ix onh ik'xi meltzaj b'aj sacleminac kajkanb'at a onh yinhtil onh winhaj Jacob tik."
-        },
-        {
-            "number": "2",
-            "text": "Ix a sucsat ko chukal a onh a chonhab' onh tik. Ix ak' lajwoc masanil ko mul."
-        },
-        {
-            "number": "3",
-            "text": "Ix a yamoch waan yowal a k'ool yet' a k'ak'alk'olal."
-        },
-        {
-            "number": "4",
-            "text": "Ach ko Diosal, ko Kolumal, ochanh qued'oc junelxo, yechelocxob' ste cot yowal a k'ol t'ayonh."
-        },
-        {
-            "number": "5",
-            "text": "¿Tom anheja' ol cotnhej owal t'ayonh t'a masanil tiempo?"
-        },
-        {
-            "number": "6",
-            "text": "¿Tom manhxo ol ak'xi ko tek'anil yic wach' tzonh tzalaj ed'oc a onh a chonhab' onh tik?"
-        },
-        {
-            "number": "7",
-            "text": "Ach Jehová, ch'oxkan a wach'k'olal t'ayonh, tzonh a colanpaxeli."
-        },
-        {
-            "number": "8",
-            "text": "Ol wab' tas ol yal Jehová Dios t'ayonh. Ol yak' junk'olal t'ayonh schonhab' onh tik, tato mantzac ko k'ulej manh pensaril."
-        },
-        {
-            "number": "9",
-            "text": "Yeltoni, b'ekan sk'ol Dios skolwaj t'a heb' ay tz'och emnaquil t'ay, yic wach' scheclaj stziquiquial t'a ko kal."
-        },
-        {
-            "number": "10",
-            "text": "Ol yak' swach'k'olal Dios t'a heb' schonhab', haxo heb' ol k'anab'ajan t'ay. Ha heb' anima tojol sb'eyb'al, ol ak'joc sjunk'olal heb' yuj Dios."
-        },
-        {
-            "number": "11",
-            "text": "k'anab'ajum ol aj heb' anima t'a sat lum tik. Axo Dios, ato t'a satcha’anh ol yak'cot scolwal."
-        },
-        {
-            "number": "12",
-            "text": "Ol yak'cot swach'k'olal Jehová, ol yak'an sat jantac tas skawej t'a sat ko lum tik."
-        },
-        {
-            "number": "13",
-            "text": "Ha tojolal ol b'ab'laj cot yuj Jehová, ha' ol tojolb'itan b'e b'aj ol jawok."
-        }
-    ]
+  "chapter": "85",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, yelxo wal te wach' ach t'ayonh a onh a chonhab' onh tik. Ix onh ik'xi meltzaj b'aj sakleminak kajkanb'at a onh yinhtil onh winhaj Jacob tik."
+    },
+    {
+      "number": "2",
+      "text": "Ix a suksat ko chukal a onh a chonhab' onh tik. Ix ak' lajwok masanil ko mul."
+    },
+    {
+      "number": "3",
+      "text": "Ix a yamoch waan yowal a k'ool yet' a k'ak'alk'olal."
+    },
+    {
+      "number": "4",
+      "text": "Ach ko Diosal, ko Kolumal, ochanh ket'ok junelxo, yechelokxob' ste kot yowal a k'ol t'ayonh."
+    },
+    {
+      "number": "5",
+      "text": "¿Tom anheja' ol kotnhej owal t'ayonh t'a masanil tiempo?"
+    },
+    {
+      "number": "6",
+      "text": "¿Tom manhxo ol ak'xi ko tek'anil yik wach' tzonh tzalaj et'ok a onh a chonhab' onh tik?"
+    },
+    {
+      "number": "7",
+      "text": "Ach Jehová, ch'oxkan a wach'k'olal t'ayonh, tzonh a kolanpaxeli."
+    },
+    {
+      "number": "8",
+      "text": "Ol wab' tas ol yal Jehová Dios t'ayonh. Ol yak' junk'olal t'ayonh schonhab' onh tik, tato mantzak ko k'ulej manh pensaril."
+    },
+    {
+      "number": "9",
+      "text": "Yeltoni, b'ekan sk'ol Dios skolwaj t'a heb' ay tz'och emnakil t'ay, yik wach' scheklaj stzikikial t'a ko kal."
+    },
+    {
+      "number": "10",
+      "text": "Ol yak' swach'k'olal Dios t'a heb' schonhab', haxo heb' ol k'anab'ajan t'ay. Ha heb' anima tojol sb'eyb'al, ol ak'jok sjunk'olal heb' yuj Dios."
+    },
+    {
+      "number": "11",
+      "text": "k'anab'ajum ol aj heb' anima t'a sat lum tik. Axo Dios, ato t'a satcha'anh ol yak'kot skolwal."
+    },
+    {
+      "number": "12",
+      "text": "Ol yak'kot swach'k'olal Jehová, ol yak'an sat jantak tas skawej t'a sat ko lum tik."
+    },
+    {
+      "number": "13",
+      "text": "Ha tojolal ol b'ab'laj kot yuj Jehová, ha' ol tojolb'itan b'e b'aj ol jawok."
+    }
+  ]
 }

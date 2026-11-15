@@ -1,93 +1,97 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach wuninal, ak'och juntzanh in lolonel tik t'a a k'ool, sik'kan juntzanh in checnab'il tik t'a a pensar."
-        },
-        {
-            "number": "2",
-            "text": "Maclej ab' jelanil swala', ak' ip a naaneli."
-        },
-        {
-            "number": "3",
-            "text": "D'a smasanil a k'ool tza k'an a jelanil yic ol ach jelanb'oc."
-        },
-        {
-            "number": "4",
-            "text": "Ak' ip a sayaneq'ui, icha tz'aj saychaj k'een plata, ma junok b'eyumal to k'ub'aneli."
-        },
-        {
-            "number": "5",
-            "text": "Icha chi' ol aj snachajel uuj, tas ol aj a k'anab'ajan Jehová yic tzojtaquejel t'a wal yel."
-        },
-        {
-            "number": "6",
-            "text": "Ha Jehová tz'ak'an jelanil. Yuj slolonel scojtaquejel smasanil, syak'an jelanb'oc ko pensar."
-        },
-        {
-            "number": "7",
-            "text": "Ha Jehová tz'ak'an sjelanil heb' tojol sb'eyb'al, aton heb' max esanlaj."
-        },
-        {
-            "number": "8",
-            "text": "Ha Jehová stanhwan heb' wach' syutej sb'a, aton heb' sk'anab'ajani."
-        },
-        {
-            "number": "9",
-            "text": "Yuj chi' tato tza maclej ab' in checnab'il, ol ojtaquejel tojolal yet' tas smoj tza k'ulej, yic wach' ol aj a b'eyb'al."
-        },
-        {
-            "number": "10",
-            "text": "Icha chi' ol aj sjelanb'i a pensar, ol ach tzalaj yet' tas ojtak chi'."
-        },
-        {
-            "number": "11",
-            "text": "Ha jelanil yet' wach' pensaril, aton juntzanh chi' ol ach colanoc."
-        },
-        {
-            "number": "12",
-            "text": "Ha yuj juntzanh chi' ol ik'el a b'ha t'a juntzanh chuk b'eyb'al yet' t'a yol sk'ab' heb' anima chuk spensar."
-        },
-        {
-            "number": "13",
-            "text": "Ha heb' anima anhej chukal sk'ulej chi', syactejkan wach' b'eyb'al heb'."
-        },
-        {
-            "number": "14",
-            "text": "Stzalaj wal heb' yet' schuc b'eyb'al chi', ste k'echaanh heb' yet' sb'eyb'al malaj swach'il chi'."
-        },
-        {
-            "number": "15",
-            "text": "D'a sb'eyb'al heb' chuk chi' syak'och spensar, syactankan jun b'eyb'al heb' wach'."
-        },
-        {
-            "number": "16",
-            "text": "Ha jelanil yet' wach' pensaril, ol ach scolel t'a yol sk'ab' heb' ix ix ayxo yetb'eyum, aton heb' ix ajmul ix wach' smontan yet' slolonel te wach',"
-        },
-        {
-            "number": "17",
-            "text": "to yactejnakkan yetb'eyum yik'nac t'a scob'esal, sb'atkan satk'olal sti' yak'nakkan t'a yichanh Dios."
-        },
-        {
-            "number": "18",
-            "text": "Tato tzach b'at t'a sb'eal spat heb' ix chi', wan a b'atkan t'a sb'eal chamel."
-        },
-        {
-            "number": "19",
-            "text": "Ha mach tz'ochkan t'a yol spat heb' ix, manhxa b'ak'uinh tz'elxita heb', maxtzac yal-laj skajnajxi t'a wach' t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "20",
-            "text": "Tato tza cha ab' jelanil chi', ol a b'eyb'alej sb'eyb'al heb' tojol spensar."
-        },
-        {
-            "number": "21",
-            "text": "Ha heb' tojol syutej sb'a, heb' malaj jab'oc spaltail, najtil ol ek' heb' t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "22",
-            "text": "Axo heb' chuk sb'eyb'al yet' heb' ixtum anima, ol ik'joquel heb' t'a yol yib'anhk’inal tik icha ko tok'ank'eta junok anh ank'ultak."
-        }
-    ]
+  "chapter": "2",
+  "book": "PROVERBIOS",
+  "book_short": "Pr",
+  "aligned": true,
+  "es_verses": 22,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach wuninal, ak'och juntzanh in lolonel tik t'a a k'ool, sik'kan juntzanh in cheknab'il tik t'a a pensar."
+    },
+    {
+      "number": "2",
+      "text": "Maklej ab' jelanil swala', ak' ip a naaneli."
+    },
+    {
+      "number": "3",
+      "text": "T'a smasanil a k'ool tza k'an a jelanil yik ol ach jelanb'ok."
+    },
+    {
+      "number": "4",
+      "text": "Ak' ip a sayaneq'ui, icha tz'aj saychaj k'een plata, ma junok b'eyumal to k'ub'aneli."
+    },
+    {
+      "number": "5",
+      "text": "Icha chi' ol aj snachajel uuj, tas ol aj a k'anab'ajan Jehová yik tzojtakejel t'a wal yel."
+    },
+    {
+      "number": "6",
+      "text": "Ha Jehová tz'ak'an jelanil. Yuj slolonel skojtakejel smasanil, syak'an jelanb'ok ko pensar."
+    },
+    {
+      "number": "7",
+      "text": "Ha Jehová tz'ak'an sjelanil heb' tojol sb'eyb'al, haton heb' max esanlaj."
+    },
+    {
+      "number": "8",
+      "text": "Ha Jehová stanhwan heb' wach' syutej sb'a, haton heb' sk'anab'ajani."
+    },
+    {
+      "number": "9",
+      "text": "Yuj chi' tato tza maklej ab' in cheknab'il, ol ojtakejel tojolal yet' tas smoj tza k'ulej, yik wach' ol aj a b'eyb'al."
+    },
+    {
+      "number": "10",
+      "text": "Icha chi' ol aj sjelanb'i a pensar, ol ach tzalaj yet' tas ojtak chi'."
+    },
+    {
+      "number": "11",
+      "text": "Ha jelanil yet' wach' pensaril, haton juntzanh chi' ol ach kolanok."
+    },
+    {
+      "number": "12",
+      "text": "Ha yuj juntzanh chi' ol ik'el a b'a t'a juntzanh chuk b'eyb'al yet' t'a yol sk'ab' heb' anima chuk spensar."
+    },
+    {
+      "number": "13",
+      "text": "Ha heb' anima anhej chukal sk'ulej chi', syaktejkan wach' b'eyb'al heb'."
+    },
+    {
+      "number": "14",
+      "text": "Stzalaj wal heb' yet' schuk b'eyb'al chi', ste k'echaanh heb' yet' sb'eyb'al malaj swach'il chi'."
+    },
+    {
+      "number": "15",
+      "text": "T'a sb'eyb'al heb' chuk chi' syak'och spensar, syaktankan jun b'eyb'al heb' wach'."
+    },
+    {
+      "number": "16",
+      "text": "Ha jelanil yet' wach' pensaril, ol ach skolel t'a yol sk'ab' heb' ix ix ayxo yetb'eyum, haton heb' ix ajmul ix wach' smontan yet' slolonel te wach',"
+    },
+    {
+      "number": "17",
+      "text": "to yaktejnakkan yetb'eyum yik'nak t'a skob'esal, sb'atkan satk'olal sti' yak'nakkan t'a yichanh Dios."
+    },
+    {
+      "number": "18",
+      "text": "Tato tzach b'at t'a sb'eal spat heb' ix chi', wan a b'atkan t'a sb'eal chamel."
+    },
+    {
+      "number": "19",
+      "text": "Ha mach tz'ochkan t'a yol spat heb' ix, manhxa b'ak'uinh tz'elxita heb', maxtzak yal-laj skajnajxi t'a wach' t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "20",
+      "text": "Tato tza cha ab' jelanil chi', ol a b'eyb'alej sb'eyb'al heb' tojol spensar."
+    },
+    {
+      "number": "21",
+      "text": "Ha heb' tojol syutej sb'a, heb' malaj jab'ok spaltail, najtil ol ek' heb' t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "22",
+      "text": "Axo heb' chuk sb'eyb'al yet' heb' ixtum anima, ol ik'jokel heb' t'a yol yib'anhk'inal tik icha ko tok'ank'eta junok anh ank'ultak."
+    }
+  ]
 }

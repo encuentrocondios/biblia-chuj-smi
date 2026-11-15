@@ -1,45 +1,49 @@
 {
-    "chapter": "16",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha smojonal b'aj ix k'och lum ix yik' heb' yinhtilal winhaj José, ix schael yich t'ha ha' Jordán, t'a stojolal b'aj sjawi k'u t'a sjaj ha ha' t'a Jericó, sb'atnhej t'a tzinan lu'um, sk'e t'a tzalquixtac t'a yol yic Betel."
-        },
-        {
-            "number": "2",
-            "text": "Ha Betel chi' anheja' skuchanpax Luz t'a peka'. B'enhej tzek' t'a lum yic heb' arquita, masanto sk'och t'a Atarot."
-        },
-        {
-            "number": "3",
-            "text": "Sb'atpax t'a stojolal b'aj tz'em k'u t'a slum heb' jafletita, masanto sk'och t'a smojonal Bet-horón, jun ay t'a yalanh, sk'ochpax t'a Gezer, tz'elpaxk'och t'ha ha' mar Mediterráneo."
-        },
-        {
-            "number": "4",
-            "text": "Aton lum tik ix scha heb' yinhtilal José smacb'enoc, aton heb' yinhtilal Manasés yet' heb' yic Efraín."
-        },
-        {
-            "number": "5",
-            "text": "Ha smojonal slum heb' yinhtilal Efraín ix schael yich t'a stojolal b'aj sjawi k'u t'a Atarot-adar, masanto sk'och t'a Bet-horón, jun ay t'a yib'anh,"
-        },
-        {
-            "number": "6",
-            "text": "tz'emkank'och t'ha ha' mar Mediterráneo. Ha t'a snorteal slum heb' chi', ata' ay Micmetat, ix b'atnhej t'a smojonal t'a stojolal b'aj sjawi k'u, masanto sk'och t'a Taanat-silo, slajwi chi' tzek' t'a Janoa,"
-        },
-        {
-            "number": "7",
-            "text": "tz'emk'och t'a Atarot yet' t'a Naarat, tzek' t'a sti' smojonal Jericó, tz'emk'och t'ha ha' Jordán."
-        },
-        {
-            "number": "8",
-            "text": "Sb'atpax t'a Tapúa, sb'atkan smojonal t'a stojolal b'aj tz'em k'u, masanto sk'och t'a ha ha' t'a yol yic Caná, sk'ochkan t'ha ha' mar Mediterráneo. Aton lum chi' ix yik' heb' yinhtilal Efraín, icha chi' ix aj spojjiek' lum t'a skal junjun makan heb'."
-        },
-        {
-            "number": "9",
-            "text": "Aytopax juntzanhxo chonhab' yet' juntzanhxo aldea ix yik'kan heb' yic Efraín chi' t'a yol smacb'en heb' yinhtilal Manasés."
-        },
-        {
-            "number": "10",
-            "text": "Palta a heb' yinhtilal Efraín chi', maj spechel-laj heb' cananeo heb' kajan t'a Gezer. Yuj chi' ix kan heb' t'a skal heb', ix ak'ji pural heb' cananeo chi' yochcan smunlajwumoc heb'."
-        }
-    ]
+  "chapter": "16",
+  "book": "JOSUÉ",
+  "book_short": "Jos",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha smojonal b'aj ix k'och lum ix yik' heb' yinhtilal winhaj José, ix schael yich t'a ha' Jordán, t'a stojolal b'aj sjawi k'u t'a sjaj ha ha' t'a Jericó, sb'atnhej t'a tzinan lu'um, sk'e t'a tzalkixtak t'a yol yik Betel."
+    },
+    {
+      "number": "2",
+      "text": "Ha Betel chi' anheja' skuchanpax Luz t'a peka'. B'enhej tzek' t'a lum yik heb' arkita, masanto sk'och t'a Atarot."
+    },
+    {
+      "number": "3",
+      "text": "Sb'atpax t'a stojolal b'aj tz'em k'u t'a slum heb' jafletita, masanto sk'och t'a smojonal Bet-horón, jun ay t'a yalanh, sk'ochpax t'a Gezer, tz'elpaxk'och t'a ha' mar Mediterráneo."
+    },
+    {
+      "number": "4",
+      "text": "Haton lum tik ix scha heb' yinhtilal José smakb'enok, haton heb' yinhtilal Manasés yet' heb' yik Efraín."
+    },
+    {
+      "number": "5",
+      "text": "Ha smojonal slum heb' yinhtilal Efraín ix schael yich t'a stojolal b'aj sjawi k'u t'a Atarot-adar, masanto sk'och t'a Bet-horón, jun ay t'a yib'anh,"
+    },
+    {
+      "number": "6",
+      "text": "tz'emkank'och t'a ha' mar Mediterráneo. Ha t'a snorteal slum heb' chi', ata' ay Micmetat, ix b'atnhej t'a smojonal t'a stojolal b'aj sjawi k'u, masanto sk'och t'a Taanat-silo, slajwi chi' tzek' t'a Janoa,"
+    },
+    {
+      "number": "7",
+      "text": "tz'emk'och t'a Atarot yet' t'a Naarat, tzek' t'a sti' smojonal Jericó, tz'emk'och t'a ha' Jordán."
+    },
+    {
+      "number": "8",
+      "text": "Sb'atpax t'a Tapúa, sb'atkan smojonal t'a stojolal b'aj tz'em k'u, masanto sk'och t'a ha ha' t'a yol yik Caná, sk'ochkan t'a ha' mar Mediterráneo. Haton lum chi' ix yik' heb' yinhtilal Efraín, icha chi' ix aj spojjiek' lum t'a skal junjun makan heb'."
+    },
+    {
+      "number": "9",
+      "text": "Aytopax juntzanhxo chonhab' yet' juntzanhxo aldea ix yik'kan heb' yik Efraín chi' t'a yol smakb'en heb' yinhtilal Manasés."
+    },
+    {
+      "number": "10",
+      "text": "Palta a heb' yinhtilal Efraín chi', maj spechel-laj heb' kananeo heb' kajan t'a Gezer. Yuj chi' ix kan heb' t'a skal heb', ix ak'ji pural heb' kananeo chi' yochkan smunlajwumok heb'."
+    }
+  ]
 }

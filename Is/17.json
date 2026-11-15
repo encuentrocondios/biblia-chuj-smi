@@ -1,61 +1,65 @@
 {
-    "chapter": "17",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aton juntzanh lolonel tik alb'ilkan t'a yib'anh chonhab' Damasco: Ha chonhab' Damasco, manhxo chonhab'oc ol ajkanoc. Axonhej sk'ajil ol k'ekan b'ulan."
-        },
-        {
-            "number": "2",
-            "text": "Ha juntzanh chonhab' t'a stz'eytac Aroer, ol kan tzinan t'a junelnhej, ol ochkan swalab'oc nok' molb'etzal nok'. Junk'olal ol wa nok' ta'."
-        },
-        {
-            "number": "3",
-            "text": "Manhxalaj chonhab' ayoch smuroal t'a yol yic Efraín. Ha Damasco, manhxalaj yajalil. Ha heb' aj Siria olto kan chi', q'uixwelal ol ajkan heb' icha heb' israel, xchi Jehová Yajal t'a Smasanil."
-        },
-        {
-            "number": "4",
-            "text": "Ha t'a jun k'ual chi', ol satel yak'umtaquil heb' yinhtilal winhaj Jacob, ol satel yip heb', ol satpaxel sb'eyumal heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ha schonhab' heb' chi', lajan ol ajkan icha b'aj toxo ix jochchaj ixim trigo, icha tz'aj sik'jik'e ixim jolom trigo tzato kan t'a spanhanil yic Refaim. Axonhej ixim sb'atkan satk'olal skani."
-        },
-        {
-            "number": "6",
-            "text": "Lajan pax ol ajkan heb' icha tz'ajkan junok te' oliwo toxo ix mak'chajemta sat, d'unhquiltac tz'ajkan chab' oxeoc sat te' chi' t'a snhitac sk'ab', ma chanhe' oyeoc skan t'a te' ste'al chi'. Icha chi' ol ajkanoc, xchi Jehová ko Diosal a onh israel onh tik."
-        },
-        {
-            "number": "7",
-            "text": "Ha t'a jun pekti’ chi', ol meltzajxoc spensar heb' israel t'a Mach B'ojinac, aton sDiosal heb' Axonhej Ochi."
-        },
-        {
-            "number": "8",
-            "text": "Manhxo ol yak'och juntzanh yaltar heb' sb'onac yipoc sk'ool. Manhxalaj ol aj yelk'och juntzanh te' yechel Asera t'a yol sat heb' yet' pax juntzanh altar b'ob'il yuj heb' b'aj snhus incienso."
-        },
-        {
-            "number": "9",
-            "text": "Ha t'a jun pekti’ chi', a juntzanh chonhab' ayoch smuroal, ol kan tzinan. Icha ajnakkan tzinan schonhab' heb' heweo yet' heb' amorreo ayic yelnac heb' elelal yuj xiwelal t'a heb' quetisraelal t'a peka', icha chi' ol ajkanoc."
-        },
-        {
-            "number": "10",
-            "text": "Yujto ix b'at ko Diosal satk'olal eyuuj, aton Jun coljinac onh, maxtzac he nacoti tato a t'ay ko colnac ko b'a. Yuj chi' wach'chom tzeyawej juntzanh te' eyavb'en te' wach', te' tzeyik'cot t'a ch'oc nacional,"
-        },
-        {
-            "number": "11",
-            "text": "wach'chom t'a junnhej k'ual tzeyak' q'uib' te' yic xumakan te' t'a jun k'u chi', palta haxo yic ol jawok yaelal manhxa yanhal t'a eyib'anh, malaj tas ol eyik' t'a eyavb'en chi'."
-        },
-        {
-            "number": "12",
-            "text": "Ob'iltac heb' soldado scot t'a juntzanhxo chonhab', te niwan sb'isul heb', icha sk'anh sk'e waan ha' mar sk'anh scot heb'. Tz'el wal yav juntzanh chonhab' chi' scoti, icha wal sk'anh sb'at ponholjoc ha' niwac ha' sb'eyi."
-        },
-        {
-            "number": "13",
-            "text": "Wach'chom sk'anh scot heb', palta ayic ol cachjoc heb' yuj Dios, ol b'at heb' elelal icha tz'aj yik'jib'at smatz'il ixim trigo yuj ik' t'a jolomtac witz. Icha tz'aj yik'jib'at lum pokok yuj chacxuxum ik', icha chi' ol aj heb'."
-        },
-        {
-            "number": "14",
-            "text": "Ha t'a yemk'ualil, te ay smay heb' ajk'ol chi' quilani, palta haxo yic sakb'i, manhxalaj heb' ayeq'ui. Icha chi' ol ajkan heb' tzonh elk'ani yet' pax heb' tzonh ixtani."
-        }
-    ]
+  "chapter": "17",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Haton juntzanh lolonel tik alb'ilkan t'a yib'anh chonhab' Damasco: Ha chonhab' Damasco, manhxo chonhab'ok ol ajkanok. Axonhej sk'ajil ol k'ekan b'ulan."
+    },
+    {
+      "number": "2",
+      "text": "Ha juntzanh chonhab' t'a stz'eytak Aroer, ol kan tzinan t'a junelnhej, ol ochkan swalab'ok nok' molb'etzal nok'. Junk'olal ol wa nok' ta'."
+    },
+    {
+      "number": "3",
+      "text": "Manhxalaj chonhab' ayoch smuroal t'a yol yik Efraín. Ha Damasco, manhxalaj yajalil. Ha heb' aj Siria olto kan chi', q'uixwelal ol ajkan heb' icha heb' israel, xchi Jehová Yajal t'a Smasanil."
+    },
+    {
+      "number": "4",
+      "text": "Ha t'a jun k'ual chi', ol satel yak'umtakil heb' yinhtilal winhaj Jacob, ol satel yip heb', ol satpaxel sb'eyumal heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ha schonhab' heb' chi', lajan ol ajkan icha b'aj toxo ix jochchaj ixim trigo, icha tz'aj sik'jik'e ixim jolom trigo tzato kan t'a spanhanil yik Refaim. Axonhej ixim sb'atkan satk'olal skani."
+    },
+    {
+      "number": "6",
+      "text": "Lajan pax ol ajkan heb' icha tz'ajkan junok te' oliwo toxo ix mak'chajemta sat, t'unhkiltak tz'ajkan chab' oxeok sat te' chi' t'a snhitak sk'ab', ma chanhe' oyeok skan t'a te' ste'al chi'. Icha chi' ol ajkanok, xchi Jehová ko Diosal a onh israel onh tik."
+    },
+    {
+      "number": "7",
+      "text": "Ha t'a jun pekti' chi', ol meltzajxok spensar heb' israel t'a Mach B'ojinak, haton sDiosal heb' Axonhej Ochi."
+    },
+    {
+      "number": "8",
+      "text": "Manhxo ol yak'och juntzanh yaltar heb' sb'onak yipok sk'ool. Manhxalaj ol aj yelk'och juntzanh te' yechel Asera t'a yol sat heb' yet' pax juntzanh altar b'ob'il yuj heb' b'aj snhus inkienso."
+    },
+    {
+      "number": "9",
+      "text": "Ha t'a jun pekti' chi', a juntzanh chonhab' ayoch smuroal, ol kan tzinan. Icha ajnakkan tzinan schonhab' heb' heweo yet' heb' amorreo ayik yelnak heb' elelal yuj xiwelal t'a heb' ketisraelal t'a peka', icha chi' ol ajkanok."
+    },
+    {
+      "number": "10",
+      "text": "Yujto ix b'at ko Diosal satk'olal eyuuj, haton Jun koljinak onh, maxtzak he nakoti tato a t'ay ko kolnak ko b'a. Yuj chi' wach'chom tzeyawej juntzanh te' eyawb'en te' wach', te' tzeyik'kot t'a ch'ok nakional,"
+    },
+    {
+      "number": "11",
+      "text": "wach'chom t'a junnhej k'ual tzeyak' q'uib' te' yik xumakan te' t'a jun k'u chi', palta haxo yik ol jawok yaelal manhxa yanhal t'a eyib'anh, malaj tas ol eyik' t'a eyawb'en chi'."
+    },
+    {
+      "number": "12",
+      "text": "Ob'iltak heb' soldado skot t'a juntzanhxo chonhab', te niwan sb'isul heb', icha sk'anh sk'e waan ha' mar sk'anh skot heb'. Tz'el wal yaw juntzanh chonhab' chi' skoti, icha wal sk'anh sb'at ponholjok ha' niwak ha' sb'eyi."
+    },
+    {
+      "number": "13",
+      "text": "Wach'chom sk'anh skot heb', palta ayik ol kachjok heb' yuj Dios, ol b'at heb' elelal icha tz'aj yik'jib'at smatz'il ixim trigo yuj ik' t'a jolomtak witz. Icha tz'aj yik'jib'at lum pokok yuj chakxuxum ik', icha chi' ol aj heb'."
+    },
+    {
+      "number": "14",
+      "text": "Ha t'a yemk'ualil, te ay smay heb' ajk'ol chi' kilani, palta haxo yik sakb'i, manhxalaj heb' ayeq'ui. Icha chi' ol ajkan heb' tzonh elk'ani yet' pax heb' tzonh ixtani."
+    }
+  ]
 }

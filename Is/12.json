@@ -1,29 +1,33 @@
 {
-    "chapter": "12",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a jun pekti’ chi', ol ex b'itan icha tik: Mamin Jehová, skak' yuj diosal t'ayach. Wach'chom ix cot yowal a k'ol t'a quib'anh, palta toxo ix ek'b'ati, haxo ticnaik, wan ak'an sniwanil ko k'ool."
-        },
-        {
-            "number": "2",
-            "text": "Ach ko Diosal, ko Kolumal aji. Tzach kak'och yipoc ko k'ool, yuj chi' max onh xivlaj. Mamin Jehová, tzach ko b'itej, yujto a achnhej tzak' quip, tzonh a colanpaxi, xe chama."
-        },
-        {
-            "number": "3",
-            "text": "Icha stzalaj junok mach stacji sti' syuk'an ha ha' sk'eul sjaj, icha chi' ol ex tzalaj yuj he colnab'il ol yak' Jehová."
-        },
-        {
-            "number": "4",
-            "text": "Yuj chi' ha t'a jun pekti’ chi', ol eyal icha tik: Caq'ek yuj diosal t'a Jehová, kalek wach' lolonel t'ay. Calequel t'a skal junjun nación tastac ix sk'ulej, yic wach' snacot heb' jantac swach'il. Malaj junocxo lajan yet'oc."
-        },
-        {
-            "number": "5",
-            "text": "Conh b'itananhec t'a Jehová, yujto te niwan yelk'och tas ix sk'ulej, yowalil tz'ojtakajel t'a masanil yol yib'anhk’inal tik."
-        },
-        {
-            "number": "6",
-            "text": "Ha onh kajan onh t'a Sion tik, elokab' cav t'a tzalajk'olal, yujto a ko Diosal ayek' qued' a onh israel onh tik, Axonhej Ochi. Te niwan pax yelk'ochi, xe chama."
-        }
-    ]
+  "chapter": "12",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a jun pekti' chi', ol ex b'itan icha tik: Mamin Jehová, skak' yuj diosal t'ayach. Wach'chom ix kot yowal a k'ol t'a kib'anh, palta toxo ix ek'b'ati, haxo tiknaik, wan ak'an sniwanil ko k'ool."
+    },
+    {
+      "number": "2",
+      "text": "Ach ko Diosal, ko Kolumal aji. Tzach kak'och yipok ko k'ool, yuj chi' max onh xiwlaj. Mamin Jehová, tzach ko b'itej, yujto a achnhej tzak' kip, tzonh a kolanpaxi, xe chama."
+    },
+    {
+      "number": "3",
+      "text": "Icha stzalaj junok mach stakji sti' syuk'an ha ha' sk'eul sjaj, icha chi' ol ex tzalaj yuj he kolnab'il ol yak' Jehová."
+    },
+    {
+      "number": "4",
+      "text": "Yuj chi' ha t'a jun pekti' chi', ol eyal icha tik: Kaq'ek yuj diosal t'a Jehová, kalek wach' lolonel t'ay. Kalekel t'a skal junjun nakión tastak ix sk'ulej, yik wach' snakot heb' jantak swach'il. Malaj junokxo lajan yet'ok."
+    },
+    {
+      "number": "5",
+      "text": "Konh b'itananhek t'a Jehová, yujto te niwan yelk'och tas ix sk'ulej, yowalil tz'ojtakajel t'a masanil yol yib'anhk'inal tik."
+    },
+    {
+      "number": "6",
+      "text": "Ha onh kajan onh t'a Sion tik, elokab' kaw t'a tzalajk'olal, yujto a ko Diosal ayek' ket' a onh israel onh tik, Axonhej Ochi. Te niwan pax yelk'ochi, xe chama."
+    }
+  ]
 }

@@ -1,53 +1,57 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "¿Tas wal yuj tz'el wek'ek'oc yav heb' ch'oc chonhab'il sk'echaanh? ¿Tas wal yuj slajtiej sb'a heb' t'a junok tas manh ol tzak'wan heb' sb'oani?"
-        },
-        {
-            "number": "2",
-            "text": "Ha heb' winh rey yet' heb' yajal t'a juntzanh chonhab' chi', schichonoch sk'ool heb', junlajanxonhej syutej slajtian sb'a heb' yoch ajk'olal t'a Jehová yet' t'a Vinh Rey Sik'b'ilel yuj."
-        },
-        {
-            "number": "3",
-            "text": "Slaj yalan heb' icha tik: Quik'equel ko b'ha t'a yol sk'ab' Dios yic manhxalaj yalan yic t'ayonh, xchi heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha Jehová Yajal t'a satcha’anh tonhej stzetzaj wal heb' yuj, sb'uchji heb' yuj."
-        },
-        {
-            "number": "5",
-            "text": "Scot yowal t'a heb', xib'taj heb' yuj. Yed' yowal sk'ool ol yalan t'a heb' icha tik:"
-        },
-        {
-            "number": "6",
-            "text": "Toxo ix wak'och yopisio Vinh Rey t'a tzalan Sion, aton jun tzalan sik'b'ilel wuuj, xcham Jehová chi'."
-        },
-        {
-            "number": "7",
-            "text": "Axo Vinh Rey Sik'b'ilel chi' tz'alani: Swalkanel tastac ix sna Jehová. Ix yal t'ayin: Ha t'a jun k'u tik, tzin ch'oxeli to Vuninal ach."
-        },
-        {
-            "number": "8",
-            "text": "k'an t'ayin, ol wak'an juntzanh niwac chonhab' yet' masanil yol yib'anhk’inal tik t'ayach."
-        },
-        {
-            "number": "9",
-            "text": "Ol ak' yajalil t'a yib'anh heb' yet' wal a poder. Ol a satel heb' icha tz'aj smak'jipoj junok lum chen t'a junok k'een k'ococh, xchi t'ayin, xchi Vinh Uninab'il chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ha ticnaik jun, ex sreyal, ex yajalil juntzanh chonhab', jelanokab' tzeyutej he pensar, scham wal he k'ayb'an tas swala'."
-        },
-        {
-            "number": "11",
-            "text": "Hak'uequem he b'ha t'a Jehová t'a tzalajk'olal, ayokab' yelk'och t'a yol he sat."
-        },
-        {
-            "number": "12",
-            "text": "Emnaquil tzeyutej pax he b'a t'ay t'a smasanil he k'ool, yic max cot yowal t'ayex. Tato maay, ol ex satel yuj, yujto elanhchamel scot yowal. Te tzalajk'olal yic masanil heb' scol sb'ha t'a Jehová."
-        }
-    ]
+  "chapter": "2",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "¿Tas wal yuj tz'el wek'ek'ok yaw heb' ch'ok chonhab'il sk'echaanh? ¿Tas wal yuj slajtiej sb'a heb' t'a junok tas manh ol tzak'wan heb' sb'oani?"
+    },
+    {
+      "number": "2",
+      "text": "Ha heb' winh rey yet' heb' yajal t'a juntzanh chonhab' chi', schichonoch sk'ool heb', junlajanxonhej syutej slajtian sb'a heb' yoch ajk'olal t'a Jehová yet' t'a Winh Rey Sik'b'ilel yuj."
+    },
+    {
+      "number": "3",
+      "text": "Slaj yalan heb' icha tik: Kik'ekel ko b'a t'a yol sk'ab' Dios yik manhxalaj yalan yik t'ayonh, xchi heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha Jehová Yajal t'a satcha'anh tonhej stzetzaj wal heb' yuj, sb'uchji heb' yuj."
+    },
+    {
+      "number": "5",
+      "text": "Skot yowal t'a heb', xib'taj heb' yuj. Yet' yowal sk'ool ol yalan t'a heb' icha tik:"
+    },
+    {
+      "number": "6",
+      "text": "Toxo ix wak'och yopisio Winh Rey t'a tzalan Sion, haton jun tzalan sik'b'ilel wuuj, xcham Jehová chi'."
+    },
+    {
+      "number": "7",
+      "text": "Axo Winh Rey Sik'b'ilel chi' tz'alani: Swalkanel tastak ix sna Jehová. Ix yal t'ayin: Ha t'a jun k'u tik, tzin ch'oxeli to Wuninal ach."
+    },
+    {
+      "number": "8",
+      "text": "k'an t'ayin, ol wak'an juntzanh niwak chonhab' yet' masanil yol yib'anhk'inal tik t'ayach."
+    },
+    {
+      "number": "9",
+      "text": "Ol ak' yajalil t'a yib'anh heb' yet' wal a poder. Ol a satel heb' icha tz'aj smak'jipoj junok lum chen t'a junok k'een k'okoch, xchi t'ayin, xchi Winh Uninab'il chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ha tiknaik jun, ex sreyal, ex yajalil juntzanh chonhab', jelanokab' tzeyutej he pensar, scham wal he k'ayb'an tas swala'."
+    },
+    {
+      "number": "11",
+      "text": "Hak'uekem he b'a t'a Jehová t'a tzalajk'olal, ayokab' yelk'och t'a yol he sat."
+    },
+    {
+      "number": "12",
+      "text": "Emnakil tzeyutej pax he b'a t'ay t'a smasanil he k'ool, yik max kot yowal t'ayex. Tato maay, ol ex satel yuj, yujto elanhchamel skot yowal. Te tzalajk'olal yik masanil heb' skol sb'a t'a Jehová."
+    }
+  ]
 }

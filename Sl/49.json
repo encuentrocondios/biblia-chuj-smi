@@ -1,81 +1,85 @@
 {
-    "chapter": "49",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex anima ay t'a masanil yol yib'anhk’inal tik, scham wal eyab'an jun lolonel tik."
-        },
-        {
-            "number": "2",
-            "text": "Ab'ec ex b'eyum yet' ex meb'a', mach ex ay eyelk'ochi yet' ex comon anima ex."
-        },
-        {
-            "number": "3",
-            "text": "Ol in lolon t'a jelanil, ol wal juntzanh pensar ajaltac snachajeli."
-        },
-        {
-            "number": "4",
-            "text": "Ol in maclej wal wab' slolonel heb' jelan. Ol in b'itej tas ix in k'ayb'ej chi' yet' sonal te' arpa."
-        },
-        {
-            "number": "5",
-            "text": "¿Tas yuj ol in xiwoc ayic ol ja juntzanh sk'ual yaelal t'ayin, ayic ol k'och oyan heb' ajk'ool t'ayin?"
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' ajk'ol chi', a sb'eyumal heb' syak'och yipoc sk'ool, syik'anchaanh sb'a heb' yujto manh jantacoc tas ay t'a heb'."
-        },
-        {
-            "number": "7",
-            "text": "Palta malaj junok mach syal scolan yetanimail t'a yol yico', ma smananel sk'inal d'ha Dios."
-        },
-        {
-            "number": "8",
-            "text": "Max yal-laj ko mananel ko k 'inal yic wach' ayonnhej eq'ui, yic max onh chami, yujto max techajlaj ko tupani."
-        },
-        {
-            "number": "9",
-            "text": "Ina squila' to junlajan scham anima smasanil. Scham heb' jelan, schampax heb' man jelanoc, haxo sb'eyumal heb', ch'oc mach b'aj skani."
-        },
-        {
-            "number": "10",
-            "text": "Wach'chom manh jantacoc ko lu'um, palta nab'anhej. Ha b'aj tzonh mucchaji, ata' ayonnhejek' t'a masanil tiempo. Junelnhej ol onh kannhej ta'."
-        },
-        {
-            "number": "11",
-            "text": "Ha onh anima onh tik, manh masaniloc tiempo ayonhek' t'a yol yib'anhk’inal tik. Wach'chom yel te b'eyum onh, palta tzonh chamnhej icha scham nok' nok'."
-        },
-        {
-            "number": "12",
-            "text": "Icha pax chi' tz'aj satel heb' syipk'olej sb'a, aton heb' syaloch sb'a wach'il."
-        },
-        {
-            "number": "13",
-            "text": "Ha juntzanh anima chi', a chamel ayoch yilumaloc heb'. Ha tz'ik'anb'at heb' b'aj smucchaj chamnac. Ayic ol sacb'oc, t'a sk'ual yic ol onh ch'olb'itajoc, a heb' anima wach' spensar ol ak'an ganar t'a yichanh heb'. k'ojank'olal ol satem sniwanil heb', haxo b'aj smucchaj chamnac ol och skajnub'oc heb'."
-        },
-        {
-            "number": "14",
-            "text": "Ha in xo jun, ha Dios ol in ik'ankanel t'a yol sk'ab' chamel, ol in yik'anb'at yet'oc."
-        },
-        {
-            "number": "15",
-            "text": "Ex wetanimail, manh eyak' pensar yuj heb' tz'och b'eyumal, heb' ste k'echaanh sb'eyumal t'a spat."
-        },
-        {
-            "number": "16",
-            "text": "Yuj chi' manh he na'a, yujto ayic ol cham heb', malaj jab'oc tas ol yik'b'at heb' yet'oc, manh ol b'atlaj sb'eyumal heb' chi' yet'oc."
-        },
-        {
-            "number": "17",
-            "text": "Wach'chom te tzalajk'olal yic heb' ayic pitzan heb', ma tz'alji pax wach' lolonel t'a heb' yuj heb' yetanimail yuj sb'eyumal chi',"
-        },
-        {
-            "number": "18",
-            "text": "ol ja sk'ual scham heb', icha ix aj scham heb' smam yicham heb', manhxo ol yil-laj sakil k'inal heb'."
-        },
-        {
-            "number": "19",
-            "text": "Ha heb' anima b'eyum, tato max nachajel yuj heb' to ek'elb'anhej yek' masanil tas, lajan ol aj scham heb' icha tz'aj scham nok' nok'."
-        }
-    ]
+  "chapter": "49",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex anima ay t'a masanil yol yib'anhk'inal tik, scham wal eyab'an jun lolonel tik."
+    },
+    {
+      "number": "2",
+      "text": "Ab'ek ex b'eyum yet' ex meb'a', mach ex ay eyelk'ochi yet' ex komon anima ex."
+    },
+    {
+      "number": "3",
+      "text": "Ol in lolon t'a jelanil, ol wal juntzanh pensar ajaltak snachajeli."
+    },
+    {
+      "number": "4",
+      "text": "Ol in maklej wal wab' slolonel heb' jelan. Ol in b'itej tas ix in k'ayb'ej chi' yet' sonal te' arpa."
+    },
+    {
+      "number": "5",
+      "text": "¿Tas yuj ol in xiwok ayik ol ja juntzanh sk'ual yaelal t'ayin, ayik ol k'och oyan heb' ajk'ool t'ayin?"
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' ajk'ol chi', a sb'eyumal heb' syak'och yipok sk'ool, syik'anchaanh sb'a heb' yujto manh jantakok tas ay t'a heb'."
+    },
+    {
+      "number": "7",
+      "text": "Palta malaj junok mach syal skolan yetanimail t'a yol yiko', ma smananel sk'inal t'a Dios."
+    },
+    {
+      "number": "8",
+      "text": "Max yal-laj ko mananel ko k 'inal yik wach' ayonnhej eq'ui, yik max onh chami, yujto max techajlaj ko tupani."
+    },
+    {
+      "number": "9",
+      "text": "Ina skila' to junlajan scham anima smasanil. Scham heb' jelan, schampax heb' man jelanok, haxo sb'eyumal heb', ch'ok mach b'aj skani."
+    },
+    {
+      "number": "10",
+      "text": "Wach'chom manh jantakok ko lu'um, palta nab'anhej. Ha b'aj tzonh mukchaji, ata' ayonnhejek' t'a masanil tiempo. Junelnhej ol onh kannhej ta'."
+    },
+    {
+      "number": "11",
+      "text": "Ha onh anima onh tik, manh masanilok tiempo ayonhek' t'a yol yib'anhk'inal tik. Wach'chom yel te b'eyum onh, palta tzonh chamnhej icha scham nok' nok'."
+    },
+    {
+      "number": "12",
+      "text": "Icha pax chi' tz'aj satel heb' syipk'olej sb'a, haton heb' syaloch sb'a wach'il."
+    },
+    {
+      "number": "13",
+      "text": "Ha juntzanh anima chi', a chamel ayoch yilumalok heb'. Ha tz'ik'anb'at heb' b'aj smukchaj chamnak. Ayik ol sakb'ok, t'a sk'ual yik ol onh ch'olb'itajok, a heb' anima wach' spensar ol ak'an ganar t'a yichanh heb'. k'ojank'olal ol satem sniwanil heb', haxo b'aj smukchaj chamnak ol och skajnub'ok heb'."
+    },
+    {
+      "number": "14",
+      "text": "Ha in xo jun, ha Dios ol in ik'ankanel t'a yol sk'ab' chamel, ol in yik'anb'at yet'ok."
+    },
+    {
+      "number": "15",
+      "text": "Ex wetanimail, manh eyak' pensar yuj heb' tz'och b'eyumal, heb' ste k'echaanh sb'eyumal t'a spat."
+    },
+    {
+      "number": "16",
+      "text": "Yuj chi' manh he na'a, yujto ayik ol cham heb', malaj jab'ok tas ol yik'b'at heb' yet'ok, manh ol b'atlaj sb'eyumal heb' chi' yet'ok."
+    },
+    {
+      "number": "17",
+      "text": "Wach'chom te tzalajk'olal yik heb' ayik pitzan heb', ma tz'alji pax wach' lolonel t'a heb' yuj heb' yetanimail yuj sb'eyumal chi',"
+    },
+    {
+      "number": "18",
+      "text": "ol ja sk'ual scham heb', icha ix aj scham heb' smam yicham heb', manhxo ol yil-laj sakil k'inal heb'."
+    },
+    {
+      "number": "19",
+      "text": "Ha heb' anima b'eyum, tato max nachajel yuj heb' to ek'elb'anhej yek' masanil tas, lajan ol aj scham heb' icha tz'aj scham nok' nok'."
+    }
+  ]
 }

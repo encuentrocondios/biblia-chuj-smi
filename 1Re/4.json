@@ -1,125 +1,129 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix och winhaj Salomón reyal t'a smasanil heb' yetisraelal."
-        },
-        {
-            "number": "2",
-            "text": "Ha heb' winh ayoch yet' winh t'a yopisio, aton heb' winh tik: Ha winhaj Azarías yuninal winhaj Sadoc ayoch sacerdoteal. Ha winhaj Elihoref yet' winhaj Ahías, heb' winh yuninal winhaj Sisa, a heb' winh stz'ib'an yab'ixal tas sk'ulej winh rey chi'. Ha winhaj Josafat yuninal winhaj Ahilud, a winh tz'ib'um yaj t'a winh rey chi'. Ha winhaj Benaía yuninal winhaj Joiada, a winh ayoch yajaliloc heb' soldado. Ha winhaj Sadoc yet' winhaj Abiatar, a heb' winh sacerdote yaji. Ha winhaj Azarías yuninal winhaj Natán, yajal yaj winh t'a skal heb' winh gobernador. Ha winhaj Zabud yuninal pax winhaj Natán chi', sacerdote yaj winh, ak'um pax razón yaj winh t'a winh rey chi'. Ha winhaj Ahisar tz'ilan tas ay t'a spalacio winh rey chi'. Axo winhaj Adoniram yuninal winhaj Abda, a winh tz'ilan heb' munlajwum yowalil smunlaji."
-        },
-        {
-            "number": "3",
-            "text": "Ha winhaj Salomón chi', ay lajchawanh heb' winh gobernador t'a masanil yol smacb'en Israel tz'ak'an serwil winh. Ha yopisio heb' winh chi', junjun heb' winh t'a junjun ujal t'a yol ab'il, syik'cot heb' winh tastac syab'lej winh rey chi' yet' heb' ayek' yet' winh t'a spalacio."
-        },
-        {
-            "number": "4",
-            "text": "Ha lajchawanh heb' winh gobernador chi', aton heb' winh tik: Vinhaj Ben-hur, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a tzalquixtac t'a yol yic Efraín."
-        },
-        {
-            "number": "5",
-            "text": "Vinhaj Ben-decar, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a juntzanh chonhab' tik: Macaz, Saalbim, Bet-semes, Elón yet' Bet-hanán."
-        },
-        {
-            "number": "6",
-            "text": "Ha winhaj Ben-hesed, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a Arubot, t'a Soco yet' t'a masanil yol yic Hefer."
-        },
-        {
-            "number": "7",
-            "text": "Ha winhaj Ben-abinadab, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a masanil yol smacb'en Dor, a ix yetb'eyum winh, aton ix Tafat yisil winhaj Salomón chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha winhaj Baana yuninal winhaj Ahilud, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a Taanac, Meguido yet' t'a masanil yol yic Bet-seán. Ha jun chonhab' chi' junnhej yaj yet' Saretán, t'a yalanhemta Jezreel, sb'atnhej t'a Bet-seán masanto sk'och t'a Abel-mehola yet' t'a sk'axepalb'at Jocmeam."
-        },
-        {
-            "number": "9",
-            "text": "Ha winhaj Ben-geber, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a Ramot t'a yol yic Galaad yet' t'a masanil chonhab' t'a yol yic Galaad chi', aton juntzanh schonhab' heb' yinhtilalkan Jair yuninal Manasés yet' pax t'a yol smacb'en Argob t'a yol yic Basán. Ata' ay 60 niwac chonhab' ayoch smuroal, ayoch k'een bronce tzek' k'atan syamnub'aloc spuertail."
-        },
-        {
-            "number": "10",
-            "text": "Ha winhaj Ahinadab yuninal winhaj Iddo, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a Mahanaim."
-        },
-        {
-            "number": "11",
-            "text": "Ha winhaj Ahimaas, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a yol yic Neftalí. Aton jun winh chi' ix yik'laj sb'a yet' ix Basemat yisil winhaj Salomón."
-        },
-        {
-            "number": "12",
-            "text": "Ha winhaj Baana yuninal winhaj Husai, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a yol yic Aser yet' t'a Alot."
-        },
-        {
-            "number": "13",
-            "text": "Ha winhaj Josafat yuninal winhaj Parúa, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a yol yic Isacar."
-        },
-        {
-            "number": "14",
-            "text": "Ha winhaj Simei yuninal winhaj Ela, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a yol yic Benjamín."
-        },
-        {
-            "number": "15",
-            "text": "Ha winhaj Geber yuninal winhaj Uri, a winh tz'ik'ancot tastac tz'ab'laj chi' t'a yol yic Galaad, aton b'aj ek'nac schonhab' winhaj Sehón sreyal heb' amorreo yet' winhaj Og sreyal Basán. Anhej winhaj Geber chi' yajal yaj t'a jun makan lum lum chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ha heb' aj Judá yet' heb' aj Israel maxtzac b'ischaji jantac sb'isul heb', lajan heb' icha yarenail sti' ha' mar. Manh jantacoc tas swaji yet' tas tz'uk'ji, tzalajk'olalnhej yajek' heb'."
-        },
-        {
-            "number": "17",
-            "text": "Ha winhaj Salomón rey t'a yib'anh masanil juntzanh chonhab' chi'. Scotnhej t'ha ha' Éufrates masanto sja t'a schonhab' heb' filisteo yet' t'a smojonal yic Egipto. Ha masanil juntzanh chonhab' chi', junjun ab'il syak'an k'een tumin heb' yic stupan heb' b'aj aykan t'a yalanh schecnab'il winhaj Salomón chi' yacb'an pitzan winh."
-        },
-        {
-            "number": "18",
-            "text": "Ha masanil tastac syab'lej winhaj Salomón chi' t'a junjun k'u yet' heb' kajan yet' winh, aton tik: 70 quintal ixim harina te chok' yaji, 140 quintal pax ixim weech yaji,"
-        },
-        {
-            "number": "19",
-            "text": "lajunhwanh nok' mam wakax te b'ak'uech, 20 pax nok' libre yaj t'a yol potrero yet' 100 nok' kalnel. Ch'oc pax yaj nok' k'ultaquil chej, nok' ch'ucul yet' nok' much te b'ak'uech."
-        },
-        {
-            "number": "20",
-            "text": "Ix yak' wal yajalil winhaj Salomón chi' t'a yib'anh lum lum schacot t'a stitac ha' Éufrates, scotnhej t'a Tifsa masanto tz'emk'och t'a Gaza. Yajal yaj winh t'a yib'anh masanil heb' winh sreyal juntzanh nación chi'. Ay junk'olal t'a skal winh yet' juntzanh chonhab' ay t'a spatictac chi'."
-        },
-        {
-            "number": "21",
-            "text": "Ayic pitzanto winhaj Salomón chi', masanil anima t'a yol yic Judá yet' Israel scotnhej t'a Dan masanto t'a Beerseba, junk'olal yaj heb'. Junjun heb' ay te' yavb'ente' t'a spatictac spat."
-        },
-        {
-            "number": "22",
-            "text": "Ha winhaj Salomón chi', ay pax juntzanh pat b'aj ayoch 40 mil nok' chej stok'an carruaje yic owal yuj winh. Ay pax 12 mil heb' soldado sk'e t'a yib'anh nok' chej chi'."
-        },
-        {
-            "number": "23",
-            "text": "Masanil heb' winh tz'ik'ancot tastac syab'lej winhaj rey Salomón yet' masanil heb' winh swa yet' winh, scham wal yilan heb' winh tato tz'akan syab' t'a jun uj chi'."
-        },
-        {
-            "number": "24",
-            "text": "Ha heb' winh ayoch t'a yib'anh yik'ancot juntzanh chi', syik'paxcot ixim cebada yet' anh yanh nok' chej chi' heb' winh yet' yic juntzanhxo nok' chej tok'um ikatz yalnhej b'aj ay."
-        },
-        {
-            "number": "25",
-            "text": "Manhxo jantacoc sjelanil winhaj Salomón chi' ix ak'ji yuj Dios. Manhxo alchajb'enoc jantac sjelanil winh chi'."
-        },
-        {
-            "number": "26",
-            "text": "Ha sjelanil winh chi', te ek'to t'a yichanh yic heb' aj Egipto yet' t'a yichanh yic heb' ay b'aj sjawi k'u."
-        },
-        {
-            "number": "27",
-            "text": "Te jelan winh t'a yib'anh juntzanh heb' winh winak b'inajnac yuj sjelanil, aton winhaj Etán yinhtilal winhaj Zera, winhaj Hemán, winhaj Calcol yet' winhaj Darda, aton heb' winh yuninal winhaj Mahol. Ha sb'inajnaquil sjelanil winh chi', ix k'och spekal t'a masanil juntzanh chonhab' t'a spatic yichanh Israel."
-        },
-        {
-            "number": "28",
-            "text": "Ha winhaj Salomón chi', oxe' mil k'ayb'ub'al yic jelanil ix yalkan winh, ix sb'oanpax mil cinco b'it winh."
-        },
-        {
-            "number": "29",
-            "text": "Ix lolon winh t'a yib'anh te te' yet' t'a yib'anh tas tz'avchaji. Ix schael yich winh slolon t'a te' k'ute' ay t'a Líbano masanto t'a yib'anh te' hisopo sq'uib'k'e t'a spatictac te' pat. Ix lolonpax winh t'a yib'anh juntzanh nok' chanhe' yoc, nok' much, nok' tzek' t'a sat lu'um yet' t'a yib'anh nok' chay ay t'a yoltac ha ha'."
-        },
-        {
-            "number": "30",
-            "text": "Ha heb' winh sreyal masanil juntzanh nación ix ab'an jantac sjelanil winh, ix scheccot heb' anima heb' winh yic tzul yab'an sjelanil winh heb'."
-        }
-    ]
+  "chapter": "4",
+  "book": "1 REYES",
+  "book_short": "1Re",
+  "aligned": false,
+  "es_verses": 34,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix och winhaj Salomón reyal t'a smasanil heb' yetisraelal."
+    },
+    {
+      "number": "2",
+      "text": "Ha heb' winh ayoch yet' winh t'a yopisio, haton heb' winh tik: Ha winhaj Azarías yuninal winhaj Sadoc ayoch sakerdoteal. Ha winhaj Elihoref yet' winhaj Ahías, heb' winh yuninal winhaj Sisa, a heb' winh stz'ib'an yab'ixal tas sk'ulej winh rey chi'. Ha winhaj Josafat yuninal winhaj Ahilud, a winh tz'ib'um yaj t'a winh rey chi'. Ha winhaj Benaía yuninal winhaj Joiada, a winh ayoch yajalilok heb' soldado. Ha winhaj Sadoc yet' winhaj Abiatar, a heb' winh sakerdote yaji. Ha winhaj Azarías yuninal winhaj Natán, yajal yaj winh t'a skal heb' winh gobernador. Ha winhaj Zabud yuninal pax winhaj Natán chi', sakerdote yaj winh, ak'um pax razón yaj winh t'a winh rey chi'. Ha winhaj Ahisar tz'ilan tas ay t'a spalakio winh rey chi'. Axo winhaj Adoniram yuninal winhaj Abda, a winh tz'ilan heb' munlajwum yowalil smunlaji."
+    },
+    {
+      "number": "3",
+      "text": "Ha winhaj Salomón chi', ay lajchawanh heb' winh gobernador t'a masanil yol smakb'en Israel tz'ak'an serwil winh. Ha yopisio heb' winh chi', junjun heb' winh t'a junjun ujal t'a yol ab'il, syik'kot heb' winh tastak syab'lej winh rey chi' yet' heb' ayek' yet' winh t'a spalakio."
+    },
+    {
+      "number": "4",
+      "text": "Ha lajchawanh heb' winh gobernador chi', haton heb' winh tik: Winhaj Ben-hur, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a tzalkixtak t'a yol yik Efraín."
+    },
+    {
+      "number": "5",
+      "text": "Winhaj Ben-dekar, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a juntzanh chonhab' tik: Macaz, Saalbim, Bet-semes, Elón yet' Bet-hanán."
+    },
+    {
+      "number": "6",
+      "text": "Ha winhaj Ben-hesed, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a Arubot, t'a Soco yet' t'a masanil yol yik Hefer."
+    },
+    {
+      "number": "7",
+      "text": "Ha winhaj Ben-abinadab, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a masanil yol smakb'en Dor, a ix yetb'eyum winh, haton ix Tafat yisil winhaj Salomón chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha winhaj Baana yuninal winhaj Ahilud, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a Taanac, Meguido yet' t'a masanil yol yik Bet-seán. Ha jun chonhab' chi' junnhej yaj yet' Saretán, t'a yalanhemta Jezreel, sb'atnhej t'a Bet-seán masanto sk'och t'a Abel-mehola yet' t'a sk'axepalb'at Jokmeam."
+    },
+    {
+      "number": "9",
+      "text": "Ha winhaj Ben-geber, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a Ramot t'a yol yik Galaad yet' t'a masanil chonhab' t'a yol yik Galaad chi', haton juntzanh schonhab' heb' yinhtilalkan Jair yuninal Manasés yet' pax t'a yol smakb'en Argob t'a yol yik Basán. Ata' ay 60 niwak chonhab' ayoch smuroal, ayoch k'een bronke tzek' k'atan syamnub'alok spuertail."
+    },
+    {
+      "number": "10",
+      "text": "Ha winhaj Ahinadab yuninal winhaj Iddo, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a Mahanaim."
+    },
+    {
+      "number": "11",
+      "text": "Ha winhaj Ahimaas, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a yol yik Neftalí. Haton jun winh chi' ix yik'laj sb'a yet' ix Basemat yisil winhaj Salomón."
+    },
+    {
+      "number": "12",
+      "text": "Ha winhaj Baana yuninal winhaj Husai, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a yol yik Aser yet' t'a Alot."
+    },
+    {
+      "number": "13",
+      "text": "Ha winhaj Josafat yuninal winhaj Parúa, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a yol yik Isacar."
+    },
+    {
+      "number": "14",
+      "text": "Ha winhaj Simei yuninal winhaj Ela, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a yol yik Benjamín."
+    },
+    {
+      "number": "15",
+      "text": "Ha winhaj Geber yuninal winhaj Uri, a winh tz'ik'ankot tastak tz'ab'laj chi' t'a yol yik Galaad, haton b'aj ek'nak schonhab' winhaj Sehón sreyal heb' amorreo yet' winhaj Og sreyal Basán. Anhej winhaj Geber chi' yajal yaj t'a jun makan lum lum chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ha heb' aj Judá yet' heb' aj Israel maxtzak b'ischaji jantak sb'isul heb', lajan heb' icha yarenail sti' ha' mar. Manh jantakok tas swaji yet' tas tz'uk'ji, tzalajk'olalnhej yajek' heb'."
+    },
+    {
+      "number": "17",
+      "text": "Ha winhaj Salomón rey t'a yib'anh masanil juntzanh chonhab' chi'. Skotnhej t'a ha' Éufrates masanto sja t'a schonhab' heb' filisteo yet' t'a smojonal yik Egipto. Ha masanil juntzanh chonhab' chi', junjun ab'il syak'an k'een tumin heb' yik stupan heb' b'aj aykan t'a yalanh scheknab'il winhaj Salomón chi' yakb'an pitzan winh."
+    },
+    {
+      "number": "18",
+      "text": "Ha masanil tastak syab'lej winhaj Salomón chi' t'a junjun k'u yet' heb' kajan yet' winh, haton tik: 70 kintal ixim harina te chok' yaji, 140 kintal pax ixim weech yaji,"
+    },
+    {
+      "number": "19",
+      "text": "lajunhwanh nok' mam wakax te b'ak'uech, 20 pax nok' libre yaj t'a yol potrero yet' 100 nok' kalnel. Ch'ok pax yaj nok' k'ultakil chej, nok' ch'ukul yet' nok' much te b'ak'uech."
+    },
+    {
+      "number": "20",
+      "text": "Ix yak' wal yajalil winhaj Salomón chi' t'a yib'anh lum lum schakot t'a stitak ha' Éufrates, skotnhej t'a Tifsa masanto tz'emk'och t'a Gaza. Yajal yaj winh t'a yib'anh masanil heb' winh sreyal juntzanh nakión chi'. Ay junk'olal t'a skal winh yet' juntzanh chonhab' ay t'a spatiktak chi'."
+    },
+    {
+      "number": "21",
+      "text": "Ayik pitzanto winhaj Salomón chi', masanil anima t'a yol yik Judá yet' Israel skotnhej t'a Dan masanto t'a Beerseba, junk'olal yaj heb'. Junjun heb' ay te' yawb'ente' t'a spatiktak spat."
+    },
+    {
+      "number": "22",
+      "text": "Ha winhaj Salomón chi', ay pax juntzanh pat b'aj ayoch 40 mil nok' chej stok'an karruaje yik owal yuj winh. Ay pax 12 mil heb' soldado sk'e t'a yib'anh nok' chej chi'."
+    },
+    {
+      "number": "23",
+      "text": "Masanil heb' winh tz'ik'ankot tastak syab'lej winhaj rey Salomón yet' masanil heb' winh swa yet' winh, scham wal yilan heb' winh tato tz'akan syab' t'a jun uj chi'."
+    },
+    {
+      "number": "24",
+      "text": "Ha heb' winh ayoch t'a yib'anh yik'ankot juntzanh chi', syik'paxkot ixim kebada yet' anh yanh nok' chej chi' heb' winh yet' yik juntzanhxo nok' chej tok'um ikatz yalnhej b'aj ay."
+    },
+    {
+      "number": "25",
+      "text": "Manhxo jantakok sjelanil winhaj Salomón chi' ix ak'ji yuj Dios. Manhxo alchajb'enok jantak sjelanil winh chi'."
+    },
+    {
+      "number": "26",
+      "text": "Ha sjelanil winh chi', te ek'to t'a yichanh yik heb' aj Egipto yet' t'a yichanh yik heb' ay b'aj sjawi k'u."
+    },
+    {
+      "number": "27",
+      "text": "Te jelan winh t'a yib'anh juntzanh heb' winh winak b'inajnak yuj sjelanil, haton winhaj Etán yinhtilal winhaj Zera, winhaj Hemán, winhaj Calcol yet' winhaj Darda, haton heb' winh yuninal winhaj Mahol. Ha sb'inajnakil sjelanil winh chi', ix k'och spekal t'a masanil juntzanh chonhab' t'a spatik yichanh Israel."
+    },
+    {
+      "number": "28",
+      "text": "Ha winhaj Salomón chi', oxe' mil k'ayb'ub'al yik jelanil ix yalkan winh, ix sb'oanpax mil kinko b'it winh."
+    },
+    {
+      "number": "29",
+      "text": "Ix lolon winh t'a yib'anh te te' yet' t'a yib'anh tas tz'awchaji. Ix schael yich winh slolon t'a te' k'ute' ay t'a Líbano masanto t'a yib'anh te' hisopo sq'uib'k'e t'a spatiktak te' pat. Ix lolonpax winh t'a yib'anh juntzanh nok' chanhe' yok, nok' much, nok' tzek' t'a sat lu'um yet' t'a yib'anh nok' chay ay t'a yoltak ha ha'."
+    },
+    {
+      "number": "30",
+      "text": "Ha heb' winh sreyal masanil juntzanh nakión ix ab'an jantak sjelanil winh, ix schekkot heb' anima heb' winh yik tzul yab'an sjelanil winh heb'."
+    }
+  ]
 }

@@ -1,61 +1,65 @@
 {
-    "chapter": "12",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Masanil tas sk'ulej chonhab' Efraín, nab'anhej. Tonhej syixtejb'at sb'a. Ste k'ewal chaanh t'a ixtoj anima. Comonxonhej sb'o strato yet' heb' aj Asiria, syak'anpaxb'at aceite heb' yic smontan Egipto, xchi Jehová."
-        },
-        {
-            "number": "2",
-            "text": "Ha heb' aj Judá ay smul heb' t'a yol sat Jehová chi'. Ha ol ak'anoch yaelal t'a schonhab' winhaj Jacob yuj sb'eyb'al. Ol stup t'a heb', icha wal tas sb'eyb'alej heb'."
-        },
-        {
-            "number": "3",
-            "text": "Inatax ayic manto aljoc winhaj Jacob chi', syamnac yich yoc winh yuk'tac winh, haxo yic icham winacxo winh, stelajnac sb'a winh yet' Dios."
-        },
-        {
-            "number": "4",
-            "text": "Stelajnac sb'a winh yet' Dios yet' jun ángel, masanto yak'nac ganar jun ángel chi' winh. Ok'nac winh, sk'anannac swach'k'olal Dios winh t'a yib'anh. Ha t'a Betel sch'oxnac sb'ha Dios t'a winh, lolonnac winh yet' ta'."
-        },
-        {
-            "number": "5",
-            "text": "Ha Jehová Yajal t'a Smasanil, aton sb'i b'inajnac."
-        },
-        {
-            "number": "6",
-            "text": "Palta a ex israel ex tik, meltzajanhec t'a ko Diosal. k'anab'ajum tzeyutej he b'a t'ay, tojolnhej tzeyutej he b'eyb'al. Ayokab'nhej och yipoc he k'ool."
-        },
-        {
-            "number": "7",
-            "text": "Icha tik yalan Jehová: Ha heb' chonhwajum yic Efraín, a echlab' manh tz'akanok sk'an heb', yujto scham wal heb' yelk'ani."
-        },
-        {
-            "number": "8",
-            "text": "Syal heb' icha tik: Wach'chom toxo onh och b'eyumal, wach'chom b'eyum onhxo, palta malaj mach syal scot yowal t'ayonh, yic syalan heb' to onh och b'eyumal yuj kak'an musansatil heb' anima, xchi heb', xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Syalanxi Jehová chi' icha tik: Ha in Jehová in, atax yic ayex ek' t'a Egipto he Diosal in. Ol ex wak' kajnaj junelxo t'a yoltac mantiado, icha t'a juntzanh k'ual ayic molan ex ek' t'a tzinan lu'um."
-        },
-        {
-            "number": "10",
-            "text": "Ha in tik ix in lolon t'a heb' in chekab'. Tzijtum sb'isul tas ix wak' yil heb'. Ha heb' chi' ix wak' alanel in k'ayb'ub'al t'a ch'oxnab'ilal."
-        },
-        {
-            "number": "11",
-            "text": "Ha t'a Galaad ay sdiosal heb' ch'oc chonhab'il, palta manhxa jab'oc yelk'och ol ajkanoc. Ha t'a Gilgal syak' nok' wakax heb' t'a silab'il, palta lajanxo ol ajkan yaltar heb' icha k'een k'een molb'ilk'e b'ulan t'a kal munlajel, xchi Jehová."
-        },
-        {
-            "number": "12",
-            "text": "Ha winhaj Jacob, b'atnakkan winh elelal t'a yoltac yic Aram. Ata' ochnac winh t'a tanhwoj kalnel yuj yik'an ix yetb'eyum winh."
-        },
-        {
-            "number": "13",
-            "text": "Ha yet' jun schekab' yik'naquelta chonhab' Israel Jehová t'a Egipto. Anheja' yet' jun schekab' chi', stanhwejnhej."
-        },
-        {
-            "number": "14",
-            "text": "Palta a wal anima yic Efraín, ix stzuntzejcot yowal sk'ol Jehová heb'. Ix yak' chab'ax sk'ol heb'. Yuj chi' ol yak' Jehová chi' stupel heb' jantac chukal ix sk'ulej, anheja' yuj schukal heb' chi' ol em t'a yib'anh."
-        }
-    ]
+  "chapter": "12",
+  "book": "OSEAS",
+  "book_short": "Os",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Masanil tas sk'ulej chonhab' Efraín, nab'anhej. Tonhej syixtejb'at sb'a. Ste k'ewal chaanh t'a ixtoj anima. Komonxonhej sb'o strato yet' heb' aj Asiria, syak'anpaxb'at akeite heb' yik smontan Egipto, xchi Jehová."
+    },
+    {
+      "number": "2",
+      "text": "Ha heb' aj Judá ay smul heb' t'a yol sat Jehová chi'. Ha ol ak'anoch yaelal t'a schonhab' winhaj Jacob yuj sb'eyb'al. Ol stup t'a heb', icha wal tas sb'eyb'alej heb'."
+    },
+    {
+      "number": "3",
+      "text": "Inatax ayik manto aljok winhaj Jacob chi', syamnak yich yok winh yuk'tak winh, haxo yik icham winakxo winh, stelajnak sb'a winh yet' Dios."
+    },
+    {
+      "number": "4",
+      "text": "Stelajnak sb'a winh yet' Dios yet' jun ángel, masanto yak'nak ganar jun ángel chi' winh. Ok'nak winh, sk'anannak swach'k'olal Dios winh t'a yib'anh. Ha t'a Betel sch'oxnak sb'a Dios t'a winh, lolonnak winh yet' ta'."
+    },
+    {
+      "number": "5",
+      "text": "Ha Jehová Yajal t'a Smasanil, haton sb'i b'inajnak."
+    },
+    {
+      "number": "6",
+      "text": "Palta a ex israel ex tik, meltzajanhek t'a ko Diosal. k'anab'ajum tzeyutej he b'a t'ay, tojolnhej tzeyutej he b'eyb'al. Ayokab'nhej och yipok he k'ool."
+    },
+    {
+      "number": "7",
+      "text": "Icha tik yalan Jehová: Ha heb' chonhwajum yik Efraín, a echlab' manh tz'akanok sk'an heb', yujto scham wal heb' yelk'ani."
+    },
+    {
+      "number": "8",
+      "text": "Syal heb' icha tik: Wach'chom toxo onh och b'eyumal, wach'chom b'eyum onhxo, palta malaj mach syal skot yowal t'ayonh, yik syalan heb' to onh och b'eyumal yuj kak'an musansatil heb' anima, xchi heb', xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Syalanxi Jehová chi' icha tik: Ha in Jehová in, atax yik ayex ek' t'a Egipto he Diosal in. Ol ex wak' kajnaj junelxo t'a yoltak mantiado, icha t'a juntzanh k'ual ayik molan ex ek' t'a tzinan lu'um."
+    },
+    {
+      "number": "10",
+      "text": "Ha in tik ix in lolon t'a heb' in chekab'. Tzijtum sb'isul tas ix wak' yil heb'. Ha heb' chi' ix wak' alanel in k'ayb'ub'al t'a ch'oxnab'ilal."
+    },
+    {
+      "number": "11",
+      "text": "Ha t'a Galaad ay sdiosal heb' ch'ok chonhab'il, palta manhxa jab'ok yelk'och ol ajkanok. Ha t'a Gilgal syak' nok' wakax heb' t'a silab'il, palta lajanxo ol ajkan yaltar heb' icha k'een k'een molb'ilk'e b'ulan t'a kal munlajel, xchi Jehová."
+    },
+    {
+      "number": "12",
+      "text": "Ha winhaj Jacob, b'atnakkan winh elelal t'a yoltak yik Aram. Ata' ochnak winh t'a tanhwoj kalnel yuj yik'an ix yetb'eyum winh."
+    },
+    {
+      "number": "13",
+      "text": "Ha yet' jun schekab' yik'nakelta chonhab' Israel Jehová t'a Egipto. Anheja' yet' jun schekab' chi', stanhwejnhej."
+    },
+    {
+      "number": "14",
+      "text": "Palta a wal anima yik Efraín, ix stzuntzejkot yowal sk'ol Jehová heb'. Ix yak' chab'ax sk'ol heb'. Yuj chi' ol yak' Jehová chi' stupel heb' jantak chukal ix sk'ulej, anheja' yuj schukal heb' chi' ol em t'a yib'anh."
+    }
+  ]
 }

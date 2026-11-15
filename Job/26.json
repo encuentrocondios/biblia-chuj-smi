@@ -1,61 +1,65 @@
 {
-    "chapter": "26",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi winhaj Job chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Yipk'olal ix kolwaj a lolonel ix al t'ayin t'a in cusk'olal tik, yuj am to tzila' to manhxalaj wip."
-        },
-        {
-            "number": "3",
-            "text": "Wach' jun, syal ak'an in razón, tzin a k'ayb'an a in malaj in pensar tik."
-        },
-        {
-            "number": "4",
-            "text": "¿Mach ix lolon t'a a pensar yuj chi' tzala'? ¿Mach ix alan t'ayach, yuj chi' tzal icha chi'?"
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' chamnac ayek' t'a sjulal yich ha' mar, tz'ib'xi heb' yuj xiwelal."
-        },
-        {
-            "number": "6",
-            "text": "Ha b'aj ayek' heb' chamnac, chequel yaj t'a yichanh Dios, chequel yaj junjun heb' t'a yichanh."
-        },
-        {
-            "number": "7",
-            "text": "Ha ix jenhb'anb'at satcha’anh t'a stojolal norte b'aj jakan, malaj tas t'ay. Ix sb'oanoch lum lum b'aj malaj tasi."
-        },
-        {
-            "number": "8",
-            "text": "Ha tz'ak'anb'at ha ha' t'a skal asun, palta max nhik'chajlaj asun chi' yuj yalil ha'."
-        },
-        {
-            "number": "9",
-            "text": "Ha tz'ak'an k'ik'b'oquel sat k'een uj, wach'chom k'ojan k'een, palta ha' tz'ak'anoch asun t'a sat k'een."
-        },
-        {
-            "number": "10",
-            "text": "Ha ix ak'anem yechel t'a yib'anh ha' mar b'aj sk'och k'aman sakil k'inal yet' k’ik’ k’inal."
-        },
-        {
-            "number": "11",
-            "text": "Ha yipumal satcha’anh tz'ib'xi, xivpaxk'ei ayic stumwaj Dios chi'."
-        },
-        {
-            "number": "12",
-            "text": "Ha yuj spoder ix skachanoch waan ha' mar, yuj sjelanil ix yak'an ganar nok' niwan Rahab."
-        },
-        {
-            "number": "13",
-            "text": "Jun pusnhej syak'a' sk'achwi, a yet' spoder stekancham nok' chan mekan cuman sb'ati."
-        },
-        {
-            "number": "14",
-            "text": "Ha jantac tas satub'tac sk'ulej ix kab' tik, jab'nhej. Ha tas ix kab' tik tonhej ix ko mac ab'ej. Ocxom wal to tz'akan tz'aj kab'ani, maxtzac am nachajel cuuj, xchi winhaj Job chi'."
-        }
-    ]
+  "chapter": "26",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi winhaj Job chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Yipk'olal ix kolwaj a lolonel ix al t'ayin t'a in kusk'olal tik, yuj am to tzila' to manhxalaj wip."
+    },
+    {
+      "number": "3",
+      "text": "Wach' jun, syal ak'an in razón, tzin a k'ayb'an a in malaj in pensar tik."
+    },
+    {
+      "number": "4",
+      "text": "¿Mach ix lolon t'a a pensar yuj chi' tzala'? ¿Mach ix alan t'ayach, yuj chi' tzal icha chi'?"
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' chamnak ayek' t'a sjulal yich ha' mar, tz'ib'xi heb' yuj xiwelal."
+    },
+    {
+      "number": "6",
+      "text": "Ha b'aj ayek' heb' chamnak, chekel yaj t'a yichanh Dios, chekel yaj junjun heb' t'a yichanh."
+    },
+    {
+      "number": "7",
+      "text": "Ha ix jenhb'anb'at satcha'anh t'a stojolal norte b'aj jakan, malaj tas t'ay. Ix sb'oanoch lum lum b'aj malaj tasi."
+    },
+    {
+      "number": "8",
+      "text": "Ha tz'ak'anb'at ha ha' t'a skal asun, palta max nhik'chajlaj asun chi' yuj yalil ha'."
+    },
+    {
+      "number": "9",
+      "text": "Ha tz'ak'an k'ik'b'okel sat k'een uj, wach'chom k'ojan k'een, palta ha' tz'ak'anoch asun t'a sat k'een."
+    },
+    {
+      "number": "10",
+      "text": "Ha ix ak'anem yechel t'a yib'anh ha' mar b'aj sk'och k'aman sakil k'inal yet' k'ik' k'inal."
+    },
+    {
+      "number": "11",
+      "text": "Ha yipumal satcha'anh tz'ib'xi, xiwpaxk'ei ayik stumwaj Dios chi'."
+    },
+    {
+      "number": "12",
+      "text": "Ha yuj spoder ix skachanoch waan ha' mar, yuj sjelanil ix yak'an ganar nok' niwan Rahab."
+    },
+    {
+      "number": "13",
+      "text": "Jun pusnhej syak'a' sk'achwi, a yet' spoder stekancham nok' chan mekan kuman sb'ati."
+    },
+    {
+      "number": "14",
+      "text": "Ha jantak tas satub'tak sk'ulej ix kab' tik, jab'nhej. Ha tas ix kab' tik tonhej ix ko mak ab'ej. Okxom wal to tz'akan tz'aj kab'ani, maxtzak am nachajel kuuj, xchi winhaj Job chi'."
+    }
+  ]
 }

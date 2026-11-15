@@ -1,41 +1,45 @@
 {
-    "chapter": "113",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. Ha onh schekab' onh Jehová, kalek wach' lolonel t'ay."
-        },
-        {
-            "number": "2",
-            "text": "Aljokab' wach' lolonel t'ay ticnaik yet' t'a masanil k 'inal."
-        },
-        {
-            "number": "3",
-            "text": "B'itajokab' b'aj sjawi k'u masanto b'aj tz'em k'u."
-        },
-        {
-            "number": "4",
-            "text": "Ha Jehová Yajal yaj t'a yib'anh juntzanh niwac chonhab'. Ha stziquiquial tzek'b'at t'a schaanhil satcha’anh."
-        },
-        {
-            "number": "5",
-            "text": "Malaj mach lajan yet' Jehová ko Diosal. Ato t'a yib'anhtok'e satcha’anh syak'cot Yajalil t'a yib'anh smasanil."
-        },
-        {
-            "number": "6",
-            "text": "Tz'emta k'elan t'a yib'anh satcha’anh yet' t'a sat lu'um tik."
-        },
-        {
-            "number": "7",
-            "text": "Ha tz'ik'anelta heb' meb'a' t'a yalanh smheb'ail, skolwaj pax t'a heb' malaj jab'oc tas t'ay,"
-        },
-        {
-            "number": "8",
-            "text": "yic wach' tz'em k'ojan heb' t'a skal heb' yetanimail ay yelk'och t'a yol schonhab' chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ha Jehová tz'ak'an unewi ix ix max unewitaxonlaj. Tz'och ix nunab'ilal, tzalajk'olal tz'ajek' ix t'a spat yet' yune' chi'. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "113",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. Ha onh schekab' onh Jehová, kalek wach' lolonel t'ay."
+    },
+    {
+      "number": "2",
+      "text": "Aljokab' wach' lolonel t'ay tiknaik yet' t'a masanil k 'inal."
+    },
+    {
+      "number": "3",
+      "text": "B'itajokab' b'aj sjawi k'u masanto b'aj tz'em k'u."
+    },
+    {
+      "number": "4",
+      "text": "Ha Jehová Yajal yaj t'a yib'anh juntzanh niwak chonhab'. Ha stzikikial tzek'b'at t'a schaanhil satcha'anh."
+    },
+    {
+      "number": "5",
+      "text": "Malaj mach lajan yet' Jehová ko Diosal. Ato t'a yib'anhtok'e satcha'anh syak'kot Yajalil t'a yib'anh smasanil."
+    },
+    {
+      "number": "6",
+      "text": "Tz'emta k'elan t'a yib'anh satcha'anh yet' t'a sat lu'um tik."
+    },
+    {
+      "number": "7",
+      "text": "Ha tz'ik'anelta heb' meb'a' t'a yalanh smheb'ail, skolwaj pax t'a heb' malaj jab'ok tas t'ay,"
+    },
+    {
+      "number": "8",
+      "text": "yik wach' tz'em k'ojan heb' t'a skal heb' yetanimail ay yelk'och t'a yol schonhab' chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ha Jehová tz'ak'an unewi ix ix max unewitaxonlaj. Tz'och ix nunab'ilal, tzalajk'olal tz'ajek' ix t'a spat yet' yune' chi'. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

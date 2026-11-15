@@ -1,73 +1,77 @@
 {
-    "chapter": "42",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi' ix yalan winhaj Job chi' t'a Jehová icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Vojtak to masanil syal uuj, a tas tza nib'ej, tza b'onhej."
-        },
-        {
-            "number": "3",
-            "text": "Ha ach ix al t'ayin icha tik: ¿Tas aji, yuj chi' yet' a lolonel malaj yelk'och tzala' scheclaji to max a chalaj tato tz'akan in jelanil? xa chi. Ha in tik a tas satub'tac yet' tas max nachaj wuuj, a chi' ix wala'."
-        },
-        {
-            "number": "4",
-            "text": "Ix alan pax t'ayin icha tik: Ab' tas ol wala', tza pakan t'ayin tas ol in k'anb'ej t'ayach, xa chi."
-        },
-        {
-            "number": "5",
-            "text": "Ha t'a yalanhtaxo anhej ab'ixal ix wab'i, palta haxo ticnaik tzach wil wal och yet' in sat."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi' snachajel wuuj to malaj jab'oc welk'ochi, wach' tzin emxonhej k'ojan t'a kal pokok tik yet' t'a skal k'een tik'aq'uil taanh tik yic tzin naan in b'a, xchi winhaj Job chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ayic ix lajwi yalan juntzanh tik Jehová t'a winhaj Job chi', ix yalanpax t'a winhaj Elifaz chi' icha tik: Scot wal wowal t'ayach yet' chawanhxo heb' winh ajun ed' chi', yujto manh wach'oc tas ix eyal t'a in patic, manh lajanoc ix eyutej he b'a yet' winh in chekab' aj Job tik."
-        },
-        {
-            "number": "8",
-            "text": "Ha ticnaik, ik'eccot ucwanhoc nok' kelemtac wakax yet' ucwanhoc nok' ch'ac kalnel, tzul eyak'an nok' t'a winh in chekab' aj Job tik, haxo winh ol nhusantz'a nok' smasanil silab'il t'ayin eyuuj. Ha winh ol lesalwoc eyuuj, ol in chaan slesal winh chi'. Wach'chom to smoj he chaan eyaelal, yujto manh wach'oc tas ix eyal t'a in patic, manh ichoc ix yutej sb'a winh in chekab' aj Job tik ix eyutej he b'a, palta manhxa tas ol ex wutej, xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Yuj chi' ix cot winhaj Elifaz chi', winhaj Bildad yet' winhaj Zofar, ix sk'ulan heb' winh icha wal ix aj yalan Jehová. Ix chaji slesal winhaj Job chi' yuj Jehová chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ayic lesalwinacxo winhaj Job yuj heb' winh yamigo chi', ix yak'anxi swach'k'olal Jehová t'a winh icha t'a yalanhtaxo, ek'b'alto pax ix aj yak'an t'a winh icha ay t'a winh t'a yalanhtaxo."
-        },
-        {
-            "number": "11",
-            "text": "Ix jawi pax heb' yuk'tac winh yila', heb' ix yanab' winh, juntzanh heb' yamigo winh yet' masanil heb' anima ojtannac winh t'a yalanhtaxo. Ix och wal jun niwan wael yuj heb' t'a spat winh. Ix yak'an sniwanil sk'ol winh heb'. Ix yalan heb' to ix cuspax heb' yuj yaelal ix yak'cot Jehová t'a yib'anh winh. Ix yak'ankan k'een tumin heb' yet' junjun colk'ab' nab'a oro t'a winh."
-        },
-        {
-            "number": "12",
-            "text": "Ix yak' jantac swach'k'olal Dios t'a yib'anh winhaj Job chi', ek'b'alto niwan t'a yichanh tas ay t'a winh t'a yalanhtax chi'. Ix k'ek'och sb'isul nok' skalnel winh t'a 14 mil, 6 mil nok' camello, mil par nok' wakax smunlaji yet' mil nok' b'uru."
-        },
-        {
-            "number": "13",
-            "text": "Ix aljixi ucwanh yuninal winh yet' oxwanh yisil."
-        },
-        {
-            "number": "14",
-            "text": "Ha ix b'ab'el, Jemima ix yak' winh sb'iej ix, haxo ix schab'il Cesia ix sb'iej ix, haxo ix yoxil, Keren-hapuc ix sb'iej ix."
-        },
-        {
-            "number": "15",
-            "text": "Malaj heb' ix ix t'a yol yib'anhk’inal tik stzak'wan swach'il yilji icha yilji heb' ix yisil winhaj Job chi'. Ix ak'ji smacb'en heb' ix icha yic heb' winh snulej yuj smam chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ayic ix lajwi yek' juntzanh tik, 140 ab'il to ix yil winhaj Job chi'. Ixto yil winh sq'uib'kan heb' yuninal, masanto heb' yixchiquin heb' yixchiquin winh chi'."
-        },
-        {
-            "number": "17",
-            "text": "Te icham winacxo winh ayic ix cham winh."
-        }
-    ]
+  "chapter": "42",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi' ix yalan winhaj Job chi' t'a Jehová icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Wojtak to masanil syal uuj, a tas tza nib'ej, tza b'onhej."
+    },
+    {
+      "number": "3",
+      "text": "Ha ach ix al t'ayin icha tik: ¿Tas aji, yuj chi' yet' a lolonel malaj yelk'och tzala' scheklaji to max a chalaj tato tz'akan in jelanil? xa chi. Ha in tik a tas satub'tak yet' tas max nachaj wuuj, a chi' ix wala'."
+    },
+    {
+      "number": "4",
+      "text": "Ix alan pax t'ayin icha tik: Ab' tas ol wala', tza pakan t'ayin tas ol in k'anb'ej t'ayach, xa chi."
+    },
+    {
+      "number": "5",
+      "text": "Ha t'a yalanhtaxo anhej ab'ixal ix wab'i, palta haxo tiknaik tzach wil wal och yet' in sat."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi' snachajel wuuj to malaj jab'ok welk'ochi, wach' tzin emxonhej k'ojan t'a kal pokok tik yet' t'a skal k'een tik'aq'uil taanh tik yik tzin naan in b'a, xchi winhaj Job chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ayik ix lajwi yalan juntzanh tik Jehová t'a winhaj Job chi', ix yalanpax t'a winhaj Elifaz chi' icha tik: Skot wal wowal t'ayach yet' chawanhxo heb' winh ajun et' chi', yujto manh wach'ok tas ix eyal t'a in patik, manh lajanok ix eyutej he b'a yet' winh in chekab' aj Job tik."
+    },
+    {
+      "number": "8",
+      "text": "Ha tiknaik, ik'ekkot ukwanhok nok' kelemtak wakax yet' ukwanhok nok' ch'ak kalnel, tzul eyak'an nok' t'a winh in chekab' aj Job tik, haxo winh ol nhusantz'a nok' smasanil silab'il t'ayin eyuuj. Ha winh ol lesalwok eyuuj, ol in chaan slesal winh chi'. Wach'chom to smoj he chaan eyaelal, yujto manh wach'ok tas ix eyal t'a in patik, manh ichok ix yutej sb'a winh in chekab' aj Job tik ix eyutej he b'a, palta manhxa tas ol ex wutej, xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Yuj chi' ix kot winhaj Elifaz chi', winhaj Bildad yet' winhaj Zofar, ix sk'ulan heb' winh icha wal ix aj yalan Jehová. Ix chaji slesal winhaj Job chi' yuj Jehová chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ayik lesalwinakxo winhaj Job yuj heb' winh yamigo chi', ix yak'anxi swach'k'olal Jehová t'a winh icha t'a yalanhtaxo, ek'b'alto pax ix aj yak'an t'a winh icha ay t'a winh t'a yalanhtaxo."
+    },
+    {
+      "number": "11",
+      "text": "Ix jawi pax heb' yuk'tak winh yila', heb' ix yanab' winh, juntzanh heb' yamigo winh yet' masanil heb' anima ojtannak winh t'a yalanhtaxo. Ix och wal jun niwan wael yuj heb' t'a spat winh. Ix yak'an sniwanil sk'ol winh heb'. Ix yalan heb' to ix kuspax heb' yuj yaelal ix yak'kot Jehová t'a yib'anh winh. Ix yak'ankan k'een tumin heb' yet' junjun kolk'ab' nab'a oro t'a winh."
+    },
+    {
+      "number": "12",
+      "text": "Ix yak' jantak swach'k'olal Dios t'a yib'anh winhaj Job chi', ek'b'alto niwan t'a yichanh tas ay t'a winh t'a yalanhtax chi'. Ix k'ek'och sb'isul nok' skalnel winh t'a 14 mil, 6 mil nok' kamello, mil par nok' wakax smunlaji yet' mil nok' b'uru."
+    },
+    {
+      "number": "13",
+      "text": "Ix aljixi ukwanh yuninal winh yet' oxwanh yisil."
+    },
+    {
+      "number": "14",
+      "text": "Ha ix b'ab'el, Jemima ix yak' winh sb'iej ix, haxo ix schab'il Cesia ix sb'iej ix, haxo ix yoxil, Keren-hapuk ix sb'iej ix."
+    },
+    {
+      "number": "15",
+      "text": "Malaj heb' ix ix t'a yol yib'anhk'inal tik stzak'wan swach'il yilji icha yilji heb' ix yisil winhaj Job chi'. Ix ak'ji smakb'en heb' ix icha yik heb' winh snulej yuj smam chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ayik ix lajwi yek' juntzanh tik, 140 ab'il to ix yil winhaj Job chi'. Ixto yil winh sq'uib'kan heb' yuninal, masanto heb' yixchikin heb' yixchikin winh chi'."
+    },
+    {
+      "number": "17",
+      "text": "Te icham winakxo winh ayik ix cham winh."
+    }
+  ]
 }

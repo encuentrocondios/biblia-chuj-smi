@@ -1,57 +1,61 @@
 {
-    "chapter": "65",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach ko Diosal, smoj wal yalji wach' lolonel t'ayach t'a Sion. Ha moj wal skak'elk'och tas skaltej t'ayach."
-        },
-        {
-            "number": "2",
-            "text": "Masanil heb' anima sja t'ayach yujto tzab'nhej slesal heb'."
-        },
-        {
-            "number": "3",
-            "text": "Ha jantac ko chukal tz'ak'an yajalil t'a quib'anh, palta a achxo tza suc sat ko mul chi'."
-        },
-        {
-            "number": "4",
-            "text": "Te wach' quico', yujto a ach ix onh a sik'kaneli yic wach' ayonhek' t'a a templo. Wach' kaj yuj swach'il tas ay t'a a kajnub', aton a templo te niwan yelk'ochi."
-        },
-        {
-            "number": "5",
-            "text": "Ach Dios ko Kolumal, tza pactzitej ko lesal yet' tas satub'tac tza k'ulej t'a stojolal. Masanil anima kajan t'a yol yib'anhk’inal tik, aton heb' kajan t'a tik yet' heb' kajan t'a sk'axepal ha' mar, ol ach yak'och heb' yipoc sk'ool."
-        },
-        {
-            "number": "6",
-            "text": "Te tzatz ix utejkan juntzanh lum niwac witz yuj a poder yet' ipalil."
-        },
-        {
-            "number": "7",
-            "text": "Ha ach tzak' numk'aj sat ha' mar. Ayic sk'e somnaj juntzanh niwac chonhab', a ach tzak' pax numk'ajoc."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' kajan t'a juntzanh najatil lu'um, tz'ib'xik'e heb' t'a yichanh tas satub'tac tza k'ulej. Uuj wal ay tzalajk'olal b'aj sjawi k'u, masanto b'aj tz'em k'u."
-        },
-        {
-            "number": "9",
-            "text": "Ayachnhejoch ilan lum lum, tzak' snhab'il lu'um, tzak'anpax q'uib' tas tz'avchaj t'a lu'um. Tzak' q'uib' ixim trigo yuj ha ha' tz'el yoc. Ichaton wal chi', tzutej a b'oan lum lum tik."
-        },
-        {
-            "number": "10",
-            "text": "Ha ach tzak' yaxb'oc sat lu'um, tzak' ch'ayxoc sch'olquiltaquil lu'um, tzak'an k'unb'oc lum yuj yax nhab', tzak'an pax a wach'k'olal yic satan tas tz'avchaj t'a sat lu'um."
-        },
-        {
-            "number": "11",
-            "text": "Manh jantacoc sat avb'en syak' t'a junjun ab'il yuj nhab' tzak'koti."
-        },
-        {
-            "number": "12",
-            "text": "Syaxb'i anh ank'ultak t'a tzinan lu'um b'aj swa nok' kalnel. Axo tzalquixtac wach' tz'aj yilji yuj avb'en."
-        },
-        {
-            "number": "13",
-            "text": "Sb'ud'jiel tzalquixtac yuj nok' kalnel. Axo opquixtac, sb'ud'jikanel yuj ixim trigo. Yuj chi' sb'itan heb' anima smasanil, tz'el yav heb' yuj tzalajk'olal."
-        }
-    ]
+  "chapter": "65",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach ko Diosal, smoj wal yalji wach' lolonel t'ayach t'a Sion. Ha moj wal skak'elk'och tas skaltej t'ayach."
+    },
+    {
+      "number": "2",
+      "text": "Masanil heb' anima sja t'ayach yujto tzab'nhej slesal heb'."
+    },
+    {
+      "number": "3",
+      "text": "Ha jantak ko chukal tz'ak'an yajalil t'a kib'anh, palta a achxo tza suk sat ko mul chi'."
+    },
+    {
+      "number": "4",
+      "text": "Te wach' kiko', yujto a ach ix onh a sik'kaneli yik wach' ayonhek' t'a a templo. Wach' kaj yuj swach'il tas ay t'a a kajnub', haton a templo te niwan yelk'ochi."
+    },
+    {
+      "number": "5",
+      "text": "Ach Dios ko Kolumal, tza paktzitej ko lesal yet' tas satub'tak tza k'ulej t'a stojolal. Masanil anima kajan t'a yol yib'anhk'inal tik, haton heb' kajan t'a tik yet' heb' kajan t'a sk'axepal ha' mar, ol ach yak'och heb' yipok sk'ool."
+    },
+    {
+      "number": "6",
+      "text": "Te tzatz ix utejkan juntzanh lum niwak witz yuj a poder yet' ipalil."
+    },
+    {
+      "number": "7",
+      "text": "Ha ach tzak' numk'aj sat ha' mar. Ayik sk'e somnaj juntzanh niwak chonhab', a ach tzak' pax numk'ajok."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' kajan t'a juntzanh najatil lu'um, tz'ib'xik'e heb' t'a yichanh tas satub'tak tza k'ulej. Uuj wal ay tzalajk'olal b'aj sjawi k'u, masanto b'aj tz'em k'u."
+    },
+    {
+      "number": "9",
+      "text": "Ayachnhejoch ilan lum lum, tzak' snhab'il lu'um, tzak'anpax q'uib' tas tz'awchaj t'a lu'um. Tzak' q'uib' ixim trigo yuj ha ha' tz'el yok. Ichaton wal chi', tzutej a b'oan lum lum tik."
+    },
+    {
+      "number": "10",
+      "text": "Ha ach tzak' yaxb'ok sat lu'um, tzak' ch'ayxok sch'olkiltakil lu'um, tzak'an k'unb'ok lum yuj yax nhab', tzak'an pax a wach'k'olal yik satan tas tz'awchaj t'a sat lu'um."
+    },
+    {
+      "number": "11",
+      "text": "Manh jantakok sat awb'en syak' t'a junjun ab'il yuj nhab' tzak'koti."
+    },
+    {
+      "number": "12",
+      "text": "Syaxb'i anh ank'ultak t'a tzinan lu'um b'aj swa nok' kalnel. Axo tzalkixtak wach' tz'aj yilji yuj awb'en."
+    },
+    {
+      "number": "13",
+      "text": "Sb'ut'jiel tzalkixtak yuj nok' kalnel. Axo opkixtak, sb'ut'jikanel yuj ixim trigo. Yuj chi' sb'itan heb' anima smasanil, tz'el yaw heb' yuj tzalajk'olal."
+    }
+  ]
 }

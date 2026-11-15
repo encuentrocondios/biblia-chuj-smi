@@ -1,17 +1,21 @@
 {
-    "chapter": "134",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex schekab' Jehová, alec wach' lolonel t'a Jehová chi'. Alec wach' lolonel t'ay mach ex tze tanhwej stemplo tzek' ak'wal."
-        },
-        {
-            "number": "2",
-            "text": "Ik'eck'e wan he k'ab' t'a stojolal skajnub' Jehová, tzeyalan wach' lolonel t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jehová b'oannac satcha’anh yet' lum lum tik, aokab' tz'ak'ancot swach'k'olal t'a eyib'anh masanto t'a lum tzalan Sion."
-        }
-    ]
+  "chapter": "134",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 3,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex schekab' Jehová, alek wach' lolonel t'a Jehová chi'. Alek wach' lolonel t'ay mach ex tze tanhwej stemplo tzek' ak'wal."
+    },
+    {
+      "number": "2",
+      "text": "Ik'ekk'e wan he k'ab' t'a stojolal skajnub' Jehová, tzeyalan wach' lolonel t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jehová b'oannak satcha'anh yet' lum lum tik, aokab' tz'ak'ankot swach'k'olal t'a eyib'anh masanto t'a lum tzalan Sion."
+    }
+  ]
 }

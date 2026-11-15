@@ -1,85 +1,89 @@
 {
-    "chapter": "9",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, t'a smasanil in k'ool tzin nib'ej swal wach' lolonel t'ayach, swalanel yab'ixal masanil tastac satub'tac ix a k'ulej."
-        },
-        {
-            "number": "2",
-            "text": "Ach Dios, te ek' ach to t'a yib'anh smasanil, uuj wal tzin awaj t'a niwan tzalajk'olal. In gana tzach in b'itej."
-        },
-        {
-            "number": "3",
-            "text": "D'a wal ichanh ix b'atkan heb' ayoch ajk'olal t'ayin elelal. Ix telwi heb', ix cham heb'."
-        },
-        {
-            "number": "4",
-            "text": "Yajal ach t'a stojolal. k'ojan ach em t'a a despacho, ix a b'oan yaj tas ix in k'an t'ayach."
-        },
-        {
-            "number": "5",
-            "text": "Ix ak'an owal yet' juntzanh heb' ch'oc chonhab'il. Ix ak' telwoc heb' sk'ulan chukal. Ix a sucsat sb'i heb' yic wach' maxtzac nachajcot heb' t'a b'ak'uinh."
-        },
-        {
-            "number": "6",
-            "text": "Toxo ix cham heb' ajk'ool, ix satel schonhab' heb' t'a junelnhej. Ha ach ix a sateli, manhxalaj junok ix kani, yic wach' maxtzac nachajcoti."
-        },
-        {
-            "number": "7",
-            "text": "Ha achxo ach Jehová, toxonton rey ach t'a masanil tiempo. k'ojan ach em t'a a despacho yic tza ch'olb'itan heb' anima."
-        },
-        {
-            "number": "8",
-            "text": "Ol a ch'olb'itej yol yib'anhk’inal tik t'a wach'il. Ol ach och yajalil t'a masanil chonhab' t'a stojolal."
-        },
-        {
-            "number": "9",
-            "text": "Ach Jehová, tza col heb' tz'ixtaji, tzak' yip heb' ayic ayoch heb' t'a niwac yaelal."
-        },
-        {
-            "number": "10",
-            "text": "Mamin Jehová, yipk'olal aj yuj heb' ojtannac ach, yujto malaj b'aj tzactejkan heb' ayic syalan sb'a heb' t'ayach."
-        },
-        {
-            "number": "11",
-            "text": "B'itananhec t'a Jehová Kajal t'a Sion, alec yab' heb' chonhab' tastac ix sk'ulej."
-        },
-        {
-            "number": "12",
-            "text": "Manh tonhejoc tz'iljioch heb' milumcham anima yuj Dios, max b'atkanlaj satk'olal syaelal heb' ayoch t'a ilk'olal yuj."
-        },
-        {
-            "number": "13",
-            "text": "Mamin Jehová, ok'okab' a k'ool t'ayin, il in emta, te ya tzin ek' yuj heb' tzin chakaneli. Colinel t'a chamel."
-        },
-        {
-            "number": "14",
-            "text": "Ichato wal chi' b'ian, ol walan wach' lolonel t'ayach t'a yichanh heb' anima t'a spuertail Jerusalén. Tzin tzalaji, yujto ix in a colcaneli."
-        },
-        {
-            "number": "15",
-            "text": "Ha juntzanh ch'oc chonhab'il chi', ix telwiem heb' t'a yol jun olan ix sb'o'o. Ha yoc heb' syamchaj yuj ch'anh yaal ix yak'em chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ojtakab'il Jehová yujto tojol syutej spactzitan tas sk'ulej anima. Munil syik'cot yaelal heb' sk'ulan chukal t'a yib'anh."
-        },
-        {
-            "number": "17",
-            "text": "Ha heb' sk'ulan chukal yet' heb' sb'atkan Dios satk'olal yuj, ol b'atkan heb' t'a chamel."
-        },
-        {
-            "number": "18",
-            "text": "Manh masaniloc tiempo ol b'atkan heb' meb'a' satk'olal yuj Dios. Ol jawok sk'ual ol elk'och tastac ayoch yipoc sk'ool heb'."
-        },
-        {
-            "number": "19",
-            "text": "Mamin Jehová, ch'oxel ipalil. Mokab' yik'chaanh sb'a heb' anima t'ayach. Ik'cot juntzanh chonhab' t'a ichanh, tzak'an syaelal heb'."
-        },
-        {
-            "number": "20",
-            "text": "Ak'och heb' t'a xivk'olal. Ak' yojtaquejel heb' to animanhej heb'."
-        }
-    ]
+  "chapter": "9",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, t'a smasanil in k'ool tzin nib'ej swal wach' lolonel t'ayach, swalanel yab'ixal masanil tastak satub'tak ix a k'ulej."
+    },
+    {
+      "number": "2",
+      "text": "Ach Dios, te ek' ach to t'a yib'anh smasanil, uuj wal tzin awaj t'a niwan tzalajk'olal. In gana tzach in b'itej."
+    },
+    {
+      "number": "3",
+      "text": "T'a wal ichanh ix b'atkan heb' ayoch ajk'olal t'ayin elelal. Ix telwi heb', ix cham heb'."
+    },
+    {
+      "number": "4",
+      "text": "Yajal ach t'a stojolal. k'ojan ach em t'a a despacho, ix a b'oan yaj tas ix in k'an t'ayach."
+    },
+    {
+      "number": "5",
+      "text": "Ix ak'an owal yet' juntzanh heb' ch'ok chonhab'il. Ix ak' telwok heb' sk'ulan chukal. Ix a suksat sb'i heb' yik wach' maxtzak nachajkot heb' t'a b'ak'uinh."
+    },
+    {
+      "number": "6",
+      "text": "Toxo ix cham heb' ajk'ool, ix satel schonhab' heb' t'a junelnhej. Ha ach ix a sateli, manhxalaj junok ix kani, yik wach' maxtzak nachajkoti."
+    },
+    {
+      "number": "7",
+      "text": "Ha achxo ach Jehová, toxonton rey ach t'a masanil tiempo. k'ojan ach em t'a a despacho yik tza ch'olb'itan heb' anima."
+    },
+    {
+      "number": "8",
+      "text": "Ol a ch'olb'itej yol yib'anhk'inal tik t'a wach'il. Ol ach och yajalil t'a masanil chonhab' t'a stojolal."
+    },
+    {
+      "number": "9",
+      "text": "Ach Jehová, tza kol heb' tz'ixtaji, tzak' yip heb' ayik ayoch heb' t'a niwak yaelal."
+    },
+    {
+      "number": "10",
+      "text": "Mamin Jehová, yipk'olal aj yuj heb' ojtannak ach, yujto malaj b'aj tzaktejkan heb' ayik syalan sb'a heb' t'ayach."
+    },
+    {
+      "number": "11",
+      "text": "B'itananhek t'a Jehová Kajal t'a Sion, alek yab' heb' chonhab' tastak ix sk'ulej."
+    },
+    {
+      "number": "12",
+      "text": "Manh tonhejok tz'iljioch heb' milumcham anima yuj Dios, max b'atkanlaj satk'olal syaelal heb' ayoch t'a ilk'olal yuj."
+    },
+    {
+      "number": "13",
+      "text": "Mamin Jehová, ok'okab' a k'ool t'ayin, il in emta, te ya tzin ek' yuj heb' tzin chakaneli. Kolinel t'a chamel."
+    },
+    {
+      "number": "14",
+      "text": "Ichato wal chi' b'ian, ol walan wach' lolonel t'ayach t'a yichanh heb' anima t'a spuertail Jerusalén. Tzin tzalaji, yujto ix in a kolkaneli."
+    },
+    {
+      "number": "15",
+      "text": "Ha juntzanh ch'ok chonhab'il chi', ix telwiem heb' t'a yol jun olan ix sb'o'o. Ha yok heb' syamchaj yuj ch'anh yaal ix yak'em chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ojtakab'il Jehová yujto tojol syutej spaktzitan tas sk'ulej anima. Munil syik'kot yaelal heb' sk'ulan chukal t'a yib'anh."
+    },
+    {
+      "number": "17",
+      "text": "Ha heb' sk'ulan chukal yet' heb' sb'atkan Dios satk'olal yuj, ol b'atkan heb' t'a chamel."
+    },
+    {
+      "number": "18",
+      "text": "Manh masanilok tiempo ol b'atkan heb' meb'a' satk'olal yuj Dios. Ol jawok sk'ual ol elk'och tastak ayoch yipok sk'ool heb'."
+    },
+    {
+      "number": "19",
+      "text": "Mamin Jehová, ch'oxel ipalil. Mokab' yik'chaanh sb'a heb' anima t'ayach. Ik'kot juntzanh chonhab' t'a ichanh, tzak'an syaelal heb'."
+    },
+    {
+      "number": "20",
+      "text": "Ak'och heb' t'a xiwk'olal. Ak' yojtakejel heb' to animanhej heb'."
+    }
+  ]
 }

@@ -1,57 +1,61 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a jun ab'il ayic ix cham winhaj rey Uzías, ata' ix wil Dios Kajal, k'ojanem t'a sk'ojnub' te chaanh yajk'ei. B'ut'an yol stemplo yuj stitac spichul."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a yib'anhk'ei, ay juntzanh ángel icha k'ak' yilji scuch serafín, waque' sk'axil junjun heb'. Chab' sk'axil heb' chi' smusan sat, haxo chab'xo smusan yichanh heb', haxo yet' chab'xo sjenhwi heb'."
-        },
-        {
-            "number": "3",
-            "text": "Syalan heb' t'ay junjun icha tik: Ha Jehová Axonhej wal, aton Yajal t'a Smasanil. Chequelnhej stziquiquial t'a masanil yol yib'anhk’inal tik, xchi heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ayic ix och jun av chi', ix ib'xik'e spuertail templo chi', ix b'ud'jiel yool chi' yuj tab'."
-        },
-        {
-            "number": "5",
-            "text": "Ix walan icha tik: Ay... ob'iltac in, ol in chamoc, yujto ix wil Jehová, aton Rey t'a Smasanil. Ha in xo pax tik, anhej chukal swala', kajan in paxek' t'a skal heb' anima chucnhej sloloni, xin chi."
-        },
-        {
-            "number": "6",
-            "text": "Axo t'a jun rato chi', ay jun t'a skal heb' ángel chi' ix cot jenhenhoc t'ayin. Yed'nac jun tenaza b'aj ix yik'cot tzak'ak' t'a yib'anh altar."
-        },
-        {
-            "number": "7",
-            "text": "Ix squilanek' t'a in ti', ix yalan t'ayin icha tik: Ha jun tzak'ak' ix in quilek' t'a a ti' tik, ha' ix ik'ankanel a mul ticnaik, ix ak'ji niwank'olal a mul, xchi."
-        },
-        {
-            "number": "8",
-            "text": "Ixlajwi chi' ix yalan Jehová chi' icha tik: ¿Mach junok ol in checb'ati? ¿Mach wal junok ol och ko chekab'oc? xchi. Yuj chi' ix in tak'wi t'ay: Ina in tik Mamin, chequinb'ati, xin chi."
-        },
-        {
-            "number": "9",
-            "text": "Ix yalan t'ayin: Ixic, b'at al t'a juntzanh anima chi' icha tik: Val yel ol eyab'nhej, palta manh ol nachajel-laj eyuuj. Ol eyilnhej, palta manh ol nachajpaxel-laj eyuuj, xa chi t'a heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ak' somchaj spensar juntzanh anima chi', mac schiquin heb', tza makan sat heb' yic max yil heb', yic max yab'pax heb', yic max nachajpaxel yuj heb', yic wach' max meltzajxi heb' t'ayin yic tzin colan heb', xchi t'ayin."
-        },
-        {
-            "number": "11",
-            "text": "Ix in k'anb'an t'ay icha tik: Mamin, ¿jantac tiempo ol walel jun tik? xin chi. Ix yalan t'ayin: Ol alnhej jun tik masanto ol lajwoquem juntzanh chonhab', manhxa mach ol kan kajan t'ay. Manhxa junok pat ol kan anima t'a yool, ol kan tzinan lu'um."
-        },
-        {
-            "number": "12",
-            "text": "Ha in Jehová in tik ol wak'b'at juntzanh anima tik t'a junxo chonhab', yic ol kan wal tzinan schonhab' heb' tik."
-        },
-        {
-            "number": "13",
-            "text": "Tato ayto jaywanhocxo anima olto kan t'a yol chonhab' tik, smak'chajpaxem lanhnaj jun chonhab' chi'. Icha yic sch'acjiel junok te' ji, ma junok te' mach', axonhej te' yib' skani, icha chi' ol aj in chonhab' tik. (Palta syal swolanxi te' yib' chi'. Icha chi' ol aj yinhtilal jaywanhocxo heb' in chonhab' sik'b'ilel wuuj), xchi Jehová."
-        }
-    ]
+  "chapter": "6",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a jun ab'il ayik ix cham winhaj rey Uzías, ata' ix wil Dios Kajal, k'ojanem t'a sk'ojnub' te chaanh yajk'ei. B'ut'an yol stemplo yuj stitak spichul."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a yib'anhk'ei, ay juntzanh ángel icha k'ak' yilji skuch serafín, wake' sk'axil junjun heb'. Chab' sk'axil heb' chi' smusan sat, haxo chab'xo smusan yichanh heb', haxo yet' chab'xo sjenhwi heb'."
+    },
+    {
+      "number": "3",
+      "text": "Syalan heb' t'ay junjun icha tik: Ha Jehová Axonhej wal, haton Yajal t'a Smasanil. Chekelnhej stzikikial t'a masanil yol yib'anhk'inal tik, xchi heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ayik ix och jun aw chi', ix ib'xik'e spuertail templo chi', ix b'ut'jiel yool chi' yuj tab'."
+    },
+    {
+      "number": "5",
+      "text": "Ix walan icha tik: Ay... ob'iltak in, ol in chamok, yujto ix wil Jehová, haton Rey t'a Smasanil. Ha in xo pax tik, anhej chukal swala', kajan in paxek' t'a skal heb' anima chuknhej sloloni, xin chi."
+    },
+    {
+      "number": "6",
+      "text": "Axo t'a jun rato chi', ay jun t'a skal heb' ángel chi' ix kot jenhenhok t'ayin. Yet'nak jun tenaza b'aj ix yik'kot tzak'ak' t'a yib'anh altar."
+    },
+    {
+      "number": "7",
+      "text": "Ix skilanek' t'a in ti', ix yalan t'ayin icha tik: Ha jun tzak'ak' ix in kilek' t'a a ti' tik, ha' ix ik'ankanel a mul tiknaik, ix ak'ji niwank'olal a mul, xchi."
+    },
+    {
+      "number": "8",
+      "text": "Ixlajwi chi' ix yalan Jehová chi' icha tik: ¿Mach junok ol in chekb'ati? ¿Mach wal junok ol och ko chekab'ok? xchi. Yuj chi' ix in tak'wi t'ay: Ina in tik Mamin, chekinb'ati, xin chi."
+    },
+    {
+      "number": "9",
+      "text": "Ix yalan t'ayin: Ixik, b'at al t'a juntzanh anima chi' icha tik: Wal yel ol eyab'nhej, palta manh ol nachajel-laj eyuuj. Ol eyilnhej, palta manh ol nachajpaxel-laj eyuuj, xa chi t'a heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ak' somchaj spensar juntzanh anima chi', mak schikin heb', tza makan sat heb' yik max yil heb', yik max yab'pax heb', yik max nachajpaxel yuj heb', yik wach' max meltzajxi heb' t'ayin yik tzin kolan heb', xchi t'ayin."
+    },
+    {
+      "number": "11",
+      "text": "Ix in k'anb'an t'ay icha tik: Mamin, ¿jantak tiempo ol walel jun tik? xin chi. Ix yalan t'ayin: Ol alnhej jun tik masanto ol lajwokem juntzanh chonhab', manhxa mach ol kan kajan t'ay. Manhxa junok pat ol kan anima t'a yool, ol kan tzinan lu'um."
+    },
+    {
+      "number": "12",
+      "text": "Ha in Jehová in tik ol wak'b'at juntzanh anima tik t'a junxo chonhab', yik ol kan wal tzinan schonhab' heb' tik."
+    },
+    {
+      "number": "13",
+      "text": "Tato ayto jaywanhokxo anima olto kan t'a yol chonhab' tik, smak'chajpaxem lanhnaj jun chonhab' chi'. Icha yik sch'akjiel junok te' ji, ma junok te' mach', axonhej te' yib' skani, icha chi' ol aj in chonhab' tik. (Palta syal swolanxi te' yib' chi'. Icha chi' ol aj yinhtilal jaywanhokxo heb' in chonhab' sik'b'ilel wuuj), xchi Jehová."
+    }
+  ]
 }

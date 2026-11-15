@@ -1,73 +1,77 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha juntzanh sb'it winhaj Salomón, manhxo jantacoc swach'il yalji. Syalan ix cob'es:"
-        },
-        {
-            "number": "2",
-            "text": "Ach quelem xajanab'il wuuj, tz'ub'elta jab'oc in ti'. Te wach' swab' t'a yichanh yal uwa."
-        },
-        {
-            "number": "3",
-            "text": "Te wach' yel a jab' yuj yal suk'uq'ui sjab' ayoch t'ayach. Ayic swab'an a b'inaji, lajan wal icha suk'uq'ui sjab' chi'. Yuj chi' te xajan ach yuj heb' ix ix."
-        },
-        {
-            "number": "4",
-            "text": "Iq'uinb'at t'a a pat ach in reyal, iq'uinb'at ed'oc elanhchamel, xchi ix. Syalan heb' anima: Te tzalajk'olal kajek' ed'oc, ol ko nacot b'aj tzonh a xajanej yujto te wach' t'a yichanh yal uwa. Tob'an yuj chi' te xajan ach yuj heb' ix ix tik, xchi heb'. Syalan ix cob'es:"
-        },
-        {
-            "number": "5",
-            "text": "Ex ix aj Jerusalén, a in tik k'ik' ch'uminac wilji, palta te wach' wilji. K'ik'okab' wilji icha yilji smantiado heb' aj Cedar, palta te wach' wilji icha yilji k'apac cortina ayoch t'a yol spat winhaj Salomón."
-        },
-        {
-            "number": "6",
-            "text": "Manh ex och wal k'elan t'ayin, yujto k'ik' ch'uminac wilji, yujto tz'anac in niwanil yuj yoc k'u. Ha heb' winh in nulej ix cot yowal heb' winh t'ayin, ix in yak'anoch heb' winh tanhwoj uwa, haxo ix aji, maj in ya'ilej in b'a."
-        },
-        {
-            "number": "7",
-            "text": "Ach quelem xajanab'il wuuj, al t'ayin ¿b'ajtil tza tanhwej nok' a kalnel? ¿B'ajtil tzik'b'at nok' yik' yip t'a chimk'ualil? ¿Tas yuj ol in satek' ach in say t'a skal juntzanhxo heb' tanhwum kalnel? xchi ix. Syalan heb' anima:"
-        },
-        {
-            "number": "8",
-            "text": "Tato manh ojtakoc ach ix te wach' ilji t'a skal heb' ix ix wach' yilji, ochanh tzak'an yuj yoclem nok' kalnel chi'. Tanhwej wa nok' yunetac a chiwa t'a slak'anil slechpat heb' winh tanhwum kalnel chi', xchi heb'. Syalan winh quelem:"
-        },
-        {
-            "number": "9",
-            "text": "Ach cob'es xajanab'il wuuj, te wach' ilji swila', icha wal yilji nok' cob'es chej stok'an skarruaje winh sreyal Egipto."
-        },
-        {
-            "number": "10",
-            "text": "Te wach' yilji spak'ultac a ti' t'a skal k'een uchiquin, te wach' pax yilji a jaj b'aj ayoch k'een a tonh."
-        },
-        {
-            "number": "11",
-            "text": "Ol ko b'o k'een uchiquin nab'a oro, ol kak'och k'een plata yelwanub'oc, xchi winh. Syalan ix cob'es:"
-        },
-        {
-            "number": "12",
-            "text": "Yacb'an k'ojanem winh rey t'a smexa, haxo anh nardo sumumi yel sjab' t'ayin."
-        },
-        {
-            "number": "13",
-            "text": "Ach quelem xajanab'il wuuj, lajan ach wal icha junok yub'anh te' mirra suk'uq'ui sjab' ayek' t'a skal wim."
-        },
-        {
-            "number": "14",
-            "text": "Ach xajanab'il wuuj, lajan ach icha junok yub'anh xumaquil te alheña sq'uib' t'a skal te' uwa awab'il t'a En-gadi, xchi ix. Syalan winh quelem:"
-        },
-        {
-            "number": "15",
-            "text": "Te wach' ilji ach cob'es xajanab'il wuuj, wal yel te wach' ilji. Lajan swach'il yilji yol a sat icha yilji yol sat nok' paramuch, xchi winh. Syalan ix cob'es:"
-        },
-        {
-            "number": "16",
-            "text": "Te wach' ilji ach quelem xajanab'il wuuj, wal yel te wach' ilji. Ha wal anh yax ank'ultak ol och ko waynub'oc, xchi ix. Syalan winh quelem:"
-        },
-        {
-            "number": "17",
-            "text": "Ha spatzab'il ko pat ayochi nab'a a te' k'ute', haxo te' tzicap ayoch t'a yib'anh, xchi winh."
-        }
-    ]
+  "chapter": "1",
+  "book": "CANTARES",
+  "book_short": "Ct",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha juntzanh sb'it winhaj Salomón, manhxo jantakok swach'il yalji. Syalan ix kob'es:"
+    },
+    {
+      "number": "2",
+      "text": "Ach kelem xajanab'il wuuj, tz'ub'elta jab'ok in ti'. Te wach' swab' t'a yichanh yal uwa."
+    },
+    {
+      "number": "3",
+      "text": "Te wach' yel a jab' yuj yal suk'uq'ui sjab' ayoch t'ayach. Ayik swab'an a b'inaji, lajan wal icha suk'uq'ui sjab' chi'. Yuj chi' te xajan ach yuj heb' ix ix."
+    },
+    {
+      "number": "4",
+      "text": "Iq'uinb'at t'a a pat ach in reyal, iq'uinb'at et'ok elanhchamel, xchi ix. Syalan heb' anima: Te tzalajk'olal kajek' et'ok, ol ko nakot b'aj tzonh a xajanej yujto te wach' t'a yichanh yal uwa. Tob'an yuj chi' te xajan ach yuj heb' ix ix tik, xchi heb'. Syalan ix kob'es:"
+    },
+    {
+      "number": "5",
+      "text": "Ex ix aj Jerusalén, a in tik k'ik' ch'uminak wilji, palta te wach' wilji. K'ik'okab' wilji icha yilji smantiado heb' aj Cedar, palta te wach' wilji icha yilji k'apak kortina ayoch t'a yol spat winhaj Salomón."
+    },
+    {
+      "number": "6",
+      "text": "Manh ex och wal k'elan t'ayin, yujto k'ik' ch'uminak wilji, yujto tz'anak in niwanil yuj yok k'u. Ha heb' winh in nulej ix kot yowal heb' winh t'ayin, ix in yak'anoch heb' winh tanhwoj uwa, haxo ix aji, maj in ya'ilej in b'a."
+    },
+    {
+      "number": "7",
+      "text": "Ach kelem xajanab'il wuuj, al t'ayin ¿b'ajtil tza tanhwej nok' a kalnel? ¿B'ajtil tzik'b'at nok' yik' yip t'a chimk'ualil? ¿Tas yuj ol in satek' ach in say t'a skal juntzanhxo heb' tanhwum kalnel? xchi ix. Syalan heb' anima:"
+    },
+    {
+      "number": "8",
+      "text": "Tato manh ojtakok ach ix te wach' ilji t'a skal heb' ix ix wach' yilji, ochanh tzak'an yuj yoklem nok' kalnel chi'. Tanhwej wa nok' yunetak a chiwa t'a slak'anil slechpat heb' winh tanhwum kalnel chi', xchi heb'. Syalan winh kelem:"
+    },
+    {
+      "number": "9",
+      "text": "Ach kob'es xajanab'il wuuj, te wach' ilji swila', icha wal yilji nok' kob'es chej stok'an skarruaje winh sreyal Egipto."
+    },
+    {
+      "number": "10",
+      "text": "Te wach' yilji spak'ultak a ti' t'a skal k'een uchikin, te wach' pax yilji a jaj b'aj ayoch k'een a tonh."
+    },
+    {
+      "number": "11",
+      "text": "Ol ko b'o k'een uchikin nab'a oro, ol kak'och k'een plata yelwanub'ok, xchi winh. Syalan ix kob'es:"
+    },
+    {
+      "number": "12",
+      "text": "Yakb'an k'ojanem winh rey t'a smexa, haxo anh nardo sumumi yel sjab' t'ayin."
+    },
+    {
+      "number": "13",
+      "text": "Ach kelem xajanab'il wuuj, lajan ach wal icha junok yub'anh te' mirra suk'uq'ui sjab' ayek' t'a skal wim."
+    },
+    {
+      "number": "14",
+      "text": "Ach xajanab'il wuuj, lajan ach icha junok yub'anh xumakil te alheña sq'uib' t'a skal te' uwa awab'il t'a En-gadi, xchi ix. Syalan winh kelem:"
+    },
+    {
+      "number": "15",
+      "text": "Te wach' ilji ach kob'es xajanab'il wuuj, wal yel te wach' ilji. Lajan swach'il yilji yol a sat icha yilji yol sat nok' paramuch, xchi winh. Syalan ix kob'es:"
+    },
+    {
+      "number": "16",
+      "text": "Te wach' ilji ach kelem xajanab'il wuuj, wal yel te wach' ilji. Ha wal anh yax ank'ultak ol och ko waynub'ok, xchi ix. Syalan winh kelem:"
+    },
+    {
+      "number": "17",
+      "text": "Ha spatzab'il ko pat ayochi nab'a a te' k'ute', haxo te' tzikap ayoch t'a yib'anh, xchi winh."
+    }
+  ]
 }

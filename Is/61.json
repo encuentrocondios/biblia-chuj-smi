@@ -1,49 +1,53 @@
 {
-    "chapter": "61",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Yespíritu Jehová Cajalil ayoch t'ayin, yujto sik'b'il in el yuj. Checb'il in cot yuj, yic tzul walel wach' ab'ix t'a heb' meb'a', swak'an stek'anil heb' manhxa yip yuj cusk'olal, swalan t'a heb' icha preso yaji to syal yel heb' t'a libre."
-        },
-        {
-            "number": "2",
-            "text": "Swalanpaxeli to ix ja sk'ual ko colchaj yuj Jehová ko Diosal, sk'ual pax yak'anek' ko pac t'a heb' kajk'ool. Ix in checjicoti yic swak'an sniwanil sk'ol heb' cusk'olal yaji."
-        },
-        {
-            "number": "3",
-            "text": "Tzin jawipax wak' tzalajk'olal t'a heb' aj Sion cusk'olal yaji, aton heb' syak'k'e k'een tik'aq'uil taanh t'a sjolom, a tzalajk'olal swak' sk'exuloc ok'el. Ha b'it yic aloj wach' lolonel swak'kanoch sk'exuloc ilk'olal. Lajan ol aj heb' icha junok te' ji awab'il yuj Jehová, yic sb'eyb'alej tojolal heb' yuj yik'anchaanh Jehová chi' heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha juntzanh chonhab' satnaqueli, ol sb'oxik'e heb', ol sb'oanpaxk'e juntzanh pat heb' mak'b'ilem lanhnaj t'a peka'."
-        },
-        {
-            "number": "5",
-            "text": "Ex wetchonhab', a heb' ch'oc nacional ol tanhwan nok' he kalnel, he munlajel yet' eyavb'en uwa."
-        },
-        {
-            "number": "6",
-            "text": "Ol yalan heb' to sacerdote ex Jehová, schekab' ex ko Diosal. Ol ex tzalaj yet' sb'eyumal juntzanhxo nación chi'. Wach' ol aj eyilji yuj tastac wach' yilji ol yak' heb' t'ayex."
-        },
-        {
-            "number": "7",
-            "text": "Ha ex tik, icha wal ix aj eyab'an syail, q'uixwelal yet' b'uchwal, icha pax chi' ol aj he chaan he b'eyumal yet' he tzalajk'olal, malaj slajwub'."
-        },
-        {
-            "number": "8",
-            "text": "Yujto a wal tojolal snib'ej Jehová, scot yowal yuj elk'al yet' ixtoj anima. Yuj chi' wal t'a smojal ol aj spakan t'a heb' ix ex ixtani. Ol lajwoc chi', ol sb'oan jun strato eyed'oc t'a masanil tiempo."
-        },
-        {
-            "number": "9",
-            "text": "Ol b'inaj wal eyinhtilal t'a skal masanil chonhab'. Masanil mach ol ex ilanoc, ol nachajel yuj heb' to a Jehová tz'ak'an swach'k'olal t'ayex."
-        },
-        {
-            "number": "10",
-            "text": "Tzin te tzalaj wal ticnaik yuj Jehová, tzin k'e wal chaanh in tzalaj yuj in Diosal, yujto te wach' ix yutej yak'an in colnab'il yet' tojolal, ichato ix och in pichuloc yuj. Icha swach'il tz'ajoch spichul junok winh quelem yet' junok ix cob'es ayic snupnaj heb', icha chi' in yutej."
-        },
-        {
-            "number": "11",
-            "text": "Icha tz'aj sk'eul tas sq'uib' t'a sat lu'um, ma icha yelta swol junok te te', icha chi' ol aj yak'an checlaj tojolal Jehová Kajal t'a yichanh masanil nación yuj yik'jichaanh."
-        }
-    ]
+  "chapter": "61",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Yespíritu Jehová Kajalil ayoch t'ayin, yujto sik'b'il in el yuj. Chekb'il in kot yuj, yik tzul walel wach' ab'ix t'a heb' meb'a', swak'an stek'anil heb' manhxa yip yuj kusk'olal, swalan t'a heb' icha preso yaji to syal yel heb' t'a libre."
+    },
+    {
+      "number": "2",
+      "text": "Swalanpaxeli to ix ja sk'ual ko kolchaj yuj Jehová ko Diosal, sk'ual pax yak'anek' ko pak t'a heb' kajk'ool. Ix in chekjikoti yik swak'an sniwanil sk'ol heb' kusk'olal yaji."
+    },
+    {
+      "number": "3",
+      "text": "Tzin jawipax wak' tzalajk'olal t'a heb' aj Sion kusk'olal yaji, haton heb' syak'k'e k'een tik'aq'uil taanh t'a sjolom, a tzalajk'olal swak' sk'exulok ok'el. Ha b'it yik aloj wach' lolonel swak'kanoch sk'exulok ilk'olal. Lajan ol aj heb' icha junok te' ji awab'il yuj Jehová, yik sb'eyb'alej tojolal heb' yuj yik'anchaanh Jehová chi' heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha juntzanh chonhab' satnakeli, ol sb'oxik'e heb', ol sb'oanpaxk'e juntzanh pat heb' mak'b'ilem lanhnaj t'a peka'."
+    },
+    {
+      "number": "5",
+      "text": "Ex wetchonhab', a heb' ch'ok nakional ol tanhwan nok' he kalnel, he munlajel yet' eyawb'en uwa."
+    },
+    {
+      "number": "6",
+      "text": "Ol yalan heb' to sakerdote ex Jehová, schekab' ex ko Diosal. Ol ex tzalaj yet' sb'eyumal juntzanhxo nakión chi'. Wach' ol aj eyilji yuj tastak wach' yilji ol yak' heb' t'ayex."
+    },
+    {
+      "number": "7",
+      "text": "Ha ex tik, icha wal ix aj eyab'an syail, q'uixwelal yet' b'uchwal, icha pax chi' ol aj he chaan he b'eyumal yet' he tzalajk'olal, malaj slajwub'."
+    },
+    {
+      "number": "8",
+      "text": "Yujto a wal tojolal snib'ej Jehová, skot yowal yuj elk'al yet' ixtoj anima. Yuj chi' wal t'a smojal ol aj spakan t'a heb' ix ex ixtani. Ol lajwok chi', ol sb'oan jun strato eyet'ok t'a masanil tiempo."
+    },
+    {
+      "number": "9",
+      "text": "Ol b'inaj wal eyinhtilal t'a skal masanil chonhab'. Masanil mach ol ex ilanok, ol nachajel yuj heb' to a Jehová tz'ak'an swach'k'olal t'ayex."
+    },
+    {
+      "number": "10",
+      "text": "Tzin te tzalaj wal tiknaik yuj Jehová, tzin k'e wal chaanh in tzalaj yuj in Diosal, yujto te wach' ix yutej yak'an in kolnab'il yet' tojolal, ichato ix och in pichulok yuj. Icha swach'il tz'ajoch spichul junok winh kelem yet' junok ix kob'es ayik snupnaj heb', icha chi' in yutej."
+    },
+    {
+      "number": "11",
+      "text": "Icha tz'aj sk'eul tas sq'uib' t'a sat lu'um, ma icha yelta swol junok te te', icha chi' ol aj yak'an cheklaj tojolal Jehová Kajal t'a yichanh masanil nakión yuj yik'jichaanh."
+    }
+  ]
 }

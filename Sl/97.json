@@ -1,53 +1,57 @@
 {
-    "chapter": "97",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Tzalajokab' masanil lum lum tik yet' masanil chonhab' t'a stitac ha' mar, yujto a Jehová Rey toni."
-        },
-        {
-            "number": "2",
-            "text": "Oyanoch k'ik'al asun t'a spatic yichanh. Te tek'an yaj yopisio yujto tojol syutej sch'olb'itani."
-        },
-        {
-            "number": "3",
-            "text": "Van sb'at jun k'ak' t'a yichanh, ol tz'ab'at heb' ayoch ajk'olal t'ay."
-        },
-        {
-            "number": "4",
-            "text": "Sakb'i yol yib'anhk’inal tik yuj k'ak' tzek' copnaj yuj, tz'ib'xi lum lum a tz'eq'ui."
-        },
-        {
-            "number": "5",
-            "text": "Tz'ulaxb'at lum niwac witz icha nok' chaq'uib' t'a yichanh Jehová Yajal t'a Smasanil yol yib'anhk’inal tik."
-        },
-        {
-            "number": "6",
-            "text": "Ha satcha’anh sch'oxanel stojolal, haxo heb' chonhab', syil stziquiquial heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ol q'uixwokkan heb' syak'em sb'ha t'a juntzanh comon Dios, heb' syik'chaanh sb'a yet' juntzanh yechel chi', yujto masanil juntzanh Dios chi' ol yak'em sb'ha t'a yichanh Jehová."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová, a yab'ixal tas ix utej ak'an syaelal heb' ajk'ool, ol yab' heb' aj Sion yet' juntzanhxo chonhab' t'a yol yic Judá, yuj chi' ol tzalaj heb'."
-        },
-        {
-            "number": "9",
-            "text": "Mamin Jehová, Yajal ach t'a yib'anh masanil yol yib'anhk’inal tik. Ek'al ach t'a yib'anh masanil comon Dios."
-        },
-        {
-            "number": "10",
-            "text": "Ha ex mach ex tze xajanej Jehová, chaquec el chukal. Yujto a heb' sk'anab'ajani, tanhwab'il heb' yuj. Scolji heb' yuj t'a yol sk'ab' heb' sk'ulan chukal."
-        },
-        {
-            "number": "11",
-            "text": "Tz'ak'ji sakil k'inal t'a heb' anima wach' spensar yuj, syak'an tzalajk'olal t'a heb' tojol sb'eyb'al."
-        },
-        {
-            "number": "12",
-            "text": "E masanil ex anima to wach' he pensar, tzalajanhec yuj tas wach' ix sk'ulej Jehová. Alec wach' lolonel t'ay."
-        }
-    ]
+  "chapter": "97",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Tzalajokab' masanil lum lum tik yet' masanil chonhab' t'a stitak ha' mar, yujto a Jehová Rey toni."
+    },
+    {
+      "number": "2",
+      "text": "Oyanoch k'ik'al asun t'a spatik yichanh. Te tek'an yaj yopisio yujto tojol syutej sch'olb'itani."
+    },
+    {
+      "number": "3",
+      "text": "Wan sb'at jun k'ak' t'a yichanh, ol tz'ab'at heb' ayoch ajk'olal t'ay."
+    },
+    {
+      "number": "4",
+      "text": "Sakb'i yol yib'anhk'inal tik yuj k'ak' tzek' kopnaj yuj, tz'ib'xi lum lum a tz'eq'ui."
+    },
+    {
+      "number": "5",
+      "text": "Tz'ulaxb'at lum niwak witz icha nok' chaq'uib' t'a yichanh Jehová Yajal t'a Smasanil yol yib'anhk'inal tik."
+    },
+    {
+      "number": "6",
+      "text": "Ha satcha'anh sch'oxanel stojolal, haxo heb' chonhab', syil stzikikial heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ol q'uixwokkan heb' syak'em sb'a t'a juntzanh komon Dios, heb' syik'chaanh sb'a yet' juntzanh yechel chi', yujto masanil juntzanh Dios chi' ol yak'em sb'a t'a yichanh Jehová."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová, a yab'ixal tas ix utej ak'an syaelal heb' ajk'ool, ol yab' heb' aj Sion yet' juntzanhxo chonhab' t'a yol yik Judá, yuj chi' ol tzalaj heb'."
+    },
+    {
+      "number": "9",
+      "text": "Mamin Jehová, Yajal ach t'a yib'anh masanil yol yib'anhk'inal tik. Ek'al ach t'a yib'anh masanil komon Dios."
+    },
+    {
+      "number": "10",
+      "text": "Ha ex mach ex tze xajanej Jehová, chakek el chukal. Yujto a heb' sk'anab'ajani, tanhwab'il heb' yuj. Skolji heb' yuj t'a yol sk'ab' heb' sk'ulan chukal."
+    },
+    {
+      "number": "11",
+      "text": "Tz'ak'ji sakil k'inal t'a heb' anima wach' spensar yuj, syak'an tzalajk'olal t'a heb' tojol sb'eyb'al."
+    },
+    {
+      "number": "12",
+      "text": "E masanil ex anima to wach' he pensar, tzalajanhek yuj tas wach' ix sk'ulej Jehová. Alek wach' lolonel t'ay."
+    }
+  ]
 }

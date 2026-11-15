@@ -1,97 +1,101 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach wuninal, cha ab' in jelanil tik, scham wal a maclan ab' in razón wach' swala'."
-        },
-        {
-            "number": "2",
-            "text": "Icha chi' ol aj snachajel uuj, ol yal a lolon yet' jelanil."
-        },
-        {
-            "number": "3",
-            "text": "Ha junok ix ix ay yetb'eyum, te wach' slolon ix, k'ununi slolon ix yic tzach smontejb'at ix t'a chukal."
-        },
-        {
-            "number": "4",
-            "text": "Axo t'a slajwub'al, lajanxo tz'aj ix icha anh ixaj te k'a', icha wal tz'aj ko lajwi yuj k'een espada chab' ye."
-        },
-        {
-            "number": "5",
-            "text": "Ha mach sb'eyek' yet' jun ix ix chi', ol chamoc. Ha sb'eyb'al jun ix ix chi', b'eal chamel yaji."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a ix chi' malaj yelk'och sb'eal k 'inal, max snalaj ix tato wach', mato chuk sb'eyb'al ix chi'."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ach wuninal, ab' tas swala'. Manh ik'kanel a b'ha t'a a kachnab'il swak' tik."
-        },
-        {
-            "number": "8",
-            "text": "Najat tzach el t'a stz'ey ix ay yetb'eyum chi', xach k'ochta wal t'a spuertail spat ix."
-        },
-        {
-            "number": "9",
-            "text": "Tato maay, ol satel a b'inaj t'a wach'il, elanhchamel ol ach cham yuj junok winh malaj yok'elk'olal."
-        },
-        {
-            "number": "10",
-            "text": "Tato icha chi' tza k'ulej, jantacnhej a b'eyumal ix ilchaj uuj ayic ix ak'an wal ip a munlaji, ol ak'kanb'at t'a yol sk'ab' junok ch'oc animail."
-        },
-        {
-            "number": "11",
-            "text": "Tato tza k'anab'ajej tas syal ix, toxonhej ol ach ok'kanek'oc, jab'jab'il ol lajwoquem a niwanil."
-        },
-        {
-            "number": "12",
-            "text": "Axo ol alan icha tik: ¿Tas wal yuj ix in patiquejel in kachnab'il? ¿Tas wal yuj maj in k'anab'ajej?"
-        },
-        {
-            "number": "13",
-            "text": "Maj yal in k'ool ix in cha wab' tas ix yal heb' in k'ayb'umal, octom ix in cha wab' t'a heb'."
-        },
-        {
-            "number": "14",
-            "text": "Axo ticnaik jab'xonhej maj in juwiel t'a yichanh masanil chonhab' t'a junelnhej, xa chama."
-        },
-        {
-            "number": "15",
-            "text": "Uk' ha ha' ictaxon yaji yic wach' tzek' stak'inhal a ti'. (Syalelk'ochi anhej yet' ix etb'eyum tzak' a gana.)"
-        },
-        {
-            "number": "16",
-            "text": "¿Tas wal yuj ol aj uninal yet' heb' ix ix tzek' t'a yoltac calle?"
-        },
-        {
-            "number": "17",
-            "text": "Wach' skolwaj heb' uninal ed'oc, t'a yichanh junocxo mach b'aj skolwaj heb' uninal chi'."
-        },
-        {
-            "number": "18",
-            "text": "Tzalajanh, ayokab' uninal yet' ix etb'eyum chi', aton ix, ix ik' a b'a yet'oc ayic quelem achto."
-        },
-        {
-            "number": "19",
-            "text": "Wach'okab' yilji ix t'a yol a sat, icha wal junok nok' k'ultaquil chej. Mokab' lajwoc a tzalajk'olal t'a ix, ayokab' a tzalajk'olal chi' yujto xajan ach yuj ix."
-        },
-        {
-            "number": "20",
-            "text": "Ach wuninal, manh ak' somchajel a pensar yuj junok ix ix ayxo yetb'eyum. ¿Tas yuj ol ach och chelchel t'a junxo ix ix chi'?"
-        },
-        {
-            "number": "21",
-            "text": "Ha Jehová wan ton yilan ko b'eyb'al junjun onh, malaj junok tas max uji yilani."
-        },
-        {
-            "number": "22",
-            "text": "Ha heb' chuk, anheja' schukal heb' chi' ol ak'an juwoqueloc. Anheja' schukal heb' chi' ol tzek'anoc, icha ko tzek'ji t'a junok lasu."
-        },
-        {
-            "number": "23",
-            "text": "Yujto max syamoch waan sb'a heb', yuj chi' ol b'atkan heb' t'a chamel. Yuj smanh pensaril heb' chi', ol satkanel heb'."
-        }
-    ]
+  "chapter": "5",
+  "book": "PROVERBIOS",
+  "book_short": "Pr",
+  "aligned": true,
+  "es_verses": 23,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach wuninal, cha ab' in jelanil tik, scham wal a maklan ab' in razón wach' swala'."
+    },
+    {
+      "number": "2",
+      "text": "Icha chi' ol aj snachajel uuj, ol yal a lolon yet' jelanil."
+    },
+    {
+      "number": "3",
+      "text": "Ha junok ix ix ay yetb'eyum, te wach' slolon ix, k'ununi slolon ix yik tzach smontejb'at ix t'a chukal."
+    },
+    {
+      "number": "4",
+      "text": "Axo t'a slajwub'al, lajanxo tz'aj ix icha anh ixaj te k'a', icha wal tz'aj ko lajwi yuj k'een espada chab' ye."
+    },
+    {
+      "number": "5",
+      "text": "Ha mach sb'eyek' yet' jun ix ix chi', ol chamok. Ha sb'eyb'al jun ix ix chi', b'eal chamel yaji."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a ix chi' malaj yelk'och sb'eal k 'inal, max snalaj ix tato wach', mato chuk sb'eyb'al ix chi'."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ach wuninal, ab' tas swala'. Manh ik'kanel a b'a t'a a kachnab'il swak' tik."
+    },
+    {
+      "number": "8",
+      "text": "Najat tzach el t'a stz'ey ix ay yetb'eyum chi', xach k'ochta wal t'a spuertail spat ix."
+    },
+    {
+      "number": "9",
+      "text": "Tato maay, ol satel a b'inaj t'a wach'il, elanhchamel ol ach cham yuj junok winh malaj yok'elk'olal."
+    },
+    {
+      "number": "10",
+      "text": "Tato icha chi' tza k'ulej, jantaknhej a b'eyumal ix ilchaj uuj ayik ix ak'an wal ip a munlaji, ol ak'kanb'at t'a yol sk'ab' junok ch'ok animail."
+    },
+    {
+      "number": "11",
+      "text": "Tato tza k'anab'ajej tas syal ix, toxonhej ol ach ok'kanek'ok, jab'jab'il ol lajwokem a niwanil."
+    },
+    {
+      "number": "12",
+      "text": "Axo ol alan icha tik: ¿Tas wal yuj ix in patikejel in kachnab'il? ¿Tas wal yuj maj in k'anab'ajej?"
+    },
+    {
+      "number": "13",
+      "text": "Maj yal in k'ool ix in cha wab' tas ix yal heb' in k'ayb'umal, oktom ix in cha wab' t'a heb'."
+    },
+    {
+      "number": "14",
+      "text": "Axo tiknaik jab'xonhej maj in juwiel t'a yichanh masanil chonhab' t'a junelnhej, xa chama."
+    },
+    {
+      "number": "15",
+      "text": "Uk' ha ha' iktaxon yaji yik wach' tzek' stak'inhal a ti'. (Syalelk'ochi anhej yet' ix etb'eyum tzak' a gana.)"
+    },
+    {
+      "number": "16",
+      "text": "¿Tas wal yuj ol aj uninal yet' heb' ix ix tzek' t'a yoltak kalle?"
+    },
+    {
+      "number": "17",
+      "text": "Wach' skolwaj heb' uninal et'ok, t'a yichanh junokxo mach b'aj skolwaj heb' uninal chi'."
+    },
+    {
+      "number": "18",
+      "text": "Tzalajanh, ayokab' uninal yet' ix etb'eyum chi', haton ix, ix ik' a b'a yet'ok ayik kelem achto."
+    },
+    {
+      "number": "19",
+      "text": "Wach'okab' yilji ix t'a yol a sat, icha wal junok nok' k'ultakil chej. Mokab' lajwok a tzalajk'olal t'a ix, ayokab' a tzalajk'olal chi' yujto xajan ach yuj ix."
+    },
+    {
+      "number": "20",
+      "text": "Ach wuninal, manh ak' somchajel a pensar yuj junok ix ix ayxo yetb'eyum. ¿Tas yuj ol ach och chelchel t'a junxo ix ix chi'?"
+    },
+    {
+      "number": "21",
+      "text": "Ha Jehová wan ton yilan ko b'eyb'al junjun onh, malaj junok tas max uji yilani."
+    },
+    {
+      "number": "22",
+      "text": "Ha heb' chuk, anheja' schukal heb' chi' ol ak'an juwokelok. Anheja' schukal heb' chi' ol tzek'anok, icha ko tzek'ji t'a junok lasu."
+    },
+    {
+      "number": "23",
+      "text": "Yujto max syamoch waan sb'a heb', yuj chi' ol b'atkan heb' t'a chamel. Yuj smanh pensaril heb' chi', ol satkanel heb'."
+    }
+  ]
 }

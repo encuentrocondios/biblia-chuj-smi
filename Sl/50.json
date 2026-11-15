@@ -1,97 +1,101 @@
 {
-    "chapter": "50",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová, Dios Axonhejochi, a ix loloni. Ix yavtej heb' kajan t'a yol yib'anhk’inal tik, b'aj sjawi k'u masanto b'aj tz'em k'u."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a tzalan Sion, aton chonhab' te wach' yilji, ata' sch'ox sakil k'inal Dios."
-        },
-        {
-            "number": "3",
-            "text": "Tik sja ko Diosal, palta manh ichnhejoctalaj ol jawok. Ha t'a spatic yichanh ay jun k'ak' to satumeli yet' jun chacxuxum ik'."
-        },
-        {
-            "number": "4",
-            "text": "Ato t'a chaanh tz'avtaj heb' aj satcha’anh yet' heb' kajan t'a sat lum lum tik yuj Dios, yic wach' syil heb' sch'olb'itaj schonhab'."
-        },
-        {
-            "number": "5",
-            "text": "Syal Dios icha tik: Molb'ejec he b'a ex wicxo, a ex eyak'nac jun silab' t'ayin, ayic eyak'annac he trato wed'oc, xchi."
-        },
-        {
-            "number": "6",
-            "text": "Ha satcha’anh sch'oxani to ha Dios Juez ton t'a stojolal."
-        },
-        {
-            "number": "7",
-            "text": "Syalanpax Dios icha tik: Ex in chonhab' Israel, ab'ecnab'i, jichan ol wutej walanoch he paltail t'a he sat. Ha in Dios in, he Diosal in."
-        },
-        {
-            "number": "8",
-            "text": "Maj ex in tumejlaj yuj eyofrenda tzeyak'taxon t'ayin yet' nok' nok' tze nhus silab'il t'ayin t'a waltar."
-        },
-        {
-            "number": "9",
-            "text": "Max in k'anlaj nok' kelemtac wakax molb'il eyuuj. Malaj nok' mam chiwa t'a yol he macte' tzin k'an t'ayex."
-        },
-        {
-            "number": "10",
-            "text": "Vicnhej masanil nok' kaltacte'al nok', wik pax nok' molb'etzal nok' ay t'a jolomtac witz."
-        },
-        {
-            "number": "11",
-            "text": "Vic masanil nok' much ay t'a kaltac te' yet' masanil tas tzek' t'a kal wayumtac."
-        },
-        {
-            "number": "12",
-            "text": "Q'uinaloc ay in wejel, manh ol wal-laj t'ayex, yujto wik jun yol yib'anhk’inal tik yet' masanil tas ay t'ay."
-        },
-        {
-            "number": "13",
-            "text": "¿Tocwal a sb'ak'chil nok' wakax tzin chi'a? ¿Tocwal a pax schiq'uil nok' mam chiwa swuk'ej?"
-        },
-        {
-            "number": "14",
-            "text": "Ha silab' tzin nib'ej, to tzeyak' yuj diosal t'ayin, tzeyak'elk'och tas tzeyaltej t'ayin, a in ton ek' in to t'a yib'anh smasanil."
-        },
-        {
-            "number": "15",
-            "text": "Ayic ay eyaelal, avtejinec, ol ex in colo', a exxo ol in eyik'chaanh, xchi Dios."
-        },
-        {
-            "number": "16",
-            "text": "Axo t'a heb' chuk sb'eyb'al, syal Dios icha tik: ¿Toc ay eyalan eyic eyalanel in k'ayb'ub'al, ma eyalanel yab'ixal in trato?"
-        },
-        {
-            "number": "17",
-            "text": "Ina to max yal-laj he k'ool tzex in cacha', malaj yelk'och in lolonel t'ayex."
-        },
-        {
-            "number": "18",
-            "text": "Ayic sja winh elk'umtaxoni, tzex k'e urnaj he b'at yet' winh. Te wach' eyak'anpax yet' heb' sk'ulan ajmulal."
-        },
-        {
-            "number": "19",
-            "text": "Palta a tas tze k'ulej, to tze nak'e lolonel, max ex och waan eyesani."
-        },
-        {
-            "number": "20",
-            "text": "Ha t'a heb' eyuk'tac junnhej he nun yet'oc, tzeyal chukal lolonel t'a spatic heb'."
-        },
-        {
-            "number": "21",
-            "text": "Ayic ix he k'ulan juntzanh chukal tik, malaj tas swala'. Yuj chi' tze na' to lajan in eyed'oc, palta ol waloch he mul chi' t'a he sat, ol wil-lajoch in sat eyed'oc."
-        },
-        {
-            "number": "22",
-            "text": "Ha ex tzin b'at satk'olal eyuuj tik, wach'okab' tz'aj snachajel jun tik eyuuj, haxo talaj tz'aji, ol ex in jatchitejb'ati, manhxalaj mach ol ex colan t'ayin."
-        },
-        {
-            "number": "23",
-            "text": "Ha mach tz'ak'an yuj diosal t'ayin, ay welk'och t'a yol sat. Ha mach tzin k'anab'ajani, ol in colcaneli, xchi Dios."
-        }
-    ]
+  "chapter": "50",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 23,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová, Dios Axonhejochi, a ix loloni. Ix yawtej heb' kajan t'a yol yib'anhk'inal tik, b'aj sjawi k'u masanto b'aj tz'em k'u."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a tzalan Sion, haton chonhab' te wach' yilji, ata' sch'ox sakil k'inal Dios."
+    },
+    {
+      "number": "3",
+      "text": "Tik sja ko Diosal, palta manh ichnhejoktalaj ol jawok. Ha t'a spatik yichanh ay jun k'ak' to satumeli yet' jun chakxuxum ik'."
+    },
+    {
+      "number": "4",
+      "text": "Ato t'a chaanh tz'awtaj heb' aj satcha'anh yet' heb' kajan t'a sat lum lum tik yuj Dios, yik wach' syil heb' sch'olb'itaj schonhab'."
+    },
+    {
+      "number": "5",
+      "text": "Syal Dios icha tik: Molb'ejek he b'a ex wikxo, a ex eyak'nak jun silab' t'ayin, ayik eyak'annak he trato wet'ok, xchi."
+    },
+    {
+      "number": "6",
+      "text": "Ha satcha'anh sch'oxani to ha Dios Juez ton t'a stojolal."
+    },
+    {
+      "number": "7",
+      "text": "Syalanpax Dios icha tik: Ex in chonhab' Israel, ab'eknab'i, jichan ol wutej walanoch he paltail t'a he sat. Ha in Dios in, he Diosal in."
+    },
+    {
+      "number": "8",
+      "text": "Maj ex in tumejlaj yuj eyofrenda tzeyak'taxon t'ayin yet' nok' nok' tze nhus silab'il t'ayin t'a waltar."
+    },
+    {
+      "number": "9",
+      "text": "Max in k'anlaj nok' kelemtak wakax molb'il eyuuj. Malaj nok' mam chiwa t'a yol he makte' tzin k'an t'ayex."
+    },
+    {
+      "number": "10",
+      "text": "Wiknhej masanil nok' kaltakte'al nok', wik pax nok' molb'etzal nok' ay t'a jolomtak witz."
+    },
+    {
+      "number": "11",
+      "text": "Wik masanil nok' much ay t'a kaltak te' yet' masanil tas tzek' t'a kal wayumtak."
+    },
+    {
+      "number": "12",
+      "text": "Q'uinalok ay in wejel, manh ol wal-laj t'ayex, yujto wik jun yol yib'anhk'inal tik yet' masanil tas ay t'ay."
+    },
+    {
+      "number": "13",
+      "text": "¿Tokwal a sb'ak'chil nok' wakax tzin chi'a? ¿Tokwal a pax schiq'uil nok' mam chiwa swuk'ej?"
+    },
+    {
+      "number": "14",
+      "text": "Ha silab' tzin nib'ej, to tzeyak' yuj diosal t'ayin, tzeyak'elk'och tas tzeyaltej t'ayin, a in ton ek' in to t'a yib'anh smasanil."
+    },
+    {
+      "number": "15",
+      "text": "Ayik ay eyaelal, awtejinek, ol ex in kolo', a exxo ol in eyik'chaanh, xchi Dios."
+    },
+    {
+      "number": "16",
+      "text": "Axo t'a heb' chuk sb'eyb'al, syal Dios icha tik: ¿Tok ay eyalan eyik eyalanel in k'ayb'ub'al, ma eyalanel yab'ixal in trato?"
+    },
+    {
+      "number": "17",
+      "text": "Ina to max yal-laj he k'ool tzex in kacha', malaj yelk'och in lolonel t'ayex."
+    },
+    {
+      "number": "18",
+      "text": "Ayik sja winh elk'umtaxoni, tzex k'e urnaj he b'at yet' winh. Te wach' eyak'anpax yet' heb' sk'ulan ajmulal."
+    },
+    {
+      "number": "19",
+      "text": "Palta a tas tze k'ulej, to tze nak'e lolonel, max ex och waan eyesani."
+    },
+    {
+      "number": "20",
+      "text": "Ha t'a heb' eyuk'tak junnhej he nun yet'ok, tzeyal chukal lolonel t'a spatik heb'."
+    },
+    {
+      "number": "21",
+      "text": "Ayik ix he k'ulan juntzanh chukal tik, malaj tas swala'. Yuj chi' tze na' to lajan in eyet'ok, palta ol waloch he mul chi' t'a he sat, ol wil-lajoch in sat eyet'ok."
+    },
+    {
+      "number": "22",
+      "text": "Ha ex tzin b'at satk'olal eyuuj tik, wach'okab' tz'aj snachajel jun tik eyuuj, haxo talaj tz'aji, ol ex in jatchitejb'ati, manhxalaj mach ol ex kolan t'ayin."
+    },
+    {
+      "number": "23",
+      "text": "Ha mach tz'ak'an yuj diosal t'ayin, ay welk'och t'a yol sat. Ha mach tzin k'anab'ajani, ol in kolkaneli, xchi Dios."
+    }
+  ]
 }

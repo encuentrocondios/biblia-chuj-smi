@@ -1,61 +1,65 @@
 {
-    "chapter": "8",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix sch'ox Jehová wil jun mooch sat avb'en q'uinhxo."
-        },
-        {
-            "number": "2",
-            "text": "Ix sk'anb'an t'ayin icha tik: --¿Tas tzil chi' Amós? xchi t'ayin. --Ha jun mooch sat avb'en q'uinhxo swila', xin chi t'ay. Ix yalanxi t'ayin icha tik: --Ha Israel, ichawal to toxo ix q'uinhb'i. Manhxo ol wak'xi niwank'olal."
-        },
-        {
-            "number": "3",
-            "text": "Ayic ol wak'anoch syaelal heb' chi', a heb' ix ix sb'itan t'a spatil heb' yajal, ol ok' heb' ix yuj cusk'olal. Tzijtum anima ol chamoc, ol kan teljab' sniwanil heb'. Malaj tas ol ab'chajoc, xchi Jehová."
-        },
-        {
-            "number": "4",
-            "text": "Scham he maclan eyab' juntzanh lolonel tik, mach ex tzeyixtej heb' emnaquil yeq'ui yet' heb' meb'a' t'a chonhab' tik."
-        },
-        {
-            "number": "5",
-            "text": "Tzeyalan t'a yoltac he pat t'a q'uinh ayic tz'alji k'een uj: ¿B'aq'uinh ol lajwoc yek' jun q'uinh tik yic syal ko chonhan ko trigo? ¿B'aq'uinh ol lajwoc yek' sk'ual ik'oj ip, yic ol yal ko chonhanxi sat cavb'en, ol kak'lab'an echlab' manh tz'akanok, haxo stojol niwan ol ko k'ana'?"
-        },
-        {
-            "number": "6",
-            "text": "Ol ko chonhanpax sk'aelal ixim trigo. Ol quixtej juntzanh heb' meb'a' tik, masanto ol yal schonhanel sb'a heb' t'ayonh, yic tz'och heb' ko chekab'oc. Icha chi' ol aj stupanel sb'oc heb' t'ayonh, wach'chom jab'nhej sb'oc heb' chi' icha stojol jun mojoc xanhab', xe chi."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ix yak' sti' Jehová sDiosal winhaj Jacob, ix yalan icha tik: Malaj b'ak'uinh ol b'at he chukal satk'olal wuuj, xchi."
-        },
-        {
-            "number": "8",
-            "text": "Yuj chi' ol ib'xock'e lum lum, ol ok' masanil heb' kajan t'a sat lu'um. Masanil jun chonhab' tik ol ib'xock'ei, ol k'e lum t'a chaanh, ol empax lu'um icha tz'aj ha' Nilo, sq'uib'k'e ha', stupxiem ha'."
-        },
-        {
-            "number": "9",
-            "text": "Ha in Jehová in swal yuj jun k'ual chi': D'a chimk'ualil, ol wak'em k'u, ol och k’ik’ k’inal t'a k'ualil."
-        },
-        {
-            "number": "10",
-            "text": "Ha in ol wak'och sk'ual he q'uinh t'a cusk'olal. Axo he b'it yuj tzalajk'olal ol wak'och t'a ok'el yuj chamel. Axo pichul yic cusk'olal ol eyak'ochi, ol he joxanel xil he jolom yuj he ch'oxanel he cusk'olal. Ol ex ok' icha junok mach tz'ok' yuj junok k'otanh yuninal ix chami. Cusk'olal ol aj slajwi masanil."
-        },
-        {
-            "number": "11",
-            "text": "Ay wal jun k'ual ol wak'cot wejel t'a yol yib'anhk’inal tik. Manh wejeloc yuj wael, manh taquinhtialoc yuj ha ha', palta wejel yic tz'ab'chaj in lolonel. Ha in Jehová Syal Vuj Masanil, a in swala'."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' anima, toxonhej ol b'eyek' heb' sayanek' mach tz'alan in lolonel. Ol b'at heb' t'a stitac ha' mar Muerto, masanto ol k'och heb' t'a stitac ha' mar Mediterráneo, ol ek'chaj heb' t'a schanhil pak'anh yol yib'anhk’inal, palta malaj mach ol ilchaj yuj heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ha t'a jun k'ual chi', a heb' ix cob'estac te wach' yilji yet' heb' kelemtac te tek'an, ol el yip heb' yuj taquinhtial."
-        },
-        {
-            "number": "14",
-            "text": "Icha chi' ol aj heb' syak' sti' t'a juntzanh yechel q'uixwelaltac ay t'a Samaria, aton heb' tz'alan icha tik: Swak' in ti' t'a sb'i sdiosal heb' aj Dan, ma t'a sb'i sdiosal heb' aj Beerseba, xchi heb'. Yuj chi' manhxa b'ak'uinh ol k'e waan heb', xchi Jehová."
-        }
-    ]
+  "chapter": "8",
+  "book": "AMÓS",
+  "book_short": "Am",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix sch'ox Jehová wil jun mooch sat awb'en q'uinhxo."
+    },
+    {
+      "number": "2",
+      "text": "Ix sk'anb'an t'ayin icha tik: --¿Tas tzil chi' Amós? xchi t'ayin. --Ha jun mooch sat awb'en q'uinhxo swila', xin chi t'ay. Ix yalanxi t'ayin icha tik: --Ha Israel, ichawal to toxo ix q'uinhb'i. Manhxo ol wak'xi niwank'olal."
+    },
+    {
+      "number": "3",
+      "text": "Ayik ol wak'anoch syaelal heb' chi', a heb' ix ix sb'itan t'a spatil heb' yajal, ol ok' heb' ix yuj kusk'olal. Tzijtum anima ol chamok, ol kan teljab' sniwanil heb'. Malaj tas ol ab'chajok, xchi Jehová."
+    },
+    {
+      "number": "4",
+      "text": "Scham he maklan eyab' juntzanh lolonel tik, mach ex tzeyixtej heb' emnakil yeq'ui yet' heb' meb'a' t'a chonhab' tik."
+    },
+    {
+      "number": "5",
+      "text": "Tzeyalan t'a yoltak he pat t'a q'uinh ayik tz'alji k'een uj: ¿B'aq'uinh ol lajwok yek' jun q'uinh tik yik syal ko chonhan ko trigo? ¿B'aq'uinh ol lajwok yek' sk'ual ik'oj ip, yik ol yal ko chonhanxi sat kawb'en, ol kak'lab'an echlab' manh tz'akanok, haxo stojol niwan ol ko k'ana'?"
+    },
+    {
+      "number": "6",
+      "text": "Ol ko chonhanpax sk'aelal ixim trigo. Ol kixtej juntzanh heb' meb'a' tik, masanto ol yal schonhanel sb'a heb' t'ayonh, yik tz'och heb' ko chekab'ok. Icha chi' ol aj stupanel sb'ok heb' t'ayonh, wach'chom jab'nhej sb'ok heb' chi' icha stojol jun mojok xanhab', xe chi."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ix yak' sti' Jehová sDiosal winhaj Jacob, ix yalan icha tik: Malaj b'ak'uinh ol b'at he chukal satk'olal wuuj, xchi."
+    },
+    {
+      "number": "8",
+      "text": "Yuj chi' ol ib'xokk'e lum lum, ol ok' masanil heb' kajan t'a sat lu'um. Masanil jun chonhab' tik ol ib'xokk'ei, ol k'e lum t'a chaanh, ol empax lu'um icha tz'aj ha' Nilo, sq'uib'k'e ha', stupxiem ha'."
+    },
+    {
+      "number": "9",
+      "text": "Ha in Jehová in swal yuj jun k'ual chi': T'a chimk'ualil, ol wak'em k'u, ol och k'ik' k'inal t'a k'ualil."
+    },
+    {
+      "number": "10",
+      "text": "Ha in ol wak'och sk'ual he q'uinh t'a kusk'olal. Axo he b'it yuj tzalajk'olal ol wak'och t'a ok'el yuj chamel. Axo pichul yik kusk'olal ol eyak'ochi, ol he joxanel xil he jolom yuj he ch'oxanel he kusk'olal. Ol ex ok' icha junok mach tz'ok' yuj junok k'otanh yuninal ix chami. Kusk'olal ol aj slajwi masanil."
+    },
+    {
+      "number": "11",
+      "text": "Ay wal jun k'ual ol wak'kot wejel t'a yol yib'anhk'inal tik. Manh wejelok yuj wael, manh takinhtialok yuj ha ha', palta wejel yik tz'ab'chaj in lolonel. Ha in Jehová Syal Wuj Masanil, a in swala'."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' anima, toxonhej ol b'eyek' heb' sayanek' mach tz'alan in lolonel. Ol b'at heb' t'a stitak ha' mar Muerto, masanto ol k'och heb' t'a stitak ha' mar Mediterráneo, ol ek'chaj heb' t'a schanhil pak'anh yol yib'anhk'inal, palta malaj mach ol ilchaj yuj heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ha t'a jun k'ual chi', a heb' ix kob'estak te wach' yilji yet' heb' kelemtak te tek'an, ol el yip heb' yuj takinhtial."
+    },
+    {
+      "number": "14",
+      "text": "Icha chi' ol aj heb' syak' sti' t'a juntzanh yechel q'uixwelaltak ay t'a Samaria, haton heb' tz'alan icha tik: Swak' in ti' t'a sb'i sdiosal heb' aj Dan, ma t'a sb'i sdiosal heb' aj Beerseba, xchi heb'. Yuj chi' manhxa b'ak'uinh ol k'e waan heb', xchi Jehová."
+    }
+  ]
 }

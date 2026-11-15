@@ -1,61 +1,65 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha junjun heb' sat sacerdote ha t'a ko kal a onh anima onh tik sik'jielta heb'. Tz'ak'ji yopisio heb' yak'anoch ko ti' d'ha Dios, syak'an ofrenda heb' yet' silab' snhusji yuj ko mul."
-        },
-        {
-            "number": "2",
-            "text": "Lajan heb' sat sacerdote chi' qued'oc, yujto malaj stek'anil heb'. Yuj chi' syal niwan syutej sk'ool heb' t'a heb' max nachajel yuj yet' t'a heb' tz'em t'a junok spaltail."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' sat sacerdote chi', animanhej heb', yuj chi' yowalil syak'pax juntzanh silab' nhusb'il chi' heb' yuj smul, icha juntzanh silab' syak' heb' yuj smul heb' anima."
-        },
-        {
-            "number": "4",
-            "text": "Malaj junok mach scomon ak'ejoch sb'ha t'a jun opisio chi'. Anhej heb' avtab'il yuj Dios syal yochi, icha ajnac winhaj Aarón yuj Dios t'a peka'."
-        },
-        {
-            "number": "5",
-            "text": "Icha pax chi' Cristo, maj yak'ochlaj sb'a sat sacerdoteal t'a yol yico', palta ha Dios ix ak'anoch yopisio. Icha tik ix yutej yalan t'ay: Ha ach tik, Vuninal ach. Ha t'a jun k'u tik, ix wak' checlajoc to Vuninal ach, xchi."
-        },
-        {
-            "number": "6",
-            "text": "Anheja', ay pax b'aj icha tik syalkan t'a Slolonel: Sacerdote achnhej t'a junelnhej, icha yopisio winhaj Melquisedec, xchi Dios chi' t'ay."
-        },
-        {
-            "number": "7",
-            "text": "Ayic ix ek' Jesús t'a yol yib'anhk’inal tik, te chaanh ix lesalwi, ix oq'ui ayic ix sk'anan tas d'ha Dios, aton jun ay spoder scolanelta t'a yol sk'ab' chamel. Ix ab'ji slesal chi', yujto te nanam ix yutej sb'a t'ay."
-        },
-        {
-            "number": "8",
-            "text": "Wach'chom Yuninal Dios, palta yuj juntzanh yaelal ix yab'i snachajel yuj chajtil syutej sk'anab'ajani."
-        },
-        {
-            "number": "9",
-            "text": "Ayic ix yik'anelk'och sb'a masanil tas nab'il yuj, ix ak'ji yopisio yak'an colnab'il t'a junelnhej t'a masanil heb' sk'anab'ajan tas syala'."
-        },
-        {
-            "number": "10",
-            "text": "Yuj chi' ha Dios ix ak'an yopisio yoch sat sacerdoteal icha yopisio winhaj Melquisedec t'a peka'."
-        },
-        {
-            "number": "11",
-            "text": "Tzijtumto tas in gana swal t'ayex yuj jun tik, palta ajaltac kalani tas syalelk'ochi, yujto te pural snachajel eyuuj."
-        },
-        {
-            "number": "12",
-            "text": "Ayxo stiempoal eyak'an och t'a he k'ool. Smoj to tzaxo he k'ayb'ej heb' yicxo Dios ticnaik. Palta ina anhej juntzanh sk'ayb'ub'al Dios manh ajaltacoc tze nib'ej tz'alchajxi t'ayex, yujto maxto canlaj eyuuj. Mantalaj he tek'anil, lajan ex icha junok nene' unin wanto schuni, maxto ujilaj swa'i."
-        },
-        {
-            "number": "13",
-            "text": "Ha juntzanh k'ayb'ub'al chi', icha lech, ichnhej ta'. Yuj chi' a heb' snib'ej yab'an juntzanh chi', anheja' lajan heb' icha junok nene' unin. Anheja' maxto nachajel yuj heb' tas scutej ko tojolb'itan ko b'eyb'al."
-        },
-        {
-            "number": "14",
-            "text": "Axo juntzanh k'ayb'ub'al pural snachajeli, lajan icha tas syab'lej heb' icham anima. Yuj chi', a heb' sk'ayb'an juntzanh chi', aton heb' tek'anxo spensar. k'aynac heb' snaaneli b'aja juntzanh tas wach' yet' juntzanh chuk."
-        }
-    ]
+  "chapter": "5",
+  "book": "HEBREOS",
+  "book_short": "Heb",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha junjun heb' sat sakerdote ha t'a ko kal a onh anima onh tik sik'jielta heb'. Tz'ak'ji yopisio heb' yak'anoch ko ti' t'a Dios, syak'an ofrenda heb' yet' silab' snhusji yuj ko mul."
+    },
+    {
+      "number": "2",
+      "text": "Lajan heb' sat sakerdote chi' ket'ok, yujto malaj stek'anil heb'. Yuj chi' syal niwan syutej sk'ool heb' t'a heb' max nachajel yuj yet' t'a heb' tz'em t'a junok spaltail."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' sat sakerdote chi', animanhej heb', yuj chi' yowalil syak'pax juntzanh silab' nhusb'il chi' heb' yuj smul, icha juntzanh silab' syak' heb' yuj smul heb' anima."
+    },
+    {
+      "number": "4",
+      "text": "Malaj junok mach skomon ak'ejoch sb'a t'a jun opisio chi'. Anhej heb' awtab'il yuj Dios syal yochi, icha ajnak winhaj Aarón yuj Dios t'a peka'."
+    },
+    {
+      "number": "5",
+      "text": "Icha pax chi' Cristo, maj yak'ochlaj sb'a sat sakerdoteal t'a yol yiko', palta ha Dios ix ak'anoch yopisio. Icha tik ix yutej yalan t'ay: Ha ach tik, Wuninal ach. Ha t'a jun k'u tik, ix wak' cheklajok to Wuninal ach, xchi."
+    },
+    {
+      "number": "6",
+      "text": "Anheja', ay pax b'aj icha tik syalkan t'a Slolonel: Sacerdote achnhej t'a junelnhej, icha yopisio winhaj Melquisedec, xchi Dios chi' t'ay."
+    },
+    {
+      "number": "7",
+      "text": "Ayik ix ek' Jesús t'a yol yib'anhk'inal tik, te chaanh ix lesalwi, ix oq'ui ayik ix sk'anan tas t'a Dios, haton jun ay spoder skolanelta t'a yol sk'ab' chamel. Ix ab'ji slesal chi', yujto te nanam ix yutej sb'a t'ay."
+    },
+    {
+      "number": "8",
+      "text": "Wach'chom Yuninal Dios, palta yuj juntzanh yaelal ix yab'i snachajel yuj chajtil syutej sk'anab'ajani."
+    },
+    {
+      "number": "9",
+      "text": "Ayik ix yik'anelk'och sb'a masanil tas nab'il yuj, ix ak'ji yopisio yak'an kolnab'il t'a junelnhej t'a masanil heb' sk'anab'ajan tas syala'."
+    },
+    {
+      "number": "10",
+      "text": "Yuj chi' ha Dios ix ak'an yopisio yoch sat sakerdoteal icha yopisio winhaj Melquisedec t'a peka'."
+    },
+    {
+      "number": "11",
+      "text": "Tzijtumto tas in gana swal t'ayex yuj jun tik, palta ajaltak kalani tas syalelk'ochi, yujto te pural snachajel eyuuj."
+    },
+    {
+      "number": "12",
+      "text": "Ayxo stiempoal eyak'an och t'a he k'ool. Smoj to tzaxo he k'ayb'ej heb' yikxo Dios tiknaik. Palta ina anhej juntzanh sk'ayb'ub'al Dios manh ajaltakok tze nib'ej tz'alchajxi t'ayex, yujto maxto kanlaj eyuuj. Mantalaj he tek'anil, lajan ex icha junok nene' unin wanto schuni, maxto ujilaj swa'i."
+    },
+    {
+      "number": "13",
+      "text": "Ha juntzanh k'ayb'ub'al chi', icha lech, ichnhej ta'. Yuj chi' a heb' snib'ej yab'an juntzanh chi', anheja' lajan heb' icha junok nene' unin. Anheja' maxto nachajel yuj heb' tas skutej ko tojolb'itan ko b'eyb'al."
+    },
+    {
+      "number": "14",
+      "text": "Axo juntzanh k'ayb'ub'al pural snachajeli, lajan icha tas syab'lej heb' icham anima. Yuj chi', a heb' sk'ayb'an juntzanh chi', haton heb' tek'anxo spensar. k'aynak heb' snaaneli b'aja juntzanh tas wach' yet' juntzanh chuk."
+    }
+  ]
 }

@@ -1,37 +1,41 @@
 {
-    "chapter": "61",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, il in koti. Tz'el wav yuj yaelal tzin ik'ani. Cha ab' in lesal."
-        },
-        {
-            "number": "2",
-            "text": "Ato b'aj slajwik'och sti' lum lum tik tzin awaj t'ayach, tz'el yip in pixan swab'i. Ik' in k'e t'a yib'anh junok niwan k'een yic tzin colchaji."
-        },
-        {
-            "number": "3",
-            "text": "Ha ach ayachoch in colnab'iloc. Icha junok cuartel aj t'ayin, tzin a col t'a heb' ayoch ajk'olal t'ayin."
-        },
-        {
-            "number": "4",
-            "text": "In gana tzin kajnaj t'a a kajnub' t'a masanil tiempo. In gana tzin k'ub'ej in b'ha t'a yalanh a wach'k'olal, icha nok' yunetac caxlanh t'a yalanh sk'axil snun."
-        },
-        {
-            "number": "5",
-            "text": "Ach in Diosal, ab'nac tas in ti' wak'nac t'ayach, ix ak' in macb'en yet' heb' ay elk'och t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Najatokab' tzutej in k 'inal a in rey in tik. Niwanokab' ab'il swila'"
-        },
-        {
-            "number": "7",
-            "text": "yic swak'an yajalil t'a ichanh. Tanhwej in yet' a wach'k'olal, yujto tz'elnhejk'och tas tzala'."
-        },
-        {
-            "number": "8",
-            "text": "Icha chi' ol ach in b'itej t'a masanil tiempo. Junjun k'u ol in k'anab'ajan b'aj wak'nac in ti' chi' t'ayach."
-        }
-    ]
+  "chapter": "61",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, il in koti. Tz'el waw yuj yaelal tzin ik'ani. Cha ab' in lesal."
+    },
+    {
+      "number": "2",
+      "text": "Ato b'aj slajwik'och sti' lum lum tik tzin awaj t'ayach, tz'el yip in pixan swab'i. Ik' in k'e t'a yib'anh junok niwan k'een yik tzin kolchaji."
+    },
+    {
+      "number": "3",
+      "text": "Ha ach ayachoch in kolnab'ilok. Icha junok kuartel aj t'ayin, tzin a kol t'a heb' ayoch ajk'olal t'ayin."
+    },
+    {
+      "number": "4",
+      "text": "In gana tzin kajnaj t'a a kajnub' t'a masanil tiempo. In gana tzin k'ub'ej in b'a t'a yalanh a wach'k'olal, icha nok' yunetak kaxlanh t'a yalanh sk'axil snun."
+    },
+    {
+      "number": "5",
+      "text": "Ach in Diosal, ab'nak tas in ti' wak'nak t'ayach, ix ak' in makb'en yet' heb' ay elk'och t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Najatokab' tzutej in k 'inal a in rey in tik. Niwanokab' ab'il swila'"
+    },
+    {
+      "number": "7",
+      "text": "yik swak'an yajalil t'a ichanh. Tanhwej in yet' a wach'k'olal, yujto tz'elnhejk'och tas tzala'."
+    },
+    {
+      "number": "8",
+      "text": "Icha chi' ol ach in b'itej t'a masanil tiempo. Junjun k'u ol in k'anab'ajan b'aj wak'nak in ti' chi' t'ayach."
+    }
+  ]
 }

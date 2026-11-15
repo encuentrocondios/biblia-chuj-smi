@@ -1,49 +1,53 @@
 {
-    "chapter": "29",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex aj satcha’anh, alec wach' lolonel t'a Jehová. Alec wach' lolonel t'ay to syal yuj smasanil, te b'inajnac."
-        },
-        {
-            "number": "2",
-            "text": "Alec wach' lolonel t'a Jehová icha t'a smojal. Hak'uequem he b'a t'ay t'a stemplo te wach' yilji."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jehová Dios te niwan yelk'ochi, tz'ab'chaj sjaj t'a yib'anh ha' mar. Ha tz'ak'an k'anh k'u, a tz'ak'an mandar t'a yib'anh ha' owal mar chi'."
-        },
-        {
-            "number": "4",
-            "text": "Ha sjaj Jehová tz'ab'chaji, manh jantacoc spoder. Yuj sjaj chi' scheclaji to te niwan yelk'ochi."
-        },
-        {
-            "number": "5",
-            "text": "Yuj yav Jehová sjekchajkanb'at te' k'ute'. Yuj Jehová spojcan juntzanh te' niwac k'ute' t'a Líbano."
-        },
-        {
-            "number": "6",
-            "text": "Ha juntzanh lum niwac witz yic Líbano yet' lum yic Sirión, tz'ib'xi lum yuj Jehová. Sk'e b'akhnaj lum witz chi', icha sk'e chennaj junok nok' quelem wakax."
-        },
-        {
-            "number": "7",
-            "text": "Ha yav Jehová, a tz'ak'ancot copnaj lheb'lon."
-        },
-        {
-            "number": "8",
-            "text": "Ha yav Jehová tz'ak'an ib'xoc lum tzinan lu'um. A' tz'ak'an ib'xoc lum tzinan lu'um yic Cades."
-        },
-        {
-            "number": "9",
-            "text": "Ha yuj yav Jehová tz'el jequeljoc sk'ab'tac te' ji, axonhej yib' te' skan t'a sat lum witz. Axo t'a stemplo tz'alchaj wach' lolonel t'ay yuj heb' anima smasanil."
-        },
-        {
-            "number": "10",
-            "text": "Ha Jehová ak'annac yajalil t'a jun ha' owal ha' mucwajum. Yajal yaj t'a masanil tiempo."
-        },
-        {
-            "number": "11",
-            "text": "Ha tz'ak'an yip heb' schonhab'. Yuj swach'il sk'ool Jehová, syak' junk'olal t'ayonh a onh schonhab' onh tik."
-        }
-    ]
+  "chapter": "29",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex aj satcha'anh, alek wach' lolonel t'a Jehová. Alek wach' lolonel t'ay to syal yuj smasanil, te b'inajnak."
+    },
+    {
+      "number": "2",
+      "text": "Alek wach' lolonel t'a Jehová icha t'a smojal. Hak'uekem he b'a t'ay t'a stemplo te wach' yilji."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jehová Dios te niwan yelk'ochi, tz'ab'chaj sjaj t'a yib'anh ha' mar. Ha tz'ak'an k'anh k'u, a tz'ak'an mandar t'a yib'anh ha' owal mar chi'."
+    },
+    {
+      "number": "4",
+      "text": "Ha sjaj Jehová tz'ab'chaji, manh jantakok spoder. Yuj sjaj chi' scheklaji to te niwan yelk'ochi."
+    },
+    {
+      "number": "5",
+      "text": "Yuj yaw Jehová sjekchajkanb'at te' k'ute'. Yuj Jehová spojkan juntzanh te' niwak k'ute' t'a Líbano."
+    },
+    {
+      "number": "6",
+      "text": "Ha juntzanh lum niwak witz yik Líbano yet' lum yik Sirión, tz'ib'xi lum yuj Jehová. Sk'e b'akhnaj lum witz chi', icha sk'e chennaj junok nok' kelem wakax."
+    },
+    {
+      "number": "7",
+      "text": "Ha yaw Jehová, a tz'ak'ankot kopnaj lheb'lon."
+    },
+    {
+      "number": "8",
+      "text": "Ha yaw Jehová tz'ak'an ib'xok lum tzinan lu'um. A' tz'ak'an ib'xok lum tzinan lu'um yik Cades."
+    },
+    {
+      "number": "9",
+      "text": "Ha yuj yaw Jehová tz'el jekeljok sk'ab'tak te' ji, axonhej yib' te' skan t'a sat lum witz. Axo t'a stemplo tz'alchaj wach' lolonel t'ay yuj heb' anima smasanil."
+    },
+    {
+      "number": "10",
+      "text": "Ha Jehová ak'annak yajalil t'a jun ha' owal ha' mukwajum. Yajal yaj t'a masanil tiempo."
+    },
+    {
+      "number": "11",
+      "text": "Ha tz'ak'an yip heb' schonhab'. Yuj swach'il sk'ool Jehová, syak' junk'olal t'ayonh a onh schonhab' onh tik."
+    }
+  ]
 }

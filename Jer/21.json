@@ -1,57 +1,61 @@
 {
-    "chapter": "21",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha winhaj rey Sedequías ix chekancot winhaj Pasur yuninal winhaj Malquías yet' winhaj sacerdote Sofonías yuninal winhaj Maasías, yic sjawi heb' winh in yil a in Jeremías in tik, yic syalan heb' winh t'ayin icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Tzonh tewi t'ayach to tza k'an t'a Jehová cuuj, yujto a winhaj Nabucodonosor sreyal Babilonia, wan yak'an owal winh qued'oc. k'an t'a Jehová chi' to sch'ox spoder, icha sk'ulejnac t'a pecataxo, yic syik'anel winhaj Nabucodonosor chi', xchi heb' winh."
-        },
-        {
-            "number": "3",
-            "text": "Ixlajwi chi' ix lolon Jehová t'ayin. Ix in tak'wi t'a heb' winh schekab' winh rey chi' icha tik: Alec t'a winhaj Sedequías chi'"
-        },
-        {
-            "number": "4",
-            "text": "to a Jehová ko Diosal a onh israel onh tik, a tz'alani: Ol wak' meltzaj heb' a soldado t'a spatic, aton heb' tz'ak'an owal yet' winh sreyal Babilonia. Axo heb' soldado winh chi' aton heb' oyanxo och t'a spatictac jun chonhab' tik, ol in molb'ejoch heb' t'a yol jun chonhab' tik."
-        },
-        {
-            "number": "5",
-            "text": "Ha in ol wak' owal eyed'oc yet' in poder yet' pax yowal in k'ol te ay smay."
-        },
-        {
-            "number": "6",
-            "text": "Ol wak'cham masanil heb' anima kajan t'a jun chonhab' tik, ol cham heb' yet' nok' nok' yuj jun niwan yab'il."
-        },
-        {
-            "number": "7",
-            "text": "Ol lajwoc chi', a achxo tik ach Sedequías, ol ach wak'och t'a yol sk'ab' winhaj Nabucodonosor yet' t'a juntzanhxo heb' ayoch ajk'olal t'ayach. Ol ach wak'och t'a yol sk'ab' heb' yet' heb' a chekab', heb' a soldado yet' heb' anima pitzanto ol kan t'a jun chonhab' tik, aton heb' olto kan yuj jun niwan yab'il, owal yet' wejel. Ha in wal Jehová in swala', manh ol ok' sk'ol jun winh rey chi' t'a heb', ol miljoccham heb' yuj winh."
-        },
-        {
-            "number": "8",
-            "text": "Ix yalanxi Jehová t'ayin icha tik: Al t'a juntzanh anima tik to a in swal icha tik: Swak' he sik'lej, ¿tom a he k 'inal, mato a he chamel?"
-        },
-        {
-            "number": "9",
-            "text": "Ha mach ol kan t'a jun chonhab' tik, ol cham yuj owal, yuj wejel yet' yuj ilya. Axo pax heb' ol el yak'och sb'ha t'a yol sk'ab' heb' aj Babilonia wan yak'an owal t'a jun chonhab' tik jun, manh ol chamlaj heb', tewelxonhej ol colchaj heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ha in Jehová in swala', toxo ix in na' wak'ancot yaelal t'a yib'anh jun chonhab' tik, manhxooc wach'il ol wak'koti. Ol wak'och t'a yol sk'ab' winh sreyal Babilonia, haxo winh ol nhusantz'aoc."
-        },
-        {
-            "number": "11",
-            "text": "Alpax t'a heb' sreyal Judá yinhtilal winhaj Dawid icha tik: Scham wal eyab'an tas swal a in Jehová in tik: Wach'okab' tzeyutej he b'oan yaj yowal heb' anima t'a junjun k'u. Tze col heb' tz'ixtaj yuj heb' ixtum anima. Tato chuk tzeyutej he b'oan yaj jun, ol cot yowal in k'ol t'a eyib'anh, icha te' k'ak' te ov sk'e nhilnhon yoc manhxa mach syal stupani."
-        },
-        {
-            "number": "12",
-            "text": "Ex aj Jerusalén, te chaanh eyajk'e t'a yib'anh lum ak'lic, icha yajk'e junok niwan tenam t'a lum ak'lic chi'. Palta a in Jehová in swala' to aycot yowal in k'ol t'ayex. Tzeyal icha tik: ¿Mach ol yal yak'an owal qued'oc? ¿Mach ol yal sk'eul b'aj sko col ko b'a tik? xe chi."
-        },
-        {
-            "number": "13",
-            "text": "Ha in Jehová in swala' to ol wak'och eyaelal icha wal smojal yuj tastac tze k'ulej. Ol wak'och sk'ak'al he palacio. Axo tastac ay t'a spatictac he chonhab', ol lajwoquel stz'ab'ati, xchi Jehová, xin chi t'a heb' schekab' winhaj Sedequías chi'."
-        }
-    ]
+  "chapter": "21",
+  "book": "JEREMÍAS",
+  "book_short": "Jer",
+  "aligned": false,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha winhaj rey Sedequías ix chekankot winhaj Pasur yuninal winhaj Malquías yet' winhaj sakerdote Sofonías yuninal winhaj Maasías, yik sjawi heb' winh in yil a in Jeremías in tik, yik syalan heb' winh t'ayin icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Tzonh tewi t'ayach to tza k'an t'a Jehová kuuj, yujto a winhaj Nabucodonosor sreyal Babilonia, wan yak'an owal winh ket'ok. k'an t'a Jehová chi' to sch'ox spoder, icha sk'ulejnak t'a pekataxo, yik syik'anel winhaj Nabucodonosor chi', xchi heb' winh."
+    },
+    {
+      "number": "3",
+      "text": "Ixlajwi chi' ix lolon Jehová t'ayin. Ix in tak'wi t'a heb' winh schekab' winh rey chi' icha tik: Alek t'a winhaj Sedequías chi'"
+    },
+    {
+      "number": "4",
+      "text": "to a Jehová ko Diosal a onh israel onh tik, a tz'alani: Ol wak' meltzaj heb' a soldado t'a spatik, haton heb' tz'ak'an owal yet' winh sreyal Babilonia. Axo heb' soldado winh chi' haton heb' oyanxo och t'a spatiktak jun chonhab' tik, ol in molb'ejoch heb' t'a yol jun chonhab' tik."
+    },
+    {
+      "number": "5",
+      "text": "Ha in ol wak' owal eyet'ok yet' in poder yet' pax yowal in k'ol te ay smay."
+    },
+    {
+      "number": "6",
+      "text": "Ol wak'cham masanil heb' anima kajan t'a jun chonhab' tik, ol cham heb' yet' nok' nok' yuj jun niwan yab'il."
+    },
+    {
+      "number": "7",
+      "text": "Ol lajwok chi', a achxo tik ach Sedequías, ol ach wak'och t'a yol sk'ab' winhaj Nabucodonosor yet' t'a juntzanhxo heb' ayoch ajk'olal t'ayach. Ol ach wak'och t'a yol sk'ab' heb' yet' heb' a chekab', heb' a soldado yet' heb' anima pitzanto ol kan t'a jun chonhab' tik, haton heb' olto kan yuj jun niwan yab'il, owal yet' wejel. Ha in wal Jehová in swala', manh ol ok' sk'ol jun winh rey chi' t'a heb', ol miljokcham heb' yuj winh."
+    },
+    {
+      "number": "8",
+      "text": "Ix yalanxi Jehová t'ayin icha tik: Al t'a juntzanh anima tik to a in swal icha tik: Swak' he sik'lej, ¿tom a he k 'inal, mato a he chamel?"
+    },
+    {
+      "number": "9",
+      "text": "Ha mach ol kan t'a jun chonhab' tik, ol cham yuj owal, yuj wejel yet' yuj ilya. Axo pax heb' ol el yak'och sb'a t'a yol sk'ab' heb' aj Babilonia wan yak'an owal t'a jun chonhab' tik jun, manh ol chamlaj heb', tewelxonhej ol kolchaj heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ha in Jehová in swala', toxo ix in na' wak'ankot yaelal t'a yib'anh jun chonhab' tik, manhxook wach'il ol wak'koti. Ol wak'och t'a yol sk'ab' winh sreyal Babilonia, haxo winh ol nhusantz'aok."
+    },
+    {
+      "number": "11",
+      "text": "Alpax t'a heb' sreyal Judá yinhtilal winhaj David icha tik: Scham wal eyab'an tas swal a in Jehová in tik: Wach'okab' tzeyutej he b'oan yaj yowal heb' anima t'a junjun k'u. Tze kol heb' tz'ixtaj yuj heb' ixtum anima. Tato chuk tzeyutej he b'oan yaj jun, ol kot yowal in k'ol t'a eyib'anh, icha te' k'ak' te ow sk'e nhilnhon yok manhxa mach syal stupani."
+    },
+    {
+      "number": "12",
+      "text": "Ex aj Jerusalén, te chaanh eyajk'e t'a yib'anh lum ak'lik, icha yajk'e junok niwan tenam t'a lum ak'lik chi'. Palta a in Jehová in swala' to aykot yowal in k'ol t'ayex. Tzeyal icha tik: ¿Mach ol yal yak'an owal ket'ok? ¿Mach ol yal sk'eul b'aj sko kol ko b'a tik? xe chi."
+    },
+    {
+      "number": "13",
+      "text": "Ha in Jehová in swala' to ol wak'och eyaelal icha wal smojal yuj tastak tze k'ulej. Ol wak'och sk'ak'al he palakio. Axo tastak ay t'a spatiktak he chonhab', ol lajwokel stz'ab'ati, xchi Jehová, xin chi t'a heb' schekab' winhaj Sedequías chi'."
+    }
+  ]
 }

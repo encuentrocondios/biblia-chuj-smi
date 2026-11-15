@@ -1,57 +1,61 @@
 {
-    "chapter": "8",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aton juntzanh ix wal tik, in gana snachajel eyuuj to icha chi' yaj jun ko sat sacerdote chi'. k'ojanxoem t'a swach' k'ab' Dios b'aj ay t'a satcha’anh ticnaik."
-        },
-        {
-            "number": "2",
-            "text": "Van smunlajoch t'a yopisio chi' t'a yol stemplo Dios te yel, aton jun a wal lak'an Kajal chi' b'oannac. Manhok heb' anima b'oannac."
-        },
-        {
-            "number": "3",
-            "text": "Junjun heb' sat sacerdote, ay yopisio heb' yak'an juntzanh ofrenda d'ha Dios yet' juntzanh silab' snhusji. Yuj chi', yowalil ay pax tas syak' Cristo chi' d'ha Dios."
-        },
-        {
-            "number": "4",
-            "text": "Q'uinaloc anheja' ayek' t'a yol yib'anhk’inal tik ticnaik, manhxom oclaj sacerdote yaj d'ha Dios, yujto ay juntzanhxo heb' sacerdote ay yopisio yak'an juntzanh ofrenda icha syal ley Moisés."
-        },
-        {
-            "number": "5",
-            "text": "Palta ch'oxnab'ilnhej yaj yopisio heb' chi' t'a tas ay t'a satcha’anh, ichato yenhulnhej yaji. Cojtak to tonhej ch'oxnab'il yaji, yujto ayic manto b'oji skajnub' Dios yuj winhaj Moisés chi', yal Dios chi' t'a winh: Ab'i, tza b'o masanil icha wal jun yechel in ch'oxnac t'ayach t'a jolom witz tik, xchi t'a winh."
-        },
-        {
-            "number": "6",
-            "text": "Palta a jun ko sat sacerdote ticnaik, ek'al swach'il yopisio t'a yichanh yopisio heb' chi'. Yujto a tz'ak'anelk'och jun strato Dios yak'nac t'ayonh. Ha jun strato chi', más wach' t'a yichanh jun b'ab'el, yujto a juntzanh tas b'aj yak'nac sti' Dios, ek'al te wach'."
-        },
-        {
-            "number": "7",
-            "text": "Q'uinaloc tato malaj junok tas ix yak' palta t'a jun b'ab'el trato chi', manhxom yowaliloc ix yak' junxo schab'il trato tik."
-        },
-        {
-            "number": "8",
-            "text": "Palta yilnac Dios to palta yutejnac sb'a heb' anima chi'. Yuj chi' icha tik syalkan t'a Slolonel Tz'ib'ab'ilkani: Ha Dios Kajal tz'alani: D'a jun pekti’ ol jawok, ol in b'o junxo schab'il in trato yet' heb' yinhtilal Israel yet' pax heb' yinhtilal Judá."
-        },
-        {
-            "number": "9",
-            "text": "Ha jun trato chi', manh lajanoc ol aj yet' jun in trato in b'onac yet' heb' smam yicham heb', ayic wik'annac elta heb' t'a yol yic Egipto. Yujto ayic wik'annac elta heb' chi', ichato ochnac in quetz quetz t'a sk'ab' heb'. Palta manh sk'anab'ajejnacoclaj in trato chi' heb', yuj chi' wactejnakkan heb' sch'ocoj."
-        },
-        {
-            "number": "10",
-            "text": "Axo junxo schab'il in trato ol in b'o yet' heb' yinhtilal Israel b'ak'uinh, icha tik ol wutoc: Ol wak'och juntzanh in checnab'il t'a spensar heb', ichato ol in tz'ib'ejkanoch t'a spixan heb'. Ha in ol in och sDiosaloc heb'. Axo heb' ol och in chonhab'oc."
-        },
-        {
-            "number": "11",
-            "text": "Manhxa heb' ol alan t'a heb' yetchonhab' icha tik: Yowalil tzeyojtaquejel Dios Kajal, manh xchioc heb'. Yujto ol in yojtaquejel heb' masanil, wach'chom heb' unin, ma heb' icham anima."
-        },
-        {
-            "number": "12",
-            "text": "Ol wak'kan lajwoc schukal heb'. Manhxalaj b'ak'uinh ol in nacot smul heb', xchi Dios Kajal t'a Slolonel chi'."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ix yalancot Dios yuj jun schab'il trato tik, ix sch'oxo' to ek'nacxob'at jun b'ab'el trato. Q'uinaloc ay junok tas ek'nacxob'at ticnaik, ¿tom ayto yopisio? Tato manhxa yopisio, syalelk'ochi to wan sateli."
-        }
-    ]
+  "chapter": "8",
+  "book": "HEBREOS",
+  "book_short": "Heb",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Haton juntzanh ix wal tik, in gana snachajel eyuuj to icha chi' yaj jun ko sat sakerdote chi'. k'ojanxoem t'a swach' k'ab' Dios b'aj ay t'a satcha'anh tiknaik."
+    },
+    {
+      "number": "2",
+      "text": "Wan smunlajoch t'a yopisio chi' t'a yol stemplo Dios te yel, haton jun a wal lak'an Kajal chi' b'oannak. Manhok heb' anima b'oannak."
+    },
+    {
+      "number": "3",
+      "text": "Junjun heb' sat sakerdote, ay yopisio heb' yak'an juntzanh ofrenda t'a Dios yet' juntzanh silab' snhusji. Yuj chi', yowalil ay pax tas syak' Cristo chi' t'a Dios."
+    },
+    {
+      "number": "4",
+      "text": "Q'uinalok anheja' ayek' t'a yol yib'anhk'inal tik tiknaik, manhxom oklaj sakerdote yaj t'a Dios, yujto ay juntzanhxo heb' sakerdote ay yopisio yak'an juntzanh ofrenda icha syal ley Moisés."
+    },
+    {
+      "number": "5",
+      "text": "Palta ch'oxnab'ilnhej yaj yopisio heb' chi' t'a tas ay t'a satcha'anh, ichato yenhulnhej yaji. Kojtak to tonhej ch'oxnab'il yaji, yujto ayik manto b'oji skajnub' Dios yuj winhaj Moisés chi', yal Dios chi' t'a winh: Ab'i, tza b'o masanil icha wal jun yechel in ch'oxnak t'ayach t'a jolom witz tik, xchi t'a winh."
+    },
+    {
+      "number": "6",
+      "text": "Palta a jun ko sat sakerdote tiknaik, ek'al swach'il yopisio t'a yichanh yopisio heb' chi'. Yujto a tz'ak'anelk'och jun strato Dios yak'nak t'ayonh. Ha jun strato chi', más wach' t'a yichanh jun b'ab'el, yujto a juntzanh tas b'aj yak'nak sti' Dios, ek'al te wach'."
+    },
+    {
+      "number": "7",
+      "text": "Q'uinalok tato malaj junok tas ix yak' palta t'a jun b'ab'el trato chi', manhxom yowalilok ix yak' junxo schab'il trato tik."
+    },
+    {
+      "number": "8",
+      "text": "Palta yilnak Dios to palta yutejnak sb'a heb' anima chi'. Yuj chi' icha tik syalkan t'a Slolonel Tz'ib'ab'ilkani: Ha Dios Kajal tz'alani: T'a jun pekti' ol jawok, ol in b'o junxo schab'il in trato yet' heb' yinhtilal Israel yet' pax heb' yinhtilal Judá."
+    },
+    {
+      "number": "9",
+      "text": "Ha jun trato chi', manh lajanok ol aj yet' jun in trato in b'onak yet' heb' smam yicham heb', ayik wik'annak elta heb' t'a yol yik Egipto. Yujto ayik wik'annak elta heb' chi', ichato ochnak in ketz ketz t'a sk'ab' heb'. Palta manh sk'anab'ajejnakoklaj in trato chi' heb', yuj chi' waktejnakkan heb' sch'okoj."
+    },
+    {
+      "number": "10",
+      "text": "Axo junxo schab'il in trato ol in b'o yet' heb' yinhtilal Israel b'ak'uinh, icha tik ol wutok: Ol wak'och juntzanh in cheknab'il t'a spensar heb', ichato ol in tz'ib'ejkanoch t'a spixan heb'. Ha in ol in och sDiosalok heb'. Axo heb' ol och in chonhab'ok."
+    },
+    {
+      "number": "11",
+      "text": "Manhxa heb' ol alan t'a heb' yetchonhab' icha tik: Yowalil tzeyojtakejel Dios Kajal, manh xchiok heb'. Yujto ol in yojtakejel heb' masanil, wach'chom heb' unin, ma heb' icham anima."
+    },
+    {
+      "number": "12",
+      "text": "Ol wak'kan lajwok schukal heb'. Manhxalaj b'ak'uinh ol in nakot smul heb', xchi Dios Kajal t'a Slolonel chi'."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ix yalankot Dios yuj jun schab'il trato tik, ix sch'oxo' to ek'nakxob'at jun b'ab'el trato. Q'uinalok ay junok tas ek'nakxob'at tiknaik, ¿tom ayto yopisio? Tato manhxa yopisio, syalelk'ochi to wan sateli."
+    }
+  ]
 }

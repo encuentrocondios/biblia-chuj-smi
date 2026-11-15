@@ -1,53 +1,57 @@
 {
-    "chapter": "62",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan Jehová icha tik: Yuj wal to tzex in xajanej ex aj Sion, yuj chi' manh ol in em numan. Yuj wal to tzex in xajanej ex aj Jerusalén, yuj chi' manh ol wik'laj wip masanto ol checlajel he tojolal icha yic sq'uinhib'i, haxo he colnab'il, ol checlajel icha yajoch sk'ak'al te' taj t'a k’ik’ k’inal."
-        },
-        {
-            "number": "2",
-            "text": "Masanil nación ol och k'elan yilan he tojolal. Masanil heb' rey, ol och k'elan heb' yilan sniwanil eyelk'ochi. Yuj chi' ol ak'chajoch junxo eyak' b'i. Ha in Jehová in tik ol wak'ochi."
-        },
-        {
-            "number": "3",
-            "text": "Icha scheclajel sniwanil yelk'och junok winh rey yuj scorona, icha chi' ol aj wak'an checlaj sniwanil welk'ochi, yujto ayex ek' t'a yol in k'ab'."
-        },
-        {
-            "number": "4",
-            "text": "Manhxo ol he cuch “Actab'ilkani”, manhxo ol alchajpax t'a he lum tik, “Satb'ileli”, palta to ol he cuch: “Nib'ab'il”. Axo lum he lu'um ol scuchcan: “Nupnajnac,” yujto nib'ab'il ex wuuj. Yajal waj t'a lum he lu'um tik."
-        },
-        {
-            "number": "5",
-            "text": "Yujto icha wal junok winh quelem snupnaj yet' junok ix cob'es, icha chi' ol in aj eyed'oc, ol in ochxoc eyed'oc, ol in tzalaj eyed'oc, icha stzalaj junok winh quelem yet' yetb'eyum, icha chi' ol in tzalaj eyed'oc."
-        },
-        {
-            "number": "6",
-            "text": "Ex aj Jerusalén, ix wak'kanoch he tanhwumal t'a yib'anh smuroal he chonhab'. D'a k'ual t'ak'wal ol yal heb' icha tik: Ha ex tzex awaj t'a Jehová, manh ex och waan eyawaj t'ay."
-        },
-        {
-            "number": "7",
-            "text": "Manh he cha yik' yip Jehová, masanto ol sb'oxik'e Jerusalén tik, yic wach' masanil heb' anima t'a yol yib'anhk’inal tik, ol yal wach' lolonel heb' t'ay, xcham heb', xchi Jehová."
-        },
-        {
-            "number": "8",
-            "text": "Ha Jehová toxo ix yak' sti', ol yak'elk'och tas ix yal chi' yuj spoder. Ix yalan icha tik: Manhxa b'ak'uinh ol in cha swab'at he trigo heb' ajk'ool, manhoc heb' ch'oc nacional ol uk'anb'at he wino, aton tastac tzeyik' t'a he munlajel."
-        },
-        {
-            "number": "9",
-            "text": "Palta to a ex wal ol he mol sat eyavb'en, ol he waani, ol eyalan wach' lolonel t'ayin yuj. Ol he molanpax sat eyuwa, ol eyuk'an yal eyuwa chi' t'a yol yamaq'uil in templo, xchi Jehová."
-        },
-        {
-            "number": "10",
-            "text": "Ex aj Jerusalén, elanhec t'a spuertail he chonhab', b'oecb'at sb'e heb' eyetchonhab' wan sjaxi. Panhan tzeyutej b'aj ch'olquixtac, tzeyik'anel k'een k'een t'a yol b'e chi'. Tzeyak'ank'e junok bandera yic sch'oxan t'a juntzanhxo nación b'ajtil ay jun b'e chi'."
-        },
-        {
-            "number": "11",
-            "text": "Ha Jehová tz'alan t'a heb' kajan b'aj slajwik'och yol yib'anhk’inal tik: Alec t'a heb' aj Sion icha tik: Ilecnab' sjawi he Kolumal, yet'nac tas ix yik' yuj smunlajel, xe chi, xchi Jehová."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' israel, ol alchajoc to schonhab' Dios yaj heb', sik'b'ilel heb', aton masanil heb' ix colji yuj Jehová. Ha Jerusalén ol scuch Chonhab' Nib'ab'il, Manhxo Actab'ilockani."
-        }
-    ]
+  "chapter": "62",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan Jehová icha tik: Yuj wal to tzex in xajanej ex aj Sion, yuj chi' manh ol in em numan. Yuj wal to tzex in xajanej ex aj Jerusalén, yuj chi' manh ol wik'laj wip masanto ol cheklajel he tojolal icha yik sq'uinhib'i, haxo he kolnab'il, ol cheklajel icha yajoch sk'ak'al te' taj t'a k'ik' k'inal."
+    },
+    {
+      "number": "2",
+      "text": "Masanil nakión ol och k'elan yilan he tojolal. Masanil heb' rey, ol och k'elan heb' yilan sniwanil eyelk'ochi. Yuj chi' ol ak'chajoch junxo eyak' b'i. Ha in Jehová in tik ol wak'ochi."
+    },
+    {
+      "number": "3",
+      "text": "Icha scheklajel sniwanil yelk'och junok winh rey yuj skorona, icha chi' ol aj wak'an cheklaj sniwanil welk'ochi, yujto ayex ek' t'a yol in k'ab'."
+    },
+    {
+      "number": "4",
+      "text": "Manhxo ol he kuch “Aktab'ilkani”, manhxo ol alchajpax t'a he lum tik, “Satb'ileli”, palta to ol he kuch: “Nib'ab'il”. Axo lum he lu'um ol skuchkan: “Nupnajnak,” yujto nib'ab'il ex wuuj. Yajal waj t'a lum he lu'um tik."
+    },
+    {
+      "number": "5",
+      "text": "Yujto icha wal junok winh kelem snupnaj yet' junok ix kob'es, icha chi' ol in aj eyet'ok, ol in ochxok eyet'ok, ol in tzalaj eyet'ok, icha stzalaj junok winh kelem yet' yetb'eyum, icha chi' ol in tzalaj eyet'ok."
+    },
+    {
+      "number": "6",
+      "text": "Ex aj Jerusalén, ix wak'kanoch he tanhwumal t'a yib'anh smuroal he chonhab'. T'a k'ual t'ak'wal ol yal heb' icha tik: Ha ex tzex awaj t'a Jehová, manh ex och waan eyawaj t'ay."
+    },
+    {
+      "number": "7",
+      "text": "Manh he cha yik' yip Jehová, masanto ol sb'oxik'e Jerusalén tik, yik wach' masanil heb' anima t'a yol yib'anhk'inal tik, ol yal wach' lolonel heb' t'ay, xcham heb', xchi Jehová."
+    },
+    {
+      "number": "8",
+      "text": "Ha Jehová toxo ix yak' sti', ol yak'elk'och tas ix yal chi' yuj spoder. Ix yalan icha tik: Manhxa b'ak'uinh ol in cha swab'at he trigo heb' ajk'ool, manhok heb' ch'ok nakional ol uk'anb'at he wino, haton tastak tzeyik' t'a he munlajel."
+    },
+    {
+      "number": "9",
+      "text": "Palta to a ex wal ol he mol sat eyawb'en, ol he waani, ol eyalan wach' lolonel t'ayin yuj. Ol he molanpax sat eyuwa, ol eyuk'an yal eyuwa chi' t'a yol yamaq'uil in templo, xchi Jehová."
+    },
+    {
+      "number": "10",
+      "text": "Ex aj Jerusalén, elanhek t'a spuertail he chonhab', b'oekb'at sb'e heb' eyetchonhab' wan sjaxi. Panhan tzeyutej b'aj ch'olkixtak, tzeyik'anel k'een k'een t'a yol b'e chi'. Tzeyak'ank'e junok bandera yik sch'oxan t'a juntzanhxo nakión b'ajtil ay jun b'e chi'."
+    },
+    {
+      "number": "11",
+      "text": "Ha Jehová tz'alan t'a heb' kajan b'aj slajwik'och yol yib'anhk'inal tik: Alek t'a heb' aj Sion icha tik: Ileknab' sjawi he Kolumal, yet'nak tas ix yik' yuj smunlajel, xe chi, xchi Jehová."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' israel, ol alchajok to schonhab' Dios yaj heb', sik'b'ilel heb', haton masanil heb' ix kolji yuj Jehová. Ha Jerusalén ol skuch Chonhab' Nib'ab'il, Manhxo Aktab'ilokkani."
+    }
+  ]
 }

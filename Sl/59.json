@@ -1,69 +1,73 @@
 {
-    "chapter": "59",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, colinel t'a yol sk'ab' heb' ayoch ajk'olal t'ayin. Colinel t'a heb' scot t'ayin yuj yajk'olal."
-        },
-        {
-            "number": "2",
-            "text": "Colinel t'a yol sk'ab' heb' sk'ulan chukal. Colinel t'a heb' mak'umcham anima."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, tzin smaclej heb' anima te ov yic tzin smak'ancham heb', palta manh yujoc in chukal, malaj tas ix wutej heb'."
-        },
-        {
-            "number": "4",
-            "text": "Mamin, malaj in mul t'a heb'. Malaj tas chuk ix in k'ulej. Palta snanonek' sk'ol heb' yak'an chukal t'ayin. Mamin, il in koti, cotanh, tzul in a colani."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová, Yajal ach t'a smasanil, ko Diosal ach a onh israel onh tik, cotanh elanhchamel, tzak'anoch syaelal juntzanh nación. Mokab' ok' a k'ool t'a heb' smeltzajoch yak'an chukal t'ayin."
-        },
-        {
-            "number": "6",
-            "text": "Ayic sq'uik'b'i sjawi heb', tz'el yav heb' icha nok' tz'i', slajwi chi' slaj ek' heb' t'a kal chonhab'."
-        },
-        {
-            "number": "7",
-            "text": "Swoman sti' heb' tzek' heb', haxo lolonel te ya syal heb'. Malaj mach tzab'an kalani, xchamlaj heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ha achxo Mamin Jehová, tzaton ach tzewaj yuj heb'. Tzach b'uchwaj t'a juntzanh nación chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ach in Diosal, a t'ayach ipan in colan in b'a, yujto a ach ay ach och wipumaloc yet' wenhuloc."
-        },
-        {
-            "number": "10",
-            "text": "Ach in Diosal, xajan in uuj, a ach ol ul in a colo'. Ol a ch'ox t'ayin tas wal ol aj skan heb' wajk'ol chi' t'a yalanh uuj."
-        },
-        {
-            "number": "11",
-            "text": "Ach Jehová ko Kolumal, tzicub'tanhej heb' yet' a poder. Emnaquilokab' tzutejkan heb', palta manh a mak'chamlaj heb' yic a syaelal heb' chi' manh ol b'atlaj satk'olal yuj heb' wetchonhab'."
-        },
-        {
-            "number": "12",
-            "text": "Tz'och smul heb' yuj masanil tas syala'. Canokab' heb' t'a yalanh yuj yak'umtaquil, yuj yesalwumal yet' yuj skatab'wumal heb'."
-        },
-        {
-            "number": "13",
-            "text": "Satel heb' yet' yowal a k'ool. ¿Tasto wal yuj pitzan heb'? Ach Dios Kajal a onh yinhtilonhcan winhaj Jacob, elokab' a pecal masanto b'aj slajwik'och yol yib'anhk’inal tik."
-        },
-        {
-            "number": "14",
-            "text": "Sjawi heb' t'ak'walil, tz'el yav heb' icha nok' tz'i', slaj ek' heb' t'a kal chonhab' say swael, tz'awaj heb' icha yok' nok' tz'i', yujto max yab'laj sk'ool swael heb'."
-        },
-        {
-            "number": "15",
-            "text": "Ha in xo pax jun, ol ach in b'itej t'a q'uinhib'alil. Ol walel sniwanil elk'ochi yet' a wach'k'olal t'a b'ital, yujto ayachnhejoch wenhuloc. In Kolumal ach t'a stiempoal yaelal."
-        },
-        {
-            "number": "16",
-            "text": "Ach in Diosal, ol wal wach' lolonel t'ayach t'a b'ital. In Kolumal ach, in Diosal ach, xajanab'il in uuj."
-        }
-    ]
+  "chapter": "59",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, kolinel t'a yol sk'ab' heb' ayoch ajk'olal t'ayin. Kolinel t'a heb' skot t'ayin yuj yajk'olal."
+    },
+    {
+      "number": "2",
+      "text": "Kolinel t'a yol sk'ab' heb' sk'ulan chukal. Kolinel t'a heb' mak'umcham anima."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, tzin smaklej heb' anima te ow yik tzin smak'ancham heb', palta manh yujok in chukal, malaj tas ix wutej heb'."
+    },
+    {
+      "number": "4",
+      "text": "Mamin, malaj in mul t'a heb'. Malaj tas chuk ix in k'ulej. Palta snanonek' sk'ol heb' yak'an chukal t'ayin. Mamin, il in koti, kotanh, tzul in a kolani."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová, Yajal ach t'a smasanil, ko Diosal ach a onh israel onh tik, kotanh elanhchamel, tzak'anoch syaelal juntzanh nakión. Mokab' ok' a k'ool t'a heb' smeltzajoch yak'an chukal t'ayin."
+    },
+    {
+      "number": "6",
+      "text": "Ayik sq'uik'b'i sjawi heb', tz'el yaw heb' icha nok' tz'i', slajwi chi' slaj ek' heb' t'a kal chonhab'."
+    },
+    {
+      "number": "7",
+      "text": "Swoman sti' heb' tzek' heb', haxo lolonel te ya syal heb'. Malaj mach tzab'an kalani, xchamlaj heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ha achxo Mamin Jehová, tzaton ach tzewaj yuj heb'. Tzach b'uchwaj t'a juntzanh nakión chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ach in Diosal, a t'ayach ipan in kolan in b'a, yujto a ach ay ach och wipumalok yet' wenhulok."
+    },
+    {
+      "number": "10",
+      "text": "Ach in Diosal, xajan in uuj, a ach ol ul in a kolo'. Ol a ch'ox t'ayin tas wal ol aj skan heb' wajk'ol chi' t'a yalanh uuj."
+    },
+    {
+      "number": "11",
+      "text": "Ach Jehová ko Kolumal, tzikub'tanhej heb' yet' a poder. Emnakilokab' tzutejkan heb', palta manh a mak'chamlaj heb' yik a syaelal heb' chi' manh ol b'atlaj satk'olal yuj heb' wetchonhab'."
+    },
+    {
+      "number": "12",
+      "text": "Tz'och smul heb' yuj masanil tas syala'. Kanokab' heb' t'a yalanh yuj yak'umtakil, yuj yesalwumal yet' yuj skatab'wumal heb'."
+    },
+    {
+      "number": "13",
+      "text": "Satel heb' yet' yowal a k'ool. ¿Tasto wal yuj pitzan heb'? Ach Dios Kajal a onh yinhtilonhkan winhaj Jacob, elokab' a pekal masanto b'aj slajwik'och yol yib'anhk'inal tik."
+    },
+    {
+      "number": "14",
+      "text": "Sjawi heb' t'ak'walil, tz'el yaw heb' icha nok' tz'i', slaj ek' heb' t'a kal chonhab' say swael, tz'awaj heb' icha yok' nok' tz'i', yujto max yab'laj sk'ool swael heb'."
+    },
+    {
+      "number": "15",
+      "text": "Ha in xo pax jun, ol ach in b'itej t'a q'uinhib'alil. Ol walel sniwanil elk'ochi yet' a wach'k'olal t'a b'ital, yujto ayachnhejoch wenhulok. In Kolumal ach t'a stiempoal yaelal."
+    },
+    {
+      "number": "16",
+      "text": "Ach in Diosal, ol wal wach' lolonel t'ayach t'a b'ital. In Kolumal ach, in Diosal ach, xajanab'il in uuj."
+    }
+  ]
 }

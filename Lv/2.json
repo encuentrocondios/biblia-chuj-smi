@@ -1,69 +1,73 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Tato ay junok ex tzeyik'cot ixim harina ofrendail t'a Jehová, a wal ixim harina te wach' tzeyik'koti. Ha t'a yib'anh ixim chi' tzeyak'em aceite yet' incienso,"
-        },
-        {
-            "number": "2",
-            "text": "tzeyik'ancot t'a heb' sacerdote yinhtilal winhaj Aarón. Ha junok heb' sacerdote ayoch t'a yopisio tz'ik'ank'e junok b'echanh ixim harina yet' aceite yet' pax masanil incienso. Slajwi chi' snhusjitz'a jun silab' chi' t'a yib'anh altar, yuj sch'oxchaji to ha' silab' chi' yic Jehová yaji. Suk'uq'ui sjab' jun ofrenda chi' syab' Jehová."
-        },
-        {
-            "number": "3",
-            "text": "Axo jab'okxo jun ofrenda chi' yicxo heb' winh sacerdote yaji. Niwan yelk'ochi, yujto yetb'eyum sb'a yet' jun silab' snhusjitz'ha t'a yichanh Jehová."
-        },
-        {
-            "number": "4",
-            "text": "Ha tz'ak'ji junok ofrenda k'anb'inac t'a yol horno, aokab' ixim harina te wach', malaj yich sb'at t'a skal. Syal pim tz'aj sb'oji, skalaj yet' aceite, syalpax yoch t'a k'oxoxal to malaj yich, succhajek' aceite t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Tato a jun ofrenda chi' mayb'il t'a yol xalten, aokab' ixim harina yelxo wal te wach', calab'il yet' aceite, palta mokab'a yich ayb'ati."
-        },
-        {
-            "number": "6",
-            "text": "Scotac xepchitaji, slajwi chi' tz'och aceite t'ay, yujto ofrenda t'a tas swaji."
-        },
-        {
-            "number": "7",
-            "text": "Tato tzeyak' junok ofrenda tajinac t'a skal aceite, aokab' yet' ixim harina te wach', calab'il yet' aceite tzeyak'a'."
-        },
-        {
-            "number": "8",
-            "text": "Ayic toxo ix b'oel jun ofrenda chi', tzeyik'ancot t'a Jehová, tzeyak'an t'a winh sacerdote, haxo winh tz'ik'anb'at t'a altar."
-        },
-        {
-            "number": "9",
-            "text": "Ata' snhustz'a jab'oc jun ofrenda chi' winh yic ch'oxnab'il to a ofrenda chi' yic Jehová yaji. Suk'uq'ui sjab' jun silab' chi' syab' Jehová."
-        },
-        {
-            "number": "10",
-            "text": "Axo jab'okxo jun ofrenda chi', yic heb' sacerdote tz'ajkani. Niwan yelk'ochi, yujto yetb'eyum sb'a yet' juntzanh ofrenda snhusjitz'ha t'a yichanh Jehová."
-        },
-        {
-            "number": "11",
-            "text": "Masanil juntzanh ofrenda tzeyak' t'a Jehová t'a tastac swaji, malajokab' yich ayb'at t'a skal. Max yal-laj snhusjitz'a tas silab'il t'a yichanh Jehová tato ayb'at yich pan, ma nok' yalchab' t'a skal."
-        },
-        {
-            "number": "12",
-            "text": "Syal eyak'an ixim pan ayb'at yich t'a skal yet' tas ayb'at nok' yalchab' t'a skal t'a ofrendail a tz'ak'ji b'ab'el sat avb'en, palta max nhusjitz'alaj t'a yib'anh altar silab'il b'aj stz'a silab' suk'uq'ui sjab' syab' Jehová."
-        },
-        {
-            "number": "13",
-            "text": "Masanil ofrenda tzeyak' t'a tas swaji, yowalil sb'at yatz'amil, malaj junok ofrenda chi' to max b'at yatz'amil, yujto a atz'am atz'am chi' sch'oxanel ko trato yet' ko Diosal. Yuj chi' masanil ofrenda tzeyak' t'a tas swaji chi', aynhejokab'och yatz'amil."
-        },
-        {
-            "number": "14",
-            "text": "Tato tzeyak' junok ofrenda t'a Jehová t'a sb'ab'el sat eyavb'en, yowalil a jayeoc jolom trigo sk'anb'i t'a skal k'ak', yaxto wal swuchchajeli."
-        },
-        {
-            "number": "15",
-            "text": "Ha t'a yib'anh jun ofrenda chi', tzeyak'och aceite yet' incienso, yujto a ofrenda chi' a ixim trigo, ma ixim cebada."
-        },
-        {
-            "number": "16",
-            "text": "Ha junok winh sacerdote snhusantz'a jab'oc ixim wuchb'ilel chi' yet' aceite yet' pax masanil incienso. Ha jab'oc chi' sch'oxani to a ofrenda chi' yic Jehová yaji."
-        }
-    ]
+  "chapter": "2",
+  "book": "LEVÍTICO",
+  "book_short": "Lv",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Tato ay junok ex tzeyik'kot ixim harina ofrendail t'a Jehová, a wal ixim harina te wach' tzeyik'koti. Ha t'a yib'anh ixim chi' tzeyak'em akeite yet' inkienso,"
+    },
+    {
+      "number": "2",
+      "text": "tzeyik'ankot t'a heb' sakerdote yinhtilal winhaj Aarón. Ha junok heb' sakerdote ayoch t'a yopisio tz'ik'ank'e junok b'echanh ixim harina yet' akeite yet' pax masanil inkienso. Slajwi chi' snhusjitz'a jun silab' chi' t'a yib'anh altar, yuj sch'oxchaji to ha' silab' chi' yik Jehová yaji. Suk'uq'ui sjab' jun ofrenda chi' syab' Jehová."
+    },
+    {
+      "number": "3",
+      "text": "Axo jab'okxo jun ofrenda chi' yikxo heb' winh sakerdote yaji. Niwan yelk'ochi, yujto yetb'eyum sb'a yet' jun silab' snhusjitz'a t'a yichanh Jehová."
+    },
+    {
+      "number": "4",
+      "text": "Ha tz'ak'ji junok ofrenda k'anb'inak t'a yol horno, aokab' ixim harina te wach', malaj yich sb'at t'a skal. Syal pim tz'aj sb'oji, skalaj yet' akeite, syalpax yoch t'a k'oxoxal to malaj yich, sukchajek' akeite t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Tato a jun ofrenda chi' mayb'il t'a yol xalten, aokab' ixim harina yelxo wal te wach', kalab'il yet' akeite, palta mokab'a yich ayb'ati."
+    },
+    {
+      "number": "6",
+      "text": "Skotak xepchitaji, slajwi chi' tz'och akeite t'ay, yujto ofrenda t'a tas swaji."
+    },
+    {
+      "number": "7",
+      "text": "Tato tzeyak' junok ofrenda tajinak t'a skal akeite, aokab' yet' ixim harina te wach', kalab'il yet' akeite tzeyak'a'."
+    },
+    {
+      "number": "8",
+      "text": "Ayik toxo ix b'oel jun ofrenda chi', tzeyik'ankot t'a Jehová, tzeyak'an t'a winh sakerdote, haxo winh tz'ik'anb'at t'a altar."
+    },
+    {
+      "number": "9",
+      "text": "Ata' snhustz'a jab'ok jun ofrenda chi' winh yik ch'oxnab'il to a ofrenda chi' yik Jehová yaji. Suk'uq'ui sjab' jun silab' chi' syab' Jehová."
+    },
+    {
+      "number": "10",
+      "text": "Axo jab'okxo jun ofrenda chi', yik heb' sakerdote tz'ajkani. Niwan yelk'ochi, yujto yetb'eyum sb'a yet' juntzanh ofrenda snhusjitz'a t'a yichanh Jehová."
+    },
+    {
+      "number": "11",
+      "text": "Masanil juntzanh ofrenda tzeyak' t'a Jehová t'a tastak swaji, malajokab' yich ayb'at t'a skal. Max yal-laj snhusjitz'a tas silab'il t'a yichanh Jehová tato ayb'at yich pan, ma nok' yalchab' t'a skal."
+    },
+    {
+      "number": "12",
+      "text": "Syal eyak'an ixim pan ayb'at yich t'a skal yet' tas ayb'at nok' yalchab' t'a skal t'a ofrendail a tz'ak'ji b'ab'el sat awb'en, palta max nhusjitz'alaj t'a yib'anh altar silab'il b'aj stz'a silab' suk'uq'ui sjab' syab' Jehová."
+    },
+    {
+      "number": "13",
+      "text": "Masanil ofrenda tzeyak' t'a tas swaji, yowalil sb'at yatz'amil, malaj junok ofrenda chi' to max b'at yatz'amil, yujto a atz'am atz'am chi' sch'oxanel ko trato yet' ko Diosal. Yuj chi' masanil ofrenda tzeyak' t'a tas swaji chi', aynhejokab'och yatz'amil."
+    },
+    {
+      "number": "14",
+      "text": "Tato tzeyak' junok ofrenda t'a Jehová t'a sb'ab'el sat eyawb'en, yowalil a jayeok jolom trigo sk'anb'i t'a skal k'ak', yaxto wal swuchchajeli."
+    },
+    {
+      "number": "15",
+      "text": "Ha t'a yib'anh jun ofrenda chi', tzeyak'och akeite yet' inkienso, yujto a ofrenda chi' a ixim trigo, ma ixim kebada."
+    },
+    {
+      "number": "16",
+      "text": "Ha junok winh sakerdote snhusantz'a jab'ok ixim wuchb'ilel chi' yet' akeite yet' pax masanil inkienso. Ha jab'ok chi' sch'oxani to a ofrenda chi' yik Jehová yaji."
+    }
+  ]
 }

@@ -1,53 +1,57 @@
 {
-    "chapter": "53",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ol yal Israel icha tik: ¿Toc ay mach tz'ak'anoch t'a sk'ol tas skaleli? ¿Toc ay mach snachajel yuj to a spoder Jehová scheclaj t'a jun ab'ix tik? xcham heb'."
-        },
-        {
-            "number": "2",
-            "text": "Snib'ej Jehová to a jun schekab' chi' sq'uib' icha swol junok te te' tz'em sch'anhal yib' t'a taquinh lu'um. Manh nib'ab'iloc yilji, malaj tas wach' squiloch t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' anima, ol sb'uch jun chekab' chi' heb', ol spatiquejel heb'. Ol ak'jococh yaelal t'a yib'anh yuj heb', ol techaj yuj, yujto k'ajan yab'an syail. Icha junok mach manhxo smojoc yiljiochi, ol paticajeloc. Malaj ol elk'och jun chekab' chi' t'ayonh."
-        },
-        {
-            "number": "4",
-            "text": "Ha ko naani to ha Dios tz'ak'anoch yaelal t'a yib'anh, syak'anpaxcan t'a emnaquilal, palta manh ichocta'. Ha ko yaelal a onh tik ol ak'jococh t'a yib'anh, ol yab' syail ko k'exuloc."
-        },
-        {
-            "number": "5",
-            "text": "Ol tecjoquek' k'een t'a sniwanil yuj ko pitalil, ol yab'an wal syail yuj ko chukal. Yuj syaelal ol yab' chi', ol ochxi junk'olal t'a ko kal yet' Dios. Yuj yechnaj chi', ol yak'xi ko k 'inal."
-        },
-        {
-            "number": "6",
-            "text": "Co masanil ix onh saklemkanb'at icha nok' kalnel. Junjun onh ix ko na' tas b'eal b'aj ix ko nib'ej b'aj ix onh b'atkani, haxo Jehová ol ak'ankanoch ko mul ko masanil t'a yib'anh jun schekab' chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ol ak'joc wal och syaelal yuj heb' anima, emnaquilal ol aj yuj heb', palta malaj tas ol yala'. Ol ik'jocb'at yuj heb', icha tz'aj yik'jib'at nok' kalnel b'aj smiljichamoc. Malaj tas ol yala', numannhej ol ajoc, icha nok' kalnel sjoxchaji."
-        },
-        {
-            "number": "8",
-            "text": "Ol ik'chajelta t'a preso yic sch'olb'itaji, ol ak'jococh chamel t'a yib'anh. Malaj mach ol och ilk'olal yuj schamel chi'. Ol ik'chajel t'a yol yib'anhk’inal tik yuj ko mul a onh schonhab' onh tik. Cuuj ol yab' syail."
-        },
-        {
-            "number": "9",
-            "text": "Malaj wal jab'oc chukal ol sk'ulej, malaj jab'oc es ol elta t'a sti'. Wach'chom icha chi', a snaan heb' anima to ol mucchaj t'a skal heb' chuk, palta haxo t'a skal heb' b'eyum ol mucchajoc."
-        },
-        {
-            "number": "10",
-            "text": "Ha Jehová tz'alan icha tik: Ol wak' yab' syail in chekab' icha yaj in naani. Ol yak'och sb'a silab'il t'a yol sk'ab' chamel yic tz'ak'jikan lajwoc smul masanil anima. Yuj chi' ol pitzwokkan t'a junelnhej, ol yil heb' yinhtilal. Yuj, ol elkank'och tas nab'il wuuj."
-        },
-        {
-            "number": "11",
-            "text": "Ayic toxo ix lajwiek' juntzanh yaelal chi' t'a yib'anh, ol tzalaj yuj spak jun yaelal chi' to manh nab'anhejoc ix yab' syail. Tzijtum heb' anima ol ochkan wach'il yuj yojtakanel in chekab' chi' heb', yujto ol ik'jokkanel smul heb' yuj."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' ol wak' yopisio t'a skal heb' niwac yelk'ochi. Ay yalan yic yet' heb' yak'an ganar owal, yujto ix yak'och sb'ha t'a yol sk'ab' chamel. Icha wal tz'utaj heb' sk'ulan chukal, icha chi' ix utaji. Ix sb'ec sb'a yuj smul masanil anima, ix tewi yuj heb' yic tz'ak'jikan lajwoc smul heb' chi', xchi Jehová."
-        }
-    ]
+  "chapter": "53",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ol yal Israel icha tik: ¿Tok ay mach tz'ak'anoch t'a sk'ol tas skaleli? ¿Tok ay mach snachajel yuj to a spoder Jehová scheklaj t'a jun ab'ix tik? xcham heb'."
+    },
+    {
+      "number": "2",
+      "text": "Snib'ej Jehová to a jun schekab' chi' sq'uib' icha swol junok te te' tz'em sch'anhal yib' t'a takinh lu'um. Manh nib'ab'ilok yilji, malaj tas wach' skiloch t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' anima, ol sb'uch jun chekab' chi' heb', ol spatikejel heb'. Ol ak'jokoch yaelal t'a yib'anh yuj heb', ol techaj yuj, yujto k'ajan yab'an syail. Icha junok mach manhxo smojok yiljiochi, ol patikajelok. Malaj ol elk'och jun chekab' chi' t'ayonh."
+    },
+    {
+      "number": "4",
+      "text": "Ha ko naani to ha Dios tz'ak'anoch yaelal t'a yib'anh, syak'anpaxkan t'a emnakilal, palta manh ichokta'. Ha ko yaelal a onh tik ol ak'jokoch t'a yib'anh, ol yab' syail ko k'exulok."
+    },
+    {
+      "number": "5",
+      "text": "Ol tekjokek' k'een t'a sniwanil yuj ko pitalil, ol yab'an wal syail yuj ko chukal. Yuj syaelal ol yab' chi', ol ochxi junk'olal t'a ko kal yet' Dios. Yuj yechnaj chi', ol yak'xi ko k 'inal."
+    },
+    {
+      "number": "6",
+      "text": "Ko masanil ix onh saklemkanb'at icha nok' kalnel. Junjun onh ix ko na' tas b'eal b'aj ix ko nib'ej b'aj ix onh b'atkani, haxo Jehová ol ak'ankanoch ko mul ko masanil t'a yib'anh jun schekab' chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ol ak'jok wal och syaelal yuj heb' anima, emnakilal ol aj yuj heb', palta malaj tas ol yala'. Ol ik'jokb'at yuj heb', icha tz'aj yik'jib'at nok' kalnel b'aj smiljichamok. Malaj tas ol yala', numannhej ol ajok, icha nok' kalnel sjoxchaji."
+    },
+    {
+      "number": "8",
+      "text": "Ol ik'chajelta t'a preso yik sch'olb'itaji, ol ak'jokoch chamel t'a yib'anh. Malaj mach ol och ilk'olal yuj schamel chi'. Ol ik'chajel t'a yol yib'anhk'inal tik yuj ko mul a onh schonhab' onh tik. Kuuj ol yab' syail."
+    },
+    {
+      "number": "9",
+      "text": "Malaj wal jab'ok chukal ol sk'ulej, malaj jab'ok es ol elta t'a sti'. Wach'chom icha chi', a snaan heb' anima to ol mukchaj t'a skal heb' chuk, palta haxo t'a skal heb' b'eyum ol mukchajok."
+    },
+    {
+      "number": "10",
+      "text": "Ha Jehová tz'alan icha tik: Ol wak' yab' syail in chekab' icha yaj in naani. Ol yak'och sb'a silab'il t'a yol sk'ab' chamel yik tz'ak'jikan lajwok smul masanil anima. Yuj chi' ol pitzwokkan t'a junelnhej, ol yil heb' yinhtilal. Yuj, ol elkank'och tas nab'il wuuj."
+    },
+    {
+      "number": "11",
+      "text": "Ayik toxo ix lajwiek' juntzanh yaelal chi' t'a yib'anh, ol tzalaj yuj spak jun yaelal chi' to manh nab'anhejok ix yab' syail. Tzijtum heb' anima ol ochkan wach'il yuj yojtakanel in chekab' chi' heb', yujto ol ik'jokkanel smul heb' yuj."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' ol wak' yopisio t'a skal heb' niwak yelk'ochi. Ay yalan yik yet' heb' yak'an ganar owal, yujto ix yak'och sb'a t'a yol sk'ab' chamel. Icha wal tz'utaj heb' sk'ulan chukal, icha chi' ix utaji. Ix sb'ek sb'a yuj smul masanil anima, ix tewi yuj heb' yik tz'ak'jikan lajwok smul heb' chi', xchi Jehová."
+    }
+  ]
 }

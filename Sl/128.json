@@ -1,29 +1,33 @@
 {
-    "chapter": "128",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te wach' yic junok mach ay xivk'olal t'a Jehová, sb'eyb'alan pax schecnab'il."
-        },
-        {
-            "number": "2",
-            "text": "D'a tzalajk'olal ol yab'lej sat tas syawej, te wach'nhej ol elk'ochoc."
-        },
-        {
-            "number": "3",
-            "text": "Icha satan te' uwa t'a spatic schiquin spat, manh jantacoc sat syak'a', icha wal chi' ol aj ix yetb'eyum. Icha swol te' oliwo, icha wal chi' ol ajoch oyan heb' yuninal t'a spatic smexa."
-        },
-        {
-            "number": "4",
-            "text": "Icha wal chi' ol aj yak'an swach'k'olal Jehová t'a junok mach ay xivk'olal t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Yak'okab'cot swach'k'olal Jehová t'a quib'anh masanto t'a tzalan Sion. Quilokab' swach'k'olal Jehová t'a Jerusalén t'a junjun k'u yacb'an pitzan onhto."
-        },
-        {
-            "number": "6",
-            "text": "Olto quilec tas ol aj heb' yuninal heb' cuninal. Ayokab' junk'olal t'a quib'anh a onh israel onh tik."
-        }
-    ]
+  "chapter": "128",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te wach' yik junok mach ay xiwk'olal t'a Jehová, sb'eyb'alan pax scheknab'il."
+    },
+    {
+      "number": "2",
+      "text": "T'a tzalajk'olal ol yab'lej sat tas syawej, te wach'nhej ol elk'ochok."
+    },
+    {
+      "number": "3",
+      "text": "Icha satan te' uwa t'a spatik schikin spat, manh jantakok sat syak'a', icha wal chi' ol aj ix yetb'eyum. Icha swol te' oliwo, icha wal chi' ol ajoch oyan heb' yuninal t'a spatik smexa."
+    },
+    {
+      "number": "4",
+      "text": "Icha wal chi' ol aj yak'an swach'k'olal Jehová t'a junok mach ay xiwk'olal t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Yak'okab'kot swach'k'olal Jehová t'a kib'anh masanto t'a tzalan Sion. Kilokab' swach'k'olal Jehová t'a Jerusalén t'a junjun k'u yakb'an pitzan onhto."
+    },
+    {
+      "number": "6",
+      "text": "Olto kilek tas ol aj heb' yuninal heb' kuninal. Ayokab' junk'olal t'a kib'anh a onh israel onh tik."
+    }
+  ]
 }

@@ -1,89 +1,93 @@
 {
-    "chapter": "145",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, a ach ton in Reyal ach, ol walkanel a b'inajnaquil. D'a masanil tiempo ol wak' yuj diosal t'ayach."
-        },
-        {
-            "number": "2",
-            "text": "Junjun k'u ol wal wach' lolonel t'ayach. Ol ach wik'anchaanh t'a masanil tiempo."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, te niwan ton elk'ochi, a moj ton wal yalchaj wach' lolonel t'ayach. Ha a b'inajnaquil, manhxo b'ischajb'enoc."
-        },
-        {
-            "number": "4",
-            "text": "Ha heb' mamab'il, ol yalel yab'ixal tastac tza k'ulej t'a heb' yuninal. Axo heb' uninab'il chi', ol yal pax heb' t'a heb' yixchiquin."
-        },
-        {
-            "number": "5",
-            "text": "Ol yalel yab'ixal a tziquiquial heb', aton te niwan yelk'ochi, a inxo jun, ol in naub'tanhej tas satub'tac tza k'ulej."
-        },
-        {
-            "number": "6",
-            "text": "Ol alchajel yab'ixal tas satub'tac ix a k'ulej, te ay pax smay. Ha inxo tik, ol walel a b'inajnaquil."
-        },
-        {
-            "number": "7",
-            "text": "Ol alchajel yab'ixal jantac a niwan wach'k'olal, te chaanh ol aljoc to te wach' ach toni."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová, te niwan ton a wach'k'olal, ay pax ok'elk'olal, manh elanhchameloc scot owal, tz'ok'nhej a k'ool t'ayonh."
-        },
-        {
-            "number": "9",
-            "text": "Mamin Jehová, yelxo wal te wach' ach t'a masanil anima. Masanil tas a b'onac, te xajan uuj."
-        },
-        {
-            "number": "10",
-            "text": "Mamin Jehová, masanil tastac b'ob'il uuj, yalokab' wach' lolonel t'ayach. Yak'okab' yuj diosal heb' a chonhab' t'ayach."
-        },
-        {
-            "number": "11",
-            "text": "Yalokab'el heb' to te wach' ak'an yajalil. Yalokab' wach' lolonel heb' t'a tas ix a k'ulej, a sch'oxanel a niwan poder."
-        },
-        {
-            "number": "12",
-            "text": "Ha yab'ixal a poder yet' a b'inajnaquil t'a opisio, ol yab' heb' anima."
-        },
-        {
-            "number": "13",
-            "text": "Ha opisio aynhej ek' t'a junelnhej, Yajal ach t'a masanil tiempo. Ha ach tik tzak'nhejelk'och tas tzala'. Te wach' ach yet' masanil tas a b'onac."
-        },
-        {
-            "number": "14",
-            "text": "Mamin Jehová, tzak' yip heb' toxo wal stelwi, tzik'an k'e waan heb' tz'ixtaxi."
-        },
-        {
-            "number": "15",
-            "text": "Ha masanil heb' anima, stanhwej a colwal heb', yujto a ach tzak' swael heb' t'a stiempoal."
-        },
-        {
-            "number": "16",
-            "text": "Elb'ennhej tas uuj t'a smasanil a k'ool, tzak'an swael masanil tas pitzan."
-        },
-        {
-            "number": "17",
-            "text": "Mamin Jehová, tojolton a b'eyb'al, te ay a wach'k'olal t'a tas a b'onakkani."
-        },
-        {
-            "number": "18",
-            "text": "B'ekannhej a k'ol a kolwaj t'a heb' syal sb'a t'ayach t'a smasanil sk'ool."
-        },
-        {
-            "number": "19",
-            "text": "Mamin Jehová, tzak' tas icha snib'ej heb' ay xivk'olal t'ayach. Ayic sk'anan heb', tzab'i tza colan heb'."
-        },
-        {
-            "number": "20",
-            "text": "Mamin Jehová, tzil heb' tzach xajanani. Axo heb' sk'ulan chukal jun, tza satel heb'."
-        },
-        {
-            "number": "21",
-            "text": "Mamin Jehová, swal wach' lolonel t'ayach. Axo pax masanil tas b'ob'il uuj, yalokab' wach' lolonel t'ayach ticnaik yet' t'a masanil tiempo."
-        }
-    ]
+  "chapter": "145",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 21,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, a ach ton in Reyal ach, ol walkanel a b'inajnakil. T'a masanil tiempo ol wak' yuj diosal t'ayach."
+    },
+    {
+      "number": "2",
+      "text": "Junjun k'u ol wal wach' lolonel t'ayach. Ol ach wik'anchaanh t'a masanil tiempo."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, te niwan ton elk'ochi, a moj ton wal yalchaj wach' lolonel t'ayach. Ha a b'inajnakil, manhxo b'ischajb'enok."
+    },
+    {
+      "number": "4",
+      "text": "Ha heb' mamab'il, ol yalel yab'ixal tastak tza k'ulej t'a heb' yuninal. Axo heb' uninab'il chi', ol yal pax heb' t'a heb' yixchikin."
+    },
+    {
+      "number": "5",
+      "text": "Ol yalel yab'ixal a tzikikial heb', haton te niwan yelk'ochi, a inxo jun, ol in naub'tanhej tas satub'tak tza k'ulej."
+    },
+    {
+      "number": "6",
+      "text": "Ol alchajel yab'ixal tas satub'tak ix a k'ulej, te ay pax smay. Ha inxo tik, ol walel a b'inajnakil."
+    },
+    {
+      "number": "7",
+      "text": "Ol alchajel yab'ixal jantak a niwan wach'k'olal, te chaanh ol aljok to te wach' ach toni."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová, te niwan ton a wach'k'olal, ay pax ok'elk'olal, manh elanhchamelok skot owal, tz'ok'nhej a k'ool t'ayonh."
+    },
+    {
+      "number": "9",
+      "text": "Mamin Jehová, yelxo wal te wach' ach t'a masanil anima. Masanil tas a b'onak, te xajan uuj."
+    },
+    {
+      "number": "10",
+      "text": "Mamin Jehová, masanil tastak b'ob'il uuj, yalokab' wach' lolonel t'ayach. Yak'okab' yuj diosal heb' a chonhab' t'ayach."
+    },
+    {
+      "number": "11",
+      "text": "Yalokab'el heb' to te wach' ak'an yajalil. Yalokab' wach' lolonel heb' t'a tas ix a k'ulej, a sch'oxanel a niwan poder."
+    },
+    {
+      "number": "12",
+      "text": "Ha yab'ixal a poder yet' a b'inajnakil t'a opisio, ol yab' heb' anima."
+    },
+    {
+      "number": "13",
+      "text": "Ha opisio aynhej ek' t'a junelnhej, Yajal ach t'a masanil tiempo. Ha ach tik tzak'nhejelk'och tas tzala'. Te wach' ach yet' masanil tas a b'onak."
+    },
+    {
+      "number": "14",
+      "text": "Mamin Jehová, tzak' yip heb' toxo wal stelwi, tzik'an k'e waan heb' tz'ixtaxi."
+    },
+    {
+      "number": "15",
+      "text": "Ha masanil heb' anima, stanhwej a kolwal heb', yujto a ach tzak' swael heb' t'a stiempoal."
+    },
+    {
+      "number": "16",
+      "text": "Elb'ennhej tas uuj t'a smasanil a k'ool, tzak'an swael masanil tas pitzan."
+    },
+    {
+      "number": "17",
+      "text": "Mamin Jehová, tojolton a b'eyb'al, te ay a wach'k'olal t'a tas a b'onakkani."
+    },
+    {
+      "number": "18",
+      "text": "B'ekannhej a k'ol a kolwaj t'a heb' syal sb'a t'ayach t'a smasanil sk'ool."
+    },
+    {
+      "number": "19",
+      "text": "Mamin Jehová, tzak' tas icha snib'ej heb' ay xiwk'olal t'ayach. Ayik sk'anan heb', tzab'i tza kolan heb'."
+    },
+    {
+      "number": "20",
+      "text": "Mamin Jehová, tzil heb' tzach xajanani. Axo heb' sk'ulan chukal jun, tza satel heb'."
+    },
+    {
+      "number": "21",
+      "text": "Mamin Jehová, swal wach' lolonel t'ayach. Axo pax masanil tas b'ob'il uuj, yalokab' wach' lolonel t'ayach tiknaik yet' t'a masanil tiempo."
+    }
+  ]
 }

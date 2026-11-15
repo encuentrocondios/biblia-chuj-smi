@@ -1,77 +1,81 @@
 {
-    "chapter": "20",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix el winhaj Abraham chi' t'a yol yic winhaj Mamre, ix b'atkan kajan winh t'a yol yic Neguev t'a jun chonhab' scuch Gerar. Ha t'a skal Cades yet' Shur, ata' ay Gerar chi'."
-        },
-        {
-            "number": "2",
-            "text": "Ayic ayek' winh ta', ix yal winh to manh yetb'eyumoc ix Sara winh, yanab' ix winh yalani. Ha winhaj Abimelec sreyal Gerar chi', ix schec winh ik'chajcot ix Sara chi' yic tz'och ix yetb'eyumoc yalani."
-        },
-        {
-            "number": "3",
-            "text": "Ay jun ak'wal, ix lolon Dios t'a winh rey chi' t'a swayich icha tik: Ol ach chamoc, yujto a ix ix, ix ik'cot etb'eyumoc alani, ay yetb'eyum ix, xchi t'a winh."
-        },
-        {
-            "number": "4",
-            "text": "Palta manto waylaj winh yet' ix Sara chi', yuj chi' ix yalan winh: Mamin, malaj in mul, ¿tom tzin a satel yet' in chonhab' tik?"
-        },
-        {
-            "number": "5",
-            "text": "Yujto a winhaj Abraham chi' ix alan t'ayin to yanab' ix winh. Ix yalanpax ix t'ayin: In nulej winh, xchi ix. Ha in tik ix in k'ulej t'a smasanil in k'ool, manhoc chukal naan wuuj, xchi winh rey chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ix tak'wi Dios t'a winh: Vojtak to ix a k'ulej jun tik t'a stojolal, yuj chi' maj in cha a yam ix, yic wach' max och a mul t'ayin."
-        },
-        {
-            "number": "7",
-            "text": "Ha tiknaik, ak' meltzaj ix t'a winh yetb'eyum chi', yujto in chekab' yaj winh. Syal slesalwi winh uuj yic max ach chami. Palta tato max ak' meltzaj ix jun, wal yel ol ach chamoc, ol champax jantac heb' kajan ed'oc, xchi Dios t'a winh."
-        },
-        {
-            "number": "8",
-            "text": "Axo ix q'uinhib'i, ix k'e waan winh rey chi', ix yavtancot masanil heb' schekab' winh, ix yalan winh t'a heb' tas ix swayichej chi'. Ayic ix yab'an jun chi' heb', ix te xiv heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ixlajwi chi' ix schekan winh rey chi' avtaj winhaj Abraham chi', ix yalan winh: --¿Tas yuj icha tik ix in utej? ¿Tas in mul t'ayach, yuj chi' ijan tzik'cot jun niwan mul tik t'a wib'anh yet' t'a yib'anh jantac heb' in chonhab' tik? Manh wach'oc ix in utej."
-        },
-        {
-            "number": "10",
-            "text": "¿Tas ix a na' yuj chi' icha tik ix a k'ulej? xchi winh rey chi'."
-        },
-        {
-            "number": "11",
-            "text": "Ix tak'wi winhaj Abraham chi' t'a winh: --Ha in naani to ha t'a jun lugar tik malaj mach xiv d'ha Dios. Q'uinaloc ay mach tzin mak'ancham yuj ix wetb'eyum tik in naani."
-        },
-        {
-            "number": "12",
-            "text": "Val yel wanab' ix, yisil ix winh in mam, palta ch'oc snun ix, yuj chi' ix yal wik'lan in b'a yet' ix."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ix yalan Dios to tzin el t'a spat winh in mam, ix in k'anan pawor t'a ix to sch'ox swach'k'olal ix t'ayin, yuj chi' yalnhej b'aj tzonh eq'ui, syal ix to wanab' ix, xchi winhaj Abraham chi'."
-        },
-        {
-            "number": "14",
-            "text": "Ix yak'anxi meltzaj ix Sara chi' winh t'a winhaj Abraham chi'. Ix ak'jipax nok' kalnel, nok' wakax, heb' winh chekab' yet' heb' ix chekab' t'a winh yuj winh rey chi'."
-        },
-        {
-            "number": "15",
-            "text": "Ix yalanxi winh rey chi' t'a winh: --Ina in macb'en tik, syal a sik'lani b'ajtil syal a kajnaji, xchi winh rey chi' t'a winh."
-        },
-        {
-            "number": "16",
-            "text": "Ix yalanpax winh rey chi' t'a ix Sara: --Ix wak' mil siclo k'een plata t'a winh a nulej tik, yic tz'och spacoc t'ayach, yic sko ch'oxaneli to malaj a mul ix ochi, yic wach' malaj mach syal yalan chukal t'a a patic, xchi winh t'a ix."
-        },
-        {
-            "number": "17",
-            "text": "Ixlajwi chi' ix lesalwi winhaj Abraham chi' d'ha Dios yuj winhaj Abimelec chi'. Yuj chi' ix yik'xiel skatab' Dios chi' t'a yib'anh winh yet' ix yetb'eyum yet' heb' ix schekab' winh, yic tz'aljixi yune' heb' ix."
-        },
-        {
-            "number": "18",
-            "text": "Yujto yujnhej ix Sara chi', manhxa junok heb' ix ayek' t'a spat winhaj Abimelec chi' ixto unewi junok tiempoal yuj Jehová."
-        }
-    ]
+  "chapter": "20",
+  "book": "GÉNESIS",
+  "book_short": "Gn",
+  "aligned": true,
+  "es_verses": 18,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix el winhaj Abraham chi' t'a yol yik winhaj Mamre, ix b'atkan kajan winh t'a yol yik Neguev t'a jun chonhab' skuch Gerar. Ha t'a skal Cades yet' Shur, ata' ay Gerar chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ayik ayek' winh ta', ix yal winh to manh yetb'eyumok ix Sara winh, yanab' ix winh yalani. Ha winhaj Abimelec sreyal Gerar chi', ix schek winh ik'chajkot ix Sara chi' yik tz'och ix yetb'eyumok yalani."
+    },
+    {
+      "number": "3",
+      "text": "Ay jun ak'wal, ix lolon Dios t'a winh rey chi' t'a swayich icha tik: Ol ach chamok, yujto a ix ix, ix ik'kot etb'eyumok alani, ay yetb'eyum ix, xchi t'a winh."
+    },
+    {
+      "number": "4",
+      "text": "Palta manto waylaj winh yet' ix Sara chi', yuj chi' ix yalan winh: Mamin, malaj in mul, ¿tom tzin a satel yet' in chonhab' tik?"
+    },
+    {
+      "number": "5",
+      "text": "Yujto a winhaj Abraham chi' ix alan t'ayin to yanab' ix winh. Ix yalanpax ix t'ayin: In nulej winh, xchi ix. Ha in tik ix in k'ulej t'a smasanil in k'ool, manhok chukal naan wuuj, xchi winh rey chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ix tak'wi Dios t'a winh: Wojtak to ix a k'ulej jun tik t'a stojolal, yuj chi' maj in cha a yam ix, yik wach' max och a mul t'ayin."
+    },
+    {
+      "number": "7",
+      "text": "Ha tiknaik, ak' meltzaj ix t'a winh yetb'eyum chi', yujto in chekab' yaj winh. Syal slesalwi winh uuj yik max ach chami. Palta tato max ak' meltzaj ix jun, wal yel ol ach chamok, ol champax jantak heb' kajan et'ok, xchi Dios t'a winh."
+    },
+    {
+      "number": "8",
+      "text": "Axo ix q'uinhib'i, ix k'e waan winh rey chi', ix yawtankot masanil heb' schekab' winh, ix yalan winh t'a heb' tas ix swayichej chi'. Ayik ix yab'an jun chi' heb', ix te xiw heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ixlajwi chi' ix schekan winh rey chi' awtaj winhaj Abraham chi', ix yalan winh: --¿Tas yuj icha tik ix in utej? ¿Tas in mul t'ayach, yuj chi' ijan tzik'kot jun niwan mul tik t'a wib'anh yet' t'a yib'anh jantak heb' in chonhab' tik? Manh wach'ok ix in utej."
+    },
+    {
+      "number": "10",
+      "text": "¿Tas ix a na' yuj chi' icha tik ix a k'ulej? xchi winh rey chi'."
+    },
+    {
+      "number": "11",
+      "text": "Ix tak'wi winhaj Abraham chi' t'a winh: --Ha in naani to ha t'a jun lugar tik malaj mach xiw t'a Dios. Q'uinalok ay mach tzin mak'ancham yuj ix wetb'eyum tik in naani."
+    },
+    {
+      "number": "12",
+      "text": "Wal yel wanab' ix, yisil ix winh in mam, palta ch'ok snun ix, yuj chi' ix yal wik'lan in b'a yet' ix."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ix yalan Dios to tzin el t'a spat winh in mam, ix in k'anan pawor t'a ix to sch'ox swach'k'olal ix t'ayin, yuj chi' yalnhej b'aj tzonh eq'ui, syal ix to wanab' ix, xchi winhaj Abraham chi'."
+    },
+    {
+      "number": "14",
+      "text": "Ix yak'anxi meltzaj ix Sara chi' winh t'a winhaj Abraham chi'. Ix ak'jipax nok' kalnel, nok' wakax, heb' winh chekab' yet' heb' ix chekab' t'a winh yuj winh rey chi'."
+    },
+    {
+      "number": "15",
+      "text": "Ix yalanxi winh rey chi' t'a winh: --Ina in makb'en tik, syal a sik'lani b'ajtil syal a kajnaji, xchi winh rey chi' t'a winh."
+    },
+    {
+      "number": "16",
+      "text": "Ix yalanpax winh rey chi' t'a ix Sara: --Ix wak' mil siklo k'een plata t'a winh a nulej tik, yik tz'och spakok t'ayach, yik sko ch'oxaneli to malaj a mul ix ochi, yik wach' malaj mach syal yalan chukal t'a a patik, xchi winh t'a ix."
+    },
+    {
+      "number": "17",
+      "text": "Ixlajwi chi' ix lesalwi winhaj Abraham chi' t'a Dios yuj winhaj Abimelec chi'. Yuj chi' ix yik'xiel skatab' Dios chi' t'a yib'anh winh yet' ix yetb'eyum yet' heb' ix schekab' winh, yik tz'aljixi yune' heb' ix."
+    },
+    {
+      "number": "18",
+      "text": "Yujto yujnhej ix Sara chi', manhxa junok heb' ix ayek' t'a spat winhaj Abimelec chi' ixto unewi junok tiempoal yuj Jehová."
+    }
+  ]
 }

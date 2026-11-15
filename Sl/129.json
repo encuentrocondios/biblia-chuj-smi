@@ -1,37 +1,41 @@
 {
-    "chapter": "129",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Yictax yichb’anel, manh jantacoc yaelal ix yak'och heb' ajk'ol t'a quib'anh a onh israel onh tik. Yuj chi' a ticnaik kalek icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Manhxo jantacoc yaelal ix yak'och heb' ajk'ol t'a quib'anh yictax t'a yichb’anel, palta maj tzak'wanlaj chi' t'ayonh."
-        },
-        {
-            "number": "3",
-            "text": "Ixlajwi yich ko patic smak'an heb', te niwan chequel ix aj staji schiq'uil yich ko patic chi' yuj heb'."
-        },
-        {
-            "number": "4",
-            "text": "Axo Jehová, tojol toni, ha' ix onh colan t'a yol sk'ab' heb' sk'ulan chukal chi', xco chiokab'i."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' ayoch ajk'olal t'a Sion, q'uixwokab' heb', b'atokab' heb' elelal."
-        },
-        {
-            "number": "6",
-            "text": "Icha tz'aj anh ank'ultak sq'uib' t'a yib'anh pat, jab'nhej sq'uib' steel, elanhchamel stacjieli, ichokab' ta' tz'aj heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ha anh ank'ultak chi', max ko jochlaj anh, max ko tzek'paxlaj anh t'a manojail."
-        },
-        {
-            "number": "8",
-            "text": "Manh ol yal-laj heb' anima tzek' t'a stz'ey anh ank'ultak chi': Yak'okab' syaxilal Jehová t'a yib'anh anh. Sco k'an yaxilal t'a yib'anh anh, manh xchioc heb'."
-        }
-    ]
+  "chapter": "129",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Yiktax yichb'anel, manh jantakok yaelal ix yak'och heb' ajk'ol t'a kib'anh a onh israel onh tik. Yuj chi' a tiknaik kalek icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Manhxo jantakok yaelal ix yak'och heb' ajk'ol t'a kib'anh yiktax t'a yichb'anel, palta maj tzak'wanlaj chi' t'ayonh."
+    },
+    {
+      "number": "3",
+      "text": "Ixlajwi yich ko patik smak'an heb', te niwan chekel ix aj staji schiq'uil yich ko patik chi' yuj heb'."
+    },
+    {
+      "number": "4",
+      "text": "Axo Jehová, tojol toni, ha' ix onh kolan t'a yol sk'ab' heb' sk'ulan chukal chi', xko chiokab'i."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' ayoch ajk'olal t'a Sion, q'uixwokab' heb', b'atokab' heb' elelal."
+    },
+    {
+      "number": "6",
+      "text": "Icha tz'aj anh ank'ultak sq'uib' t'a yib'anh pat, jab'nhej sq'uib' steel, elanhchamel stakjieli, ichokab' ta' tz'aj heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ha anh ank'ultak chi', max ko jochlaj anh, max ko tzek'paxlaj anh t'a manojail."
+    },
+    {
+      "number": "8",
+      "text": "Manh ol yal-laj heb' anima tzek' t'a stz'ey anh ank'ultak chi': Yak'okab' syaxilal Jehová t'a yib'anh anh. Sko k'an yaxilal t'a yib'anh anh, manh xchiok heb'."
+    }
+  ]
 }

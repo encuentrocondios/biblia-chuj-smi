@@ -1,97 +1,101 @@
 {
-    "chapter": "11",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix yab'an winhaj Jabín sreyal Hazor masanil juntzanh chi', ix yak'anb'at schekab' winh t'a winhaj Jobab sreyal Madón, t'a winh sreyal Simrón yet' t'a winh sreyal Acsaf, yic junnhej tz'aj heb' winh."
-        },
-        {
-            "number": "2",
-            "text": "Ix schekanpaxb'at schekab' winh t'a masanil heb' winh rey ay t'a tzalquixtac t'a norte yet' pax t'a heb' winh ay t'a sch'olquiltaquil ha' Jordán, t'a stojolal sur t'ha ha' nhajab' Cineret, t'a ak'lic yet' t'a slak'anil yic Dor t'a stojolal b'aj tz'em k'u."
-        },
-        {
-            "number": "3",
-            "text": "Ix yalanxib'at winh t'a heb' cananeo ay t'a stojolal b'aj sjawi k'u yet' t'a stojolal b'aj tz'em k'u yet' t'a heb' amorreo, heb' hitita, heb' ferezeo, heb' jebuseo, aton heb' ay t'a tzalquixtac yet' pax t'a heb' heweo t'a Hermón t'a yol yic Mizpa."
-        },
-        {
-            "number": "4",
-            "text": "Masanil juntzanh heb' winh rey chi' ix elta heb' winh yet' soldado, nok' chej yet' carruaje yic owal. Manhxo b'ischajb'enoc jantac soldado heb' winh, icha wal yarenail sti' ha' mar."
-        },
-        {
-            "number": "5",
-            "text": "Ix smolb'an sb'a heb' winh smasanil t'a slak'anil ha' nhajab' Merom, yuj yak'an owal heb' winh yet' heb' israel."
-        },
-        {
-            "number": "6",
-            "text": "Palta ix yalan Jehová t'a winhaj Josué icha tik: Manh ach xiv t'a juntzanh heb' tik, yujto a in ol in och eyed'oc yic ol he satanel heb'. D'a yab' icha tik k'ik'an, masanil heb' ol chamem latz'naj t'a eyichanh. Ol he mak' canhchaj yoc nok' schej heb', ol he nhusantz'a skarruaje heb' chi', xchi t'a winh."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi', a winhaj Josué chi' yet' masanil heb' ajun yet'oc, ix k'och heb' yak' owal yet' juntzanh anima chi' t'a sti' ha' nhajab' Merom ayic manh naanoc yuj heb'."
-        },
-        {
-            "number": "8",
-            "text": "Axo Jehová ix ak'anoch juntzanh anima chi' t'a yol sk'ab' heb' israel chi', yuj chi' ix satel juntzanh chonhab' chi' heb' b'ajtac ix b'at heb', masanto ix k'och heb' t'a niwan chonhab' Sidón yet' t'a Misrefot-maim. Axo t'a stojolal b'aj sjawi k'u, masanto t'a ak'lic yic Mizpa, manhxalaj junok anima pitzan ix kan ta'."
-        },
-        {
-            "number": "9",
-            "text": "Ix sk'anab'ajej winhaj Josué chi' sk'ulan masanil tas ix yal Jehová, ix schekan winh mak'chaj canhchaj yoc nok' schej heb' ajk'ol chi', ix nhusjipaxtz'a masanil skarruaje heb' yic owal."
-        },
-        {
-            "number": "10",
-            "text": "Ixlajwi chi', ix jax heb' t'a chonhab' Hazor sat yaj t'a juntzanh chonhab' chi', ix smak'anpaxcham winh sreyal jun chonhab' chi' heb'"
-        },
-        {
-            "number": "11",
-            "text": "yet' masanil anima kajan ta'. Masanil ix satel heb', ix snhusankantz'a jun chonhab' chi' heb'."
-        },
-        {
-            "number": "12",
-            "text": "Lajannhej ix yutej juntzanhxo chonhab' heb', aton juntzanh junnhej ix aj yet' Hazor chi', ix satel heb'. Ix smilcham heb' winh sreyal juntzanh chonhab' chi' heb', ix satanel masanil anima heb', icha wal ajnac yalan winhaj Moisés schekab' Jehová."
-        },
-        {
-            "number": "13",
-            "text": "Palta maj snhustz'a juntzanhxo chonhab' heb' ay t'a tzalquixtac, anhej chonhab' Hazor ix snhustz'a heb'."
-        },
-        {
-            "number": "14",
-            "text": "Ix xicjicham masanil heb' kajan ta' yet' k'een espada yuj heb', manhxa junok pitzan ix kani. Axonhej masanil nok' nok' yet' masanil tastac ay ta' ix yik'kan heb'."
-        },
-        {
-            "number": "15",
-            "text": "Icha ajnac yalankan juntzanh checnab'il Jehová t'a winhaj Moisés, winh schekab', icha pax chi' ajnac yalankan winhaj Moisés t'a winhaj Josué chi'. Yuj chi' ix sk'anab'ajej winh smasanil, malaj junok maj sk'anab'ajej winh."
-        },
-        {
-            "number": "16",
-            "text": "Ha winhaj Josué chi' yet' heb' winh soldado ix ik'ankanek' masanil juntzanh lugar tik, aton lum tzalquixtac, masanil lum Neguev yet' masanil lum yic Gosén, lum ak'lic, lum ch'olquixtac t'a stitac ha' Jordán yet' masanil lum tzalquixtac ayxo och t'a yol sk'ab' heb' israel yet' yak'likal."
-        },
-        {
-            "number": "17",
-            "text": "Sb'atnhej lum t'a yich lum witz Halac t'a slak'anil Seir masanto sk'och t'a Baal-gad, aton jun ay t'a yak'likal Líbano t'a yich lum witz Hermón. Ix yamji masanil heb' winh sreyal juntzanh chonhab' chi' yuj winhaj Josué chi', ix miljicham heb' winh yuj winh."
-        },
-        {
-            "number": "18",
-            "text": "Te niwan tiempo ix yak' owal winh yet' heb'."
-        },
-        {
-            "number": "19",
-            "text": "Anhej wal heb' heweo t'a Gabaón ix yak' strato yet' heb' israel, haxo pax masanil juntzanhxo chonhab', ix satjiel heb' t'a owal."
-        },
-        {
-            "number": "20",
-            "text": "Ha Jehová ix ak'an pitb'oquel spensar heb' ajk'ol chi', yic stek'b'an sb'a heb', yuj chi' ix satjiel heb' smasanil yuj heb' israel chi', maj ok'laj sk'ol heb' t'a heb', icha ajnac yalan Jehová t'a winhaj Moisés."
-        },
-        {
-            "number": "21",
-            "text": "Anhejtona' t'a jun pekti’ chi' ix satjiel masanil juntzanh chonhab' tik yuj winhaj Josué, aton b'aj kajan heb' yinhtilal winhaj Anac: Hebrón, Debir, Anab, masanil tzalquixtac yic Judá yet' t'a yol yic Israel."
-        },
-        {
-            "number": "22",
-            "text": "Yuj chi' manhxo junok anima chaanh steel yinhtilal winhaj Anac ixto kan t'a yol smacb'en Israel, axonhej t'a Gaza, t'a Gat yet' t'a Asdod ixto kan jaywanhxo heb'."
-        },
-        {
-            "number": "23",
-            "text": "Icha wal chi' ix aj yik'ankanek' masanil lum lum chi' winhaj Josué chi', icha wal ajnac yalan Jehová t'a winhaj Moisés. Ixlajwi chi', ix spukanek' lum winh t'a skal masanil yinhtilal Israel chi', yic smacb'enan lu'um heb'. Ixlajwi juntzanh chi', ichato chi' ix och waan owal t'a juntzanh lugar chi'."
-        }
-    ]
+  "chapter": "11",
+  "book": "JOSUÉ",
+  "book_short": "Jos",
+  "aligned": true,
+  "es_verses": 23,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix yab'an winhaj Jabín sreyal Hazor masanil juntzanh chi', ix yak'anb'at schekab' winh t'a winhaj Jobab sreyal Madón, t'a winh sreyal Simrón yet' t'a winh sreyal Aksaf, yik junnhej tz'aj heb' winh."
+    },
+    {
+      "number": "2",
+      "text": "Ix schekanpaxb'at schekab' winh t'a masanil heb' winh rey ay t'a tzalkixtak t'a norte yet' pax t'a heb' winh ay t'a sch'olkiltakil ha' Jordán, t'a stojolal sur t'a ha' nhajab' Cineret, t'a ak'lik yet' t'a slak'anil yik Dor t'a stojolal b'aj tz'em k'u."
+    },
+    {
+      "number": "3",
+      "text": "Ix yalanxib'at winh t'a heb' kananeo ay t'a stojolal b'aj sjawi k'u yet' t'a stojolal b'aj tz'em k'u yet' t'a heb' amorreo, heb' hitita, heb' ferezeo, heb' jebuseo, haton heb' ay t'a tzalkixtak yet' pax t'a heb' heweo t'a Hermón t'a yol yik Mizpa."
+    },
+    {
+      "number": "4",
+      "text": "Masanil juntzanh heb' winh rey chi' ix elta heb' winh yet' soldado, nok' chej yet' karruaje yik owal. Manhxo b'ischajb'enok jantak soldado heb' winh, icha wal yarenail sti' ha' mar."
+    },
+    {
+      "number": "5",
+      "text": "Ix smolb'an sb'a heb' winh smasanil t'a slak'anil ha' nhajab' Merom, yuj yak'an owal heb' winh yet' heb' israel."
+    },
+    {
+      "number": "6",
+      "text": "Palta ix yalan Jehová t'a winhaj Josué icha tik: Manh ach xiw t'a juntzanh heb' tik, yujto a in ol in och eyet'ok yik ol he satanel heb'. T'a yab' icha tik k'ik'an, masanil heb' ol chamem latz'naj t'a eyichanh. Ol he mak' kanhchaj yok nok' schej heb', ol he nhusantz'a skarruaje heb' chi', xchi t'a winh."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi', a winhaj Josué chi' yet' masanil heb' ajun yet'ok, ix k'och heb' yak' owal yet' juntzanh anima chi' t'a sti' ha' nhajab' Merom ayik manh naanok yuj heb'."
+    },
+    {
+      "number": "8",
+      "text": "Axo Jehová ix ak'anoch juntzanh anima chi' t'a yol sk'ab' heb' israel chi', yuj chi' ix satel juntzanh chonhab' chi' heb' b'ajtak ix b'at heb', masanto ix k'och heb' t'a niwan chonhab' Sidón yet' t'a Misrefot-maim. Axo t'a stojolal b'aj sjawi k'u, masanto t'a ak'lik yik Mizpa, manhxalaj junok anima pitzan ix kan ta'."
+    },
+    {
+      "number": "9",
+      "text": "Ix sk'anab'ajej winhaj Josué chi' sk'ulan masanil tas ix yal Jehová, ix schekan winh mak'chaj kanhchaj yok nok' schej heb' ajk'ol chi', ix nhusjipaxtz'a masanil skarruaje heb' yik owal."
+    },
+    {
+      "number": "10",
+      "text": "Ixlajwi chi', ix jax heb' t'a chonhab' Hazor sat yaj t'a juntzanh chonhab' chi', ix smak'anpaxcham winh sreyal jun chonhab' chi' heb'"
+    },
+    {
+      "number": "11",
+      "text": "yet' masanil anima kajan ta'. Masanil ix satel heb', ix snhusankantz'a jun chonhab' chi' heb'."
+    },
+    {
+      "number": "12",
+      "text": "Lajannhej ix yutej juntzanhxo chonhab' heb', haton juntzanh junnhej ix aj yet' Hazor chi', ix satel heb'. Ix smilcham heb' winh sreyal juntzanh chonhab' chi' heb', ix satanel masanil anima heb', icha wal ajnak yalan winhaj Moisés schekab' Jehová."
+    },
+    {
+      "number": "13",
+      "text": "Palta maj snhustz'a juntzanhxo chonhab' heb' ay t'a tzalkixtak, anhej chonhab' Hazor ix snhustz'a heb'."
+    },
+    {
+      "number": "14",
+      "text": "Ix xikjicham masanil heb' kajan ta' yet' k'een espada yuj heb', manhxa junok pitzan ix kani. Axonhej masanil nok' nok' yet' masanil tastak ay ta' ix yik'kan heb'."
+    },
+    {
+      "number": "15",
+      "text": "Icha ajnak yalankan juntzanh cheknab'il Jehová t'a winhaj Moisés, winh schekab', icha pax chi' ajnak yalankan winhaj Moisés t'a winhaj Josué chi'. Yuj chi' ix sk'anab'ajej winh smasanil, malaj junok maj sk'anab'ajej winh."
+    },
+    {
+      "number": "16",
+      "text": "Ha winhaj Josué chi' yet' heb' winh soldado ix ik'ankanek' masanil juntzanh lugar tik, haton lum tzalkixtak, masanil lum Neguev yet' masanil lum yik Gosén, lum ak'lik, lum ch'olkixtak t'a stitak ha' Jordán yet' masanil lum tzalkixtak ayxo och t'a yol sk'ab' heb' israel yet' yak'likal."
+    },
+    {
+      "number": "17",
+      "text": "Sb'atnhej lum t'a yich lum witz Halac t'a slak'anil Seir masanto sk'och t'a Baal-gad, haton jun ay t'a yak'likal Líbano t'a yich lum witz Hermón. Ix yamji masanil heb' winh sreyal juntzanh chonhab' chi' yuj winhaj Josué chi', ix miljicham heb' winh yuj winh."
+    },
+    {
+      "number": "18",
+      "text": "Te niwan tiempo ix yak' owal winh yet' heb'."
+    },
+    {
+      "number": "19",
+      "text": "Anhej wal heb' heweo t'a Gabaón ix yak' strato yet' heb' israel, haxo pax masanil juntzanhxo chonhab', ix satjiel heb' t'a owal."
+    },
+    {
+      "number": "20",
+      "text": "Ha Jehová ix ak'an pitb'okel spensar heb' ajk'ol chi', yik stek'b'an sb'a heb', yuj chi' ix satjiel heb' smasanil yuj heb' israel chi', maj ok'laj sk'ol heb' t'a heb', icha ajnak yalan Jehová t'a winhaj Moisés."
+    },
+    {
+      "number": "21",
+      "text": "Anhejtona' t'a jun pekti' chi' ix satjiel masanil juntzanh chonhab' tik yuj winhaj Josué, haton b'aj kajan heb' yinhtilal winhaj Anac: Hebrón, Debir, Anab, masanil tzalkixtak yik Judá yet' t'a yol yik Israel."
+    },
+    {
+      "number": "22",
+      "text": "Yuj chi' manhxo junok anima chaanh steel yinhtilal winhaj Anac ixto kan t'a yol smakb'en Israel, axonhej t'a Gaza, t'a Gat yet' t'a Asdod ixto kan jaywanhxo heb'."
+    },
+    {
+      "number": "23",
+      "text": "Icha wal chi' ix aj yik'ankanek' masanil lum lum chi' winhaj Josué chi', icha wal ajnak yalan Jehová t'a winhaj Moisés. Ixlajwi chi', ix spukanek' lum winh t'a skal masanil yinhtilal Israel chi', yik smakb'enan lu'um heb'. Ixlajwi juntzanh chi', ichato chi' ix och waan owal t'a juntzanh lugar chi'."
+    }
+  ]
 }

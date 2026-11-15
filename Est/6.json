@@ -1,61 +1,65 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha wal t'a jun ak'wal chi', maj ochlaj swayanh winh rey chi', yuj chi' ix yal winh to tz'ik'chajcot juntzanh b'aj tz'ib'ab'il yab'ixal tastac ujinac t'a yol smacb'en winh chi', ix avtaj yab' winh."
-        },
-        {
-            "number": "2",
-            "text": "Ix ilchaj b'aj syala' to a winhaj Mardoqueo ix alani tas yalnac winhaj Bigtán yet' winhaj Teres, stanhwumal sti' spalacio winh rey chi'. Ix sna heb' winh tas syutej smilancham winhaj rey Asuero chi'."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' ix sk'anb'ej winh rey chi' t'a heb' winh ayoch yopisio yuj winh: --¿Tas ak'b'il yet' tas utajnac winhaj Mardoqueo yuj jun tas sk'ulejnac winh tik? xchi winh. Ix tak'wi heb' winh: --Malaj wal jab'oc tas ak'b'il t'a winh, xchi heb' winh."
-        },
-        {
-            "number": "4",
-            "text": "Ix yalan winh rey chi' icha tik: --¿Mach jun ayek' t'a yamaq'uil palacio tik? Ixiquec eyila', xchi winh. Ha wal ta' wan sjawi winhaj Amán yic tzul sk'anan winh t'a winh rey chi' to tz'ak'chajk'e lokan winhaj Mardoqueo t'a jun te te' toxo ix schec b'ojoc winh."
-        },
-        {
-            "number": "5",
-            "text": "Yuj chi' ix yal heb' winh schekab' winh rey chi': --Ha winhaj Amán ayeq'ui, xchi heb' winh. --Ix yalan winh rey chi' to tz'avtajoch winh b'aj ayek' winh chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ix och winhaj Amán chi' b'ian, ix sk'anb'an winh rey chi' t'a winh icha tik: --¿Tas smoj tz'utaj junok winh winak, tato tzin nib'ej swik'chaanh winh? xchi winh. Ix snaan winhaj Amán chi' t'a spensar icha tik: ¿Machto wal junok ol yik'chaanh winh rey tik? Ha innhej toni, xchi winh."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ix tak'wi winh icha tik: --Mamin rey, a wal tas smoj tz'utaj junok winak chi',"
-        },
-        {
-            "number": "8",
-            "text": "to tz'ik'chajcot junok a pichul tza k'an t'a opisio tik yet' nok' a chej tza k'antaxoni. Axo t'a sjolom nok' tz'ak'chajk'e junok yelwanub' icha corona, a sch'oxani to ic nok'."
-        },
-        {
-            "number": "9",
-            "text": "Axo jun a pichul chi' yet' nok' chej chi' tz'ak'chaj t'a junok heb' winh yajal to niwan yelk'och yopisio tik, syak'anoch a pichul jun winh tza nib'ej tzik'chaanh chi'. Tz'ak'chajk'e winh t'a yib'anh nok' a chej chi', slajwi chi' squetzchaj nok' t'a yalanh winh t'a yoltac calle yet' t'a parque. Syalan winh quetzjinac nok' chi' icha tik: Ichaton tik tz'aj yik'jichaanh junok winh winak snib'ej winh rey syik'chaanh, xchiokab'i, xchi winhaj Amán chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ixlajwi chi', ix yalan winh rey chi' t'a winhaj Amán chi' icha tik: --Ixic t'a elanhchamel, ik'b'at k'apac in pichul chi' yet' nok' in chej chi', icha wal ix aj alan chi', icha wal chi' tzutej a b'oan winhaj Mardoqueo winh israel, aton winh k'ojanem t'a sti' in palacio tik. Malajokab' junok tas ix al chi' to max a k'ulej, xchi winh."
-        },
-        {
-            "number": "11",
-            "text": "Yuj chi' ix yik'b'at k'apac pichul chi' winhaj Amán chi' yet' nok' chej chi', ix yak'anoch winh t'a winhaj Mardoqueo chi'. Ix squetzan nok' chej chi' winh t'a yalanh winh, ix ek' winh t'a yoltac calle yet' t'a parque, ix yalan winh icha tik: Ichaton tik tz'aj yik'jichaanh junok mach to snib'ej winh rey syik'chaanh, xchi winh."
-        },
-        {
-            "number": "12",
-            "text": "Ayic ix lajwi yik'jiek' winhaj Mardoqueo chi' yuj winh, ix b'at winh yak'xikan winh t'a sti' spalacio winh rey chi', haxo winh elanhchamel ix paxcan winh t'a spat. Te cusk'olal ix aj winh, ix smakan sat winh yuj q'uixwelal."
-        },
-        {
-            "number": "13",
-            "text": "Ix yalan winh t'a ix yetb'eyum yet' t'a heb' yamigo masanil tas ix utaj winh chi', yuj chi' ix yal heb' icha tik: --Ha winhaj Mardoqueo chi', israel winh, yuj chi' wan slajwiem opisio tik t'a spatic winh. Manh ol ak'laj ganar winh, palta to a winh ol ach ak'an ganar, xchi heb'."
-        },
-        {
-            "number": "14",
-            "text": "Manto lajwi yalan heb' icha chi', ix k'och heb' winh schekab' winh rey chi' t'a elanhchamel yic tz'ik'jib'at winhaj Amán chi' t'a jun niwan wael ix schec b'ojoc ix Ester chi'."
-        }
-    ]
+  "chapter": "6",
+  "book": "ESTER",
+  "book_short": "Est",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha wal t'a jun ak'wal chi', maj ochlaj swayanh winh rey chi', yuj chi' ix yal winh to tz'ik'chajkot juntzanh b'aj tz'ib'ab'il yab'ixal tastak ujinak t'a yol smakb'en winh chi', ix awtaj yab' winh."
+    },
+    {
+      "number": "2",
+      "text": "Ix ilchaj b'aj syala' to a winhaj Mardoqueo ix alani tas yalnak winhaj Bigtán yet' winhaj Teres, stanhwumal sti' spalakio winh rey chi'. Ix sna heb' winh tas syutej smilancham winhaj rey Asuero chi'."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' ix sk'anb'ej winh rey chi' t'a heb' winh ayoch yopisio yuj winh: --¿Tas ak'b'il yet' tas utajnak winhaj Mardoqueo yuj jun tas sk'ulejnak winh tik? xchi winh. Ix tak'wi heb' winh: --Malaj wal jab'ok tas ak'b'il t'a winh, xchi heb' winh."
+    },
+    {
+      "number": "4",
+      "text": "Ix yalan winh rey chi' icha tik: --¿Mach jun ayek' t'a yamaq'uil palakio tik? Ixikek eyila', xchi winh. Ha wal ta' wan sjawi winhaj Amán yik tzul sk'anan winh t'a winh rey chi' to tz'ak'chajk'e lokan winhaj Mardoqueo t'a jun te te' toxo ix schek b'ojok winh."
+    },
+    {
+      "number": "5",
+      "text": "Yuj chi' ix yal heb' winh schekab' winh rey chi': --Ha winhaj Amán ayeq'ui, xchi heb' winh. --Ix yalan winh rey chi' to tz'awtajoch winh b'aj ayek' winh chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ix och winhaj Amán chi' b'ian, ix sk'anb'an winh rey chi' t'a winh icha tik: --¿Tas smoj tz'utaj junok winh winak, tato tzin nib'ej swik'chaanh winh? xchi winh. Ix snaan winhaj Amán chi' t'a spensar icha tik: ¿Machto wal junok ol yik'chaanh winh rey tik? Ha innhej toni, xchi winh."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ix tak'wi winh icha tik: --Mamin rey, a wal tas smoj tz'utaj junok winak chi',"
+    },
+    {
+      "number": "8",
+      "text": "to tz'ik'chajkot junok a pichul tza k'an t'a opisio tik yet' nok' a chej tza k'antaxoni. Axo t'a sjolom nok' tz'ak'chajk'e junok yelwanub' icha korona, a sch'oxani to ik nok'."
+    },
+    {
+      "number": "9",
+      "text": "Axo jun a pichul chi' yet' nok' chej chi' tz'ak'chaj t'a junok heb' winh yajal to niwan yelk'och yopisio tik, syak'anoch a pichul jun winh tza nib'ej tzik'chaanh chi'. Tz'ak'chajk'e winh t'a yib'anh nok' a chej chi', slajwi chi' sketzchaj nok' t'a yalanh winh t'a yoltak kalle yet' t'a parke. Syalan winh ketzjinak nok' chi' icha tik: Ichaton tik tz'aj yik'jichaanh junok winh winak snib'ej winh rey syik'chaanh, xchiokab'i, xchi winhaj Amán chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ixlajwi chi', ix yalan winh rey chi' t'a winhaj Amán chi' icha tik: --Ixik t'a elanhchamel, ik'b'at k'apak in pichul chi' yet' nok' in chej chi', icha wal ix aj alan chi', icha wal chi' tzutej a b'oan winhaj Mardoqueo winh israel, haton winh k'ojanem t'a sti' in palakio tik. Malajokab' junok tas ix al chi' to max a k'ulej, xchi winh."
+    },
+    {
+      "number": "11",
+      "text": "Yuj chi' ix yik'b'at k'apak pichul chi' winhaj Amán chi' yet' nok' chej chi', ix yak'anoch winh t'a winhaj Mardoqueo chi'. Ix sketzan nok' chej chi' winh t'a yalanh winh, ix ek' winh t'a yoltak kalle yet' t'a parke, ix yalan winh icha tik: Ichaton tik tz'aj yik'jichaanh junok mach to snib'ej winh rey syik'chaanh, xchi winh."
+    },
+    {
+      "number": "12",
+      "text": "Ayik ix lajwi yik'jiek' winhaj Mardoqueo chi' yuj winh, ix b'at winh yak'xikan winh t'a sti' spalakio winh rey chi', haxo winh elanhchamel ix paxkan winh t'a spat. Te kusk'olal ix aj winh, ix smakan sat winh yuj q'uixwelal."
+    },
+    {
+      "number": "13",
+      "text": "Ix yalan winh t'a ix yetb'eyum yet' t'a heb' yamigo masanil tas ix utaj winh chi', yuj chi' ix yal heb' icha tik: --Ha winhaj Mardoqueo chi', israel winh, yuj chi' wan slajwiem opisio tik t'a spatik winh. Manh ol ak'laj ganar winh, palta to a winh ol ach ak'an ganar, xchi heb'."
+    },
+    {
+      "number": "14",
+      "text": "Manto lajwi yalan heb' icha chi', ix k'och heb' winh schekab' winh rey chi' t'a elanhchamel yik tz'ik'jib'at winhaj Amán chi' t'a jun niwan wael ix schek b'ojok ix Ester chi'."
+    }
+  ]
 }

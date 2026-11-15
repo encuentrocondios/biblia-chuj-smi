@@ -1,49 +1,53 @@
 {
-    "chapter": "25",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, in Diosal ach. Ol wal wach' lolonel t'ayach, yujto ix ak'elk'och tas satub'tac nab'il uuj, ix ak'elk'och tas alb'ilkan uj t'a peka'."
-        },
-        {
-            "number": "2",
-            "text": "Icha junok b'ulanh k'een k'een ix ajkan juntzanh chonhab' uuj. Ha chonhab' te tek'an, ix laj em lanhnajoc. Ix ak'em lanhnaj spalacio heb' ch'oc nacional, manhxa b'ak'uinh ol b'ochajxik'eoc."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi', a juntzanh nación te tek'an, ol ach yik'chaanh, aton juntzanh maj ok' sk'ol t'a yetanimail, ol xivpax heb' t'ayach."
-        },
-        {
-            "number": "4",
-            "text": "Yujto a t'ayach scol sb'a heb' meb'a', tzach kolwaj t'a heb' ay tas tz'och yuj t'a scusk'olal. Ha heb' anima te chuk, lajan wal heb' icha yaxnhab' ay yik'al. Lajan pax heb' icha sk'ak'al yoc k'u t'a chimk'ualil. Palta a ach tzonh a k'ub'ejel icha junok k'een k'een. Icha chi' tz'aj ik'anem yak'umtaquil heb' ch'oc nacional chi'. Icha tz'aj siclab' yoc k'u ayic tz'och swewenal asun, icha chi' tz'aj ak'anoch waan heb' chuk chi' yel yav."
-        },
-        {
-            "number": "5",
-            "text": "Ha t'a tzalan Sion tik, ol sb'o junok niwan wael Jehová Yajal t'a Smasanil, ol yak'an t'a masanil nación. Ha schib'ejal jun wael chi' ek'b'al te wach', te wach' pax yal sat uwa ol uk'joc."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a jun tzalan tik ol yik'el jun k'apac Jehová, jun k'apac smusan sat masanil chonhab', aton scusk'olal heb' yet' smanh pensaril heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ol yak' lajwoc chamel Jehová t'a junelnhej. Ol sukanel yal sat heb' anima smasanil, ol yak' lajwoc jantac sq'uixwelal schonhab' t'a masanil yol yib'anhk’inal tik. Aton Jehová tz'alan jun tik."
-        },
-        {
-            "number": "8",
-            "text": "Ha t'a jun k'ual chi' ol kal icha tik: Ha Jehová ko Diosal tik, aton kak'nacoch yipoc ko k'ool, a coljinac onh. Conh tzalajec, yujto a ix onh colani, xco chama."
-        },
-        {
-            "number": "9",
-            "text": "Ha Jehová ol tanhwan lum tzalan Sion tik. Yacb'an haxo chonhab' Moab wan stek'jiem t'a yet'tal icha tz'aj stek'jiem anh ac t'a skal stza' nok' nok'."
-        },
-        {
-            "number": "10",
-            "text": "Ichato ol to yak'el lian sk'ab' Moab chi', icha yak'an sk'ab' junok smak'an ha ha', wach'chom ol to yak' yip, palta ol satel yak'umtaquil yuj Jehová."
-        },
-        {
-            "number": "11",
-            "text": "Masanil smuroal juntzanh niwac chonhab', ol em lanhnaj yuj Jehová. Chok' ol ajkanem wekan t'a sat lu'um."
-        }
-    ]
+  "chapter": "25",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": false,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, in Diosal ach. Ol wal wach' lolonel t'ayach, yujto ix ak'elk'och tas satub'tak nab'il uuj, ix ak'elk'och tas alb'ilkan uj t'a peka'."
+    },
+    {
+      "number": "2",
+      "text": "Icha junok b'ulanh k'een k'een ix ajkan juntzanh chonhab' uuj. Ha chonhab' te tek'an, ix laj em lanhnajok. Ix ak'em lanhnaj spalakio heb' ch'ok nakional, manhxa b'ak'uinh ol b'ochajxik'eok."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi', a juntzanh nakión te tek'an, ol ach yik'chaanh, haton juntzanh maj ok' sk'ol t'a yetanimail, ol xiwpax heb' t'ayach."
+    },
+    {
+      "number": "4",
+      "text": "Yujto a t'ayach skol sb'a heb' meb'a', tzach kolwaj t'a heb' ay tas tz'och yuj t'a skusk'olal. Ha heb' anima te chuk, lajan wal heb' icha yaxnhab' ay yik'al. Lajan pax heb' icha sk'ak'al yok k'u t'a chimk'ualil. Palta a ach tzonh a k'ub'ejel icha junok k'een k'een. Icha chi' tz'aj ik'anem yak'umtakil heb' ch'ok nakional chi'. Icha tz'aj siklab' yok k'u ayik tz'och swewenal asun, icha chi' tz'aj ak'anoch waan heb' chuk chi' yel yaw."
+    },
+    {
+      "number": "5",
+      "text": "Ha t'a tzalan Sion tik, ol sb'o junok niwan wael Jehová Yajal t'a Smasanil, ol yak'an t'a masanil nakión. Ha schib'ejal jun wael chi' ek'b'al te wach', te wach' pax yal sat uwa ol uk'jok."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a jun tzalan tik ol yik'el jun k'apak Jehová, jun k'apak smusan sat masanil chonhab', haton skusk'olal heb' yet' smanh pensaril heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ol yak' lajwok chamel Jehová t'a junelnhej. Ol sukanel yal sat heb' anima smasanil, ol yak' lajwok jantak sq'uixwelal schonhab' t'a masanil yol yib'anhk'inal tik. Haton Jehová tz'alan jun tik."
+    },
+    {
+      "number": "8",
+      "text": "Ha t'a jun k'ual chi' ol kal icha tik: Ha Jehová ko Diosal tik, haton kak'nakoch yipok ko k'ool, a koljinak onh. Konh tzalajek, yujto a ix onh kolani, xko chama."
+    },
+    {
+      "number": "9",
+      "text": "Ha Jehová ol tanhwan lum tzalan Sion tik. Yakb'an haxo chonhab' Moab wan stek'jiem t'a yet'tal icha tz'aj stek'jiem anh ak t'a skal stza' nok' nok'."
+    },
+    {
+      "number": "10",
+      "text": "Ichato ol to yak'el lian sk'ab' Moab chi', icha yak'an sk'ab' junok smak'an ha ha', wach'chom ol to yak' yip, palta ol satel yak'umtakil yuj Jehová."
+    },
+    {
+      "number": "11",
+      "text": "Masanil smuroal juntzanh niwak chonhab', ol em lanhnaj yuj Jehová. Chok' ol ajkanem wekan t'a sat lu'um."
+    }
+  ]
 }

@@ -1,57 +1,61 @@
 {
-    "chapter": "96",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aokab' junok ak' b'it sko b'itej t'a Jehová. Conh b'itanec t'ay ko masanil kajan onh t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "2",
-            "text": "Conh b'itanec t'a Jehová, kalek wach' lolonel t'ay. Junjun k'u skalanec el ko colnab'il syak'a'."
-        },
-        {
-            "number": "3",
-            "text": "Calequel yab'ixal sb'inajnaquil yet' tas satub'tac ix sk'ulej. Calequel t'a smasanil chonhab' yet' t'a junjun nación."
-        },
-        {
-            "number": "4",
-            "text": "Yujto niwan yelk'och Jehová, smoj tz'alchaj wach' lolonel t'ay. Yelxo wal te ay smay t'a yichanh masanil heb' Dios."
-        },
-        {
-            "number": "5",
-            "text": "Axo pax sdiosal juntzanhxo ch'oc chonhab'il jun, malaj yalani yujto yechelnhej yaji. Palta haxo pax Jehová, ha' b'oannac satcha’anh."
-        },
-        {
-            "number": "6",
-            "text": "Te niwan yelk'ochi, te ay pax spoder. Scheclaj spoder yet' swach'il yilji t'a skajnub'."
-        },
-        {
-            "number": "7",
-            "text": "Ex anima t'a juntzanh chonhab', alec wach' lolonel t'a Jehová yujto te niwan yelk'ochi, te ay pax spoder."
-        },
-        {
-            "number": "8",
-            "text": "Alec wach' lolonel t'ay icha wal smojal. Ochanhec yet' he silab' t'a yamaq'uil stemplo."
-        },
-        {
-            "number": "9",
-            "text": "Hak'uequem he b'ha t'a Jehová t'a skajnub' wach' yilji. E masanil ex anima, ayokab' he xivk'olal t'a yichanh."
-        },
-        {
-            "number": "10",
-            "text": "Alec t'a juntzanhxo nación to a Jehová Rey toni. Tzatz ix yutej em k'ojan yol yib'anhk’inal tik, yuj chi' max ib'xilaj. Junlajannhej syutej sch'olb'itan juntzanh chonhab'."
-        },
-        {
-            "number": "11",
-            "text": "Tzalajokab' satcha’anh yet' lum lum tik. Elokab' yav ha' mar yet' masanil tas ay t'a yol ha'."
-        },
-        {
-            "number": "12",
-            "text": "Ayokab' tzalajk'olal t'a skal lum jacb'en yet' masanil tastac ay t'ay. Elokab' yav masanil te' niwac te' t'a tzalajk'olal,"
-        },
-        {
-            "number": "13",
-            "text": "yujto wan sjawi Jehová. Tik wal sjawi. Ol ul yak'an Yajalil t'a yol yib'anhk’inal tik. Ol sch'olb'itan t'a wach'il yet' t'a stojolal."
-        }
-    ]
+  "chapter": "96",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Aokab' junok ak' b'it sko b'itej t'a Jehová. Konh b'itanek t'ay ko masanil kajan onh t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "2",
+      "text": "Konh b'itanek t'a Jehová, kalek wach' lolonel t'ay. Junjun k'u skalanek el ko kolnab'il syak'a'."
+    },
+    {
+      "number": "3",
+      "text": "Kalekel yab'ixal sb'inajnakil yet' tas satub'tak ix sk'ulej. Kalekel t'a smasanil chonhab' yet' t'a junjun nakión."
+    },
+    {
+      "number": "4",
+      "text": "Yujto niwan yelk'och Jehová, smoj tz'alchaj wach' lolonel t'ay. Yelxo wal te ay smay t'a yichanh masanil heb' Dios."
+    },
+    {
+      "number": "5",
+      "text": "Axo pax sdiosal juntzanhxo ch'ok chonhab'il jun, malaj yalani yujto yechelnhej yaji. Palta haxo pax Jehová, ha' b'oannak satcha'anh."
+    },
+    {
+      "number": "6",
+      "text": "Te niwan yelk'ochi, te ay pax spoder. Scheklaj spoder yet' swach'il yilji t'a skajnub'."
+    },
+    {
+      "number": "7",
+      "text": "Ex anima t'a juntzanh chonhab', alek wach' lolonel t'a Jehová yujto te niwan yelk'ochi, te ay pax spoder."
+    },
+    {
+      "number": "8",
+      "text": "Alek wach' lolonel t'ay icha wal smojal. Ochanhek yet' he silab' t'a yamaq'uil stemplo."
+    },
+    {
+      "number": "9",
+      "text": "Hak'uekem he b'a t'a Jehová t'a skajnub' wach' yilji. E masanil ex anima, ayokab' he xiwk'olal t'a yichanh."
+    },
+    {
+      "number": "10",
+      "text": "Alek t'a juntzanhxo nakión to a Jehová Rey toni. Tzatz ix yutej em k'ojan yol yib'anhk'inal tik, yuj chi' max ib'xilaj. Junlajannhej syutej sch'olb'itan juntzanh chonhab'."
+    },
+    {
+      "number": "11",
+      "text": "Tzalajokab' satcha'anh yet' lum lum tik. Elokab' yaw ha' mar yet' masanil tas ay t'a yol ha'."
+    },
+    {
+      "number": "12",
+      "text": "Ayokab' tzalajk'olal t'a skal lum jakb'en yet' masanil tastak ay t'ay. Elokab' yaw masanil te' niwak te' t'a tzalajk'olal,"
+    },
+    {
+      "number": "13",
+      "text": "yujto wan sjawi Jehová. Tik wal sjawi. Ol ul yak'an Yajalil t'a yol yib'anhk'inal tik. Ol sch'olb'itan t'a wach'il yet' t'a stojolal."
+    }
+  ]
 }

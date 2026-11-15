@@ -1,57 +1,61 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ob'iltac ol aj heb' ayek' t'a sat sch'at snaub'tanhan tas chukal sk'ulej, haxo sq'uinhib'i jun, sk'ulan heb' tas sna chi', yujto ayek' t'a yol sk'ab' heb' sk'ulani."
-        },
-        {
-            "number": "2",
-            "text": "Tato syiloch sk'ol heb' t'a junok lu'um, stok'nhejek' heb'. Tato syiloch sk'ol heb' t'a junok pat, syik'nhejek' heb'. Icha chi' tz'aj yixtaj heb' anima yet' yuninal yuj heb'."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' syal Jehová icha tik: Ha in tik, ay tas tzin na pax t'a he patic a ex tik. Ol wak'b'at junok niwan yaelal t'a he kal, manhxo ol yal-laj he colan he b'a. Manhxo ak'umtacoc ol aj he b'eyeq'ui, yujto sk'ualxo jun niwan yaelal."
-        },
-        {
-            "number": "4",
-            "text": "Ha t'a jun k'ual chi', ol stz'ac b'itej b'it heb' anima meb'a' yuj ex sb'uchani. Ol yal heb' icha tik: Ha ticnaik, toxo ix onh kan t'a yalanh yuj heb' ajk'ool t'a junelnhej. Ha ko chonhab', toxo ix k'exwi yajal, manhxalaj mach syal skachwaji. Ha lum ko lu'um, ix spuquek' lum heb' ajk'ol chi' t'a spatic, xcham heb' t'a sb'it chi', xchi Jehová."
-        },
-        {
-            "number": "5",
-            "text": "Yuj he chukal chi' manhxa eyalan eyic t'a he macb'en t'a skal heb' schonhab' Jehová."
-        },
-        {
-            "number": "6",
-            "text": "Ix yalan heb' anima t'ayin icha tik: Manh al t'ayonh to ol jawok yaelal t'a quib'anh. ¿Tocwal ol jawok jun q'uixwelal chi' t'a quib'anh?"
-        },
-        {
-            "number": "7",
-            "text": "¿Tocwal katab'il schonhab' winhaj Jacob? ¿Tocwal ix lajwi sniwank'olal Dios, yuj chi' icha chi' ol onh yutej? ¿Tocwal syak'cot yaelal Dios t'a yib'anh heb' tojol sb'eyb'al? xchi heb'."
-        },
-        {
-            "number": "8",
-            "text": "Yuj chi' syal Jehová icha tik: Ha ex tik, tzex och ajk'olal t'a in chonhab'. Ha heb' smeltzajcot t'a owal, sna heb' to manhxalaj tas ol ik'an heb', palta a exxo tik tzeyik'el spichul heb'."
-        },
-        {
-            "number": "9",
-            "text": "Tze pechelta heb' ix ix t'a yoltac spat b'aj tzalajk'olal yajeq'ui. Junelnhej tzeyik'paxek' smacb'en heb' yune' heb' ix, ix wak'a'."
-        },
-        {
-            "number": "10",
-            "text": "Q'ueanhec waan, ixiquec. Maxtzac yal tzex aj t'a tik, yujto manh jantacoc chukal tze k'ulej t'a sat lum lum tik, yuj chi' toxo ix ixtaxel lum t'a junelnhej."
-        },
-        {
-            "number": "11",
-            "text": "Tato ay junok esalwum sjawi t'ayex, syalani to malaj tas ol jawok t'a eyib'anh, wach' ol ex ajoc, aton wal jun chi' in chekab' eyalani, xchi Jehová."
-        },
-        {
-            "number": "12",
-            "text": "Syalanpax Dios icha tik: Ol ex in molb'ej he masanil ex yinhtilalkan winhaj Jacob, a ex ton aj Israel ex tzexto kani. Ol ex in molb'ej, icha tz'aj smolb'an nok' skalnel junok tanhwum kalnel t'a smacte'. Icha nok' kalnel t'a junok ak'lic manhxo jantacoc yel yav tz'eq'ui, icha chi' ol aj yel eyav yuj tzalajk'olal."
-        },
-        {
-            "number": "13",
-            "text": "B'ab'el in b'at in pojan b'e t'a eyichanh, a exxo tzak'an ex och wuuj. Axo eyel t'a sti' spuertail jun chonhab' yic tzex el t'a libre, aton jun chonhab' b'aj ix ex ik'jib'ati. Ha in Jehová in, he Reyal in, b'ab'el in b'at t'a eyichanh, xchi Jehová."
-        }
-    ]
+  "chapter": "2",
+  "book": "MIQUEAS",
+  "book_short": "Mi",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ob'iltak ol aj heb' ayek' t'a sat sch'at snaub'tanhan tas chukal sk'ulej, haxo sq'uinhib'i jun, sk'ulan heb' tas sna chi', yujto ayek' t'a yol sk'ab' heb' sk'ulani."
+    },
+    {
+      "number": "2",
+      "text": "Tato syiloch sk'ol heb' t'a junok lu'um, stok'nhejek' heb'. Tato syiloch sk'ol heb' t'a junok pat, syik'nhejek' heb'. Icha chi' tz'aj yixtaj heb' anima yet' yuninal yuj heb'."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' syal Jehová icha tik: Ha in tik, ay tas tzin na pax t'a he patik a ex tik. Ol wak'b'at junok niwan yaelal t'a he kal, manhxo ol yal-laj he kolan he b'a. Manhxo ak'umtakok ol aj he b'eyeq'ui, yujto sk'ualxo jun niwan yaelal."
+    },
+    {
+      "number": "4",
+      "text": "Ha t'a jun k'ual chi', ol stz'ak b'itej b'it heb' anima meb'a' yuj ex sb'uchani. Ol yal heb' icha tik: Ha tiknaik, toxo ix onh kan t'a yalanh yuj heb' ajk'ool t'a junelnhej. Ha ko chonhab', toxo ix k'exwi yajal, manhxalaj mach syal skachwaji. Ha lum ko lu'um, ix spukek' lum heb' ajk'ol chi' t'a spatik, xcham heb' t'a sb'it chi', xchi Jehová."
+    },
+    {
+      "number": "5",
+      "text": "Yuj he chukal chi' manhxa eyalan eyik t'a he makb'en t'a skal heb' schonhab' Jehová."
+    },
+    {
+      "number": "6",
+      "text": "Ix yalan heb' anima t'ayin icha tik: Manh al t'ayonh to ol jawok yaelal t'a kib'anh. ¿Tokwal ol jawok jun q'uixwelal chi' t'a kib'anh?"
+    },
+    {
+      "number": "7",
+      "text": "¿Tokwal katab'il schonhab' winhaj Jacob? ¿Tokwal ix lajwi sniwank'olal Dios, yuj chi' icha chi' ol onh yutej? ¿Tokwal syak'kot yaelal Dios t'a yib'anh heb' tojol sb'eyb'al? xchi heb'."
+    },
+    {
+      "number": "8",
+      "text": "Yuj chi' syal Jehová icha tik: Ha ex tik, tzex och ajk'olal t'a in chonhab'. Ha heb' smeltzajkot t'a owal, sna heb' to manhxalaj tas ol ik'an heb', palta a exxo tik tzeyik'el spichul heb'."
+    },
+    {
+      "number": "9",
+      "text": "Tze pechelta heb' ix ix t'a yoltak spat b'aj tzalajk'olal yajeq'ui. Junelnhej tzeyik'paxek' smakb'en heb' yune' heb' ix, ix wak'a'."
+    },
+    {
+      "number": "10",
+      "text": "Q'ueanhek waan, ixikek. Maxtzak yal tzex aj t'a tik, yujto manh jantakok chukal tze k'ulej t'a sat lum lum tik, yuj chi' toxo ix ixtaxel lum t'a junelnhej."
+    },
+    {
+      "number": "11",
+      "text": "Tato ay junok esalwum sjawi t'ayex, syalani to malaj tas ol jawok t'a eyib'anh, wach' ol ex ajok, haton wal jun chi' in chekab' eyalani, xchi Jehová."
+    },
+    {
+      "number": "12",
+      "text": "Syalanpax Dios icha tik: Ol ex in molb'ej he masanil ex yinhtilalkan winhaj Jacob, a ex ton aj Israel ex tzexto kani. Ol ex in molb'ej, icha tz'aj smolb'an nok' skalnel junok tanhwum kalnel t'a smakte'. Icha nok' kalnel t'a junok ak'lik manhxo jantakok yel yaw tz'eq'ui, icha chi' ol aj yel eyaw yuj tzalajk'olal."
+    },
+    {
+      "number": "13",
+      "text": "B'ab'el in b'at in pojan b'e t'a eyichanh, a exxo tzak'an ex och wuuj. Axo eyel t'a sti' spuertail jun chonhab' yik tzex el t'a libre, haton jun chonhab' b'aj ix ex ik'jib'ati. Ha in Jehová in, he Reyal in, b'ab'el in b'at t'a eyichanh, xchi Jehová."
+    }
+  ]
 }

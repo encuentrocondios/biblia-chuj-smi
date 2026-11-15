@@ -1,69 +1,73 @@
 {
-    "chapter": "13",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic slolonnac heb' yichamtac winaquil chonhab' Efraín t'a peka', haxo juntzanhxo yinhtilal Israel ch'oxannac to ay yelk'och t'a yol sat heb'. Axo ticnaik, ol cham heb' aj Efraín chi' yuj smul ix yak'ochi, ix och heb' ejmelal t'a Baal."
-        },
-        {
-            "number": "2",
-            "text": "Tzato k'enhej chaanh heb' yak'anoch smul. Sb'ok'e k'een plata heb' sdiosaloc, icha wal tas snib'ej sk'ool heb', icha pax tas scot t'a spensar heb', icha chi' syutej heb' sb'oan sdiosal. Slajwi chi' syalanpaxk'e heb': Hak'ek he silab' t'ay, xchi heb'. Axo heb' anima jun, stz'ub'elta sti' jun yechel heb' lajan yilji icha wakax chi'."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' lajannhej ol aj heb' icha asun ayemi ayic sq'uinhib'i, icha pax yal ak'wal ayemi ayic te ak'walto to spet satemi. Lajan pax heb' icha matz'il trigo tz'ik'chajb'at yuj ik', ma icha te tab' tz'el t'a junok wentena."
-        },
-        {
-            "number": "4",
-            "text": "Ix yalan Jehová icha tik: Ha in Jehová he Diosal in, atax yic ayex ek' t'a Egipto, malaj junocxo tas tzeyak'och he diosaloc, palta a innhej. Ha innhej he Kolumal waji."
-        },
-        {
-            "number": "5",
-            "text": "Te wach' ajnac ex in tanhwan t'a taquinh lu'um, b'aj te ay k'ak'."
-        },
-        {
-            "number": "6",
-            "text": "Palta a wal yic ix yak'an sobre he wael, ix he te ik'ejchaanh he b'a, ix in b'atkan satk'olal eyuuj."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' icha junok nok' choj ol wutej in b'a t'ayex, ma icha junok nok' tz'ib'choj smacwaj t'a yoltac b'e."
-        },
-        {
-            "number": "8",
-            "text": "Ol in elta jucnaj t'a eyichanh, icha junok nok' nun oso to toxo ix ik'chajb'at yune'. Ol ex wak'an chok'b'ocb'at ta', icha junok nok' choj schianb'at schib'ej, ma icha tz'aj schok' jecchitanb'at schib'ej junok nok' chium nok'."
-        },
-        {
-            "number": "9",
-            "text": "Ol ex wak' satel a ex israel ex tik, malaj mach ol yal stenaneq'ui."
-        },
-        {
-            "number": "10",
-            "text": "Ix he k'an he reyal yet' he cuchb'umal, palta ¿tom a heb' syal tanhwan masanil he chonhab' tik?"
-        },
-        {
-            "number": "11",
-            "text": "Aycot wowal t'ayex ayic ix wak'an he reyal chi', anheja' aypaxcot wowal t'ayex ayic ix wik'anpaxek' heb' he reyal chi'."
-        },
-        {
-            "number": "12",
-            "text": "Chequel yaj schukal chonhab' Efraín. Tz'ib' ix ajkan smul chi'."
-        },
-        {
-            "number": "13",
-            "text": "Ha chonhab' Israel, sk'och sk'ual yic sna sb'a, palta te malaj spensar, icha junok unin manh wach'oc syutej sayancot sb'a ayic tz'alji t'a snun, icha chi' yaji."
-        },
-        {
-            "number": "14",
-            "text": "Ol in colcanel in chonhab' t'a yol slumal chamel. Ol in colcanel t'a yol sk'ab' chamel. Ha in ol wak' satel chamub'. Manhxo ol in ch'ox wok'elk'olal t'a chonhab' Efraín chi'."
-        },
-        {
-            "number": "15",
-            "text": "Wach'chom sk'enhejchaanh t'a skal heb' yetisraelal, palta ol cot wowal t'ay. Lajan ol aj scot wowal chi' icha k'ak' t'a yichchaanh, icha yek' chacxuxum ik' t'a tzinan lu'um, yuj chi' ol tup sjajtac ha ha', haxo heb' ajk'ool ol ik'anb'at masanil sb'eyumal."
-        },
-        {
-            "number": "16",
-            "text": "Ha chonhab' Samaria ol yik' pax syaelal, yujto pit syutej sb'a t'ayin. Ol cham heb' yuj k'een espada. Ha yuninal heb' ol tenchajem t'a sat lu'um chi', xchi Jehová."
-        }
-    ]
+  "chapter": "13",
+  "book": "OSEAS",
+  "book_short": "Os",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik slolonnak heb' yichamtak winakil chonhab' Efraín t'a peka', haxo juntzanhxo yinhtilal Israel ch'oxannak to ay yelk'och t'a yol sat heb'. Axo tiknaik, ol cham heb' aj Efraín chi' yuj smul ix yak'ochi, ix och heb' ejmelal t'a Baal."
+    },
+    {
+      "number": "2",
+      "text": "Tzato k'enhej chaanh heb' yak'anoch smul. Sb'ok'e k'een plata heb' sdiosalok, icha wal tas snib'ej sk'ool heb', icha pax tas skot t'a spensar heb', icha chi' syutej heb' sb'oan sdiosal. Slajwi chi' syalanpaxk'e heb': Hak'ek he silab' t'ay, xchi heb'. Axo heb' anima jun, stz'ub'elta sti' jun yechel heb' lajan yilji icha wakax chi'."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' lajannhej ol aj heb' icha asun ayemi ayik sq'uinhib'i, icha pax yal ak'wal ayemi ayik te ak'walto to spet satemi. Lajan pax heb' icha matz'il trigo tz'ik'chajb'at yuj ik', ma icha te tab' tz'el t'a junok wentena."
+    },
+    {
+      "number": "4",
+      "text": "Ix yalan Jehová icha tik: Ha in Jehová he Diosal in, atax yik ayex ek' t'a Egipto, malaj junokxo tas tzeyak'och he diosalok, palta a innhej. Ha innhej he Kolumal waji."
+    },
+    {
+      "number": "5",
+      "text": "Te wach' ajnak ex in tanhwan t'a takinh lu'um, b'aj te ay k'ak'."
+    },
+    {
+      "number": "6",
+      "text": "Palta a wal yik ix yak'an sobre he wael, ix he te ik'ejchaanh he b'a, ix in b'atkan satk'olal eyuuj."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' icha junok nok' choj ol wutej in b'a t'ayex, ma icha junok nok' tz'ib'choj smakwaj t'a yoltak b'e."
+    },
+    {
+      "number": "8",
+      "text": "Ol in elta juknaj t'a eyichanh, icha junok nok' nun oso to toxo ix ik'chajb'at yune'. Ol ex wak'an chok'b'okb'at ta', icha junok nok' choj schianb'at schib'ej, ma icha tz'aj schok' jekchitanb'at schib'ej junok nok' chium nok'."
+    },
+    {
+      "number": "9",
+      "text": "Ol ex wak' satel a ex israel ex tik, malaj mach ol yal stenaneq'ui."
+    },
+    {
+      "number": "10",
+      "text": "Ix he k'an he reyal yet' he kuchb'umal, palta ¿tom a heb' syal tanhwan masanil he chonhab' tik?"
+    },
+    {
+      "number": "11",
+      "text": "Aykot wowal t'ayex ayik ix wak'an he reyal chi', anheja' aypaxkot wowal t'ayex ayik ix wik'anpaxek' heb' he reyal chi'."
+    },
+    {
+      "number": "12",
+      "text": "Chekel yaj schukal chonhab' Efraín. Tz'ib' ix ajkan smul chi'."
+    },
+    {
+      "number": "13",
+      "text": "Ha chonhab' Israel, sk'och sk'ual yik sna sb'a, palta te malaj spensar, icha junok unin manh wach'ok syutej sayankot sb'a ayik tz'alji t'a snun, icha chi' yaji."
+    },
+    {
+      "number": "14",
+      "text": "Ol in kolkanel in chonhab' t'a yol slumal chamel. Ol in kolkanel t'a yol sk'ab' chamel. Ha in ol wak' satel chamub'. Manhxo ol in ch'ox wok'elk'olal t'a chonhab' Efraín chi'."
+    },
+    {
+      "number": "15",
+      "text": "Wach'chom sk'enhejchaanh t'a skal heb' yetisraelal, palta ol kot wowal t'ay. Lajan ol aj skot wowal chi' icha k'ak' t'a yichchaanh, icha yek' chakxuxum ik' t'a tzinan lu'um, yuj chi' ol tup sjajtak ha ha', haxo heb' ajk'ool ol ik'anb'at masanil sb'eyumal."
+    },
+    {
+      "number": "16",
+      "text": "Ha chonhab' Samaria ol yik' pax syaelal, yujto pit syutej sb'a t'ayin. Ol cham heb' yuj k'een espada. Ha yuninal heb' ol tenchajem t'a sat lu'um chi', xchi Jehová."
+    }
+  ]
 }

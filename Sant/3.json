@@ -1,77 +1,81 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mokab' tzijtumoc ex tzeyak'och he b'a k'ayb'umal. Yujto eyojtak to ol cham wal ko ch'olb'itaj a onh k'ayb'um onh tik."
-        },
-        {
-            "number": "2",
-            "text": "Yujto cotac skal tzonh em t'a ko paltail. Tato malaj b'aj tz'och ko paltail yuj tas skala', te wach' onh am syal chi'. Syal ko yamanoch waan ko niwanil smasanil."
-        },
-        {
-            "number": "3",
-            "text": "Ayic skak'anoch sfreno nok' chej, sk'anab'ajejnhej nok' b'aj squik'b'ati."
-        },
-        {
-            "number": "4",
-            "text": "Q'uinaloc ay junok niwan barco, tz'ochpax chulan niwan ik' t'ay, palta yujnhej jab' b'aj sch'umchaji, sb'atnhej b'ajtil snib'ej winh sch'uman yik'anb'ati."
-        },
-        {
-            "number": "5",
-            "text": "Anhejtona', icha pax chi' ko ti' tik. Jab' tzin, palta tzijtum tas syal yuj. Q'uinaloc ay junok namix k'ak' tz'emkan t'a kaltac te', manhxo jantacoc wayumtac stz'ab'at yuj."
-        },
-        {
-            "number": "6",
-            "text": "Icha chi' tas skala', lajan yet' junok namix k'ak' chi'. Masanil juntzanh chukal ay t'a yol yib'anhk’inal tik syal yuj. Ha jun ko ti' tik, yetb'eyum sb'a yet' ko niwanil tik, palta tzonh yik'nhejb'at t'a chukal yacb'an sb'eynhejb'at ko k 'inal. Ha juntzanh chukal skala', ichato t'a sk'ak'al infierno scoti."
-        },
-        {
-            "number": "7",
-            "text": "Ha junjun makanhil nok' nok', nok' much, nok' chan, nok' snok'al ha' mar, syal ko k'ayb'an nok', syak' ganar heb' anima sk'ayb'an nok'."
-        },
-        {
-            "number": "8",
-            "text": "Ha onh xo anima onh tik, malaj junok onh syal ko k'ayb'an ko ti' kalanel wach'il. Ha tas syal jun ko ti' tik, te chuk, max yal ko yamanoch waan. Lajan icha junok nok' chan te ay swenenoal scham anima yuj."
-        },
-        {
-            "number": "9",
-            "text": "Ha yet' ko ti' tik skal wach' lolonel t'a Kajal, aton ko Mam Dios, anhejtona' yet'oc pax sko katab'ej heb' quetanimail, palta ha Dios chi' b'ojinac pax heb', icha wal Dios chi', icha chi' yutejnac heb'."
-        },
-        {
-            "number": "10",
-            "text": "Anhejtona' jun ko ti' tik skak'lab'ej kalan wach' lolonel d'ha Dios, skak'lab'an pax t'a b'ajwal. Manh smojoc icha chi' sko k'ulej."
-        },
-        {
-            "number": "11",
-            "text": "Q'uinaloc ay junok sjaj ha ha' ticnaik, ¿toc wal junnhej sk'eul ha ha' wach' yet' ha ha' k'achi'?"
-        },
-        {
-            "number": "12",
-            "text": "Yed' junxo tik, q'uinaloc ay jun ib'oc te' higo, ¿tom mansan sat te' ol yak'a'? Mato ay jun ib'oc te' uwa, ¿tom higo sat te' ol yak'a'? Malaj pax juneloc kalan tz'aj sk'eul ha ha' wach' yet' ha ha' k'achi'."
-        },
-        {
-            "number": "13",
-            "text": "Tato ay junok ex jelan ex, te ay he pensar, yowalil wach'nhej tzeyutej he b'eyb'al. Checlajokab' jun tik yuj he k'ulan masanil tas t'a emnaquilal yet' t'a jelanilal."
-        },
-        {
-            "number": "14",
-            "text": "Palta tato tonhej scot eyowal, axonhej eyic he gana tze nib'ej tzeyala', manh eyik'chaanh he b'a yuj he jelanil chi'. Tato icha chi' tzeyutej he b'a, niwan chequel to tonhej wan eyesanoch he b'a jelanil."
-        },
-        {
-            "number": "15",
-            "text": "Tato icha chi' tzeyutej he b'a, a jun he jelanil chi', manhoc d'ha Dios scoti. Ha yol yib'anhk’inal tik ay yico', yic comon anima, yicnhej pax winh diablo yaji."
-        },
-        {
-            "number": "16",
-            "text": "Yujto a b'aj ay heb' axonhej yic syala', heb' snib'ej axonhej tz'ak'an mandar, ata' sk'e somnaj heb' anima, spitzwi pax k'echaanh masanil makanhil chukal."
-        },
-        {
-            "number": "17",
-            "text": "Axo jun jelanil scot d'ha Dios, manh ichocta'. Tato sko b'eyb'alej jun jelanil chi', malaj junok tas yuj syal yak'jioch t'a quib'anh. Junk'olal tzonh aji. Emnaquil scutej ko b'a. Sco k'anab'ajej masanil tastac. Tz'ok' wal ko k'ool t'a heb' quetanimail, a pax tas wach' sko b'o t'a heb'. Malaj sk'exanhil heb' quetanimail t'a ko sat, manh onh chab'satoc paxi."
-        },
-        {
-            "number": "18",
-            "text": "Tato skak'och heb' quetanimail t'a junk'olal, syalelk'ochi to wan ko b'eyb'alan tas snib'ej Dios."
-        }
-    ]
+  "chapter": "3",
+  "book": "SANTIAGO",
+  "book_short": "Sant",
+  "aligned": true,
+  "es_verses": 18,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mokab' tzijtumok ex tzeyak'och he b'a k'ayb'umal. Yujto eyojtak to ol cham wal ko ch'olb'itaj a onh k'ayb'um onh tik."
+    },
+    {
+      "number": "2",
+      "text": "Yujto kotak skal tzonh em t'a ko paltail. Tato malaj b'aj tz'och ko paltail yuj tas skala', te wach' onh am syal chi'. Syal ko yamanoch waan ko niwanil smasanil."
+    },
+    {
+      "number": "3",
+      "text": "Ayik skak'anoch sfreno nok' chej, sk'anab'ajejnhej nok' b'aj skik'b'ati."
+    },
+    {
+      "number": "4",
+      "text": "Q'uinalok ay junok niwan barko, tz'ochpax chulan niwan ik' t'ay, palta yujnhej jab' b'aj sch'umchaji, sb'atnhej b'ajtil snib'ej winh sch'uman yik'anb'ati."
+    },
+    {
+      "number": "5",
+      "text": "Anhejtona', icha pax chi' ko ti' tik. Jab' tzin, palta tzijtum tas syal yuj. Q'uinalok ay junok namix k'ak' tz'emkan t'a kaltak te', manhxo jantakok wayumtak stz'ab'at yuj."
+    },
+    {
+      "number": "6",
+      "text": "Icha chi' tas skala', lajan yet' junok namix k'ak' chi'. Masanil juntzanh chukal ay t'a yol yib'anhk'inal tik syal yuj. Ha jun ko ti' tik, yetb'eyum sb'a yet' ko niwanil tik, palta tzonh yik'nhejb'at t'a chukal yakb'an sb'eynhejb'at ko k 'inal. Ha juntzanh chukal skala', ichato t'a sk'ak'al infierno skoti."
+    },
+    {
+      "number": "7",
+      "text": "Ha junjun makanhil nok' nok', nok' much, nok' chan, nok' snok'al ha' mar, syal ko k'ayb'an nok', syak' ganar heb' anima sk'ayb'an nok'."
+    },
+    {
+      "number": "8",
+      "text": "Ha onh xo anima onh tik, malaj junok onh syal ko k'ayb'an ko ti' kalanel wach'il. Ha tas syal jun ko ti' tik, te chuk, max yal ko yamanoch waan. Lajan icha junok nok' chan te ay swenenoal scham anima yuj."
+    },
+    {
+      "number": "9",
+      "text": "Ha yet' ko ti' tik skal wach' lolonel t'a Kajal, haton ko Mam Dios, anhejtona' yet'ok pax sko katab'ej heb' ketanimail, palta ha Dios chi' b'ojinak pax heb', icha wal Dios chi', icha chi' yutejnak heb'."
+    },
+    {
+      "number": "10",
+      "text": "Anhejtona' jun ko ti' tik skak'lab'ej kalan wach' lolonel t'a Dios, skak'lab'an pax t'a b'ajwal. Manh smojok icha chi' sko k'ulej."
+    },
+    {
+      "number": "11",
+      "text": "Q'uinalok ay junok sjaj ha ha' tiknaik, ¿tok wal junnhej sk'eul ha ha' wach' yet' ha ha' k'achi'?"
+    },
+    {
+      "number": "12",
+      "text": "Yet' junxo tik, q'uinalok ay jun ib'ok te' higo, ¿tom mansan sat te' ol yak'a'? Mato ay jun ib'ok te' uwa, ¿tom higo sat te' ol yak'a'? Malaj pax junelok kalan tz'aj sk'eul ha ha' wach' yet' ha ha' k'achi'."
+    },
+    {
+      "number": "13",
+      "text": "Tato ay junok ex jelan ex, te ay he pensar, yowalil wach'nhej tzeyutej he b'eyb'al. Cheklajokab' jun tik yuj he k'ulan masanil tas t'a emnakilal yet' t'a jelanilal."
+    },
+    {
+      "number": "14",
+      "text": "Palta tato tonhej skot eyowal, axonhej eyik he gana tze nib'ej tzeyala', manh eyik'chaanh he b'a yuj he jelanil chi'. Tato icha chi' tzeyutej he b'a, niwan chekel to tonhej wan eyesanoch he b'a jelanil."
+    },
+    {
+      "number": "15",
+      "text": "Tato icha chi' tzeyutej he b'a, a jun he jelanil chi', manhok t'a Dios skoti. Ha yol yib'anhk'inal tik ay yiko', yik komon anima, yiknhej pax winh diablo yaji."
+    },
+    {
+      "number": "16",
+      "text": "Yujto a b'aj ay heb' axonhej yik syala', heb' snib'ej axonhej tz'ak'an mandar, ata' sk'e somnaj heb' anima, spitzwi pax k'echaanh masanil makanhil chukal."
+    },
+    {
+      "number": "17",
+      "text": "Axo jun jelanil skot t'a Dios, manh ichokta'. Tato sko b'eyb'alej jun jelanil chi', malaj junok tas yuj syal yak'jioch t'a kib'anh. Junk'olal tzonh aji. Emnakil skutej ko b'a. Sko k'anab'ajej masanil tastak. Tz'ok' wal ko k'ool t'a heb' ketanimail, a pax tas wach' sko b'o t'a heb'. Malaj sk'exanhil heb' ketanimail t'a ko sat, manh onh chab'satok paxi."
+    },
+    {
+      "number": "18",
+      "text": "Tato skak'och heb' ketanimail t'a junk'olal, syalelk'ochi to wan ko b'eyb'alan tas snib'ej Dios."
+    }
+  ]
 }

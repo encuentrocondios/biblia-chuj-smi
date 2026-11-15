@@ -1,109 +1,113 @@
 {
-    "chapter": "136",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová yujto te wach' spensar, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "2",
-            "text": "Aljokab' wach' lolonel d'ha Dios, aton sDiosal masanil juntzanh Dios, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "3",
-            "text": "Aljokab' wach' lolonel d'ha Dios Yajal heb' yajal, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "4",
-            "text": "Anhej sb'oan tas te satub'tac, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "5",
-            "text": "A' b'oannac satcha’anh yet' sjelanil, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "6",
-            "text": "A' b'oannack'e lum lum t'a yib'anh ha' mar te jul yich, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "7",
-            "text": "A' b'oannac k'u yet' k'een uj, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "8",
-            "text": "A' b'oannac k'u yic ay sakil k'inal t'a k'ualil, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "9",
-            "text": "A' b'oannac k'een uj yet' k'een k'anal yic ay sakil k'inal t'ak'walil, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "10",
-            "text": "A' milannaccham heb' b'ab'el unin t'a junjun pat t'a Egipto, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "11",
-            "text": "A' ik'annaquelta heb' israel ko mam quicham t'a Egipto chi', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "12",
-            "text": "Yed' wal spoder yik'naquelta heb', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "13",
-            "text": "A' pojannac em snanhal ha' Chacchac Mar, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "14",
-            "text": "A' ik'annac ek'ta heb' israel t'a snanhal ha' mar chi', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "15",
-            "text": "Palta haxo winh sreyal Egipto yet' heb' soldado, b'atnakkan heb' yuj t'a yol ha' mar chi', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "16",
-            "text": "A' ik'annac b'ey heb' schonhab' t'a tzinan lu'um, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "17",
-            "text": "A' milannaccham heb' niwac rey, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "18",
-            "text": "A' ik'annaquel sk'inal heb' rey te b'inajnac, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "19",
-            "text": "Aton winhaj Sehón sreyal heb' amorreo, ik'jinaquel sk'inal winh yuj, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "20",
-            "text": "Yed' pax winhaj Og sreyal Basán, ik'jinaquel sk'inal winh yuj, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "21",
-            "text": "A' ik'annac ek' lum sluum heb' rey chi', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "22",
-            "text": "Yak'nakkan lu'um quicoc a onh israel schekab' onh tik, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "23",
-            "text": "A' onh naancoti ayic ayonhek' t'a skal yaelal, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "24",
-            "text": "Ix onh scolcanel t'a yol sk'ab' heb' ayoch ajk'olal t'ayonh, yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "25",
-            "text": "A' tz'ak'an tas swa heb' anima yet' nok' nok', yujto aynhej swach'k'olal t'a masanil tiempo."
-        },
-        {
-            "number": "26",
-            "text": "Calec wach' lolonel t'a sDiosal satcha’anh, yujto aynhej swach'k'olal t'a masanil tiempo."
-        }
-    ]
+  "chapter": "136",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 26,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová yujto te wach' spensar, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "2",
+      "text": "Aljokab' wach' lolonel t'a Dios, haton sDiosal masanil juntzanh Dios, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "3",
+      "text": "Aljokab' wach' lolonel t'a Dios Yajal heb' yajal, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "4",
+      "text": "Anhej sb'oan tas te satub'tak, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "5",
+      "text": "A' b'oannak satcha'anh yet' sjelanil, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "6",
+      "text": "A' b'oannakk'e lum lum t'a yib'anh ha' mar te jul yich, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "7",
+      "text": "A' b'oannak k'u yet' k'een uj, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "8",
+      "text": "A' b'oannak k'u yik ay sakil k'inal t'a k'ualil, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "9",
+      "text": "A' b'oannak k'een uj yet' k'een k'anal yik ay sakil k'inal t'ak'walil, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "10",
+      "text": "A' milannakcham heb' b'ab'el unin t'a junjun pat t'a Egipto, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "11",
+      "text": "A' ik'annakelta heb' israel ko mam kicham t'a Egipto chi', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "12",
+      "text": "Yet' wal spoder yik'nakelta heb', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "13",
+      "text": "A' pojannak em snanhal ha' Chakchak Mar, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "14",
+      "text": "A' ik'annak ek'ta heb' israel t'a snanhal ha' mar chi', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "15",
+      "text": "Palta haxo winh sreyal Egipto yet' heb' soldado, b'atnakkan heb' yuj t'a yol ha' mar chi', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "16",
+      "text": "A' ik'annak b'ey heb' schonhab' t'a tzinan lu'um, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "17",
+      "text": "A' milannakcham heb' niwak rey, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "18",
+      "text": "A' ik'annakel sk'inal heb' rey te b'inajnak, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "19",
+      "text": "Haton winhaj Sehón sreyal heb' amorreo, ik'jinakel sk'inal winh yuj, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "20",
+      "text": "Yet' pax winhaj Og sreyal Basán, ik'jinakel sk'inal winh yuj, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "21",
+      "text": "A' ik'annak ek' lum sluum heb' rey chi', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "22",
+      "text": "Yak'nakkan lu'um kikok a onh israel schekab' onh tik, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "23",
+      "text": "A' onh naankoti ayik ayonhek' t'a skal yaelal, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "24",
+      "text": "Ix onh skolkanel t'a yol sk'ab' heb' ayoch ajk'olal t'ayonh, yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "25",
+      "text": "A' tz'ak'an tas swa heb' anima yet' nok' nok', yujto aynhej swach'k'olal t'a masanil tiempo."
+    },
+    {
+      "number": "26",
+      "text": "Kalek wach' lolonel t'a sDiosal satcha'anh, yujto aynhej swach'k'olal t'a masanil tiempo."
+    }
+  ]
 }

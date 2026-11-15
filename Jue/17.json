@@ -1,57 +1,61 @@
 {
-    "chapter": "17",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a tzalquixtac t'a yol yic heb' yinhtilal Efraín, ata' ek'nac kajan jun winh skuchan Micaía."
-        },
-        {
-            "number": "2",
-            "text": "Ha jun winh chi', ix yal winh t'a ix snun icha tik: --Ayic ix elk'ajel k'een mil cien siclo plata t'ayach, ix a katab'ej jun elk'um chi'. Ix wab' alan juntzanh chi'. Palta a t'ayin ayek' k'een, a in ix welk'ej k'een t'ayach, xchi winh t'a ix snun chi'. Ix yalan ix snun winh chi' t'ay: --Yak'okab' swach'k'olal Jehová t'a ib'anh ach wune', xchi ix."
-        },
-        {
-            "number": "3",
-            "text": "Ayic ix yak'anxi k'een winh t'a ix snun chi', ix yalan ix: --Ach wune', a tiknaik a k'een tumin tik, swak' k'een t'a Jehová, yic sb'oji junok comon Dios tzeyb'il yet' junok sb'oji t'a yol molde, yuj chi' a in swak'xi k'een t'ayach, xchi ix."
-        },
-        {
-            "number": "4",
-            "text": "Palta ix yak'anxi k'een plata chi' winh t'a ix snun chi'. Ix yak'an 200 siclo k'een ix t'a jun winh b'oum plata chi', yic sb'oji juntzanh ix yal ix chi'. Ixlajwi chi', ix yak'anoch ix t'a yol spat winhaj Micaía chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ha spat winhaj Micaía chi', spatiltaxon comon Dios. B'ob'ilxo jun chaleca yic sacerdote yet' juntzanhxo yechel yuj winh. Axo jun winh yuninal winh yak'nacxooch sacerdoteal."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a jun pekti’ chi', malaj sreyal heb' israel, yuj chi' junjun heb' sb'oan icha tas snib'ej."
-        },
-        {
-            "number": "7",
-            "text": "Ha t'a chonhab' Belén t'a yol yic Judá, kajan jun winh quelem lewita."
-        },
-        {
-            "number": "8",
-            "text": "Ix el winh t'a yol yic Belén chi', ix b'at winh say b'aj b'at kajnajoc. Ix ek'nhej winh t'a tzalquixtac t'a yol yic Efraín, ix k'och winh t'a spat winhaj Micaía chi'."
-        },
-        {
-            "number": "9",
-            "text": "--¿B'ajtil kajan ach? xchi winhaj Micaía chi' t'a winh. Ix yalan winh: --Ha t'a Belén t'a yol yic Judá ix in koti. Ha in tik lewita in, wan in sayanek' b'aj ol in kajnajoc, xchi winh."
-        },
-        {
-            "number": "10",
-            "text": "--Tato icha chi', kananh wed' t'a in pat tik, yic wach' tzach och in sacerdoteoc, icha wal in mam ol ach ajoc. Ol wak' lajunheoc siclo plata a tojolok t'a junjun ab'il. Ol wak'anpax a pichul yet' a wael, xchi winhaj Micaía chi' t'a winh."
-        },
-        {
-            "number": "11",
-            "text": "Ix schaan sk'ol winh skan kajan yet' winhaj Micaía chi', icha wal yuninal winh ix yutej winh."
-        },
-        {
-            "number": "12",
-            "text": "Ix yak'anoch jun winh lewita chi' winh sacerdoteoc, icha chi' ix aj skajnajkan winh yet' winh."
-        },
-        {
-            "number": "13",
-            "text": "Ix snaan winhaj Micaía chi' to ol scha' swach'k'olal Jehová winh, yujto a jun winh lewita ayoch sacerdoteoc winh."
-        }
-    ]
+  "chapter": "17",
+  "book": "JUECES",
+  "book_short": "Jue",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a tzalkixtak t'a yol yik heb' yinhtilal Efraín, ata' ek'nak kajan jun winh skuchan Micaía."
+    },
+    {
+      "number": "2",
+      "text": "Ha jun winh chi', ix yal winh t'a ix snun icha tik: --Ayik ix elk'ajel k'een mil kien siklo plata t'ayach, ix a katab'ej jun elk'um chi'. Ix wab' alan juntzanh chi'. Palta a t'ayin ayek' k'een, a in ix welk'ej k'een t'ayach, xchi winh t'a ix snun chi'. Ix yalan ix snun winh chi' t'ay: --Yak'okab' swach'k'olal Jehová t'a ib'anh ach wune', xchi ix."
+    },
+    {
+      "number": "3",
+      "text": "Ayik ix yak'anxi k'een winh t'a ix snun chi', ix yalan ix: --Ach wune', a tiknaik a k'een tumin tik, swak' k'een t'a Jehová, yik sb'oji junok komon Dios tzeyb'il yet' junok sb'oji t'a yol molde, yuj chi' a in swak'xi k'een t'ayach, xchi ix."
+    },
+    {
+      "number": "4",
+      "text": "Palta ix yak'anxi k'een plata chi' winh t'a ix snun chi'. Ix yak'an 200 siklo k'een ix t'a jun winh b'oum plata chi', yik sb'oji juntzanh ix yal ix chi'. Ixlajwi chi', ix yak'anoch ix t'a yol spat winhaj Micaía chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ha spat winhaj Micaía chi', spatiltaxon komon Dios. B'ob'ilxo jun chaleka yik sakerdote yet' juntzanhxo yechel yuj winh. Axo jun winh yuninal winh yak'nakxooch sakerdoteal."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a jun pekti' chi', malaj sreyal heb' israel, yuj chi' junjun heb' sb'oan icha tas snib'ej."
+    },
+    {
+      "number": "7",
+      "text": "Ha t'a chonhab' Belén t'a yol yik Judá, kajan jun winh kelem lewita."
+    },
+    {
+      "number": "8",
+      "text": "Ix el winh t'a yol yik Belén chi', ix b'at winh say b'aj b'at kajnajok. Ix ek'nhej winh t'a tzalkixtak t'a yol yik Efraín, ix k'och winh t'a spat winhaj Micaía chi'."
+    },
+    {
+      "number": "9",
+      "text": "--¿B'ajtil kajan ach? xchi winhaj Micaía chi' t'a winh. Ix yalan winh: --Ha t'a Belén t'a yol yik Judá ix in koti. Ha in tik lewita in, wan in sayanek' b'aj ol in kajnajok, xchi winh."
+    },
+    {
+      "number": "10",
+      "text": "--Tato icha chi', kananh wet' t'a in pat tik, yik wach' tzach och in sakerdoteok, icha wal in mam ol ach ajok. Ol wak' lajunheok siklo plata a tojolok t'a junjun ab'il. Ol wak'anpax a pichul yet' a wael, xchi winhaj Micaía chi' t'a winh."
+    },
+    {
+      "number": "11",
+      "text": "Ix schaan sk'ol winh skan kajan yet' winhaj Micaía chi', icha wal yuninal winh ix yutej winh."
+    },
+    {
+      "number": "12",
+      "text": "Ix yak'anoch jun winh lewita chi' winh sakerdoteok, icha chi' ix aj skajnajkan winh yet' winh."
+    },
+    {
+      "number": "13",
+      "text": "Ix snaan winhaj Micaía chi' to ol scha' swach'k'olal Jehová winh, yujto a jun winh lewita ayoch sakerdoteok winh."
+    }
+  ]
 }

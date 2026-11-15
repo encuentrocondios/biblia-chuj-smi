@@ -1,69 +1,73 @@
 {
-    "chapter": "30",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan winhaj Moisés t'a heb' yajal yaj t'a junjun yinhtilal Israel icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ix yal Jehová tato ay junok winh winak syak' sti' yak'an junok tas t'a Jehová, mato syak' sti' t'a junok tas ol sk'ulej, yowalil sk'anab'ajej sk'ulan tas ix yal chi'. Max yal sk'exan tas ix yal chi'."
-        },
-        {
-            "number": "3",
-            "text": "Tato a junok ix cob'es aytoek' yet' smam, syak' sti' yak'an junok tas t'a Jehová, mato syak' sti' t'a junok tas manh ol sk'ulej,"
-        },
-        {
-            "number": "4",
-            "text": "tato malaj tas syal winh smam ix chi' ayic syab'an winh to ay sti' ix ix yak'a', yowalil sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'."
-        },
-        {
-            "number": "5",
-            "text": "Palta tato ha' winh smam ix chi' tz'ak'an yowalil ayic syab'an winh to ay sti' ix ix yak'a', tato icha chi', manhxo yowaliloc sk'ulej ix b'aj ix yak' sti' chi'. Maxtzac ak'jilaj pural ix yuj Jehová b'aj ix yak' sti' chi'."
-        },
-        {
-            "number": "6",
-            "text": "Tato ay junok ix ix syak' sti' t'a Jehová wach'chom ix cham wal snaani, ma jun elanhchamel ix yal ix to sk'ulej junok tasi, slajwi yak'an sti' ix chi' tz'och yetb'eyum ix,"
-        },
-        {
-            "number": "7",
-            "text": "tato ayic syab'an winh yetb'eyum ix b'aj ix yak' sti' chi', malajnhej tas syal winh yuj, yowalil sk'anab'ajej ix b'aj ix yak' sti' chi'."
-        },
-        {
-            "number": "8",
-            "text": "Palta tato ayic syab'an winh yetb'eyum ix chi' jun, malaj snib'ej winh, manh yowaliloc sk'anab'ajej ix b'aj ix yak' sti' chi', max ak'jipaxlaj pural ix yuj Jehová sk'anab'ajani."
-        },
-        {
-            "number": "9",
-            "text": "Tato a heb' ix chamnac yetb'eyum, ma heb' ix spuknac sb'a yet' yetb'eyum syak' sti' t'a junok tas t'a Jehová, yowalil sk'anab'ajej heb' ix."
-        },
-        {
-            "number": "10",
-            "text": "Tato a junok ix ix ay yetb'eyum syak' sti' sk'ulan junok tasi, mato syak' sti' t'a junok tas manh ol sk'ulej,"
-        },
-        {
-            "number": "11",
-            "text": "tato ayic syab'an winh yetb'eyum ix chi', malajnhej tas syal winh, a ix chi' yowalil sk'anab'ajej ix b'aj ix yak' sti' chi'."
-        },
-        {
-            "number": "12",
-            "text": "Palta tato ayic syab'an winh yetb'eyum ix chi', tato malaj snib'ej winh, manh yowaliloc sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'. Max ak'jilaj pural ix yuj Jehová sk'ulani."
-        },
-        {
-            "number": "13",
-            "text": "Ha winh etb'eyumab'il chi', syal yalan winh tato syal sk'anab'ajan ix b'aj ix yak' sti' chi' mato maay."
-        },
-        {
-            "number": "14",
-            "text": "Tato ayxo jun chab'oc k'ual yab'an jun chi' winh, malajnhejpax tas syal winh, yowalil sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'."
-        },
-        {
-            "number": "15",
-            "text": "Tato ayic toxo ix ek' tiempo, ichato chi' syalan winh to max sk'anab'ajej ix, haxo t'a yib'anh winh skan smul ix b'aj maj sk'anab'ajej sti' ix syak' chi', xchi Jehová, xchi winhaj Moisés chi'."
-        },
-        {
-            "number": "16",
-            "text": "Aton juntzanh ley ix yal Jehová t'a winhaj Moisés yuj tas wal tz'aj winh winak yet' ix yetb'eyum, ma heb' winh mamab'il yet' heb' ix yisil cob'esto aytoek' yet'oc, tato syak' sti' heb' ix t'a Jehová."
-        }
-    ]
+  "chapter": "30",
+  "book": "NÚMEROS",
+  "book_short": "Nm",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan winhaj Moisés t'a heb' yajal yaj t'a junjun yinhtilal Israel icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ix yal Jehová tato ay junok winh winak syak' sti' yak'an junok tas t'a Jehová, mato syak' sti' t'a junok tas ol sk'ulej, yowalil sk'anab'ajej sk'ulan tas ix yal chi'. Max yal sk'exan tas ix yal chi'."
+    },
+    {
+      "number": "3",
+      "text": "Tato a junok ix kob'es aytoek' yet' smam, syak' sti' yak'an junok tas t'a Jehová, mato syak' sti' t'a junok tas manh ol sk'ulej,"
+    },
+    {
+      "number": "4",
+      "text": "tato malaj tas syal winh smam ix chi' ayik syab'an winh to ay sti' ix ix yak'a', yowalil sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'."
+    },
+    {
+      "number": "5",
+      "text": "Palta tato ha' winh smam ix chi' tz'ak'an yowalil ayik syab'an winh to ay sti' ix ix yak'a', tato icha chi', manhxo yowalilok sk'ulej ix b'aj ix yak' sti' chi'. Maxtzak ak'jilaj pural ix yuj Jehová b'aj ix yak' sti' chi'."
+    },
+    {
+      "number": "6",
+      "text": "Tato ay junok ix ix syak' sti' t'a Jehová wach'chom ix cham wal snaani, ma jun elanhchamel ix yal ix to sk'ulej junok tasi, slajwi yak'an sti' ix chi' tz'och yetb'eyum ix,"
+    },
+    {
+      "number": "7",
+      "text": "tato ayik syab'an winh yetb'eyum ix b'aj ix yak' sti' chi', malajnhej tas syal winh yuj, yowalil sk'anab'ajej ix b'aj ix yak' sti' chi'."
+    },
+    {
+      "number": "8",
+      "text": "Palta tato ayik syab'an winh yetb'eyum ix chi' jun, malaj snib'ej winh, manh yowalilok sk'anab'ajej ix b'aj ix yak' sti' chi', max ak'jipaxlaj pural ix yuj Jehová sk'anab'ajani."
+    },
+    {
+      "number": "9",
+      "text": "Tato a heb' ix chamnak yetb'eyum, ma heb' ix spuknak sb'a yet' yetb'eyum syak' sti' t'a junok tas t'a Jehová, yowalil sk'anab'ajej heb' ix."
+    },
+    {
+      "number": "10",
+      "text": "Tato a junok ix ix ay yetb'eyum syak' sti' sk'ulan junok tasi, mato syak' sti' t'a junok tas manh ol sk'ulej,"
+    },
+    {
+      "number": "11",
+      "text": "tato ayik syab'an winh yetb'eyum ix chi', malajnhej tas syal winh, a ix chi' yowalil sk'anab'ajej ix b'aj ix yak' sti' chi'."
+    },
+    {
+      "number": "12",
+      "text": "Palta tato ayik syab'an winh yetb'eyum ix chi', tato malaj snib'ej winh, manh yowalilok sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'. Max ak'jilaj pural ix yuj Jehová sk'ulani."
+    },
+    {
+      "number": "13",
+      "text": "Ha winh etb'eyumab'il chi', syal yalan winh tato syal sk'anab'ajan ix b'aj ix yak' sti' chi' mato maay."
+    },
+    {
+      "number": "14",
+      "text": "Tato ayxo jun chab'ok k'ual yab'an jun chi' winh, malajnhejpax tas syal winh, yowalil sk'anab'ajej ix sk'ulan b'aj ix yak' sti' chi'."
+    },
+    {
+      "number": "15",
+      "text": "Tato ayik toxo ix ek' tiempo, ichato chi' syalan winh to max sk'anab'ajej ix, haxo t'a yib'anh winh skan smul ix b'aj maj sk'anab'ajej sti' ix syak' chi', xchi Jehová, xchi winhaj Moisés chi'."
+    },
+    {
+      "number": "16",
+      "text": "Haton juntzanh ley ix yal Jehová t'a winhaj Moisés yuj tas wal tz'aj winh winak yet' ix yetb'eyum, ma heb' winh mamab'il yet' heb' ix yisil kob'esto aytoek' yet'ok, tato syak' sti' heb' ix t'a Jehová."
+    }
+  ]
 }

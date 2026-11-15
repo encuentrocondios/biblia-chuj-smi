@@ -1,29 +1,33 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te wach' yic heb' max k'anab'ajan tas syal heb' sk'ulan chukal, max b'at heb' t'a sb'e heb' manh wach'oc sb'eyb'al, max yak'och sb'a heb' t'a skal heb' b'uchumtac d'ha Dios."
-        },
-        {
-            "number": "2",
-            "text": "Palta t'a smasanil sk'ol heb' sk'anab'ajej sk'ayb'ub'al Jehová, snaub'tanhan heb' t'a k'ual t'ak'wal."
-        },
-        {
-            "number": "3",
-            "text": "Masanil tas sk'ulej heb', wach'nhej tz'aj yelk'ochi. Lajan yaj heb' icha junok te te' ay t'a sti' ha ha', syak' sat te' t'a stiempoal, malaj b'ak'uinh stacjiel xil te'."
-        },
-        {
-            "number": "4",
-            "text": "Axo pax heb' chuk sb'eyb'al jun, manh ichocta heb'. Lajan yaj heb' icha smatz'il ixim trigo tz'ik'jib'at yuj ik'."
-        },
-        {
-            "number": "5",
-            "text": "Yuj chi' manhxo ol yal-laj scolan sb'a heb' chuk chi' ayic ol ch'olb'itaj heb' t'a yichanh heb' anima tojol sb'eyb'al."
-        },
-        {
-            "number": "6",
-            "text": "Te xajan heb' anima tojol sb'eyb'al yuj Jehová. Axo heb' anima ayb'at t'a chukal, wan sb'atkan heb' t'a syaelal."
-        }
-    ]
+  "chapter": "1",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te wach' yik heb' max k'anab'ajan tas syal heb' sk'ulan chukal, max b'at heb' t'a sb'e heb' manh wach'ok sb'eyb'al, max yak'och sb'a heb' t'a skal heb' b'uchumtak t'a Dios."
+    },
+    {
+      "number": "2",
+      "text": "Palta t'a smasanil sk'ol heb' sk'anab'ajej sk'ayb'ub'al Jehová, snaub'tanhan heb' t'a k'ual t'ak'wal."
+    },
+    {
+      "number": "3",
+      "text": "Masanil tas sk'ulej heb', wach'nhej tz'aj yelk'ochi. Lajan yaj heb' icha junok te te' ay t'a sti' ha ha', syak' sat te' t'a stiempoal, malaj b'ak'uinh stakjiel xil te'."
+    },
+    {
+      "number": "4",
+      "text": "Axo pax heb' chuk sb'eyb'al jun, manh ichokta heb'. Lajan yaj heb' icha smatz'il ixim trigo tz'ik'jib'at yuj ik'."
+    },
+    {
+      "number": "5",
+      "text": "Yuj chi' manhxo ol yal-laj skolan sb'a heb' chuk chi' ayik ol ch'olb'itaj heb' t'a yichanh heb' anima tojol sb'eyb'al."
+    },
+    {
+      "number": "6",
+      "text": "Te xajan heb' anima tojol sb'eyb'al yuj Jehová. Axo heb' anima ayb'at t'a chukal, wan sb'atkan heb' t'a syaelal."
+    }
+  ]
 }

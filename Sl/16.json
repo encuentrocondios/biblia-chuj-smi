@@ -1,49 +1,53 @@
 {
-    "chapter": "16",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, tanhwej in wal, anhej t'ayach tzin col in b'a."
-        },
-        {
-            "number": "2",
-            "text": "Mamin Jehová, swal t'ayach to Vajal ach. Masanil wach'il ay t'ayin, a t'ayach scoti."
-        },
-        {
-            "number": "3",
-            "text": "Te wach' yic heb' tzach k'anab'ajan t'a skal heb' a chonhab'. In gana tzin aj t'a skal heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ol te q'uib'chaanh syaelal heb' sb'atkan t'a spatic junok comon Dios. Max wak'ochlaj in b'a wak'an schiq'uil nok' silab' yet' heb' t'a scomon Dios chi'. Max wal-laj in b'ha t'a sdiosal heb' chi'."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová, anhej t'ayach swik' masanil wach'il. Ha achton tzak' masanil tas snib'ej in k'ool. D'a yol a k'ab' ayek' in k 'inal."
-        },
-        {
-            "number": "6",
-            "text": "Ha wal b'aj ix echtejkan in macb'en, yelxo te wach'. Manhxo jantacoc swach'il tas ix ak'kan chi' t'ayin."
-        },
-        {
-            "number": "7",
-            "text": "Mamin Jehová, swal wach' lolonel t'ayach yujto a ach tzak' in razón, tza k'ayb'an pax in pensar t'ak'walil."
-        },
-        {
-            "number": "8",
-            "text": "Masanil tiempo naan achnhej wuuj. Yujto ayachnhej ek' wed'oc, yuj chi' malaj tas tzin ik'ani."
-        },
-        {
-            "number": "9",
-            "text": "Yuj chi' ste tzalaj in k'ool tzin b'itani. Malaj tas tzin na'a, yujto tzach wak'och yipoc in k'ool."
-        },
-        {
-            "number": "10",
-            "text": "Manh ol in actejkanlaj t'a skal heb' chamnac, manh ol a cha k'ab'at in niwanil tik, a in k'anab'ajum in tik t'ayach."
-        },
-        {
-            "number": "11",
-            "text": "Tzak' wojtaquejel sb'eal k 'inal, tzak'an tzalajb'oc in k'ool ayic ayinek' ed'oc. Aynhej tzalajk'olal t'a a tz'ey t'a masanil k 'inal."
-        }
-    ]
+  "chapter": "16",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, tanhwej in wal, anhej t'ayach tzin kol in b'a."
+    },
+    {
+      "number": "2",
+      "text": "Mamin Jehová, swal t'ayach to Wajal ach. Masanil wach'il ay t'ayin, a t'ayach skoti."
+    },
+    {
+      "number": "3",
+      "text": "Te wach' yik heb' tzach k'anab'ajan t'a skal heb' a chonhab'. In gana tzin aj t'a skal heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ol te q'uib'chaanh syaelal heb' sb'atkan t'a spatik junok komon Dios. Max wak'ochlaj in b'a wak'an schiq'uil nok' silab' yet' heb' t'a skomon Dios chi'. Max wal-laj in b'a t'a sdiosal heb' chi'."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová, anhej t'ayach swik' masanil wach'il. Ha achton tzak' masanil tas snib'ej in k'ool. T'a yol a k'ab' ayek' in k 'inal."
+    },
+    {
+      "number": "6",
+      "text": "Ha wal b'aj ix echtejkan in makb'en, yelxo te wach'. Manhxo jantakok swach'il tas ix ak'kan chi' t'ayin."
+    },
+    {
+      "number": "7",
+      "text": "Mamin Jehová, swal wach' lolonel t'ayach yujto a ach tzak' in razón, tza k'ayb'an pax in pensar t'ak'walil."
+    },
+    {
+      "number": "8",
+      "text": "Masanil tiempo naan achnhej wuuj. Yujto ayachnhej ek' wet'ok, yuj chi' malaj tas tzin ik'ani."
+    },
+    {
+      "number": "9",
+      "text": "Yuj chi' ste tzalaj in k'ool tzin b'itani. Malaj tas tzin na'a, yujto tzach wak'och yipok in k'ool."
+    },
+    {
+      "number": "10",
+      "text": "Manh ol in aktejkanlaj t'a skal heb' chamnak, manh ol a cha k'ab'at in niwanil tik, a in k'anab'ajum in tik t'ayach."
+    },
+    {
+      "number": "11",
+      "text": "Tzak' wojtakejel sb'eal k 'inal, tzak'an tzalajb'ok in k'ool ayik ayinek' et'ok. Aynhej tzalajk'olal t'a a tz'ey t'a masanil k 'inal."
+    }
+  ]
 }

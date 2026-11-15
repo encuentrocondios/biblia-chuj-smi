@@ -1,41 +1,45 @@
 {
-    "chapter": "98",
-    "verses": [
-        {
-            "number": "1",
-            "text": "B'itejec ak' b'it t'a Jehová. Ilecnab' tas satub'tac ix sk'ulej. A' ix onh colan a onh schonhab' onh tik yet' yipalil axonhej ochi."
-        },
-        {
-            "number": "2",
-            "text": "Ix sch'oxel scolwal Jehová, ix sch'oxan yil juntzanh niwac nación to tojol syutej spactzitan t'a heb' ajk'ol yajoch t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ix elnhejk'och tas ix yal t'ayonh a onh schonhab' Israel onh tik. Ix yak'cot swach'k'olal t'ayonh. Masanto t'a slajwub' yol yib'anhk’inal tik ix ilchaji to ix onh colchaj yuj ko Diosal."
-        },
-        {
-            "number": "4",
-            "text": "Ex kajan ex t'a masanil sat lu'um tik, b'itananhec t'a Jehová t'a tzalajk'olal. Hak'ek eyip he b'itan t'ay t'a tzalajk'olal."
-        },
-        {
-            "number": "5",
-            "text": "B'itejec b'it t'a Jehová yet' te' arpa yet' te' ay sch'anhal."
-        },
-        {
-            "number": "6",
-            "text": "B'itananhec t'a Jehová ko Reyal t'a tzalajk'olal. B'itananhec, tze pu'an k'een trompeta, tze pu'anpax nok' ch'aac."
-        },
-        {
-            "number": "7",
-            "text": "B'itanokab' ha' mar yet' masanil nok' nok' ay t'a yol ha'. B'itanokab'pax yol yib'anhk’inal tik yet' heb' kajan t'ay."
-        },
-        {
-            "number": "8",
-            "text": "k'anhokab' ha' niwac ha' yuj tzalajk'olal. Junlajanokab' tz'aj yawaj lum niwac witz t'a tzalajk'olal t'a yichanh Jehová,"
-        },
-        {
-            "number": "9",
-            "text": "yujto ol jawok, ol ul yak'an Yajalil t'a yol yib'anhk’inal tik. A' ol ak'an Yajalil, junlajan ol yutoc sch'olb'itan juntzanh chonhab' t'a stojolal."
-        }
-    ]
+  "chapter": "98",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "B'itejek ak' b'it t'a Jehová. Ileknab' tas satub'tak ix sk'ulej. A' ix onh kolan a onh schonhab' onh tik yet' yipalil axonhej ochi."
+    },
+    {
+      "number": "2",
+      "text": "Ix sch'oxel skolwal Jehová, ix sch'oxan yil juntzanh niwak nakión to tojol syutej spaktzitan t'a heb' ajk'ol yajoch t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ix elnhejk'och tas ix yal t'ayonh a onh schonhab' Israel onh tik. Ix yak'kot swach'k'olal t'ayonh. Masanto t'a slajwub' yol yib'anhk'inal tik ix ilchaji to ix onh kolchaj yuj ko Diosal."
+    },
+    {
+      "number": "4",
+      "text": "Ex kajan ex t'a masanil sat lu'um tik, b'itananhek t'a Jehová t'a tzalajk'olal. Hak'ek eyip he b'itan t'ay t'a tzalajk'olal."
+    },
+    {
+      "number": "5",
+      "text": "B'itejek b'it t'a Jehová yet' te' arpa yet' te' ay sch'anhal."
+    },
+    {
+      "number": "6",
+      "text": "B'itananhek t'a Jehová ko Reyal t'a tzalajk'olal. B'itananhek, tze pu'an k'een trompeta, tze pu'anpax nok' ch'aak."
+    },
+    {
+      "number": "7",
+      "text": "B'itanokab' ha' mar yet' masanil nok' nok' ay t'a yol ha'. B'itanokab'pax yol yib'anhk'inal tik yet' heb' kajan t'ay."
+    },
+    {
+      "number": "8",
+      "text": "k'anhokab' ha' niwak ha' yuj tzalajk'olal. Junlajanokab' tz'aj yawaj lum niwak witz t'a tzalajk'olal t'a yichanh Jehová,"
+    },
+    {
+      "number": "9",
+      "text": "yujto ol jawok, ol ul yak'an Yajalil t'a yol yib'anhk'inal tik. A' ol ak'an Yajalil, junlajan ol yutok sch'olb'itan juntzanh chonhab' t'a stojolal."
+    }
+  ]
 }

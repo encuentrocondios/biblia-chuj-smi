@@ -1,33 +1,37 @@
 {
-    "chapter": "87",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová ix sb'o schonhab' t'a jun tzalan yicnhej yaji."
-        },
-        {
-            "number": "2",
-            "text": "Yelxo wal te xajan chonhab' Sion yuj Jehová t'a yichanh juntzanhxo ko chonhab' a onh yinhtilal onh winhaj Jacob."
-        },
-        {
-            "number": "3",
-            "text": "Manh jantacoc lolonel wach' tz'alji t'a schonhab' Dios."
-        },
-        {
-            "number": "4",
-            "text": "Syal Jehová icha tik: Ajun heb' aj Egipto yet' heb' aj Babilonia ayoch t'a skal heb' chonhab' syak'em sb'a t'ayin. Icha heb' aljinac t'a Sion, icha chi' ol aj heb' filisteo, heb' aj Tiro yet' heb' aj Etiopía t'a wichanh, xchi."
-        },
-        {
-            "number": "5",
-            "text": "Ol alchaj t'a chonhab' Sion icha tik: Ha jun anima tik yet' junxo chi', ha t'a Sion ix alji heb', xchama. Ha Dios Ek'to t'a yib'anh smasanil ol ak'an stek'anil jun chonhab' tik."
-        },
-        {
-            "number": "6",
-            "text": "Ayic ol tz'ib'aj sb'i heb' anima ay t'a junjun chonhab' t'a ch'anh uum yuj Jehová, ol stz'ib'ejem icha tik: D'a Sion ix alji jun tik."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' kajan t'a Sion ol b'itan heb', ol k'e chennaj heb' yuj tzalajk'olal, ol yalan heb': Ha t'a Sion tik scot masanil swach'k'olal Dios t'ayonh, xcham heb'."
-        }
-    ]
+  "chapter": "87",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová ix sb'o schonhab' t'a jun tzalan yiknhej yaji."
+    },
+    {
+      "number": "2",
+      "text": "Yelxo wal te xajan chonhab' Sion yuj Jehová t'a yichanh juntzanhxo ko chonhab' a onh yinhtilal onh winhaj Jacob."
+    },
+    {
+      "number": "3",
+      "text": "Manh jantakok lolonel wach' tz'alji t'a schonhab' Dios."
+    },
+    {
+      "number": "4",
+      "text": "Syal Jehová icha tik: Ajun heb' aj Egipto yet' heb' aj Babilonia ayoch t'a skal heb' chonhab' syak'em sb'a t'ayin. Icha heb' aljinak t'a Sion, icha chi' ol aj heb' filisteo, heb' aj Tiro yet' heb' aj Etiopía t'a wichanh, xchi."
+    },
+    {
+      "number": "5",
+      "text": "Ol alchaj t'a chonhab' Sion icha tik: Ha jun anima tik yet' junxo chi', ha t'a Sion ix alji heb', xchama. Ha Dios Ek'to t'a yib'anh smasanil ol ak'an stek'anil jun chonhab' tik."
+    },
+    {
+      "number": "6",
+      "text": "Ayik ol tz'ib'aj sb'i heb' anima ay t'a junjun chonhab' t'a ch'anh uum yuj Jehová, ol stz'ib'ejem icha tik: T'a Sion ix alji jun tik."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' kajan t'a Sion ol b'itan heb', ol k'e chennaj heb' yuj tzalajk'olal, ol yalan heb': Ha t'a Sion tik skot masanil swach'k'olal Dios t'ayonh, xcham heb'."
+    }
+  ]
 }

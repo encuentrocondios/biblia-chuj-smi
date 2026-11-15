@@ -1,53 +1,57 @@
 {
-    "chapter": "26",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, ch'oxkaneli to malaj in mul, yujto anhej tas wach' ayoch t'a in pensar in k'ulani. Mamin, ayach och yipoc in k'ool, malaj in chab'k'olal t'ayach."
-        },
-        {
-            "number": "2",
-            "text": "Mamin, ilin, b'eytzitej in pensar yet' tas tzin nib'ej."
-        },
-        {
-            "number": "3",
-            "text": "Yujto max b'atkanlaj a wach'k'olal satk'olal wuuj, tzach in k'anab'ajejnhej."
-        },
-        {
-            "number": "4",
-            "text": "Manh junnhejoclaj tzin ek' yet' heb' ixtum anima. Malaj b'aj junnhej tzin ek' yet' heb' chab' sat."
-        },
-        {
-            "number": "5",
-            "text": "Tzin yajkanel smolchajelal heb' chuk chi'. Val yel malaj b'aj wach' wak'an yet' heb' tz'ixtanb'at wach' b'eyb'al."
-        },
-        {
-            "number": "6",
-            "text": "Tzin b'iquel in k'ab' yuj in ch'oxaneli to malaj in chukal. Ichato chi' b'ian tzin ek' oyoyoc t'a spatic yichanh altar,"
-        },
-        {
-            "number": "7",
-            "text": "swalan wach' lolonel t'a b'ital, swalanel masanil tas satub'tac tza b'o'o."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová, tzin xajanej a templo b'aj kajan ach eq'ui. Ata' tz'alchajel sniwanil elk'ochi."
-        },
-        {
-            "number": "9",
-            "text": "Manh ik'el in k 'inal yet' heb' sk'ulan chukal. Manh in a satel yet' heb' milum anima,"
-        },
-        {
-            "number": "10",
-            "text": "yujto anhej chukal snib'ej heb' sk'ulej, b'ekan sk'ol heb' schaan k'een tumin yic smontaji."
-        },
-        {
-            "number": "11",
-            "text": "Ha inxo jun, tzin nib'ej tzin b'eynhej t'a in wach'ilal, yuj chi' colinel Mamin, ok'oc wal a k'ool t'ayin,"
-        },
-        {
-            "number": "12",
-            "text": "yic tek'annhej waj t'a b'eyb'al wach'. Mamin Jehová, ol wal wach' lolonel t'ayach t'a skal heb' molanek' t'a ichanh."
-        }
-    ]
+  "chapter": "26",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, ch'oxkaneli to malaj in mul, yujto anhej tas wach' ayoch t'a in pensar in k'ulani. Mamin, ayach och yipok in k'ool, malaj in chab'k'olal t'ayach."
+    },
+    {
+      "number": "2",
+      "text": "Mamin, ilin, b'eytzitej in pensar yet' tas tzin nib'ej."
+    },
+    {
+      "number": "3",
+      "text": "Yujto max b'atkanlaj a wach'k'olal satk'olal wuuj, tzach in k'anab'ajejnhej."
+    },
+    {
+      "number": "4",
+      "text": "Manh junnhejoklaj tzin ek' yet' heb' ixtum anima. Malaj b'aj junnhej tzin ek' yet' heb' chab' sat."
+    },
+    {
+      "number": "5",
+      "text": "Tzin yajkanel smolchajelal heb' chuk chi'. Wal yel malaj b'aj wach' wak'an yet' heb' tz'ixtanb'at wach' b'eyb'al."
+    },
+    {
+      "number": "6",
+      "text": "Tzin b'ikel in k'ab' yuj in ch'oxaneli to malaj in chukal. Ichato chi' b'ian tzin ek' oyoyok t'a spatik yichanh altar,"
+    },
+    {
+      "number": "7",
+      "text": "swalan wach' lolonel t'a b'ital, swalanel masanil tas satub'tak tza b'o'o."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová, tzin xajanej a templo b'aj kajan ach eq'ui. Ata' tz'alchajel sniwanil elk'ochi."
+    },
+    {
+      "number": "9",
+      "text": "Manh ik'el in k 'inal yet' heb' sk'ulan chukal. Manh in a satel yet' heb' milum anima,"
+    },
+    {
+      "number": "10",
+      "text": "yujto anhej chukal snib'ej heb' sk'ulej, b'ekan sk'ol heb' schaan k'een tumin yik smontaji."
+    },
+    {
+      "number": "11",
+      "text": "Ha inxo jun, tzin nib'ej tzin b'eynhej t'a in wach'ilal, yuj chi' kolinel Mamin, ok'ok wal a k'ool t'ayin,"
+    },
+    {
+      "number": "12",
+      "text": "yik tek'annhej waj t'a b'eyb'al wach'. Mamin Jehová, ol wal wach' lolonel t'ayach t'a skal heb' molanek' t'a ichanh."
+    }
+  ]
 }

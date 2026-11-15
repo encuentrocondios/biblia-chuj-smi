@@ -1,41 +1,45 @@
 {
-    "chapter": "99",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová Rey toni, ha t'a yib'anh heb' querubín ayk'e sk'ojnub'. Tz'ib'xi niwac chonhab' yuj xiwelal, tz'ib'xi pax masanil lum lum."
-        },
-        {
-            "number": "2",
-            "text": "Niwan ton yelk'och Jehová t'a tzalan Sion. A' ay yopisio t'a yib'anh masanil chonhab'."
-        },
-        {
-            "number": "3",
-            "text": "Alchajokab' wach' lolonel t'ay, yujto niwan ton yelk'ochi, te ay smay, Axonhej Ochi."
-        },
-        {
-            "number": "4",
-            "text": "Mamin, a ach tik Rey ach toni, masanil syal uuj, tza xajanej tojolal. Ha ach a b'onakkani to lajannhej tz'aj sch'olb'itaj junjun anima. Ha t'ayonh yinhtilal onh kan winhaj Jacob tik ix ak' tojolal yet' wach'ilal."
-        },
-        {
-            "number": "5",
-            "text": "Ex wetchonhab', quik'ecchaanh sb'i Jehová ko Diosal. Conh emec cuman t'a yichanh yujto Axonhej Ochi."
-        },
-        {
-            "number": "6",
-            "text": "Ha winhaj Moisés yet' winhaj Aarón, ek'nac heb' winh t'a skal heb' sacerdote Dios chi'. Ha winhaj Samuel ek'nac winh t'a skal heb' lesalwinac t'a Jehová. Ix tak'wi t'a heb' ayic ix sk'anan scolwal heb'."
-        },
-        {
-            "number": "7",
-            "text": "D'a skal jun topanh asun ix lolon Dios yet' heb'. Ha sk'ayb'ub'al yet' schecnab'il ix yak' t'a heb', ix sk'anab'ajej heb'."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová ko Diosal, ix ach tak'wi t'a a chonhab'. Ix ak' niwank'olal smul heb', palta ix ak' pax syaelal heb' yuj schukal."
-        },
-        {
-            "number": "9",
-            "text": "Ex wetchonhab', quik'ecchaanh sb'i Jehová ko Diosal. Conh emec cuman t'a yichanh t'a tzalan yic ejmelal, yujto a Jehová ko Diosal chi' Axonhej Ochi."
-        }
-    ]
+  "chapter": "99",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová Rey toni, ha t'a yib'anh heb' querubín ayk'e sk'ojnub'. Tz'ib'xi niwak chonhab' yuj xiwelal, tz'ib'xi pax masanil lum lum."
+    },
+    {
+      "number": "2",
+      "text": "Niwan ton yelk'och Jehová t'a tzalan Sion. A' ay yopisio t'a yib'anh masanil chonhab'."
+    },
+    {
+      "number": "3",
+      "text": "Alchajokab' wach' lolonel t'ay, yujto niwan ton yelk'ochi, te ay smay, Axonhej Ochi."
+    },
+    {
+      "number": "4",
+      "text": "Mamin, a ach tik Rey ach toni, masanil syal uuj, tza xajanej tojolal. Ha ach a b'onakkani to lajannhej tz'aj sch'olb'itaj junjun anima. Ha t'ayonh yinhtilal onh kan winhaj Jacob tik ix ak' tojolal yet' wach'ilal."
+    },
+    {
+      "number": "5",
+      "text": "Ex wetchonhab', kik'ekchaanh sb'i Jehová ko Diosal. Konh emek kuman t'a yichanh yujto Axonhej Ochi."
+    },
+    {
+      "number": "6",
+      "text": "Ha winhaj Moisés yet' winhaj Aarón, ek'nak heb' winh t'a skal heb' sakerdote Dios chi'. Ha winhaj Samuel ek'nak winh t'a skal heb' lesalwinak t'a Jehová. Ix tak'wi t'a heb' ayik ix sk'anan skolwal heb'."
+    },
+    {
+      "number": "7",
+      "text": "T'a skal jun topanh asun ix lolon Dios yet' heb'. Ha sk'ayb'ub'al yet' scheknab'il ix yak' t'a heb', ix sk'anab'ajej heb'."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová ko Diosal, ix ach tak'wi t'a a chonhab'. Ix ak' niwank'olal smul heb', palta ix ak' pax syaelal heb' yuj schukal."
+    },
+    {
+      "number": "9",
+      "text": "Ex wetchonhab', kik'ekchaanh sb'i Jehová ko Diosal. Konh emek kuman t'a yichanh t'a tzalan yik ejmelal, yujto a Jehová ko Diosal chi' Axonhej Ochi."
+    }
+  ]
 }

@@ -1,57 +1,61 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "D'a schab'il ab'il yoch winhaj Darío reyal, t'a sb'ab'el k'ual yic swaquil uj, a Jehová ix in chekan a in Hageo schekab' in tik yic b'at in lolon yet' winh sgobernadoral Judá, aton winhaj Zorobabel yuninal winhaj Salatiel yet' pax winhaj Josué, winh sat sacerdote yuninal winhaj Josadac."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jehová Yajal t'a Smasanil ix in chekanb'at wal juntzanh tik: Ha ex tik, tzeyala' to ayto sk'och sk'ual yic sb'ochajxik'e in kajnub'."
-        },
-        {
-            "number": "3",
-            "text": "Palta wach' jun, aokab' t'a pat te wach' yilji b'aj tzex kajnaji yacb'an haxo in kajnub' max eyamochlaj he b'oanxi."
-        },
-        {
-            "number": "4",
-            "text": "Ha in Jehová Yajal in t'a Smasanil, a in swala', ¿tom max he na wal jab'oc yuj tas wan yek' t'a eyib'anh tik?"
-        },
-        {
-            "number": "5",
-            "text": "Te niwan tastac tzeyawej, palta quennhej sat tze molo'. Tzex wa'i, palta max ex b'ud'jilaj. Tzeyuk'ej ha', palta max ek'laj he taquinhtial. Tzeyak'och he pichul, palta max ex q'uixnajlaj yuj. Axo mach scha stojol b'aj smunlaj t'a junok k'u, ichato t'a yol mucuc olan yich syak'em stojol chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ha in Jehová Yajal in t'a Smasanil swal t'ayex, ¿tom max he na wal jab'oc yuj tas wan yek' t'a eyib'anh tik?"
-        },
-        {
-            "number": "7",
-            "text": "Ha ticnaik jun, ixiquec t'a kaltac yax lu'um, tzeyik'ancot te te' yic tze b'oanxik'e in kajnub'. Ichato chi' b'ian, ol in aj ta' t'a tzalajk'olal, ol eyik'anxichaanh in b'i."
-        },
-        {
-            "number": "8",
-            "text": "Ha ex tik tze na'a to te niwan sat tas ol eyik' t'a tas ix eyawej chi', palta quennhej pax tzeyik'a'. Ha in Jehová in swala', a jab'oc tze molb'ejkan t'a he pat, a in tzin pu saclem t'ayex. ¿Tas yuj? Yujto a in kajnub', lanhchimtac yajkani, a exxo tik, anhej he b'oank'e he pat b'aj ayoch he pensar."
-        },
-        {
-            "number": "9",
-            "text": "Yujton chi' max yak'laj nhab' b'aj kajan ex tik, malaj tas syak' lum lum tik t'ayex."
-        },
-        {
-            "number": "10",
-            "text": "Ix in yamoch waan yem nhab' t'a yib'anh tas tzeyawej yet' t'a jolomtac witz, yic stacjiel ixim trigo, te' uwa, te' oliwo yet' masanil sat avb'en slaj molji. Manhxalaj nhab' tz'em t'a eyib'anh, manhxooc t'a yib'anh nok' he molb'etz, manhxooc pax t'a yib'anh masanil he munlajel, xchi Jehová."
-        },
-        {
-            "number": "11",
-            "text": "Ha juntzanh slolonel Jehová Dios ix wala', ayic ix yab'an winhaj Zorobabel yet' winhaj Josué, aton winh sat sacerdote yet' masanil heb' anima, ix te xiv heb' t'a Jehová, yuj chi' ix sk'anab'ajej heb'."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi', ix walan icha tik: Ha Jehová tz'alani: Ayinnhejek' eyed'oc xchi, xin chi."
-        },
-        {
-            "number": "13",
-            "text": "Icha chi' ix aj yiptzitaj winhaj Zorobabel gobernador t'a Judá yet' winhaj Josué sat sacerdote yet' pax masanil heb' anima yuj Jehová. Ayic 24 k'ual yoch swaquil uj, t'a schab'il ab'il yoch winhaj Darío reyal, aton ta' ix syamoch heb' sb'oanxi skajnub' sDiosal, aton Jehová Yajal t'a Smasanil."
-        }
-    ]
+  "chapter": "1",
+  "book": "HAGEO",
+  "book_short": "Hag",
+  "aligned": false,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "T'a schab'il ab'il yoch winhaj Darío reyal, t'a sb'ab'el k'ual yik swakil uj, a Jehová ix in chekan a in Hageo schekab' in tik yik b'at in lolon yet' winh sgobernadoral Judá, haton winhaj Zorobabel yuninal winhaj Salatiel yet' pax winhaj Josué, winh sat sakerdote yuninal winhaj Josadac."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jehová Yajal t'a Smasanil ix in chekanb'at wal juntzanh tik: Ha ex tik, tzeyala' to ayto sk'och sk'ual yik sb'ochajxik'e in kajnub'."
+    },
+    {
+      "number": "3",
+      "text": "Palta wach' jun, aokab' t'a pat te wach' yilji b'aj tzex kajnaji yakb'an haxo in kajnub' max eyamochlaj he b'oanxi."
+    },
+    {
+      "number": "4",
+      "text": "Ha in Jehová Yajal in t'a Smasanil, a in swala', ¿tom max he na wal jab'ok yuj tas wan yek' t'a eyib'anh tik?"
+    },
+    {
+      "number": "5",
+      "text": "Te niwan tastak tzeyawej, palta kennhej sat tze molo'. Tzex wa'i, palta max ex b'ut'jilaj. Tzeyuk'ej ha', palta max ek'laj he takinhtial. Tzeyak'och he pichul, palta max ex q'uixnajlaj yuj. Axo mach scha stojol b'aj smunlaj t'a junok k'u, ichato t'a yol mukuk olan yich syak'em stojol chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ha in Jehová Yajal in t'a Smasanil swal t'ayex, ¿tom max he na wal jab'ok yuj tas wan yek' t'a eyib'anh tik?"
+    },
+    {
+      "number": "7",
+      "text": "Ha tiknaik jun, ixikek t'a kaltak yax lu'um, tzeyik'ankot te te' yik tze b'oanxik'e in kajnub'. Ichato chi' b'ian, ol in aj ta' t'a tzalajk'olal, ol eyik'anxichaanh in b'i."
+    },
+    {
+      "number": "8",
+      "text": "Ha ex tik tze na'a to te niwan sat tas ol eyik' t'a tas ix eyawej chi', palta kennhej pax tzeyik'a'. Ha in Jehová in swala', a jab'ok tze molb'ejkan t'a he pat, a in tzin pu saklem t'ayex. ¿Tas yuj? Yujto a in kajnub', lanhchimtak yajkani, a exxo tik, anhej he b'oank'e he pat b'aj ayoch he pensar."
+    },
+    {
+      "number": "9",
+      "text": "Yujton chi' max yak'laj nhab' b'aj kajan ex tik, malaj tas syak' lum lum tik t'ayex."
+    },
+    {
+      "number": "10",
+      "text": "Ix in yamoch waan yem nhab' t'a yib'anh tas tzeyawej yet' t'a jolomtak witz, yik stakjiel ixim trigo, te' uwa, te' oliwo yet' masanil sat awb'en slaj molji. Manhxalaj nhab' tz'em t'a eyib'anh, manhxook t'a yib'anh nok' he molb'etz, manhxook pax t'a yib'anh masanil he munlajel, xchi Jehová."
+    },
+    {
+      "number": "11",
+      "text": "Ha juntzanh slolonel Jehová Dios ix wala', ayik ix yab'an winhaj Zorobabel yet' winhaj Josué, haton winh sat sakerdote yet' masanil heb' anima, ix te xiw heb' t'a Jehová, yuj chi' ix sk'anab'ajej heb'."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi', ix walan icha tik: Ha Jehová tz'alani: Ayinnhejek' eyet'ok xchi, xin chi."
+    },
+    {
+      "number": "13",
+      "text": "Icha chi' ix aj yiptzitaj winhaj Zorobabel gobernador t'a Judá yet' winhaj Josué sat sakerdote yet' pax masanil heb' anima yuj Jehová. Ayik 24 k'ual yoch swakil uj, t'a schab'il ab'il yoch winhaj Darío reyal, haton ta' ix syamoch heb' sb'oanxi skajnub' sDiosal, haton Jehová Yajal t'a Smasanil."
+    }
+  ]
 }

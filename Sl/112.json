@@ -1,45 +1,49 @@
 {
-    "chapter": "112",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aljokab' wach' lolonel t'a Jehová. Te wach' yic junok mach ay xivk'olal t'a Jehová, t'a smasanil sk'ol sk'anab'ajej schecnab'il."
-        },
-        {
-            "number": "2",
-            "text": "Ha yinhtilal jun anima wach' chi', wach' yic heb' yuj Dios, tz'ak'ji yopisio heb' t'a sat lu'um tik."
-        },
-        {
-            "number": "3",
-            "text": "Manh jantacoc sb'eyumal t'a yol spat, haxo stojolal, aynhejek' t'a masanil tiempo."
-        },
-        {
-            "number": "4",
-            "text": "Icha wal sakil k'inal t'a skal k’ik’ k’inal, icha chi' yaj Dios t'a heb' anima wach' spensar, yujto ay yok'elk'olal heb', ay swach'k'olal heb', tojol pax sb'eyb'al heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ha junok anima wach' spensar, elb'ennhej tas yuj. Masanil tas sb'o t'a smunlajel, tojolnhej syutej."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi', malaj b'ak'uinh ol kan t'a yalanh. Ha anima wach' chi', ol nachajnhejcot t'a masanil tiempo."
-        },
-        {
-            "number": "7",
-            "text": "Malaj sxivk'olal t'a junok ab'ix ay smay. Te tek'an syutej yak'anoch Jehová yipoc sk'ool."
-        },
-        {
-            "number": "8",
-            "text": "Max xivlaj jab'oc, tonhej stzewaj t'a heb' ayoch ajk'olal t'ay."
-        },
-        {
-            "number": "9",
-            "text": "Max syaejlaj tastac b'aj skolwaj t'a heb' meb'a'. Ha swach'k'olal chi' aynhej t'a masanil tiempo, te niwan tz'aj sb'inaj yuj swach'il chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ha heb' chuk spensar, scot yowal heb' ayic syilan heb' yik'jichaanh heb' anima wach' spensar chi'. Sk'ux wal ye heb' scot yowal, ol lajwokkanel heb'. Ha tas snib'ej heb' anima chuk chi', manh ol elk'ochlaj."
-        }
-    ]
+  "chapter": "112",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Aljokab' wach' lolonel t'a Jehová. Te wach' yik junok mach ay xiwk'olal t'a Jehová, t'a smasanil sk'ol sk'anab'ajej scheknab'il."
+    },
+    {
+      "number": "2",
+      "text": "Ha yinhtilal jun anima wach' chi', wach' yik heb' yuj Dios, tz'ak'ji yopisio heb' t'a sat lu'um tik."
+    },
+    {
+      "number": "3",
+      "text": "Manh jantakok sb'eyumal t'a yol spat, haxo stojolal, aynhejek' t'a masanil tiempo."
+    },
+    {
+      "number": "4",
+      "text": "Icha wal sakil k'inal t'a skal k'ik' k'inal, icha chi' yaj Dios t'a heb' anima wach' spensar, yujto ay yok'elk'olal heb', ay swach'k'olal heb', tojol pax sb'eyb'al heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ha junok anima wach' spensar, elb'ennhej tas yuj. Masanil tas sb'o t'a smunlajel, tojolnhej syutej."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi', malaj b'ak'uinh ol kan t'a yalanh. Ha anima wach' chi', ol nachajnhejkot t'a masanil tiempo."
+    },
+    {
+      "number": "7",
+      "text": "Malaj sxiwk'olal t'a junok ab'ix ay smay. Te tek'an syutej yak'anoch Jehová yipok sk'ool."
+    },
+    {
+      "number": "8",
+      "text": "Max xiwlaj jab'ok, tonhej stzewaj t'a heb' ayoch ajk'olal t'ay."
+    },
+    {
+      "number": "9",
+      "text": "Max syaejlaj tastak b'aj skolwaj t'a heb' meb'a'. Ha swach'k'olal chi' aynhej t'a masanil tiempo, te niwan tz'aj sb'inaj yuj swach'il chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ha heb' chuk spensar, skot yowal heb' ayik syilan heb' yik'jichaanh heb' anima wach' spensar chi'. Sk'ux wal ye heb' skot yowal, ol lajwokkanel heb'. Ha tas snib'ej heb' anima chuk chi', manh ol elk'ochlaj."
+    }
+  ]
 }

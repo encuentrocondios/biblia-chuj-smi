@@ -1,69 +1,73 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex wetisraelal, scham wal eyab'an tas schec Jehová wala'. Mamin Jehová, yamoch alan smul chonhab' Israel t'a yichanh lum jolomtac witz, yab'okab' a jaj lum tzalquixtac."
-        },
-        {
-            "number": "2",
-            "text": "Yab'okab' lum jolomtac witz yet' yich lum lum to ol al smul a chonhab' Israel, ol ak'an owal yet'oc."
-        },
-        {
-            "number": "3",
-            "text": "Ex wetisraelal, scham wal eyab'an tas syal Jehová. A' tz'alan icha tik: Tak'wanhec t'ayin ex in chonhab'. ¿Tas ix aj ex wixtani, ma tas ix ex wutej?"
-        },
-        {
-            "number": "4",
-            "text": "Ina a in wik'naquelta heb' he mam eyicham t'a Egipto. In colannac heb' b'aj ayoch chekab'wumal chi'. Ha in in checnacb'at winhaj Moisés, winhaj Aarón yet' ix María, aton heb' cuchb'annac heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ex in chonhab', naeccoti tas chukal snanac winhaj Balac sreyal Moab t'a yib'anh heb' he mam eyicham chi'. Naecpaxcoti tas yutejnac winhaj Balaam yuninal winhaj Beor spakani. Naecpaxcoti tas ujinac t'a skal Sitim yet' Gilgal. Tze naanpaxcoti tastac wutejnac ex in colani, xchi Jehová."
-        },
-        {
-            "number": "6",
-            "text": "Sk'anb'ej heb' israel icha tik: ¿Tas ol kak' t'a Jehová Dios Axonhej Ochi, ayic ol onh och ejmelal t'ay? ¿Ol am onh och t'a yichanh yet' nok' kalnel jun ab'il sk'inal yic sko nhustz'a nok' silab'il?"
-        },
-        {
-            "number": "7",
-            "text": "¿Ol am tzalajb'oc sk'ol Jehová, tato skak' junok mil nok' ch'ac kalnel silab'il t'ay yet' lajunheoc mil ch'ub' aceite? ¿Tom stzalaj pax sk'ol tato skak' ko b'ab'el unin t'ay silab'il yuj ko chukal? xchi heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ex wetchonhab', toxo ix yal Jehová tas wach' t'a sat yet' tas snib'ej t'ayonh, aton juntzanh tik: Tojol scutej ko b'a, sko xajanej heb' quetanimail. Emnaquilal scutej ko b'ha t'a ko Diosal."
-        },
-        {
-            "number": "9",
-            "text": "Ha Jehová tz'alan t'a schonhab' icha tik: Ha mach t'a emnaquilal scham yab'an tas wala', te ay pensar. Jaokab' he pensar yuj eyaelal, ayokab' welk'och t'a yol he sat, a inton swak'och eyaelal chi'."
-        },
-        {
-            "number": "10",
-            "text": "¿Tom ol b'at satk'olal wuuj tas molanek' t'a spat heb' chuk, aton b'eyumal ix yik' heb' t'a chukalil yet' pax juntzanh echlab' manh tz'akanok yajb'il wuuj?"
-        },
-        {
-            "number": "11",
-            "text": "¿Tas ol aj wak'an niwank'olal t'a yib'anh juntzanh anima tik, yujto a echlab' manh tz'akanok sk'an heb'?"
-        },
-        {
-            "number": "12",
-            "text": "Ha juntzanh heb' b'eyum t'a skal chonhab' tik, elk'um heb', ixtum anima heb', esalwumnhej heb' smasanil."
-        },
-        {
-            "number": "13",
-            "text": "Yuj chi' ol wak'och eyaelal. Ol ex in satel yuj he mul."
-        },
-        {
-            "number": "14",
-            "text": "Ol ex waoc, palta manh ol ex b'ud'joclaj, ol ochnhej he wejel. Manh jantacoc sat eyavb'en ol he molb'ej, palta manh ol eyil-laj b'aj ol k'ochoc. Tato ay b'aj ol ilchaj jab'oc tas eyuuj, haxo t'a skal owal ol wak' lajwoquel t'ayex."
-        },
-        {
-            "number": "15",
-            "text": "Ol ex avwoc, palta malaj jab'oc tas ol eyik'a'. Ol he tek'el yal sat te' eyoliwo, palta manhoc exlaj ol he k'an jab'oc yaceiteal te'. Ol he tek'el yal sat te' eyuwa, palta manhoc exlaj ol eyuk' swinoal."
-        },
-        {
-            "number": "16",
-            "text": "Yujto a schukal b'eyb'al winhaj Omri tze k'anab'ajej. Ha schukal b'eyb'al winhaj Acab tze b'eyb'alej. Yuj chi' ol wak'b'at yaelal yet' b'uchwal lolonel t'a eyib'anh. Icha chi' ol aj he q'uixwi t'a yichanh heb' in chonhab' tzin k'anab'ajan t'a wal yel, xchi Jehová."
-        }
-    ]
+  "chapter": "6",
+  "book": "MIQUEAS",
+  "book_short": "Mi",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex wetisraelal, scham wal eyab'an tas schek Jehová wala'. Mamin Jehová, yamoch alan smul chonhab' Israel t'a yichanh lum jolomtak witz, yab'okab' a jaj lum tzalkixtak."
+    },
+    {
+      "number": "2",
+      "text": "Yab'okab' lum jolomtak witz yet' yich lum lum to ol al smul a chonhab' Israel, ol ak'an owal yet'ok."
+    },
+    {
+      "number": "3",
+      "text": "Ex wetisraelal, scham wal eyab'an tas syal Jehová. A' tz'alan icha tik: Tak'wanhek t'ayin ex in chonhab'. ¿Tas ix aj ex wixtani, ma tas ix ex wutej?"
+    },
+    {
+      "number": "4",
+      "text": "Ina a in wik'nakelta heb' he mam eyicham t'a Egipto. In kolannak heb' b'aj ayoch chekab'wumal chi'. Ha in in cheknakb'at winhaj Moisés, winhaj Aarón yet' ix María, haton heb' kuchb'annak heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ex in chonhab', naekkoti tas chukal snanak winhaj Balac sreyal Moab t'a yib'anh heb' he mam eyicham chi'. Naekpaxkoti tas yutejnak winhaj Balaam yuninal winhaj Beor spakani. Naekpaxkoti tas ujinak t'a skal Sitim yet' Gilgal. Tze naanpaxkoti tastak wutejnak ex in kolani, xchi Jehová."
+    },
+    {
+      "number": "6",
+      "text": "Sk'anb'ej heb' israel icha tik: ¿Tas ol kak' t'a Jehová Dios Axonhej Ochi, ayik ol onh och ejmelal t'ay? ¿Ol am onh och t'a yichanh yet' nok' kalnel jun ab'il sk'inal yik sko nhustz'a nok' silab'il?"
+    },
+    {
+      "number": "7",
+      "text": "¿Ol am tzalajb'ok sk'ol Jehová, tato skak' junok mil nok' ch'ak kalnel silab'il t'ay yet' lajunheok mil ch'ub' akeite? ¿Tom stzalaj pax sk'ol tato skak' ko b'ab'el unin t'ay silab'il yuj ko chukal? xchi heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ex wetchonhab', toxo ix yal Jehová tas wach' t'a sat yet' tas snib'ej t'ayonh, haton juntzanh tik: Tojol skutej ko b'a, sko xajanej heb' ketanimail. Emnakilal skutej ko b'a t'a ko Diosal."
+    },
+    {
+      "number": "9",
+      "text": "Ha Jehová tz'alan t'a schonhab' icha tik: Ha mach t'a emnakilal scham yab'an tas wala', te ay pensar. Jaokab' he pensar yuj eyaelal, ayokab' welk'och t'a yol he sat, a inton swak'och eyaelal chi'."
+    },
+    {
+      "number": "10",
+      "text": "¿Tom ol b'at satk'olal wuuj tas molanek' t'a spat heb' chuk, haton b'eyumal ix yik' heb' t'a chukalil yet' pax juntzanh echlab' manh tz'akanok yajb'il wuuj?"
+    },
+    {
+      "number": "11",
+      "text": "¿Tas ol aj wak'an niwank'olal t'a yib'anh juntzanh anima tik, yujto a echlab' manh tz'akanok sk'an heb'?"
+    },
+    {
+      "number": "12",
+      "text": "Ha juntzanh heb' b'eyum t'a skal chonhab' tik, elk'um heb', ixtum anima heb', esalwumnhej heb' smasanil."
+    },
+    {
+      "number": "13",
+      "text": "Yuj chi' ol wak'och eyaelal. Ol ex in satel yuj he mul."
+    },
+    {
+      "number": "14",
+      "text": "Ol ex waok, palta manh ol ex b'ut'joklaj, ol ochnhej he wejel. Manh jantakok sat eyawb'en ol he molb'ej, palta manh ol eyil-laj b'aj ol k'ochok. Tato ay b'aj ol ilchaj jab'ok tas eyuuj, haxo t'a skal owal ol wak' lajwokel t'ayex."
+    },
+    {
+      "number": "15",
+      "text": "Ol ex awwok, palta malaj jab'ok tas ol eyik'a'. Ol he tek'el yal sat te' eyoliwo, palta manhok exlaj ol he k'an jab'ok yakeiteal te'. Ol he tek'el yal sat te' eyuwa, palta manhok exlaj ol eyuk' swinoal."
+    },
+    {
+      "number": "16",
+      "text": "Yujto a schukal b'eyb'al winhaj Omri tze k'anab'ajej. Ha schukal b'eyb'al winhaj Acab tze b'eyb'alej. Yuj chi' ol wak'b'at yaelal yet' b'uchwal lolonel t'a eyib'anh. Icha chi' ol aj he q'uixwi t'a yichanh heb' in chonhab' tzin k'anab'ajan t'a wal yel, xchi Jehová."
+    }
+  ]
 }

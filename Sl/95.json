@@ -1,49 +1,53 @@
 {
-    "chapter": "95",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Cotanhec, conh b'itanec t'a Jehová t'a tzalajk'olal. Conh b'itanec t'a ko Kolumal."
-        },
-        {
-            "number": "2",
-            "text": "Ochoconhec t'a yichanh t'a ak'oj yuj diosal. Conh b'itanec t'ay, yujto te niwan yelk'ochi."
-        },
-        {
-            "number": "3",
-            "text": "Yujto a Jehová te niwan yelk'ochi. Aton Rey yaj t'a yib'anh smasanil heb' Dios."
-        },
-        {
-            "number": "4",
-            "text": "D'a yol sk'ab' ay juntzanh xab' olan t'a yich lum lum tik. A' ay yic juntzanh witz te chaanh yajk'ei."
-        },
-        {
-            "number": "5",
-            "text": "A' ay yic ha' mar, ha' b'ojinac ha'. A' b'oannacpax lum lum tik."
-        },
-        {
-            "number": "6",
-            "text": "Cotanhec, kak'equem ko b'ha t'a Jehová, conh emec cuman t'a yichanh. A' t'ay tzonh emec cuman yujto ha' ix onh b'oani."
-        },
-        {
-            "number": "7",
-            "text": "Aton ko Diosal, a onhxo tik, schonhab' onh. Icha skalnel kaji, yuj chi' tanhwab'il onh yuj. Syal Dios icha tik: Tato tzeyab' tas swal ticnaik,"
-        },
-        {
-            "number": "8",
-            "text": "manh he pitej he b'a icha yutejnac sb'a heb' he mam eyicham t'a Meriba. Manh eyutej he b'a icha yutejnac pax sb'a heb' t'a Masah t'a taquinh lu'um."
-        },
-        {
-            "number": "9",
-            "text": "Aton ta' yak'nac in prowal heb' he mam eyicham chi', wach'chom yilnac heb' juntzanh tas satub'tac in b'onac."
-        },
-        {
-            "number": "10",
-            "text": "40 ab'il te ov wutejnac in b'ha t'a heb', walannac icha tik: Ha juntzanh anima tik, ch'ocnhej b'aj ayoch spensar heb', max nachajel-laj yuj heb' tas tzin nib'ej sb'eyb'alej heb', xin chi."
-        },
-        {
-            "number": "11",
-            "text": "Yuj chi' yet' wal yowal in k'ool, wak'nac in ti' to max ochlaj heb' t'a lum lum b'aj ijan wak'nac yik' yip heb', xchi Dios."
-        }
-    ]
+  "chapter": "95",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kotanhek, konh b'itanek t'a Jehová t'a tzalajk'olal. Konh b'itanek t'a ko Kolumal."
+    },
+    {
+      "number": "2",
+      "text": "Ochokonhek t'a yichanh t'a ak'oj yuj diosal. Konh b'itanek t'ay, yujto te niwan yelk'ochi."
+    },
+    {
+      "number": "3",
+      "text": "Yujto a Jehová te niwan yelk'ochi. Haton Rey yaj t'a yib'anh smasanil heb' Dios."
+    },
+    {
+      "number": "4",
+      "text": "T'a yol sk'ab' ay juntzanh xab' olan t'a yich lum lum tik. A' ay yik juntzanh witz te chaanh yajk'ei."
+    },
+    {
+      "number": "5",
+      "text": "A' ay yik ha' mar, ha' b'ojinak ha'. A' b'oannakpax lum lum tik."
+    },
+    {
+      "number": "6",
+      "text": "Kotanhek, kak'ekem ko b'a t'a Jehová, konh emek kuman t'a yichanh. A' t'ay tzonh emek kuman yujto ha' ix onh b'oani."
+    },
+    {
+      "number": "7",
+      "text": "Haton ko Diosal, a onhxo tik, schonhab' onh. Icha skalnel kaji, yuj chi' tanhwab'il onh yuj. Syal Dios icha tik: Tato tzeyab' tas swal tiknaik,"
+    },
+    {
+      "number": "8",
+      "text": "manh he pitej he b'a icha yutejnak sb'a heb' he mam eyicham t'a Meriba. Manh eyutej he b'a icha yutejnak pax sb'a heb' t'a Masah t'a takinh lu'um."
+    },
+    {
+      "number": "9",
+      "text": "Haton ta' yak'nak in prowal heb' he mam eyicham chi', wach'chom yilnak heb' juntzanh tas satub'tak in b'onak."
+    },
+    {
+      "number": "10",
+      "text": "40 ab'il te ow wutejnak in b'a t'a heb', walannak icha tik: Ha juntzanh anima tik, ch'oknhej b'aj ayoch spensar heb', max nachajel-laj yuj heb' tas tzin nib'ej sb'eyb'alej heb', xin chi."
+    },
+    {
+      "number": "11",
+      "text": "Yuj chi' yet' wal yowal in k'ool, wak'nak in ti' to max ochlaj heb' t'a lum lum b'aj ijan wak'nak yik' yip heb', xchi Dios."
+    }
+  ]
 }

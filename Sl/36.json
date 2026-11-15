@@ -1,53 +1,57 @@
 {
-    "chapter": "36",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha heb' sk'ulan chukal, anhej chukal chi' ayoch t'a spensar heb' sk'ulani. Malaj jab'oc yelk'och Dios t'a sat heb'."
-        },
-        {
-            "number": "2",
-            "text": "Yujto syaloch sb'a heb' wach'il, manh ojtakab'iloc smul heb' chi' snaani. Max snalaj heb' yaktejkan schukal chi'."
-        },
-        {
-            "number": "3",
-            "text": "Anhej chukal lolonel syal heb', naumk'e lolonel heb'. Syactejkan wach' pensaril heb', max sb'olaj wach'il heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ayic waynac heb' t'a sat sch'at, toxonhej snanonek' sk'ool heb' sk'ulan chukal. Manh wach'oc sb'eyb'al heb', max yal-laj sk'ol heb' syik'el sb'ha t'a chukal."
-        },
-        {
-            "number": "5",
-            "text": "Ha achxo Mamin Jehová, te niwanxo pax a wach'k'olal, masanto t'a satcha’anh sk'ek'ochi, tzak'nhejelk'och tas tzala'."
-        },
-        {
-            "number": "6",
-            "text": "Ek'al a wach'ilal t'a yichanh lum niwac witz. Ha a tojolal, ek'al t'a sjulal yich ha' niwac mar. Mamin Jehová, ilb'il heb' anima yet' masanil nok' nok' uuj."
-        },
-        {
-            "number": "7",
-            "text": "Ach Dios, satub'tacxonhej a wach'k'olal, yuj chi' sko col ko b'a t'ayach, icha nok' yunetac caxlanh tz'och t'a yalanh snun."
-        },
-        {
-            "number": "8",
-            "text": "Tzonh b'ud'ji yuj jun niwan wael tzak' t'ayonh. Ha ha ha' manhxo jantacoc swach'il yuk'ji tzak' cuk'ej."
-        },
-        {
-            "number": "9",
-            "text": "Yujto a t'ayach scot ko k 'inal icha yaj sjaj ha ha'. Yujnhej a sakil k'inal ay ko k 'inal."
-        },
-        {
-            "number": "10",
-            "text": "Ha onh cojtak achxo, ayokab' a wach'k'olal t'ayonh. Ha onh wach' ko pensar, colonhcaneli."
-        },
-        {
-            "number": "11",
-            "text": "Manh a cha yak' chukal heb' syik'chaanh sb'a t'ayin. Manh a cha in spech b'eyek' heb' sk'ulan chukal."
-        },
-        {
-            "number": "12",
-            "text": "Ilecnab' b'ajtil ix telwi heb' sk'ulan chukal. Ix telwi heb', manhxa b'ak'uinh ol k'ex waan heb'."
-        }
-    ]
+  "chapter": "36",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha heb' sk'ulan chukal, anhej chukal chi' ayoch t'a spensar heb' sk'ulani. Malaj jab'ok yelk'och Dios t'a sat heb'."
+    },
+    {
+      "number": "2",
+      "text": "Yujto syaloch sb'a heb' wach'il, manh ojtakab'ilok smul heb' chi' snaani. Max snalaj heb' yaktejkan schukal chi'."
+    },
+    {
+      "number": "3",
+      "text": "Anhej chukal lolonel syal heb', naumk'e lolonel heb'. Syaktejkan wach' pensaril heb', max sb'olaj wach'il heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ayik waynak heb' t'a sat sch'at, toxonhej snanonek' sk'ool heb' sk'ulan chukal. Manh wach'ok sb'eyb'al heb', max yal-laj sk'ol heb' syik'el sb'a t'a chukal."
+    },
+    {
+      "number": "5",
+      "text": "Ha achxo Mamin Jehová, te niwanxo pax a wach'k'olal, masanto t'a satcha'anh sk'ek'ochi, tzak'nhejelk'och tas tzala'."
+    },
+    {
+      "number": "6",
+      "text": "Ek'al a wach'ilal t'a yichanh lum niwak witz. Ha a tojolal, ek'al t'a sjulal yich ha' niwak mar. Mamin Jehová, ilb'il heb' anima yet' masanil nok' nok' uuj."
+    },
+    {
+      "number": "7",
+      "text": "Ach Dios, satub'takxonhej a wach'k'olal, yuj chi' sko kol ko b'a t'ayach, icha nok' yunetak kaxlanh tz'och t'a yalanh snun."
+    },
+    {
+      "number": "8",
+      "text": "Tzonh b'ut'ji yuj jun niwan wael tzak' t'ayonh. Ha ha ha' manhxo jantakok swach'il yuk'ji tzak' kuk'ej."
+    },
+    {
+      "number": "9",
+      "text": "Yujto a t'ayach skot ko k 'inal icha yaj sjaj ha ha'. Yujnhej a sakil k'inal ay ko k 'inal."
+    },
+    {
+      "number": "10",
+      "text": "Ha onh kojtak achxo, ayokab' a wach'k'olal t'ayonh. Ha onh wach' ko pensar, kolonhkaneli."
+    },
+    {
+      "number": "11",
+      "text": "Manh a cha yak' chukal heb' syik'chaanh sb'a t'ayin. Manh a cha in spech b'eyek' heb' sk'ulan chukal."
+    },
+    {
+      "number": "12",
+      "text": "Ileknab' b'ajtil ix telwi heb' sk'ulan chukal. Ix telwi heb', manhxa b'ak'uinh ol k'ex waan heb'."
+    }
+  ]
 }

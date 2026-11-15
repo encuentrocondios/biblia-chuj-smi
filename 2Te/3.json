@@ -1,77 +1,81 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha ticnaik, lesalwanhecnhej cuuj, yic wach' ol pukaxel slolonel Kajal Jesús t'a skal heb' anima smasanil t'a elanhchamel, yic ol scha heb' t'a smasanil sk'ool icha eyutejnac he chaani."
-        },
-        {
-            "number": "2",
-            "text": "k'anecnhej pax d'ha Dios cuuj, yic ol onh colchajel t'a yol sk'ab' heb' te chuk spensar. Yujto manh masaniloc anima tz'ak'anoch Dios t'a sk'ool."
-        },
-        {
-            "number": "3",
-            "text": "Palta a Kajal Jesús, tz'elnhejk'och tas syala'. Ha tz'ak'an he tek'anil. Tzex scolanpaxel t'a winh chuk."
-        },
-        {
-            "number": "4",
-            "text": "Skak'och Kajal Jesús yipoc ko k'ool to wan he k'anab'ajan juntzanh checnab'il calnakkan t'ayex to ol he k'anab'ajejnhej pax t'a masanil tiempo."
-        },
-        {
-            "number": "5",
-            "text": "Sco nib'ej to a Kajal Jesús tz'ak'an nachajel eyuuj to xajan ex yuj Dios. Sco nib'ej tz'och Cristo eyed'oc yic tek'an tzeyutej he b'a icha yutejnac sb'a."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a sb'i Kajal Jesucristo skalb'at juntzanhxo checnab'il tik t'ayex. Tato ay heb' creyente jaragana, tato max sk'anab'ajej juntzanh k'ayb'ub'al ek' calnakkan t'ayex heb', max yal-laj junnhej tzex ek' yet' heb'."
-        },
-        {
-            "number": "7",
-            "text": "Eyojtakxo, smoj wal tze k'anab'ajej ko b'eyb'al, yujto manh jaraganaoc ek' cutejnac ko b'ha t'a he kal."
-        },
-        {
-            "number": "8",
-            "text": "Eyojtak to malaj b'aj ko matanejnac wa ko b'a t'ayex. Palta k'ual t'ak'wal munlajnac onh t'a he kal. Cak'nac wal quip ko munlaji, yujto malaj ko gana ay mach tz'ab'an syail yak'an tas tz'och cuuj ta'."
-        },
-        {
-            "number": "9",
-            "text": "Wach'chom ay kalan quik ko k'anan ko gasto t'ayex, palta munlaj onh yet' ko k'ab'. Icha chi' cutejnac ko ch'oxan jun wach' b'eyb'al t'ayex, yic wach' tze k'anab'ajej ko b'eyb'al chi'."
-        },
-        {
-            "number": "10",
-            "text": "Yujto ayic ay onh ek' t'a he kal, kalannakkan jun checnab'il t'ayex, aton jun syal icha tik: Tato ay mach malaj snib'ej smunlaji, mokab' waoc, xchi."
-        },
-        {
-            "number": "11",
-            "text": "Scalb'at juntzanh tik t'ayex yujto ix kab'i to ayex mach ex jaragana ex. Tonhej tze comon ak'ejoch he b'ha t'a skal juntzanh tas b'aj malaj eyalan eyiko'."
-        },
-        {
-            "number": "12",
-            "text": "Ha ex icha chi' tzeyutej he b'a, a t'ayex skalb'at jun checnab'il tik. Yuj Kajal Jesucristo scham wal kalanb'at t'ayex to tzex munlaj wal t'a tzalajk'olal, yic wach' ol ilchaj tas yowalil tz'och eyuuj."
-        },
-        {
-            "number": "13",
-            "text": "Manh ex tzactzaj he k'ulan juntzanh tas wach' ta'."
-        },
-        {
-            "number": "14",
-            "text": "Tato ay heb' max k'anab'ajan tas skalb'at t'a jun ko carta tik, yowalil tzeyak' checlajel heb' t'a he kal, yic ol q'uixwoquel heb'. Anhejtona', manh junnhejoc tzex ek' yet' heb'."
-        },
-        {
-            "number": "15",
-            "text": "Palta max yal eyajk'olan he b'a yet' heb'. Tze yec wal sna heb', yujto creyente heb' eyed'oc."
-        },
-        {
-            "number": "16",
-            "text": "Aokab' Kajal Jesús, aton jun ak'um junk'olal syak' wal sjunk'olal t'ayex t'a masanil tiempo. Ochokab' pax eyed'oc he masanil ta'."
-        },
-        {
-            "number": "17",
-            "text": "Ha in Pablo in tik, a in wal lak'an tzin tz'ib'ejb'at jun stzatzil he k'ool tik, yic scheclaji to yel wik jun carta tik. Icha tik swutej in tz'ib'anb'at junjun in carta."
-        },
-        {
-            "number": "18",
-            "text": "Aokab' Kajal Jesucristo syak' swach'k'olal t'ayex he masanil ta'."
-        }
-    ]
+  "chapter": "3",
+  "book": "2 TESALONICENSES",
+  "book_short": "2Te",
+  "aligned": true,
+  "es_verses": 18,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha tiknaik, lesalwanheknhej kuuj, yik wach' ol pukaxel slolonel Kajal Jesús t'a skal heb' anima smasanil t'a elanhchamel, yik ol scha heb' t'a smasanil sk'ool icha eyutejnak he chaani."
+    },
+    {
+      "number": "2",
+      "text": "k'aneknhej pax t'a Dios kuuj, yik ol onh kolchajel t'a yol sk'ab' heb' te chuk spensar. Yujto manh masanilok anima tz'ak'anoch Dios t'a sk'ool."
+    },
+    {
+      "number": "3",
+      "text": "Palta a Kajal Jesús, tz'elnhejk'och tas syala'. Ha tz'ak'an he tek'anil. Tzex skolanpaxel t'a winh chuk."
+    },
+    {
+      "number": "4",
+      "text": "Skak'och Kajal Jesús yipok ko k'ool to wan he k'anab'ajan juntzanh cheknab'il kalnakkan t'ayex to ol he k'anab'ajejnhej pax t'a masanil tiempo."
+    },
+    {
+      "number": "5",
+      "text": "Sko nib'ej to a Kajal Jesús tz'ak'an nachajel eyuuj to xajan ex yuj Dios. Sko nib'ej tz'och Cristo eyet'ok yik tek'an tzeyutej he b'a icha yutejnak sb'a."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a sb'i Kajal Jesucristo skalb'at juntzanhxo cheknab'il tik t'ayex. Tato ay heb' kreyente jaragana, tato max sk'anab'ajej juntzanh k'ayb'ub'al ek' kalnakkan t'ayex heb', max yal-laj junnhej tzex ek' yet' heb'."
+    },
+    {
+      "number": "7",
+      "text": "Eyojtakxo, smoj wal tze k'anab'ajej ko b'eyb'al, yujto manh jaraganaok ek' kutejnak ko b'a t'a he kal."
+    },
+    {
+      "number": "8",
+      "text": "Eyojtak to malaj b'aj ko matanejnak wa ko b'a t'ayex. Palta k'ual t'ak'wal munlajnak onh t'a he kal. Kak'nak wal kip ko munlaji, yujto malaj ko gana ay mach tz'ab'an syail yak'an tas tz'och kuuj ta'."
+    },
+    {
+      "number": "9",
+      "text": "Wach'chom ay kalan kik ko k'anan ko gasto t'ayex, palta munlaj onh yet' ko k'ab'. Icha chi' kutejnak ko ch'oxan jun wach' b'eyb'al t'ayex, yik wach' tze k'anab'ajej ko b'eyb'al chi'."
+    },
+    {
+      "number": "10",
+      "text": "Yujto ayik ay onh ek' t'a he kal, kalannakkan jun cheknab'il t'ayex, haton jun syal icha tik: Tato ay mach malaj snib'ej smunlaji, mokab' waok, xchi."
+    },
+    {
+      "number": "11",
+      "text": "Skalb'at juntzanh tik t'ayex yujto ix kab'i to ayex mach ex jaragana ex. Tonhej tze komon ak'ejoch he b'a t'a skal juntzanh tas b'aj malaj eyalan eyiko'."
+    },
+    {
+      "number": "12",
+      "text": "Ha ex icha chi' tzeyutej he b'a, a t'ayex skalb'at jun cheknab'il tik. Yuj Kajal Jesucristo scham wal kalanb'at t'ayex to tzex munlaj wal t'a tzalajk'olal, yik wach' ol ilchaj tas yowalil tz'och eyuuj."
+    },
+    {
+      "number": "13",
+      "text": "Manh ex tzaktzaj he k'ulan juntzanh tas wach' ta'."
+    },
+    {
+      "number": "14",
+      "text": "Tato ay heb' max k'anab'ajan tas skalb'at t'a jun ko karta tik, yowalil tzeyak' cheklajel heb' t'a he kal, yik ol q'uixwokel heb'. Anhejtona', manh junnhejok tzex ek' yet' heb'."
+    },
+    {
+      "number": "15",
+      "text": "Palta max yal eyajk'olan he b'a yet' heb'. Tze yek wal sna heb', yujto kreyente heb' eyet'ok."
+    },
+    {
+      "number": "16",
+      "text": "Aokab' Kajal Jesús, haton jun ak'um junk'olal syak' wal sjunk'olal t'ayex t'a masanil tiempo. Ochokab' pax eyet'ok he masanil ta'."
+    },
+    {
+      "number": "17",
+      "text": "Ha in Pablo in tik, a in wal lak'an tzin tz'ib'ejb'at jun stzatzil he k'ool tik, yik scheklaji to yel wik jun karta tik. Icha tik swutej in tz'ib'anb'at junjun in karta."
+    },
+    {
+      "number": "18",
+      "text": "Aokab' Kajal Jesucristo syak' swach'k'olal t'ayex he masanil ta'."
+    }
+  ]
 }

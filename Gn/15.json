@@ -1,85 +1,89 @@
 {
-    "chapter": "15",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi juntzanh chi', ix lolon Jehová t'a winhaj Abram icha t'a wayichal, ix yalan icha tik: --Ach Abram manh ach xiwoc, a in ol ach in colo', te niwan spak ol wak' t'ayach, xchi t'a winh."
-        },
-        {
-            "number": "2",
-            "text": "Ix tak'wi winhaj Abram icha tik: --Ach Jehová Vajalil, ¿tas wal yopisio jun spak chi' wuuj? Ojtac wal to malaj junok wuninal ix ak'a' yic ata' swak'xikan jantac tas ay t'ayin, yuj chi' a junok in chekab' ol chaankan masanil tas ay t'ayin, aton winhaj Eliezer aj Damasco, a winh sat yaj t'a heb' in chekab' smasanil, xchi winh."
-        },
-        {
-            "number": "3",
-            "text": "Ix yalanxi Jehová t'a winh: --Maay, ha t'a junok uninal ol kanok, manhoclaj t'a winh comon anima chi' ol kanok, xchi t'a winh."
-        },
-        {
-            "number": "4",
-            "text": "Ixlajwi chi', ix ik'jielta winh yuj Dios t'a sti' smantiado, ix yalan t'a winh icha tik: --Q'ueanh k'elan t'a satcha’anh. B'isto juntzanh k'anal chi' naic, tato syal a b'isani. Ichaton chi' ol aj sb'isul heb' inhtilal, xchi t'a winh."
-        },
-        {
-            "number": "5",
-            "text": "Ix yak'och winhaj Abram chi' t'a sk'ool tas ix yal Jehová chi', yuj chi' wach' ix kan winh t'a yichanh."
-        },
-        {
-            "number": "6",
-            "text": "Ix yalanxi Jehová icha tik: --Ha in ton Jehová in ach wik'elta t'a chonhab' Ur t'a yol yic Caldea yic swak' jun lu'um tik t'ayach yic tziquej, xchi t'a winh."
-        },
-        {
-            "number": "7",
-            "text": "--Palta ach Jehová Vajalil, ¿tas wal tz'aj wojtakaneli tato swiquejkan jun lu'um tik? xchi winhaj Abram chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ix yalanxi Jehová: --Ik'cot junok nok' cob'es wakax t'ayin yet' junok nok' chiwa yet' junok nok' ch'ac kalnel, oxe' ab'il sk'inal junjun nok'. Tzik'anpaxcot junok nok' cuwajte' yet' junok nok' paramuch, xchi t'a winh."
-        },
-        {
-            "number": "9",
-            "text": "Ix yik'kancot juntzanh nok' nok' chi' winh t'a yichanh Jehová chi', ix lajwi chi' ix schapojan snanhal junjun nok' winh. Jilip nok' ix kan t'a stz'ey jilipxo nok'. Axo nok' much chi', maj schapojejlaj snanhal nok' winh."
-        },
-        {
-            "number": "10",
-            "text": "Tz'em nok' ostoc t'a yib'anh nok', haxo winhaj Abram chi' spechan nok'."
-        },
-        {
-            "number": "11",
-            "text": "Ayic wanxo sq'uik'b'i, ix te sat sk'ol winhaj Abram chi' swayi, ix ja jun niwan xiwelal t'a yib'anh winh yuj jun niwan k’ik’ k’inal."
-        },
-        {
-            "number": "12",
-            "text": "Ixlajwi chi' ix yalan Jehová t'a winh: --Yowalil tzojtaquejeli to a heb' inhtilal, ol b'atkan kajan heb' t'a junokxo ch'oc chonhab'il, ol ochkan heb' chekab'oc, chanhe' ciento ab'il ol ixtaj heb'."
-        },
-        {
-            "number": "13",
-            "text": "Palta a in ol wak'och yaelal t'a yib'anh jun chonhab' b'aj ayoch heb' chekab'oc chi'. Slajwi chi', ol elta heb' yet' jantac sb'eyumal."
-        },
-        {
-            "number": "14",
-            "text": "Palta a ach tik junk'olal ol aj a chami ayic ol ach och icham winaquil."
-        },
-        {
-            "number": "15",
-            "text": "Chanh makanhxo inhtilal ix eq'ui, ichato chi' ol meltzajxicot heb' t'a tik, yujto manto tz'acwoc schukal heb' amorreo t'a tik, xchi Jehová."
-        },
-        {
-            "number": "16",
-            "text": "Ayic t'ak'walilxo, ix sch'oxan sb'a jun k'ak' culcon sk'ei, b'akaqui sk'e stab'il. Tz'ek' t'a skal nok' nok' chapoj yaj chi'."
-        },
-        {
-            "number": "17",
-            "text": "Aton t'a jun ak'wal chi' ix sb'o strato Jehová yet' winhaj Abram chi', ix yalan icha tik: --Ha jun lu'um tik ol wak' t'a heb' inhtilal, schacot lum t'a jun smelemal ha' t'a yic Egipto, masanto t'ha ha' Éufrates,"
-        },
-        {
-            "number": "18",
-            "text": "aton sluum heb' ceneo, heb' cenezeo, heb' cadmoneo,"
-        },
-        {
-            "number": "19",
-            "text": "heb' hitita, heb' ferezeo, heb' refaíta,"
-        },
-        {
-            "number": "20",
-            "text": "heb' amorreo, heb' cananeo, heb' gergeseo yet' heb' jebuseo, xchi t'a winh."
-        }
-    ]
+  "chapter": "15",
+  "book": "GÉNESIS",
+  "book_short": "Gn",
+  "aligned": false,
+  "es_verses": 21,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi juntzanh chi', ix lolon Jehová t'a winhaj Abram icha t'a wayichal, ix yalan icha tik: --Ach Abram manh ach xiwok, a in ol ach in kolo', te niwan spak ol wak' t'ayach, xchi t'a winh."
+    },
+    {
+      "number": "2",
+      "text": "Ix tak'wi winhaj Abram icha tik: --Ach Jehová Wajalil, ¿tas wal yopisio jun spak chi' wuuj? Ojtak wal to malaj junok wuninal ix ak'a' yik ata' swak'xikan jantak tas ay t'ayin, yuj chi' a junok in chekab' ol chaankan masanil tas ay t'ayin, haton winhaj Eliezer aj Damasco, a winh sat yaj t'a heb' in chekab' smasanil, xchi winh."
+    },
+    {
+      "number": "3",
+      "text": "Ix yalanxi Jehová t'a winh: --Maay, ha t'a junok uninal ol kanok, manhoklaj t'a winh komon anima chi' ol kanok, xchi t'a winh."
+    },
+    {
+      "number": "4",
+      "text": "Ixlajwi chi', ix ik'jielta winh yuj Dios t'a sti' smantiado, ix yalan t'a winh icha tik: --Q'ueanh k'elan t'a satcha'anh. B'isto juntzanh k'anal chi' naik, tato syal a b'isani. Ichaton chi' ol aj sb'isul heb' inhtilal, xchi t'a winh."
+    },
+    {
+      "number": "5",
+      "text": "Ix yak'och winhaj Abram chi' t'a sk'ool tas ix yal Jehová chi', yuj chi' wach' ix kan winh t'a yichanh."
+    },
+    {
+      "number": "6",
+      "text": "Ix yalanxi Jehová icha tik: --Ha in ton Jehová in ach wik'elta t'a chonhab' Ur t'a yol yik Caldea yik swak' jun lu'um tik t'ayach yik tzikej, xchi t'a winh."
+    },
+    {
+      "number": "7",
+      "text": "--Palta ach Jehová Wajalil, ¿tas wal tz'aj wojtakaneli tato swikejkan jun lu'um tik? xchi winhaj Abram chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ix yalanxi Jehová: --Ik'kot junok nok' kob'es wakax t'ayin yet' junok nok' chiwa yet' junok nok' ch'ak kalnel, oxe' ab'il sk'inal junjun nok'. Tzik'anpaxkot junok nok' kuwajte' yet' junok nok' paramuch, xchi t'a winh."
+    },
+    {
+      "number": "9",
+      "text": "Ix yik'kankot juntzanh nok' nok' chi' winh t'a yichanh Jehová chi', ix lajwi chi' ix schapojan snanhal junjun nok' winh. Jilip nok' ix kan t'a stz'ey jilipxo nok'. Axo nok' much chi', maj schapojejlaj snanhal nok' winh."
+    },
+    {
+      "number": "10",
+      "text": "Tz'em nok' ostok t'a yib'anh nok', haxo winhaj Abram chi' spechan nok'."
+    },
+    {
+      "number": "11",
+      "text": "Ayik wanxo sq'uik'b'i, ix te sat sk'ol winhaj Abram chi' swayi, ix ja jun niwan xiwelal t'a yib'anh winh yuj jun niwan k'ik' k'inal."
+    },
+    {
+      "number": "12",
+      "text": "Ixlajwi chi' ix yalan Jehová t'a winh: --Yowalil tzojtakejeli to a heb' inhtilal, ol b'atkan kajan heb' t'a junokxo ch'ok chonhab'il, ol ochkan heb' chekab'ok, chanhe' kiento ab'il ol ixtaj heb'."
+    },
+    {
+      "number": "13",
+      "text": "Palta a in ol wak'och yaelal t'a yib'anh jun chonhab' b'aj ayoch heb' chekab'ok chi'. Slajwi chi', ol elta heb' yet' jantak sb'eyumal."
+    },
+    {
+      "number": "14",
+      "text": "Palta a ach tik junk'olal ol aj a chami ayik ol ach och icham winakil."
+    },
+    {
+      "number": "15",
+      "text": "Chanh makanhxo inhtilal ix eq'ui, ichato chi' ol meltzajxikot heb' t'a tik, yujto manto tz'akwok schukal heb' amorreo t'a tik, xchi Jehová."
+    },
+    {
+      "number": "16",
+      "text": "Ayik t'ak'walilxo, ix sch'oxan sb'a jun k'ak' kulkon sk'ei, b'akaki sk'e stab'il. Tz'ek' t'a skal nok' nok' chapoj yaj chi'."
+    },
+    {
+      "number": "17",
+      "text": "Haton t'a jun ak'wal chi' ix sb'o strato Jehová yet' winhaj Abram chi', ix yalan icha tik: --Ha jun lu'um tik ol wak' t'a heb' inhtilal, schakot lum t'a jun smelemal ha' t'a yik Egipto, masanto t'a ha' Éufrates,"
+    },
+    {
+      "number": "18",
+      "text": "haton sluum heb' keneo, heb' kenezeo, heb' kadmoneo,"
+    },
+    {
+      "number": "19",
+      "text": "heb' hitita, heb' ferezeo, heb' refaíta,"
+    },
+    {
+      "number": "20",
+      "text": "heb' amorreo, heb' kananeo, heb' gergeseo yet' heb' jebuseo, xchi t'a winh."
+    }
+  ]
 }

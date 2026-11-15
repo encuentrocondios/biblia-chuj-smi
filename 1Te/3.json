@@ -1,57 +1,61 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Yujto maj techaj ex ko naani, yuj chi' ix ko na'a to tzonh kan ko ch'ocoj t'a chonhab' Atenas,"
-        },
-        {
-            "number": "2",
-            "text": "yic sko chekanb'at winh cuk'tac Timoteo tik t'ayex, yujto schekab' ko Mam Dios yaj winh. Syalel wach' ab'ix yic Cristo winh qued'oc. Ha winh xid' ak'an he tek'anil, xid' yak'anpax eyip winh, yic tze wach' ak'ejoch Cristo t'a he k'ool."
-        },
-        {
-            "number": "3",
-            "text": "Ha winh xid' alannac t'ayex, yic wach' malaj ex somchajel he pensar yuj tastac wan eyab'an syail. Yujto eyojtaktaxoni to yowalil sja juntzanh yaelal chi' t'a quib'anh icha snib'ej Dios."
-        },
-        {
-            "number": "4",
-            "text": "Ayic quek'nac t'ayex, calnakkani to yowalil skab' syail. Eyojtak, ix elk'och icha tas calnakkan chi'."
-        },
-        {
-            "number": "5",
-            "text": "Yujto ix in te cusi ayic ix ex in naancoti, yuj chi' ix in checb'at winhaj Timoteo tik yab'i tato anheja' eyak'anoch Cristo t'a he k'ool. Ha wal in naani talaj ix comon juwiel he pensar ta' yuj winh diablo. Tato icha chi', nab'anhej am ix quixtej ko b'a quek' ta'."
-        },
-        {
-            "number": "6",
-            "text": "Axo ticnaik ix xid' winhaj Timoteo tik t'ayex. Ixnhej jax winh ix yalan winh to anheja' tzeyak'och Cristo t'a he k'ool, anheja' tze xajanej he b'a ta'. Ix yalan winh to tzonh he nacot t'a masanil tiempo, to te xajan onh eyuuj. Ix yalanpax winh to he gana tzonh eyila'. Anhejtona' ich onh ta', ko gana tzonh b'at ex quila'."
-        },
-        {
-            "number": "7",
-            "text": "Ha onh tik, tzijtum tas sja t'a quib'anh, wan kab'an syail t'a tik. Palta ayic ix kab'ani to anheja' tzeyak'och Cristo t'a he k'ool, ix onh te tzalaj eyuuj."
-        },
-        {
-            "number": "8",
-            "text": "Icha yek'b'at junok chamel t'a quib'anh, icha chi' ix aj ko k'ool kab'ani to tek'an eyaj t'a yic Kajal Jesús."
-        },
-        {
-            "number": "9",
-            "text": "Eyuuj te ay wal ko tzalajk'olal t'a yichanh ko Mam Dios. Yuj chi' skak' wal yuj diosal t'ay eyuuj, palta a jun yuj diosal skak' chi' max tzak'wan t'a jun tzalajk'olal ix yak' Dios t'ayonh eyuuj."
-        },
-        {
-            "number": "10",
-            "text": "k'ual t'ak'wal kak'an quip ko lesalwi yic wach' syal ko b'at ex quila' yic ol ko wach' ak'an he tek'anil."
-        },
-        {
-            "number": "11",
-            "text": "Co gana to a ko Mam Dios yet' Kajal Jesucristo tz'och qued'oc, yic wach' syal ko b'at ex quila'."
-        },
-        {
-            "number": "12",
-            "text": "Sco k'an t'a Kajal Jesús, yic ha' ol wach' ak'an he xajanej he b'a. Tze xajanej masanil heb' anima icha scutej ex ko xajanan a onh tik."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ol jax Kajal Jesucristo, ol onh aj yet'oc a onh yiconhxo tik. Co gana to a tz'ak'an stek'anil he pensar yic wach' anheja' wach' he b'eyb'al, malaj jab'oc he paltail t'a yichanh ko Mam Dios t'a jun pekti’ chi'."
-        }
-    ]
+  "chapter": "3",
+  "book": "1 TESALONICENSES",
+  "book_short": "1Te",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Yujto maj techaj ex ko naani, yuj chi' ix ko na'a to tzonh kan ko ch'okoj t'a chonhab' Atenas,"
+    },
+    {
+      "number": "2",
+      "text": "yik sko chekanb'at winh kuk'tak Timoteo tik t'ayex, yujto schekab' ko Mam Dios yaj winh. Syalel wach' ab'ix yik Cristo winh ket'ok. Ha winh xit' ak'an he tek'anil, xit' yak'anpax eyip winh, yik tze wach' ak'ejoch Cristo t'a he k'ool."
+    },
+    {
+      "number": "3",
+      "text": "Ha winh xit' alannak t'ayex, yik wach' malaj ex somchajel he pensar yuj tastak wan eyab'an syail. Yujto eyojtaktaxoni to yowalil sja juntzanh yaelal chi' t'a kib'anh icha snib'ej Dios."
+    },
+    {
+      "number": "4",
+      "text": "Ayik kek'nak t'ayex, kalnakkani to yowalil skab' syail. Eyojtak, ix elk'och icha tas kalnakkan chi'."
+    },
+    {
+      "number": "5",
+      "text": "Yujto ix in te kusi ayik ix ex in naankoti, yuj chi' ix in chekb'at winhaj Timoteo tik yab'i tato anheja' eyak'anoch Cristo t'a he k'ool. Ha wal in naani talaj ix komon juwiel he pensar ta' yuj winh diablo. Tato icha chi', nab'anhej am ix kixtej ko b'a kek' ta'."
+    },
+    {
+      "number": "6",
+      "text": "Axo tiknaik ix xit' winhaj Timoteo tik t'ayex. Ixnhej jax winh ix yalan winh to anheja' tzeyak'och Cristo t'a he k'ool, anheja' tze xajanej he b'a ta'. Ix yalan winh to tzonh he nakot t'a masanil tiempo, to te xajan onh eyuuj. Ix yalanpax winh to he gana tzonh eyila'. Anhejtona' ich onh ta', ko gana tzonh b'at ex kila'."
+    },
+    {
+      "number": "7",
+      "text": "Ha onh tik, tzijtum tas sja t'a kib'anh, wan kab'an syail t'a tik. Palta ayik ix kab'ani to anheja' tzeyak'och Cristo t'a he k'ool, ix onh te tzalaj eyuuj."
+    },
+    {
+      "number": "8",
+      "text": "Icha yek'b'at junok chamel t'a kib'anh, icha chi' ix aj ko k'ool kab'ani to tek'an eyaj t'a yik Kajal Jesús."
+    },
+    {
+      "number": "9",
+      "text": "Eyuuj te ay wal ko tzalajk'olal t'a yichanh ko Mam Dios. Yuj chi' skak' wal yuj diosal t'ay eyuuj, palta a jun yuj diosal skak' chi' max tzak'wan t'a jun tzalajk'olal ix yak' Dios t'ayonh eyuuj."
+    },
+    {
+      "number": "10",
+      "text": "k'ual t'ak'wal kak'an kip ko lesalwi yik wach' syal ko b'at ex kila' yik ol ko wach' ak'an he tek'anil."
+    },
+    {
+      "number": "11",
+      "text": "Ko gana to a ko Mam Dios yet' Kajal Jesucristo tz'och ket'ok, yik wach' syal ko b'at ex kila'."
+    },
+    {
+      "number": "12",
+      "text": "Sko k'an t'a Kajal Jesús, yik ha' ol wach' ak'an he xajanej he b'a. Tze xajanej masanil heb' anima icha skutej ex ko xajanan a onh tik."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ol jax Kajal Jesucristo, ol onh aj yet'ok a onh yikonhxo tik. Ko gana to a tz'ak'an stek'anil he pensar yik wach' anheja' wach' he b'eyb'al, malaj jab'ok he paltail t'a yichanh ko Mam Dios t'a jun pekti' chi'."
+    }
+  ]
 }

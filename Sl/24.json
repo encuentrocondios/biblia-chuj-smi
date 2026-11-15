@@ -1,45 +1,49 @@
 {
-    "chapter": "24",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová ay yic lum lum tik. Ha ay pax yic masanil tastac ay t'a sat lu'um."
-        },
-        {
-            "number": "2",
-            "text": "Yujto a ix b'oanem yich lum lum tik t'a yich ha' mar yet' t'a yich ha' niwac ha'."
-        },
-        {
-            "number": "3",
-            "text": "¿Mach heb' syal sk'ek'och t'a jun tzalan to yic Jehová? ¿Mach heb' syal yajek' b'aj syal sb'a heb' anima t'a Jehová chi'?"
-        },
-        {
-            "number": "4",
-            "text": "Aton heb' tik syal sk'ek'ochi: Eb' malaj chukal sk'ulej, heb' te wach' spensar, heb' max yak'em sb'ha t'a juntzanh comon Dios, heb' max scomon ak'ej sti' yuj yak'an musansatil junocxo anima."
-        },
-        {
-            "number": "5",
-            "text": "Ha Jehová Dios Scolumal heb', a tz'ak'an wach'ilal t'a heb'. Syak'anpax spak t'a heb' icha smojal yuj swach'il heb' chi'."
-        },
-        {
-            "number": "6",
-            "text": "Icha chi' sb'eyb'al heb' snib'ej yoch t'a yichanh Dios Cajalil a onh yinhtilal onh kan Jacob."
-        },
-        {
-            "number": "7",
-            "text": "Ex aj Jerusalén, jaquec jun sniwan puertail he chonhab' aytaxon t'a peka'. Jaquec te' sik'lab'il yic wach' tze cha wal jun Rey t'a tzalajk'olal, aton jun Te B'inajnac."
-        },
-        {
-            "number": "8",
-            "text": "¿Mach jun Rey Te B'inajnac chi'? Aton Jehová, te ay yip, te ay spoder. Ha Jehová syak'nhej ganar owal."
-        },
-        {
-            "number": "9",
-            "text": "Ex aj Jerusalén, jaquec jun sniwan puertail he chonhab' aytaxon t'a peka'. Jaquec te' sik'lab'il yic wach' tze cha wal jun Rey t'a tzalajk'olal, aton jun Te B'inajnac."
-        },
-        {
-            "number": "10",
-            "text": "¿Mach jun Rey Te B'inajnac chi'? Ha Jehová Yajal t'a smasanil, aton Rey Te B'inajnac."
-        }
-    ]
+  "chapter": "24",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová ay yik lum lum tik. Ha ay pax yik masanil tastak ay t'a sat lu'um."
+    },
+    {
+      "number": "2",
+      "text": "Yujto a ix b'oanem yich lum lum tik t'a yich ha' mar yet' t'a yich ha' niwak ha'."
+    },
+    {
+      "number": "3",
+      "text": "¿Mach heb' syal sk'ek'och t'a jun tzalan to yik Jehová? ¿Mach heb' syal yajek' b'aj syal sb'a heb' anima t'a Jehová chi'?"
+    },
+    {
+      "number": "4",
+      "text": "Haton heb' tik syal sk'ek'ochi: Eb' malaj chukal sk'ulej, heb' te wach' spensar, heb' max yak'em sb'a t'a juntzanh komon Dios, heb' max skomon ak'ej sti' yuj yak'an musansatil junokxo anima."
+    },
+    {
+      "number": "5",
+      "text": "Ha Jehová Dios Skolumal heb', a tz'ak'an wach'ilal t'a heb'. Syak'anpax spak t'a heb' icha smojal yuj swach'il heb' chi'."
+    },
+    {
+      "number": "6",
+      "text": "Icha chi' sb'eyb'al heb' snib'ej yoch t'a yichanh Dios Kajalil a onh yinhtilal onh kan Jacob."
+    },
+    {
+      "number": "7",
+      "text": "Ex aj Jerusalén, jakek jun sniwan puertail he chonhab' aytaxon t'a peka'. Jakek te' sik'lab'il yik wach' tze cha wal jun Rey t'a tzalajk'olal, haton jun Te B'inajnak."
+    },
+    {
+      "number": "8",
+      "text": "¿Mach jun Rey Te B'inajnak chi'? Haton Jehová, te ay yip, te ay spoder. Ha Jehová syak'nhej ganar owal."
+    },
+    {
+      "number": "9",
+      "text": "Ex aj Jerusalén, jakek jun sniwan puertail he chonhab' aytaxon t'a peka'. Jakek te' sik'lab'il yik wach' tze cha wal jun Rey t'a tzalajk'olal, haton jun Te B'inajnak."
+    },
+    {
+      "number": "10",
+      "text": "¿Mach jun Rey Te B'inajnak chi'? Ha Jehová Yajal t'a smasanil, haton Rey Te B'inajnak."
+    }
+  ]
 }

@@ -1,57 +1,61 @@
 {
-    "chapter": "7",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach cob'es, ach yisil winh rey, manhxo jantacoc swach'il yilji oc t'a yol a xanhab'. Ha wal a xub', te wach' yilji icha wal smunlajel junok jelan sb'oan tastac yet' k'een oro."
-        },
-        {
-            "number": "2",
-            "text": "Ha wal a k'ool, lajan wal icha junok ch'ub' to aynhejem wino t'a yool. Axo a nanhal, lajan icha junok cunhanh ixim trigo oyan och te' xumac t'a spatic."
-        },
-        {
-            "number": "3",
-            "text": "Ha im schab'il, lajan wal icha chawanhoc nok' ch'ucul tiox ix aj yalji."
-        },
-        {
-            "number": "4",
-            "text": "Ha a jaj, lajan wal icha junok torre nab'a marfil. Ha yol a sat, lajan icha chab' ha' nhajab' t'a chonhab' Hesbón, junnhej ay t'a spuertail yic Bat-rabim. Axo a nhi', lajan wal yet' torre t'a Líbano, aton jun k'elanb'at t'a chonhab' Damasco."
-        },
-        {
-            "number": "5",
-            "text": "Ha a jolom, chaanh ayk'ei, lajan icha jolom witz Carmelo. Te copopi yilji xil a jolom icha yilji sch'alil púrpura. Toxonhej tz'ik'jikank'e spixan jun winh rey yuj xil a jolom chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ach xajanab'il wuuj, ach ix to nib'ab'il, yelxo te wach' ilji."
-        },
-        {
-            "number": "7",
-            "text": "Te tojol ilji icha junok te' palma. Axo im, lajan wal icha junjun k'ojlab' sat te' palma chi'."
-        },
-        {
-            "number": "8",
-            "text": "Tzin nib'ej k'e in b'ha t'a te' palma chi' yic swik'anemta te' sat. Ha im lajan wal icha junjun k'ojlab' te' uwa. Ha xob'al a ti', suk'uq'ui sjab' icha sjab' te' mansan."
-        },
-        {
-            "number": "9",
-            "text": "Ha wal a ti', lajan wal icha wino manhxo jantacoc swach'il, xchi winh quelem. Syalan ix cob'es: Yuk'okab' wino winh xajanab'il wuuj, tz'och t'a sti' winh, tzek' t'a skal ye winh."
-        },
-        {
-            "number": "10",
-            "text": "Yic in winh xajanab'il wuuj, te nib'ab'il in yuj winh."
-        },
-        {
-            "number": "11",
-            "text": "Conh t'a kaltac avb'en ach xajanab'il wuuj, tzek' junok ak'wal cuuj t'a skaltac xumaquil anh alheña."
-        },
-        {
-            "number": "12",
-            "text": "Axo t'a q'uinhib'alil, tzonh b'at t'a skal te' uwa yic squila' tato ayxo swol te', tato wanxo spoj xumaquil te'. Ol quila' tato wanxo xumakan te' granado, a wal ta' ol in ch'oxo' to xajan ach wuuj."
-        },
-        {
-            "number": "13",
-            "text": "Ayxo sjab' anh mandrágora. Ha t'a sti' ko pat, ayxo sat masanil tas awab'il wach' sloji, ay sat taquinhxo yet' sat toto smolji. Ch'oc wal ix wik'kanel ic ach xajanab'il wuuj, xchi ix."
-        }
-    ]
+  "chapter": "7",
+  "book": "CANTARES",
+  "book_short": "Ct",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach kob'es, ach yisil winh rey, manhxo jantakok swach'il yilji ok t'a yol a xanhab'. Ha wal a xub', te wach' yilji icha wal smunlajel junok jelan sb'oan tastak yet' k'een oro."
+    },
+    {
+      "number": "2",
+      "text": "Ha wal a k'ool, lajan wal icha junok ch'ub' to aynhejem wino t'a yool. Axo a nanhal, lajan icha junok kunhanh ixim trigo oyan och te' xumak t'a spatik."
+    },
+    {
+      "number": "3",
+      "text": "Ha im schab'il, lajan wal icha chawanhok nok' ch'ukul tiox ix aj yalji."
+    },
+    {
+      "number": "4",
+      "text": "Ha a jaj, lajan wal icha junok torre nab'a marfil. Ha yol a sat, lajan icha chab' ha' nhajab' t'a chonhab' Hesbón, junnhej ay t'a spuertail yik Bat-rabim. Axo a nhi', lajan wal yet' torre t'a Líbano, haton jun k'elanb'at t'a chonhab' Damasco."
+    },
+    {
+      "number": "5",
+      "text": "Ha a jolom, chaanh ayk'ei, lajan icha jolom witz Carmelo. Te kopopi yilji xil a jolom icha yilji sch'alil púrpura. Toxonhej tz'ik'jikank'e spixan jun winh rey yuj xil a jolom chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ach xajanab'il wuuj, ach ix to nib'ab'il, yelxo te wach' ilji."
+    },
+    {
+      "number": "7",
+      "text": "Te tojol ilji icha junok te' palma. Axo im, lajan wal icha junjun k'ojlab' sat te' palma chi'."
+    },
+    {
+      "number": "8",
+      "text": "Tzin nib'ej k'e in b'a t'a te' palma chi' yik swik'anemta te' sat. Ha im lajan wal icha junjun k'ojlab' te' uwa. Ha xob'al a ti', suk'uq'ui sjab' icha sjab' te' mansan."
+    },
+    {
+      "number": "9",
+      "text": "Ha wal a ti', lajan wal icha wino manhxo jantakok swach'il, xchi winh kelem. Syalan ix kob'es: Yuk'okab' wino winh xajanab'il wuuj, tz'och t'a sti' winh, tzek' t'a skal ye winh."
+    },
+    {
+      "number": "10",
+      "text": "Yik in winh xajanab'il wuuj, te nib'ab'il in yuj winh."
+    },
+    {
+      "number": "11",
+      "text": "Konh t'a kaltak awb'en ach xajanab'il wuuj, tzek' junok ak'wal kuuj t'a skaltak xumakil anh alheña."
+    },
+    {
+      "number": "12",
+      "text": "Axo t'a q'uinhib'alil, tzonh b'at t'a skal te' uwa yik skila' tato ayxo swol te', tato wanxo spoj xumakil te'. Ol kila' tato wanxo xumakan te' granado, a wal ta' ol in ch'oxo' to xajan ach wuuj."
+    },
+    {
+      "number": "13",
+      "text": "Ayxo sjab' anh mandrágora. Ha t'a sti' ko pat, ayxo sat masanil tas awab'il wach' sloji, ay sat takinhxo yet' sat toto smolji. Ch'ok wal ix wik'kanel ik ach xajanab'il wuuj, xchi ix."
+    }
+  ]
 }

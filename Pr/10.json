@@ -1,133 +1,137 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha juntzanh slolonel winhaj Salomón: Ha heb' uninab'il ay spensar, syak' tzalajb'oc sk'ool smam snun heb'. Axo heb' malaj spensar, syak' kus sk'ol smam snun heb' chi'."
-        },
-        {
-            "number": "2",
-            "text": "Tato squik' ko b'eyumal t'a chukal, malaj skak' yala'. Tato tojol ko b'eyb'al, tzonh colchajel yuj t'a yol sk'ab' chamel."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jehová malaj b'aj ol scha cham heb' wach' sb'eyb'al yuj wejel, palta haxo heb' chuk jun, max chajilaj yak' snib'ej heb' yuj."
-        },
-        {
-            "number": "4",
-            "text": "Tato malaj ko gana tzonh munlaji, scot mheb'ail t'a quib'anh. Tato tzonh munlaj sik'lab'il jun, tzonh och b'eyumal."
-        },
-        {
-            "number": "5",
-            "text": "Tato ay ko spensar, sko molb'ejkan sat tas skawej t'a stiempoal. Tato tonhej tzonh way t'a stiempoal smolchaj sat avb'en chi' jun, skak' q'uixwelal ko b'a."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' anima wach' spensar, manh jantacoc swach'k'olal Dios scha heb'. Axo heb' chuk jun, a yuj chukal sk'ulej heb', skotkan yaelal t'a yib'anh heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' wach' spensar, t'a wach'ilal ol aj snajicot heb'. Axo pax heb' chuk jun, manhxa mach ol naancot heb'."
-        },
-        {
-            "number": "8",
-            "text": "Tato ay ko pensar, ol ko k'anab'ajej tas schecji ko k'ulej. Palta tato tonhej tzonh comon lolon jun, ol onh satel yuj."
-        },
-        {
-            "number": "9",
-            "text": "Tato wach' ko b'eyb'al, malaj b'aj ol onh xiwoc. Tato a chukal sko k'ulej jun, ol onh yamchajelta."
-        },
-        {
-            "number": "10",
-            "text": "Ha heb' stz'eptz'epan sat snaan junok chukal, skotkan niwac yaelal yuj heb'. Yujto ste comon lolon heb', yuj chi' ol satel heb'."
-        },
-        {
-            "number": "11",
-            "text": "Ha slolonel heb' wach' spensar, a ol ak'an wach'ilal t'a skal heb' anima. Axo heb' chuk jun, a yuj chukal sk'ulej heb', ol kotkan yaelal t'a yib'anh heb'."
-        },
-        {
-            "number": "12",
-            "text": "Tato ay ko chichonk'olal, a owal sk'e waan cuuj. Palta tato sko xajanej heb' quetanimail, skak'nhej niwank'olal heb'."
-        },
-        {
-            "number": "13",
-            "text": "Tato ay ko pensar, scheclajel ko jelanil t'a tas skala'. Tato malaj ko pensar jun, tzonh mak'jinhej t'a te' jixk'ab' te'."
-        },
-        {
-            "number": "14",
-            "text": "Tato jelan ko pensar, sko ya'ilej tas skala'. Palta tato malaj ko pensar jun, tzonh te loloni, anhej chukal sk'e waan yuj tas skal chi'."
-        },
-        {
-            "number": "15",
-            "text": "Ha heb' b'eyum, a sb'eyumal heb' scolani. Axo pax heb' meb'a' jun, malaj tas syal scolan heb'."
-        },
-        {
-            "number": "16",
-            "text": "Ha ko k 'inal sko cha spacoc ko wach' b'eyb'al. Palta tato chuk scutej ko b'a jun, a yaelal sko cha spacoc."
-        },
-        {
-            "number": "17",
-            "text": "Tato sko cha kab' ko kachnab'il, snajatb'i ko k 'inal. Tato max ko cha kab' jun, quennhej tiempo squila'."
-        },
-        {
-            "number": "18",
-            "text": "Ha heb' elk'altac schichon sk'ol t'a junocxo anima, esalwum heb'. Ha heb' anhej aloj pecal tzek' yala', malaj jab'oc spensar heb'."
-        },
-        {
-            "number": "19",
-            "text": "Tato tzonh te comon loloni, tz'och ko mul t'a skal tas skal chi'. Tato max onh lolon jun, ay ko pensar syal chi'."
-        },
-        {
-            "number": "20",
-            "text": "Ha slolonel heb' wach' spensar, te niwan yelk'och icha k'een plata te wach'. Axo pax spensar heb' chuk jun, malaj jab'oc yelk'ochi."
-        },
-        {
-            "number": "21",
-            "text": "Ha slolonel heb' wach' spensar, manh jantacoc heb' sk'ayb'aj yuj. Axo heb' malaj spensar jun, scham heb' yuj smanh pensaril chi'."
-        },
-        {
-            "number": "22",
-            "text": "Ha yuj swach'k'olal Jehová, tzonh och b'eyumal, manh yujoc b'aj tzonh te munlaji."
-        },
-        {
-            "number": "23",
-            "text": "Ha heb' malaj spensar, ste k'echaanh heb' ayic sk'ulan chukal heb'. Axo heb' ay spensar jun, syak' tzalajb'oc sk'ool heb' yuj sjelanil."
-        },
-        {
-            "number": "24",
-            "text": "Ha tastac b'aj xiv heb' chuk, a sjawi t'a yib'anh heb'. Axo heb' wach' spensar jun, tz'elk'och tas snib'ej heb'."
-        },
-        {
-            "number": "25",
-            "text": "Ha heb' chuk sb'eyb'al, quennhej tiempo tzek' heb' icha junok chacxuxum ik'. Axo pax heb' wach' spensar jun, aynhejek' heb' t'a junelnhej."
-        },
-        {
-            "number": "26",
-            "text": "Tato sko chec junok jaragana, skab' syail yuj, ek'to t'a spajil yal nok' winagre t'a k'een que, ek'to icha syail sb'at te tab' t'a yol ko sat."
-        },
-        {
-            "number": "27",
-            "text": "Tato ay yelk'och Jehová t'ayonh, snajatb'i ko k 'inal. Palta tato chuk sko k'ulej jun, stzap ko k 'inal."
-        },
-        {
-            "number": "28",
-            "text": "Ha tas sjawi t'a yichanh heb' wach' spensar, aton tzalajk'olal. Axo tas ayoch yipoc sk'ol heb' chuk jun, max elk'ochlaj."
-        },
-        {
-            "number": "29",
-            "text": "Ha Jehová stanhwan heb' wach' sb'eyb'al. Axo heb' sk'ulan chukal jun, ol satjoquel heb' yuj."
-        },
-        {
-            "number": "30",
-            "text": "Ha heb' wach' spensar tek'annhej yajek' heb'. Axo heb' chuk spensar, manh niwanoc tiempo tzek' heb' t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "31",
-            "text": "Ha heb' wach' spensar, anhej jelanil syal heb'. Axo heb' chuk slolon jun, maxtzac chajilaj lolon heb', ichato spolchajel yak' heb'."
-        },
-        {
-            "number": "32",
-            "text": "Ha heb' wach' spensar, tzonh tzalaj yuj tas syal heb'. Axo pax heb' chuk spensar jun, anhej chukal lolonel syal heb'."
-        }
-    ]
+  "chapter": "10",
+  "book": "PROVERBIOS",
+  "book_short": "Pr",
+  "aligned": true,
+  "es_verses": 32,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha juntzanh slolonel winhaj Salomón: Ha heb' uninab'il ay spensar, syak' tzalajb'ok sk'ool smam snun heb'. Axo heb' malaj spensar, syak' kus sk'ol smam snun heb' chi'."
+    },
+    {
+      "number": "2",
+      "text": "Tato skik' ko b'eyumal t'a chukal, malaj skak' yala'. Tato tojol ko b'eyb'al, tzonh kolchajel yuj t'a yol sk'ab' chamel."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jehová malaj b'aj ol scha cham heb' wach' sb'eyb'al yuj wejel, palta haxo heb' chuk jun, max chajilaj yak' snib'ej heb' yuj."
+    },
+    {
+      "number": "4",
+      "text": "Tato malaj ko gana tzonh munlaji, skot mheb'ail t'a kib'anh. Tato tzonh munlaj sik'lab'il jun, tzonh och b'eyumal."
+    },
+    {
+      "number": "5",
+      "text": "Tato ay ko spensar, sko molb'ejkan sat tas skawej t'a stiempoal. Tato tonhej tzonh way t'a stiempoal smolchaj sat awb'en chi' jun, skak' q'uixwelal ko b'a."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' anima wach' spensar, manh jantakok swach'k'olal Dios scha heb'. Axo heb' chuk jun, a yuj chukal sk'ulej heb', skotkan yaelal t'a yib'anh heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' wach' spensar, t'a wach'ilal ol aj snajikot heb'. Axo pax heb' chuk jun, manhxa mach ol naankot heb'."
+    },
+    {
+      "number": "8",
+      "text": "Tato ay ko pensar, ol ko k'anab'ajej tas schekji ko k'ulej. Palta tato tonhej tzonh komon lolon jun, ol onh satel yuj."
+    },
+    {
+      "number": "9",
+      "text": "Tato wach' ko b'eyb'al, malaj b'aj ol onh xiwok. Tato a chukal sko k'ulej jun, ol onh yamchajelta."
+    },
+    {
+      "number": "10",
+      "text": "Ha heb' stz'eptz'epan sat snaan junok chukal, skotkan niwak yaelal yuj heb'. Yujto ste komon lolon heb', yuj chi' ol satel heb'."
+    },
+    {
+      "number": "11",
+      "text": "Ha slolonel heb' wach' spensar, a ol ak'an wach'ilal t'a skal heb' anima. Axo heb' chuk jun, a yuj chukal sk'ulej heb', ol kotkan yaelal t'a yib'anh heb'."
+    },
+    {
+      "number": "12",
+      "text": "Tato ay ko chichonk'olal, a owal sk'e waan kuuj. Palta tato sko xajanej heb' ketanimail, skak'nhej niwank'olal heb'."
+    },
+    {
+      "number": "13",
+      "text": "Tato ay ko pensar, scheklajel ko jelanil t'a tas skala'. Tato malaj ko pensar jun, tzonh mak'jinhej t'a te' jixk'ab' te'."
+    },
+    {
+      "number": "14",
+      "text": "Tato jelan ko pensar, sko ya'ilej tas skala'. Palta tato malaj ko pensar jun, tzonh te loloni, anhej chukal sk'e waan yuj tas skal chi'."
+    },
+    {
+      "number": "15",
+      "text": "Ha heb' b'eyum, a sb'eyumal heb' skolani. Axo pax heb' meb'a' jun, malaj tas syal skolan heb'."
+    },
+    {
+      "number": "16",
+      "text": "Ha ko k 'inal sko cha spakok ko wach' b'eyb'al. Palta tato chuk skutej ko b'a jun, a yaelal sko cha spakok."
+    },
+    {
+      "number": "17",
+      "text": "Tato sko cha kab' ko kachnab'il, snajatb'i ko k 'inal. Tato max ko cha kab' jun, kennhej tiempo skila'."
+    },
+    {
+      "number": "18",
+      "text": "Ha heb' elk'altak schichon sk'ol t'a junokxo anima, esalwum heb'. Ha heb' anhej aloj pekal tzek' yala', malaj jab'ok spensar heb'."
+    },
+    {
+      "number": "19",
+      "text": "Tato tzonh te komon loloni, tz'och ko mul t'a skal tas skal chi'. Tato max onh lolon jun, ay ko pensar syal chi'."
+    },
+    {
+      "number": "20",
+      "text": "Ha slolonel heb' wach' spensar, te niwan yelk'och icha k'een plata te wach'. Axo pax spensar heb' chuk jun, malaj jab'ok yelk'ochi."
+    },
+    {
+      "number": "21",
+      "text": "Ha slolonel heb' wach' spensar, manh jantakok heb' sk'ayb'aj yuj. Axo heb' malaj spensar jun, scham heb' yuj smanh pensaril chi'."
+    },
+    {
+      "number": "22",
+      "text": "Ha yuj swach'k'olal Jehová, tzonh och b'eyumal, manh yujok b'aj tzonh te munlaji."
+    },
+    {
+      "number": "23",
+      "text": "Ha heb' malaj spensar, ste k'echaanh heb' ayik sk'ulan chukal heb'. Axo heb' ay spensar jun, syak' tzalajb'ok sk'ool heb' yuj sjelanil."
+    },
+    {
+      "number": "24",
+      "text": "Ha tastak b'aj xiw heb' chuk, a sjawi t'a yib'anh heb'. Axo heb' wach' spensar jun, tz'elk'och tas snib'ej heb'."
+    },
+    {
+      "number": "25",
+      "text": "Ha heb' chuk sb'eyb'al, kennhej tiempo tzek' heb' icha junok chakxuxum ik'. Axo pax heb' wach' spensar jun, aynhejek' heb' t'a junelnhej."
+    },
+    {
+      "number": "26",
+      "text": "Tato sko chek junok jaragana, skab' syail yuj, ek'to t'a spajil yal nok' winagre t'a k'een que, ek'to icha syail sb'at te tab' t'a yol ko sat."
+    },
+    {
+      "number": "27",
+      "text": "Tato ay yelk'och Jehová t'ayonh, snajatb'i ko k 'inal. Palta tato chuk sko k'ulej jun, stzap ko k 'inal."
+    },
+    {
+      "number": "28",
+      "text": "Ha tas sjawi t'a yichanh heb' wach' spensar, haton tzalajk'olal. Axo tas ayoch yipok sk'ol heb' chuk jun, max elk'ochlaj."
+    },
+    {
+      "number": "29",
+      "text": "Ha Jehová stanhwan heb' wach' sb'eyb'al. Axo heb' sk'ulan chukal jun, ol satjokel heb' yuj."
+    },
+    {
+      "number": "30",
+      "text": "Ha heb' wach' spensar tek'annhej yajek' heb'. Axo heb' chuk spensar, manh niwanok tiempo tzek' heb' t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "31",
+      "text": "Ha heb' wach' spensar, anhej jelanil syal heb'. Axo heb' chuk slolon jun, maxtzak chajilaj lolon heb', ichato spolchajel yak' heb'."
+    },
+    {
+      "number": "32",
+      "text": "Ha heb' wach' spensar, tzonh tzalaj yuj tas syal heb'. Axo pax heb' chuk spensar jun, anhej chukal lolonel syal heb'."
+    }
+  ]
 }

@@ -1,41 +1,45 @@
 {
-    "chapter": "20",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan Jehová t'a winhaj Josué chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Al t'a heb' etisraelal to sik'kanel juntzanh chonhab' heb' b'aj ol scol sb'a heb', icha ajnac walan t'a winhaj Moisés."
-        },
-        {
-            "number": "3",
-            "text": "Q'uinaloc ay junok mach smak'ancham junok anima to manh sk'anoc sk'ool, syal b'at scolan sb'ha t'a junok chonhab' chi', yic wach' max mak'jicham yuj junok ayto yuj sb'a yet' jun ix cham chi'."
-        },
-        {
-            "number": "4",
-            "text": "Ha jun mach sb'at scol sb'a chi', yowalil sk'och t'a spuertail jun chonhab' chi', syalan t'a heb' yichamtac winaquil jun chonhab' chi' tas ix cot t'a yib'anh, slajwi chi' haxo heb' winh schaanoch t'a yol chonhab' chi', tz'ak'ji junok lugar b'aj skajnaji."
-        },
-        {
-            "number": "5",
-            "text": "Tato sayjiek' yuj junok ayto yuj sb'a yet' jun ix cham chi', haxo heb' winh yichamtac winaquil jun chonhab' chi' max ak'anoch t'a yol sk'ab' jun sayanek' chi', wach'chom ix cham jun yetanimail chi' yuj, palta manh sk'anoc sk'ool, manh yajk'oloctaxon sb'a heb'."
-        },
-        {
-            "number": "6",
-            "text": "Ha jun sb'at scol sb'a chi', skannhej ta' masanto syal sch'olb'itaj yuj heb' chonhab' smasanil. Tato malaj smul, syal skannhej t'a jun chonhab' chi', masanto scham winh sat sacerdote ayoch t'a yopisio t'a jun pekti’ chi'. Slajwi chi' syal smeltzajxi t'a schonhab' b'aj elnac chi', xchi t'a winh."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ix sik'kanel juntzanh chonhab' heb' israel, b'aj scol sb'a heb' smak'ancham junok anima, aton Cedes t'a Galilea, t'a tzalquixtac t'a yol yic heb' yinhtilal Neftalí yet' Siquem t'a tzalquixtac t'a yol yic heb' yinhtilal Efraín yet' Quiriat-arba, aton Hebrón t'a tzalquixtac t'a yol yic heb' yinhtilal Judá."
-        },
-        {
-            "number": "8",
-            "text": "Axo t'a junxo sk'axepalek' ha' Jordán, t'a stojolal b'aj sjawi k'u t'a Jericó, ata' ix sik'el oxexo chonhab' heb': Aton chonhab' Beser t'a ak'lic yic tzinan lu'um t'a yol yic heb' yinhtilal Rubén, chonhab' Ramot t'a yol yic Galaad t'a yol yic heb' yinhtilal Gad yet' chonhab' Golán t'a Basán, t'a yol yic heb' yinhtilal Manasés."
-        },
-        {
-            "number": "9",
-            "text": "Aton juntzanh chonhab' chi' ix sik'kanel heb', yic wach' ata' sb'at scol sb'a junok mach smak'ancham junok anima to manh sk'anoc sk'ool. Taxonhej junok heb' israel ma junok heb' ch'oc chonhab'il ayek' t'a skal heb', syal b'at scolan sb'a ta' yic max mak'jicham yuj junok ayto yuj sb'a yet' jun ix cham chi' ayic manto ch'olb'itaj yuj heb' yichamtac winaquil chonhab'."
-        }
-    ]
+  "chapter": "20",
+  "book": "JOSUÉ",
+  "book_short": "Jos",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan Jehová t'a winhaj Josué chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Al t'a heb' etisraelal to sik'kanel juntzanh chonhab' heb' b'aj ol skol sb'a heb', icha ajnak walan t'a winhaj Moisés."
+    },
+    {
+      "number": "3",
+      "text": "Q'uinalok ay junok mach smak'ancham junok anima to manh sk'anok sk'ool, syal b'at skolan sb'a t'a junok chonhab' chi', yik wach' max mak'jicham yuj junok ayto yuj sb'a yet' jun ix cham chi'."
+    },
+    {
+      "number": "4",
+      "text": "Ha jun mach sb'at skol sb'a chi', yowalil sk'och t'a spuertail jun chonhab' chi', syalan t'a heb' yichamtak winakil jun chonhab' chi' tas ix kot t'a yib'anh, slajwi chi' haxo heb' winh schaanoch t'a yol chonhab' chi', tz'ak'ji junok lugar b'aj skajnaji."
+    },
+    {
+      "number": "5",
+      "text": "Tato sayjiek' yuj junok ayto yuj sb'a yet' jun ix cham chi', haxo heb' winh yichamtak winakil jun chonhab' chi' max ak'anoch t'a yol sk'ab' jun sayanek' chi', wach'chom ix cham jun yetanimail chi' yuj, palta manh sk'anok sk'ool, manh yajk'oloktaxon sb'a heb'."
+    },
+    {
+      "number": "6",
+      "text": "Ha jun sb'at skol sb'a chi', skannhej ta' masanto syal sch'olb'itaj yuj heb' chonhab' smasanil. Tato malaj smul, syal skannhej t'a jun chonhab' chi', masanto scham winh sat sakerdote ayoch t'a yopisio t'a jun pekti' chi'. Slajwi chi' syal smeltzajxi t'a schonhab' b'aj elnak chi', xchi t'a winh."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ix sik'kanel juntzanh chonhab' heb' israel, b'aj skol sb'a heb' smak'ancham junok anima, haton Cedes t'a Galilea, t'a tzalkixtak t'a yol yik heb' yinhtilal Neftalí yet' Siquem t'a tzalkixtak t'a yol yik heb' yinhtilal Efraín yet' Quiriat-arba, haton Hebrón t'a tzalkixtak t'a yol yik heb' yinhtilal Judá."
+    },
+    {
+      "number": "8",
+      "text": "Axo t'a junxo sk'axepalek' ha' Jordán, t'a stojolal b'aj sjawi k'u t'a Jericó, ata' ix sik'el oxexo chonhab' heb': Haton chonhab' Beser t'a ak'lik yik tzinan lu'um t'a yol yik heb' yinhtilal Rubén, chonhab' Ramot t'a yol yik Galaad t'a yol yik heb' yinhtilal Gad yet' chonhab' Golán t'a Basán, t'a yol yik heb' yinhtilal Manasés."
+    },
+    {
+      "number": "9",
+      "text": "Haton juntzanh chonhab' chi' ix sik'kanel heb', yik wach' ata' sb'at skol sb'a junok mach smak'ancham junok anima to manh sk'anok sk'ool. Taxonhej junok heb' israel ma junok heb' ch'ok chonhab'il ayek' t'a skal heb', syal b'at skolan sb'a ta' yik max mak'jicham yuj junok ayto yuj sb'a yet' jun ix cham chi' ayik manto ch'olb'itaj yuj heb' yichamtak winakil chonhab'."
+    }
+  ]
 }

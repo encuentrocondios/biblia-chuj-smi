@@ -1,49 +1,53 @@
 {
-    "chapter": "19",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi', ix meltzajxi winhaj Josafat chi' t'a spalacio t'a Jerusalén."
-        },
-        {
-            "number": "2",
-            "text": "Ix elta winhaj Jehú schekab' Dios yuninal winhaj Hanani scha winh rey chi', ix yalan winh icha tik: ¿Tas yuj ix ach kolwaj yet' jun winh chuk spensar chi'? ¿Tas yuj wach' ak'an yet' jun winh ayoch ajk'olal t'a Jehová? Yuj chi' toxo ix cot yowal Jehová t'ayach."
-        },
-        {
-            "number": "3",
-            "text": "Palta jun, ayto wal juntzanhxo tas wach' yoch a wach'iloc, yujto ix a satel yechel Asera t'a yol a macb'en tik, ix ak'anpaxoch t'a a k'ol ak'an serwil Dios, xchi winhaj Jehú chi' t'a winh."
-        },
-        {
-            "number": "4",
-            "text": "Ha t'a Jerusalén kajan winhaj Josafat chi', palta ay jun smodo winh, to sb'at winh yil juntzanhxo schonhab', schacot winh t'a Beerseba, masanto sk'ek'och winh t'a lum tzalquixtac t'a yol yic Efraín. Tz'ek' winh yic syak'xioch sb'a heb' anima t'a Jehová sDiosal heb' yet' heb' smam yicham."
-        },
-        {
-            "number": "5",
-            "text": "Ix ak'jioch heb' winh juez yuj winh t'a junjun chonhab' ayoch smuroal ay t'a yol yic Judá chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ix yalan winh t'a heb' winh juez chi' icha tik: Scham wal eyilan tas ol he k'ulej, yujto manhoc tas snib'ej heb' anima ol he k'ulej, palta to a wal tas snib'ej Jehová. Ol ochnhej Jehová chi' eyed'oc yic tze b'oan yaj yowal heb' anima."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi', niwanokab' yelk'och Jehová t'a he sat, scham wal eyilan tas ol he k'ulej, yujto a Jehová ko Diosal, manh ol techaj yuj tato ay tas manh wach'oc ol he k'ulej, tato ay sk'exanhil anima t'a yol he sat, mato ol he cha k'een tumin t'a elk'altac, xchi winh."
-        },
-        {
-            "number": "8",
-            "text": "Anhejtona' ix sik'anpaxelta juntzanh heb' winh lewita winh, heb' winh sacerdote yet' juntzanh heb' winh yajal yaj t'a junjun makan heb' kajan t'a Jerusalén chi', yic tz'och heb' winh juezal yic sk'ayb'aj heb' anima chi' yuj heb' winh t'a sley Jehová yet' yic sb'oan yaj yowal heb' anima chi' heb' winh t'a Jerusalén chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ix yak'ankan juntzanh checnab'il tik winh t'a heb' winh icha tik: Ha ex tik, ol eyil eyopisio tik, ayokab' yelk'och Jehová t'a he sat, tze k'anab'ajani, wach'nhej tzeyutej he b'a."
-        },
-        {
-            "number": "10",
-            "text": "Yalnhej tas yaj yowal heb' quetchonhab' tik, ol jawok heb' t'ayex, ma yuj heb' ay t'a juntzanhxo chonhab', tato ha' yuj junok lolonel, ma yuj mak'ojcham anima, ma juntzanhxo tas tz'el sk'ulan heb' to manh ichaoc yalan sley Jehová, tze b'o yaj t'a heb'. Scham wal he cachan heb' yic max och smul heb' t'a Jehová, yic max cot yowal t'a eyib'anh yet' t'a yib'anh heb'. Wach'nhej tzeyutej he b'a, yic manh ol och he mul."
-        },
-        {
-            "number": "11",
-            "text": "Ha winhaj Amarías sat sacerdote yaji, anhej winh syal yalani tas ol aj sb'o tastac yic Jehová. Axo winhaj Zebadías yuninal winhaj Ismael, yajal yaj winh t'a skal heb' yinhtilal Judá, anhej winh syal yalan tas ol aj pax yic winh rey yaji. Ol kolwaj pax heb' winh lewita eyed'oc. Tek'an tzeyutej he b'a, aq'ek eyip t'a eyopisio tik. Ha mach wach'nhej tas ol sk'ulej, ol ochnhej Jehová yet'oc, xchi winh."
-        }
-    ]
+  "chapter": "19",
+  "book": "2 CRÓNICAS",
+  "book_short": "2Cr",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi', ix meltzajxi winhaj Josafat chi' t'a spalakio t'a Jerusalén."
+    },
+    {
+      "number": "2",
+      "text": "Ix elta winhaj Jehú schekab' Dios yuninal winhaj Hanani scha winh rey chi', ix yalan winh icha tik: ¿Tas yuj ix ach kolwaj yet' jun winh chuk spensar chi'? ¿Tas yuj wach' ak'an yet' jun winh ayoch ajk'olal t'a Jehová? Yuj chi' toxo ix kot yowal Jehová t'ayach."
+    },
+    {
+      "number": "3",
+      "text": "Palta jun, ayto wal juntzanhxo tas wach' yoch a wach'ilok, yujto ix a satel yechel Asera t'a yol a makb'en tik, ix ak'anpaxoch t'a a k'ol ak'an serwil Dios, xchi winhaj Jehú chi' t'a winh."
+    },
+    {
+      "number": "4",
+      "text": "Ha t'a Jerusalén kajan winhaj Josafat chi', palta ay jun smodo winh, to sb'at winh yil juntzanhxo schonhab', schakot winh t'a Beerseba, masanto sk'ek'och winh t'a lum tzalkixtak t'a yol yik Efraín. Tz'ek' winh yik syak'xioch sb'a heb' anima t'a Jehová sDiosal heb' yet' heb' smam yicham."
+    },
+    {
+      "number": "5",
+      "text": "Ix ak'jioch heb' winh juez yuj winh t'a junjun chonhab' ayoch smuroal ay t'a yol yik Judá chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ix yalan winh t'a heb' winh juez chi' icha tik: Scham wal eyilan tas ol he k'ulej, yujto manhok tas snib'ej heb' anima ol he k'ulej, palta to a wal tas snib'ej Jehová. Ol ochnhej Jehová chi' eyet'ok yik tze b'oan yaj yowal heb' anima."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi', niwanokab' yelk'och Jehová t'a he sat, scham wal eyilan tas ol he k'ulej, yujto a Jehová ko Diosal, manh ol techaj yuj tato ay tas manh wach'ok ol he k'ulej, tato ay sk'exanhil anima t'a yol he sat, mato ol he cha k'een tumin t'a elk'altak, xchi winh."
+    },
+    {
+      "number": "8",
+      "text": "Anhejtona' ix sik'anpaxelta juntzanh heb' winh lewita winh, heb' winh sakerdote yet' juntzanh heb' winh yajal yaj t'a junjun makan heb' kajan t'a Jerusalén chi', yik tz'och heb' winh juezal yik sk'ayb'aj heb' anima chi' yuj heb' winh t'a sley Jehová yet' yik sb'oan yaj yowal heb' anima chi' heb' winh t'a Jerusalén chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ix yak'ankan juntzanh cheknab'il tik winh t'a heb' winh icha tik: Ha ex tik, ol eyil eyopisio tik, ayokab' yelk'och Jehová t'a he sat, tze k'anab'ajani, wach'nhej tzeyutej he b'a."
+    },
+    {
+      "number": "10",
+      "text": "Yalnhej tas yaj yowal heb' ketchonhab' tik, ol jawok heb' t'ayex, ma yuj heb' ay t'a juntzanhxo chonhab', tato ha' yuj junok lolonel, ma yuj mak'ojcham anima, ma juntzanhxo tas tz'el sk'ulan heb' to manh ichaok yalan sley Jehová, tze b'o yaj t'a heb'. Scham wal he kachan heb' yik max och smul heb' t'a Jehová, yik max kot yowal t'a eyib'anh yet' t'a yib'anh heb'. Wach'nhej tzeyutej he b'a, yik manh ol och he mul."
+    },
+    {
+      "number": "11",
+      "text": "Ha winhaj Amarías sat sakerdote yaji, anhej winh syal yalani tas ol aj sb'o tastak yik Jehová. Axo winhaj Zebadías yuninal winhaj Ismael, yajal yaj winh t'a skal heb' yinhtilal Judá, anhej winh syal yalan tas ol aj pax yik winh rey yaji. Ol kolwaj pax heb' winh lewita eyet'ok. Tek'an tzeyutej he b'a, aq'ek eyip t'a eyopisio tik. Ha mach wach'nhej tas ol sk'ulej, ol ochnhej Jehová yet'ok, xchi winh."
+    }
+  ]
 }

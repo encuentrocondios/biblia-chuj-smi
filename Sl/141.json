@@ -1,45 +1,49 @@
 {
-    "chapter": "141",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, swal in b'a t'ayach, cotanh t'a elanhchamel. Ab' in jaj ayic swalan in b'ha t'a ichanh."
-        },
-        {
-            "number": "2",
-            "text": "Mamin, wach'okab' sk'ek'och in lesal icha wal sk'e stab'il incienso t'a ichanh. Axo in k'ab' mojank'e t'ayach, lajanokab' wal icha ofrenda t'a yemk'ualil t'a yol a sat."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, tanhwej in ti', yic wach' manh ol wal chukal lolonel."
-        },
-        {
-            "number": "4",
-            "text": "Najat tzik'kanel chukal t'a in pensar. Manh in a cha b'eyek' t'a chukal b'eyb'al. Manh in a chab'at wael b'aj ay sniwac wael heb' sk'ulan chukal."
-        },
-        {
-            "number": "5",
-            "text": "Tato a junok anima wach' tzin mak'ani, wach'ton tzin yutej. Tato tzin stumej, icha wal to syak'och perfume t'ayin, yuj chi' scha in k'ool. Palta tzin lesalwinhej yic wach' syamchajoch waan tas sk'ulej heb' chuk."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' yajalil heb' sk'ulan chukal, ol ecchajb'at heb' t'a sattac tenam, icha chi' ol aj yilan heb' anima to yel ix wala'."
-        },
-        {
-            "number": "7",
-            "text": "Ha sb'aquil heb', sacleminac ol ajkanb'at b'aj smucchaj heb' chamnac, icha tz'ajkanb'at lum lum ayic sb'oji junok olan."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová in Diosal ach, ay wal och in pensar t'ayach. Ha t'ayach tzin say in colnab'il, manh in actejkani."
-        },
-        {
-            "number": "9",
-            "text": "Colinel t'a syaal heb' tz'ak'an chukal t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Canokab' heb' chuk chi' t'a syaal chi', a inxo jun, ol in ek'nhej."
-        }
-    ]
+  "chapter": "141",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, swal in b'a t'ayach, kotanh t'a elanhchamel. Ab' in jaj ayik swalan in b'a t'a ichanh."
+    },
+    {
+      "number": "2",
+      "text": "Mamin, wach'okab' sk'ek'och in lesal icha wal sk'e stab'il inkienso t'a ichanh. Axo in k'ab' mojank'e t'ayach, lajanokab' wal icha ofrenda t'a yemk'ualil t'a yol a sat."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, tanhwej in ti', yik wach' manh ol wal chukal lolonel."
+    },
+    {
+      "number": "4",
+      "text": "Najat tzik'kanel chukal t'a in pensar. Manh in a cha b'eyek' t'a chukal b'eyb'al. Manh in a chab'at wael b'aj ay sniwak wael heb' sk'ulan chukal."
+    },
+    {
+      "number": "5",
+      "text": "Tato a junok anima wach' tzin mak'ani, wach'ton tzin yutej. Tato tzin stumej, icha wal to syak'och perfume t'ayin, yuj chi' scha in k'ool. Palta tzin lesalwinhej yik wach' syamchajoch waan tas sk'ulej heb' chuk."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' yajalil heb' sk'ulan chukal, ol ekchajb'at heb' t'a sattak tenam, icha chi' ol aj yilan heb' anima to yel ix wala'."
+    },
+    {
+      "number": "7",
+      "text": "Ha sb'akil heb', sakleminak ol ajkanb'at b'aj smukchaj heb' chamnak, icha tz'ajkanb'at lum lum ayik sb'oji junok olan."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová in Diosal ach, ay wal och in pensar t'ayach. Ha t'ayach tzin say in kolnab'il, manh in aktejkani."
+    },
+    {
+      "number": "9",
+      "text": "Kolinel t'a syaal heb' tz'ak'an chukal t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Kanokab' heb' chuk chi' t'a syaal chi', a inxo jun, ol in ek'nhej."
+    }
+  ]
 }

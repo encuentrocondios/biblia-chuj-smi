@@ -1,266 +1,530 @@
 [
-    {
-        "name": "GÉNESIS",
-        "short_name": "Gn"
-    },
-    {
-        "name": "ÉXODO",
-        "short_name": "Ex"
-    },
-    {
-        "name": "LEVÍTICO",
-        "short_name": "Lv"
-    },
-    {
-        "name": "NÚMEROS",
-        "short_name": "Nm"
-    },
-    {
-        "name": "DEUTERONOMIO",
-        "short_name": "Dt"
-    },
-    {
-        "name": "JOSUÉ",
-        "short_name": "Jos"
-    },
-    {
-        "name": "JUECES",
-        "short_name": "Jue"
-    },
-    {
-        "name": "RUT",
-        "short_name": "Rut"
-    },
-    {
-        "name": "1 SAMUEL",
-        "short_name": "1Sam"
-    },
-    {
-        "name": "2 SAMUEL",
-        "short_name": "2Sam"
-    },
-    {
-        "name": "1 REYES",
-        "short_name": "1Re"
-    },
-    {
-        "name": "2 REYES",
-        "short_name": "2Re"
-    },
-    {
-        "name": "1 CRÓNICAS",
-        "short_name": "1Cr"
-    },
-    {
-        "name": "2 CRÓNICAS",
-        "short_name": "2Cr"
-    },
-    {
-        "name": "ESDRAS",
-        "short_name": "Esd"
-    },
-    {
-        "name": "NEHEMÍAS",
-        "short_name": "Ne"
-    },
-    {
-        "name": "ESTER",
-        "short_name": "Est"
-    },
-    {
-        "name": "JOB",
-        "short_name": "Job"
-    },
-    {
-        "name": "SALMOS",
-        "short_name": "Sl"
-    },
-    {
-        "name": "PROVERBIOS",
-        "short_name": "Pr"
-    },
-    {
-        "name": "ECLESIASTÉS",
-        "short_name": "Ecl"
-    },
-    {
-        "name": "CANTARES",
-        "short_name": "Ct"
-    },
-    {
-        "name": "ISAÍAS",
-        "short_name": "Is"
-    },
-    {
-        "name": "JEREMÍAS",
-        "short_name": "Jer"
-    },
-    {
-        "name": "LAMENTACIONES",
-        "short_name": "Lam"
-    },
-    {
-        "name": "EZEQUIEL",
-        "short_name": "Ez"
-    },
-    {
-        "name": "DANIEL",
-        "short_name": "Dn"
-    },
-    {
-        "name": "OSEAS",
-        "short_name": "Os"
-    },
-    {
-        "name": "JOEL",
-        "short_name": "Jl"
-    },
-    {
-        "name": "AMÓS",
-        "short_name": "Am"
-    },
-    {
-        "name": "ABDÍAS",
-        "short_name": "Ab"
-    },
-    {
-        "name": "JONÁS",
-        "short_name": "Jon"
-    },
-    {
-        "name": "MIQUEAS",
-        "short_name": "Mi"
-    },
-    {
-        "name": "NAHUM",
-        "short_name": "Na"
-    },
-    {
-        "name": "HABACUC",
-        "short_name": "Hab"
-    },
-    {
-        "name": "SOFONÍAS",
-        "short_name": "Sof"
-    },
-    {
-        "name": "HAGEO",
-        "short_name": "Hag"
-    },
-    {
-        "name": "ZACARÍAS",
-        "short_name": "Zac"
-    },
-    {
-        "name": "MALAQUÍAS",
-        "short_name": "Mal"
-    },
-    {
-        "name": "SAN MATEO",
-        "short_name": "Mt"
-    },
-    {
-        "name": "SAN MARCOS",
-        "short_name": "Mc"
-    },
-    {
-        "name": "SAN LUCAS",
-        "short_name": "Lc"
-    },
-    {
-        "name": "SAN JUAN",
-        "short_name": "Jn"
-    },
-    {
-        "name": "HECHOS",
-        "short_name": "He"
-    },
-    {
-        "name": "ROMANOS",
-        "short_name": "Rom"
-    },
-    {
-        "name": "1 CORINTIOS",
-        "short_name": "1Cor"
-    },
-    {
-        "name": "2 CORINTIOS",
-        "short_name": "2Cor"
-    },
-    {
-        "name": "GALATAS",
-        "short_name": "Gal"
-    },
-    {
-        "name": "EFESIOS",
-        "short_name": "Ef"
-    },
-    {
-        "name": "FILIPENSES",
-        "short_name": "Flp"
-    },
-    {
-        "name": "COLOSENSES",
-        "short_name": "Col"
-    },
-    {
-        "name": "1 TESALONICENSES",
-        "short_name": "1Te"
-    },
-    {
-        "name": "2 TESALONICENSES",
-        "short_name": "2Te"
-    },
-    {
-        "name": "1 TIMOTEO",
-        "short_name": "1Tim"
-    },
-    {
-        "name": "2 TIMOTEO",
-        "short_name": "2Tim"
-    },
-    {
-        "name": "TITO",
-        "short_name": "Tit"
-    },
-    {
-        "name": "FILEMÓN",
-        "short_name": "Flm"
-    },
-    {
-        "name": "HEBREOS",
-        "short_name": "Heb"
-    },
-    {
-        "name": "SANTIAGO",
-        "short_name": "Sant"
-    },
-    {
-        "name": "1 SAN PEDRO",
-        "short_name": "1Pe"
-    },
-    {
-        "name": "2 SAN PEDRO",
-        "short_name": "2Pe"
-    },
-    {
-        "name": "1 SAN JUAN",
-        "short_name": "1Jn"
-    },
-    {
-        "name": "2 SAN JUAN",
-        "short_name": "2Jn"
-    },
-    {
-        "name": "3 SAN JUAN",
-        "short_name": "3Jn"
-    },
-    {
-        "name": "SAN JUDAS",
-        "short_name": "Jds"
-    },
-    {
-        "name": "APOCALIPSIS",
-        "short_name": "Ap"
-    }
+  {
+    "name": "GÉNESIS",
+    "short_name": "Gn",
+    "number": 1,
+    "testament": "AT",
+    "chapters": 50,
+    "verses": 1490
+  },
+  {
+    "name": "ÉXODO",
+    "short_name": "Ex",
+    "number": 2,
+    "testament": "AT",
+    "chapters": 40,
+    "verses": 1203
+  },
+  {
+    "name": "LEVÍTICO",
+    "short_name": "Lv",
+    "number": 3,
+    "testament": "AT",
+    "chapters": 27,
+    "verses": 828
+  },
+  {
+    "name": "NÚMEROS",
+    "short_name": "Nm",
+    "number": 4,
+    "testament": "AT",
+    "chapters": 36,
+    "verses": 1058
+  },
+  {
+    "name": "DEUTERONOMIO",
+    "short_name": "Dt",
+    "number": 5,
+    "testament": "AT",
+    "chapters": 34,
+    "verses": 935
+  },
+  {
+    "name": "JOSUÉ",
+    "short_name": "Jos",
+    "number": 6,
+    "testament": "AT",
+    "chapters": 24,
+    "verses": 530
+  },
+  {
+    "name": "JUECES",
+    "short_name": "Jue",
+    "number": 7,
+    "testament": "AT",
+    "chapters": 21,
+    "verses": 608
+  },
+  {
+    "name": "RUT",
+    "short_name": "Rut",
+    "number": 8,
+    "testament": "AT",
+    "chapters": 4,
+    "verses": 79
+  },
+  {
+    "name": "1 SAMUEL",
+    "short_name": "1Sam",
+    "number": 9,
+    "testament": "AT",
+    "chapters": 31,
+    "verses": 800
+  },
+  {
+    "name": "2 SAMUEL",
+    "short_name": "2Sam",
+    "number": 10,
+    "testament": "AT",
+    "chapters": 24,
+    "verses": 678
+  },
+  {
+    "name": "1 REYES",
+    "short_name": "1Re",
+    "number": 11,
+    "testament": "AT",
+    "chapters": 22,
+    "verses": 774
+  },
+  {
+    "name": "2 REYES",
+    "short_name": "2Re",
+    "number": 12,
+    "testament": "AT",
+    "chapters": 25,
+    "verses": 707
+  },
+  {
+    "name": "1 CRÓNICAS",
+    "short_name": "1Cr",
+    "number": 13,
+    "testament": "AT",
+    "chapters": 29,
+    "verses": 785
+  },
+  {
+    "name": "2 CRÓNICAS",
+    "short_name": "2Cr",
+    "number": 14,
+    "testament": "AT",
+    "chapters": 36,
+    "verses": 801
+  },
+  {
+    "name": "ESDRAS",
+    "short_name": "Esd",
+    "number": 15,
+    "testament": "AT",
+    "chapters": 10,
+    "verses": 198
+  },
+  {
+    "name": "NEHEMÍAS",
+    "short_name": "Ne",
+    "number": 16,
+    "testament": "AT",
+    "chapters": 13,
+    "verses": 301
+  },
+  {
+    "name": "ESTER",
+    "short_name": "Est",
+    "number": 17,
+    "testament": "AT",
+    "chapters": 10,
+    "verses": 161
+  },
+  {
+    "name": "JOB",
+    "short_name": "Job",
+    "number": 18,
+    "testament": "AT",
+    "chapters": 42,
+    "verses": 1062
+  },
+  {
+    "name": "SALMOS",
+    "short_name": "Sl",
+    "number": 19,
+    "testament": "AT",
+    "chapters": 150,
+    "verses": 2450
+  },
+  {
+    "name": "PROVERBIOS",
+    "short_name": "Pr",
+    "number": 20,
+    "testament": "AT",
+    "chapters": 31,
+    "verses": 906
+  },
+  {
+    "name": "ECLESIASTÉS",
+    "short_name": "Ecl",
+    "number": 21,
+    "testament": "AT",
+    "chapters": 12,
+    "verses": 217
+  },
+  {
+    "name": "CANTARES",
+    "short_name": "Ct",
+    "number": 22,
+    "testament": "AT",
+    "chapters": 8,
+    "verses": 117
+  },
+  {
+    "name": "ISAÍAS",
+    "short_name": "Is",
+    "number": 23,
+    "testament": "AT",
+    "chapters": 66,
+    "verses": 1285
+  },
+  {
+    "name": "JEREMÍAS",
+    "short_name": "Jer",
+    "number": 24,
+    "testament": "AT",
+    "chapters": 52,
+    "verses": 1336
+  },
+  {
+    "name": "LAMENTACIONES",
+    "short_name": "Lam",
+    "number": 25,
+    "testament": "AT",
+    "chapters": 5,
+    "verses": 154
+  },
+  {
+    "name": "EZEQUIEL",
+    "short_name": "Ez",
+    "number": 26,
+    "testament": "AT",
+    "chapters": 48,
+    "verses": 1231
+  },
+  {
+    "name": "DANIEL",
+    "short_name": "Dn",
+    "number": 27,
+    "testament": "AT",
+    "chapters": 12,
+    "verses": 353
+  },
+  {
+    "name": "OSEAS",
+    "short_name": "Os",
+    "number": 28,
+    "testament": "AT",
+    "chapters": 14,
+    "verses": 196
+  },
+  {
+    "name": "JOEL",
+    "short_name": "Jl",
+    "number": 29,
+    "testament": "AT",
+    "chapters": 3,
+    "verses": 73
+  },
+  {
+    "name": "AMÓS",
+    "short_name": "Am",
+    "number": 30,
+    "testament": "AT",
+    "chapters": 9,
+    "verses": 145
+  },
+  {
+    "name": "ABDÍAS",
+    "short_name": "Ab",
+    "number": 31,
+    "testament": "AT",
+    "chapters": 1,
+    "verses": 21
+  },
+  {
+    "name": "JONÁS",
+    "short_name": "Jon",
+    "number": 32,
+    "testament": "AT",
+    "chapters": 4,
+    "verses": 47
+  },
+  {
+    "name": "MIQUEAS",
+    "short_name": "Mi",
+    "number": 33,
+    "testament": "AT",
+    "chapters": 7,
+    "verses": 104
+  },
+  {
+    "name": "NAHUM",
+    "short_name": "Na",
+    "number": 34,
+    "testament": "AT",
+    "chapters": 3,
+    "verses": 46
+  },
+  {
+    "name": "HABACUC",
+    "short_name": "Hab",
+    "number": 35,
+    "testament": "AT",
+    "chapters": 3,
+    "verses": 55
+  },
+  {
+    "name": "SOFONÍAS",
+    "short_name": "Sof",
+    "number": 36,
+    "testament": "AT",
+    "chapters": 3,
+    "verses": 53
+  },
+  {
+    "name": "HAGEO",
+    "short_name": "Hag",
+    "number": 37,
+    "testament": "AT",
+    "chapters": 2,
+    "verses": 36
+  },
+  {
+    "name": "ZACARÍAS",
+    "short_name": "Zac",
+    "number": 38,
+    "testament": "AT",
+    "chapters": 14,
+    "verses": 204
+  },
+  {
+    "name": "MALAQUÍAS",
+    "short_name": "Mal",
+    "number": 39,
+    "testament": "AT",
+    "chapters": 4,
+    "verses": 55
+  },
+  {
+    "name": "SAN MATEO",
+    "short_name": "Mt",
+    "number": 40,
+    "testament": "NT",
+    "chapters": 28,
+    "verses": 1066
+  },
+  {
+    "name": "SAN MARCOS",
+    "short_name": "Mc",
+    "number": 41,
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 670
+  },
+  {
+    "name": "SAN LUCAS",
+    "short_name": "Lc",
+    "number": 42,
+    "testament": "NT",
+    "chapters": 24,
+    "verses": 1144
+  },
+  {
+    "name": "SAN JUAN",
+    "short_name": "Jn",
+    "number": 43,
+    "testament": "NT",
+    "chapters": 21,
+    "verses": 873
+  },
+  {
+    "name": "HECHOS",
+    "short_name": "He",
+    "number": 44,
+    "testament": "NT",
+    "chapters": 28,
+    "verses": 1002
+  },
+  {
+    "name": "ROMANOS",
+    "short_name": "Rom",
+    "number": 45,
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 429
+  },
+  {
+    "name": "1 CORINTIOS",
+    "short_name": "1Cor",
+    "number": 46,
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 435
+  },
+  {
+    "name": "2 CORINTIOS",
+    "short_name": "2Cor",
+    "number": 47,
+    "testament": "NT",
+    "chapters": 13,
+    "verses": 255
+  },
+  {
+    "name": "GALATAS",
+    "short_name": "Gal",
+    "number": 48,
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 149
+  },
+  {
+    "name": "EFESIOS",
+    "short_name": "Ef",
+    "number": 49,
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 155
+  },
+  {
+    "name": "FILIPENSES",
+    "short_name": "Flp",
+    "number": 50,
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 102
+  },
+  {
+    "name": "COLOSENSES",
+    "short_name": "Col",
+    "number": 51,
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 95
+  },
+  {
+    "name": "1 TESALONICENSES",
+    "short_name": "1Te",
+    "number": 52,
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 89
+  },
+  {
+    "name": "2 TESALONICENSES",
+    "short_name": "2Te",
+    "number": 53,
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 47
+  },
+  {
+    "name": "1 TIMOTEO",
+    "short_name": "1Tim",
+    "number": 54,
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 113
+  },
+  {
+    "name": "2 TIMOTEO",
+    "short_name": "2Tim",
+    "number": 55,
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 83
+  },
+  {
+    "name": "TITO",
+    "short_name": "Tit",
+    "number": 56,
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 46
+  },
+  {
+    "name": "FILEMÓN",
+    "short_name": "Flm",
+    "number": 57,
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 25
+  },
+  {
+    "name": "HEBREOS",
+    "short_name": "Heb",
+    "number": 58,
+    "testament": "NT",
+    "chapters": 13,
+    "verses": 303
+  },
+  {
+    "name": "SANTIAGO",
+    "short_name": "Sant",
+    "number": 59,
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 106
+  },
+  {
+    "name": "1 SAN PEDRO",
+    "short_name": "1Pe",
+    "number": 60,
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 104
+  },
+  {
+    "name": "2 SAN PEDRO",
+    "short_name": "2Pe",
+    "number": 61,
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 61
+  },
+  {
+    "name": "1 SAN JUAN",
+    "short_name": "1Jn",
+    "number": 62,
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 104
+  },
+  {
+    "name": "2 SAN JUAN",
+    "short_name": "2Jn",
+    "number": 63,
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 13
+  },
+  {
+    "name": "3 SAN JUAN",
+    "short_name": "3Jn",
+    "number": 64,
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 15
+  },
+  {
+    "name": "SAN JUDAS",
+    "short_name": "Jds",
+    "number": 65,
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 24
+  },
+  {
+    "name": "APOCALIPSIS",
+    "short_name": "Ap",
+    "number": 66,
+    "testament": "NT",
+    "chapters": 22,
+    "verses": 401
+  }
 ]

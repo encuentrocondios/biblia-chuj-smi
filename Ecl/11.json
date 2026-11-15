@@ -1,45 +1,49 @@
 {
-    "chapter": "11",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Elb'enokab' tastac cuuj, yujto ay jun k'ual ol ko cha spak."
-        },
-        {
-            "number": "2",
-            "text": "Ha tastac ay t'ayonh, wach' sko pucb'at t'a heb' malaj yico', yujto manh cojtakoc talaj ay junok chukal sjawi t'a quib'anh t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "3",
-            "text": "Tato stelwi junok te te', yalxonhej b'aj sb'at te', skannhej te' b'aj tz'em juan chi'. Tato k'ik' yilji asun, wan scot nhab' syal chi'."
-        },
-        {
-            "number": "4",
-            "text": "Tato skak'och ko chum chajtil yilji tiempo b'aj ayonheq'ui, malaj b'ak'uinh tzonh awalwi, malaj pax b'ak'uinh sko mol sat cavb'en chi'."
-        },
-        {
-            "number": "5",
-            "text": "Manh cojtakoc b'aj scot ik', manh cojtakocpaxi tas tz'aj sq'uib' junok nene' unin t'a yol sk'ol snun, ichaton chi' manh cojtakoc tastac sk'ulej Dios, aton ixb’o’an masanil tas."
-        },
-        {
-            "number": "6",
-            "text": "Cawejec ko b'ab'el avb'en, skawan pax tzak'anilto tz'ochi, yujto manh cojtakoc mach junok makan wach' tz'aji, tom a b'ab'el chi', mato a tzak'an chi', mato syak' scha makanhil jun."
-        },
-        {
-            "number": "7",
-            "text": "Te wach' quilan sakil k'inal, wach' quilan pax yoc k'u."
-        },
-        {
-            "number": "8",
-            "text": "Wach'chom tzijtum ab'il squila', palta skak' quip kak'an tzalajb'oc ko k'ool. Scham wal ko naani to niwan tiempo tzonh kan t'a campusante, manhxa tas skak' ganar ta', manhxalaj yelk'ochi."
-        },
-        {
-            "number": "9",
-            "text": "Ex kelemtac yet' ex cob'estac, tzalajanhec yacb'an steton eyip. Hak'ek tzalajb'oc he k'ool yet' tas wach' yacb'an syal eyuuj. Ixiquec b'aj tze nib'ej tzex b'ati, k'ulejec tas tze nib'ej tze k'ulej, palta b'ian scham wal he naani to ol ex sch'olb'itej Dios yuj tastac tze k'ulej chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ik'equel juntzanh tas tze naub'tanhej t'a he pensar, manh ex och ilk'olal yuj junok yaelal t'a he niwanil, yujto a jab' stiempoal he quelemal he cob'esal, malaj yelk'ochi, junnhej rato tzek'b'ati."
-        }
-    ]
+  "chapter": "11",
+  "book": "ECLESIASTÉS",
+  "book_short": "Ecl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Elb'enokab' tastak kuuj, yujto ay jun k'ual ol ko cha spak."
+    },
+    {
+      "number": "2",
+      "text": "Ha tastak ay t'ayonh, wach' sko pukb'at t'a heb' malaj yiko', yujto manh kojtakok talaj ay junok chukal sjawi t'a kib'anh t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "3",
+      "text": "Tato stelwi junok te te', yalxonhej b'aj sb'at te', skannhej te' b'aj tz'em juan chi'. Tato k'ik' yilji asun, wan skot nhab' syal chi'."
+    },
+    {
+      "number": "4",
+      "text": "Tato skak'och ko chum chajtil yilji tiempo b'aj ayonheq'ui, malaj b'ak'uinh tzonh awalwi, malaj pax b'ak'uinh sko mol sat kawb'en chi'."
+    },
+    {
+      "number": "5",
+      "text": "Manh kojtakok b'aj skot ik', manh kojtakokpaxi tas tz'aj sq'uib' junok nene' unin t'a yol sk'ol snun, ichaton chi' manh kojtakok tastak sk'ulej Dios, haton ixb'o'an masanil tas."
+    },
+    {
+      "number": "6",
+      "text": "Kawejek ko b'ab'el awb'en, skawan pax tzak'anilto tz'ochi, yujto manh kojtakok mach junok makan wach' tz'aji, tom a b'ab'el chi', mato a tzak'an chi', mato syak' scha makanhil jun."
+    },
+    {
+      "number": "7",
+      "text": "Te wach' kilan sakil k'inal, wach' kilan pax yok k'u."
+    },
+    {
+      "number": "8",
+      "text": "Wach'chom tzijtum ab'il skila', palta skak' kip kak'an tzalajb'ok ko k'ool. Scham wal ko naani to niwan tiempo tzonh kan t'a kampusante, manhxa tas skak' ganar ta', manhxalaj yelk'ochi."
+    },
+    {
+      "number": "9",
+      "text": "Ex kelemtak yet' ex kob'estak, tzalajanhek yakb'an steton eyip. Hak'ek tzalajb'ok he k'ool yet' tas wach' yakb'an syal eyuuj. Ixikek b'aj tze nib'ej tzex b'ati, k'ulejek tas tze nib'ej tze k'ulej, palta b'ian scham wal he naani to ol ex sch'olb'itej Dios yuj tastak tze k'ulej chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ik'ekel juntzanh tas tze naub'tanhej t'a he pensar, manh ex och ilk'olal yuj junok yaelal t'a he niwanil, yujto a jab' stiempoal he kelemal he kob'esal, malaj yelk'ochi, junnhej rato tzek'b'ati."
+    }
+  ]
 }

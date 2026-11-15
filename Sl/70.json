@@ -1,25 +1,29 @@
 {
-    "chapter": "70",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, ul colineli. Mamin Jehová, cotanh elanhchamel yic tzin a colani."
-        },
-        {
-            "number": "2",
-            "text": "Ha heb' snib'an in smilanchamoc, q'uixwokab' el heb', somchajokab' el heb'. Ha heb' snib'ej yak'an chukal t'ayin, b'atokab' heb' elelal yuj q'uixwelal."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' tzin b'uchani, aton heb' tz'el stzub' t'ayin, b'atokab' heb' elelal yuj q'uixwelal."
-        },
-        {
-            "number": "4",
-            "text": "Axo masanil heb' syak'em sb'a t'ayach, tzalajokab' sk'ol heb'. Ha heb' snib'an a colwal, yalokab' heb' to te niwan elk'ochi."
-        },
-        {
-            "number": "5",
-            "text": "Ha in pax tik jun, ilb'aj in k'ool, cusk'olal waji. Axo swalani: Ach in Diosal, cotanh t'a elanhchamel yic tzin a colani. Ha achnhej tzin a coltaxoni. Cotanh t'a elanhchamel, Mamin Jehová, xin chi."
-        }
-    ]
+  "chapter": "70",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 5,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, ul kolineli. Mamin Jehová, kotanh elanhchamel yik tzin a kolani."
+    },
+    {
+      "number": "2",
+      "text": "Ha heb' snib'an in smilanchamok, q'uixwokab' el heb', somchajokab' el heb'. Ha heb' snib'ej yak'an chukal t'ayin, b'atokab' heb' elelal yuj q'uixwelal."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' tzin b'uchani, haton heb' tz'el stzub' t'ayin, b'atokab' heb' elelal yuj q'uixwelal."
+    },
+    {
+      "number": "4",
+      "text": "Axo masanil heb' syak'em sb'a t'ayach, tzalajokab' sk'ol heb'. Ha heb' snib'an a kolwal, yalokab' heb' to te niwan elk'ochi."
+    },
+    {
+      "number": "5",
+      "text": "Ha in pax tik jun, ilb'aj in k'ool, kusk'olal waji. Axo swalani: Ach in Diosal, kotanh t'a elanhchamel yik tzin a kolani. Ha achnhej tzin a koltaxoni. Kotanh t'a elanhchamel, Mamin Jehová, xin chi."
+    }
+  ]
 }

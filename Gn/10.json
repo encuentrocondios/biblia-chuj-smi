@@ -1,133 +1,137 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha yab'ixal heb' yinhtilal winhaj Noé tik: Aton winhaj Sem, winhaj Cam yet' winhaj Jafet. Ayic ix lajwi yek' jun owal ha' mucwajum chi', ix laj alji yuninal heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ha sb'i heb' yuninal winhaj Jafet: Aton winhaj Gomer, winhaj Magog, winhaj Madai, winhaj Javán, winhaj Tubal, winhaj Mesec yet' winhaj Tiras."
-        },
-        {
-            "number": "3",
-            "text": "Ha sb'i heb' yuninal winhaj Gomer: Aton winhaj Askenaz, winhaj Rifat yet' winhaj Togarma."
-        },
-        {
-            "number": "4",
-            "text": "Ha sb'i heb' yuninal winhaj Javán: Aton winhaj Elisa, winhaj Tarsis, winhaj Quitim yet' winhaj Dodanim."
-        },
-        {
-            "number": "5",
-            "text": "Aton heb' tik yinhtilal winhaj Jafet. Ix kajnaj heb' t'a stitac ha' mar, junjun makan yinhtilal heb' yet' smacb'en yet' sti' syala'."
-        },
-        {
-            "number": "6",
-            "text": "Ha sb'i heb' yuninal winhaj Cam: Aton winhaj Cus, winhaj Mizraim, winhaj Fut yet' winhaj Canaán."
-        },
-        {
-            "number": "7",
-            "text": "Ha sb'i heb' yuninal winhaj Cus: Aton winhaj Seba, winhaj Hawila, winhaj Sabta, winhaj Raama yet' winhaj Sabteca. Ha sb'i heb' yuninal winhaj Raama: Aton winhaj Seba yet' winhaj Dedán."
-        },
-        {
-            "number": "8",
-            "text": "Ha winhaj Cus ay yuninal winhaj Nimrod. Ha winhaj Nimrod chi' b'ab'el ix och yajalil t'a skal heb' chonhab'."
-        },
-        {
-            "number": "9",
-            "text": "Te julum nok' winh t'a yichanh Jehová, yuj chi' ay jun lolonel t'a skal heb' anima tz'alan icha tik: Lajan winh icha winhaj Nimrod, winh te julum nok' t'a yol sat Jehová, xchi jun lolonel chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ha t'a sb'ab'elal, yajal yaj winhaj Nimrod t'a yib'anh Babel, Erec, Acad yet' Calne. Ha t'a yol smacb'en Sinar ata' ay juntzanh chonhab' chi'."
-        },
-        {
-            "number": "11",
-            "text": "Ixlajwi chi', ix b'at winh t'a Asiria. Ata' ix sb'o chanhexo niwac chonhab' winh: Aton chonhab' Níniwe, Rehobot, Cala"
-        },
-        {
-            "number": "12",
-            "text": "yet' Resén, aton jun chonhab' ay t'a skal Níniwe yet' Cala. Ha chanhe' chonhab' chi', junxonhej niwan chonhab'il ix aji."
-        },
-        {
-            "number": "13",
-            "text": "Axo t'a winhaj Mizraim ix cot heb' Ludim, heb' Anamim, heb' Lehabim, heb' Naftuhim,"
-        },
-        {
-            "number": "14",
-            "text": "heb' Patrusim, heb' Casluhim yet' heb' Caftorim. Ha t'a heb' chi' ix cot heb' filisteo."
-        },
-        {
-            "number": "15",
-            "text": "Ha winhaj Canaán smam winhaj Sidón yet' winhaj Het. Ha winhaj Sidón chi', b'ab'el unin winh."
-        },
-        {
-            "number": "16",
-            "text": "Ha winhaj Canaán chi' smam icham heb' jebuseo, heb' amorreo, heb' gergeseo,"
-        },
-        {
-            "number": "17",
-            "text": "heb' heweo, heb' araceo, heb' sineo,"
-        },
-        {
-            "number": "18",
-            "text": "heb' arwadeo, heb' zemareo, heb' amateo. Ayic ix b'ey tiempo ix saklemkanb'at heb' cananeo chi'."
-        },
-        {
-            "number": "19",
-            "text": "Ha sluum heb', tzato k'och t'a smojonal Sidón masanto t'a stojolal Gerar, masanto t'a Gaza. Scumlajxib'at lu'um t'a yol smacb'en chonhab' Sodoma, Gomorra, Adma yet' Zeboim masanto sk'och lum t'a chonhab' Lasa."
-        },
-        {
-            "number": "20",
-            "text": "Ata' ix kajnaj heb' yinhtilal winhaj Cam, junjun makan yinhtilal heb' t'a yol smacb'en yet' sti' syala'."
-        },
-        {
-            "number": "21",
-            "text": "Axo pax winhaj Sem, winh b'ab'el winak t'a winhaj Jafet, ay pax yuninal winh. Ha onh masanil onh tik, yinhtilal onh winhaj Heber, cotnac onh t'a yinhtilal winhaj Sem."
-        },
-        {
-            "number": "22",
-            "text": "Ha heb' yuninal winhaj Sem chi', aton winhaj Elam, winhaj Asur, winhaj Arfaxad, winhaj Lud yet' winhaj Aram."
-        },
-        {
-            "number": "23",
-            "text": "Axo heb' yuninal winhaj Aram, aton winhaj Uz, winhaj Hul, winhaj Geter yet' winhaj Mas."
-        },
-        {
-            "number": "24",
-            "text": "Ha winhaj Arfaxad ay yuninal winhaj Sala, haxo winhaj Sala chi' ay yuninal winhaj Heber."
-        },
-        {
-            "number": "25",
-            "text": "Axo winhaj Heber chi', chawanh yuninal winh, Peleg sb'i jun winh. Ha t'a yol stiempoal winh tik ix pukaxcanb'at heb' anima t'a sat lum lum tik. Axo junxo winh skuchan Joctán."
-        },
-        {
-            "number": "26",
-            "text": "Ha winhaj Joctán chi' ay yuninal winhaj Almodad, winhaj Selef, winhaj Hazar-mawet, winhaj Jera,"
-        },
-        {
-            "number": "27",
-            "text": "winhaj Adoram, winhaj Uzal, winhaj Dicla,"
-        },
-        {
-            "number": "28",
-            "text": "winhaj Obal, winhaj Abimael, winhaj Seba,"
-        },
-        {
-            "number": "29",
-            "text": "winhaj Ofir, winhaj Hawila yet' winhaj Jobab. Masanil heb' tik, a winhaj Joctán ay yuninal heb'."
-        },
-        {
-            "number": "30",
-            "text": "Ix kajnaj heb' t'a lum scot t'a Mesa, masanto sk'och t'a Sefar t'a tzalquixtac t'a stojolal b'aj sjawi k'u."
-        },
-        {
-            "number": "31",
-            "text": "Ata' ix kajnaj heb' yinhtilal winhaj Sem, junjun makan yinhtilal heb' t'a yol smacb'en yet' sti' syala'."
-        },
-        {
-            "number": "32",
-            "text": "Masanil juntzanh anima tik, a heb' yuninal winhaj Noé ay yinhtilal heb', junjun makan yinhtilal heb' yet' smacb'en. Ayic ix lajwi yek' jun owal ha' mucwajum chi', ix saklemkanb'at heb'. Ha t'a heb' tik ix pitzwi juntzanh nación ay t'a yol yib'anhk’inal tik."
-        }
-    ]
+  "chapter": "10",
+  "book": "GÉNESIS",
+  "book_short": "Gn",
+  "aligned": true,
+  "es_verses": 32,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha yab'ixal heb' yinhtilal winhaj Noé tik: Haton winhaj Sem, winhaj Cam yet' winhaj Jafet. Ayik ix lajwi yek' jun owal ha' mukwajum chi', ix laj alji yuninal heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ha sb'i heb' yuninal winhaj Jafet: Haton winhaj Gomer, winhaj Magog, winhaj Madai, winhaj Javán, winhaj Tubal, winhaj Mesec yet' winhaj Tiras."
+    },
+    {
+      "number": "3",
+      "text": "Ha sb'i heb' yuninal winhaj Gomer: Haton winhaj Askenaz, winhaj Rifat yet' winhaj Togarma."
+    },
+    {
+      "number": "4",
+      "text": "Ha sb'i heb' yuninal winhaj Javán: Haton winhaj Elisa, winhaj Tarsis, winhaj Quitim yet' winhaj Dodanim."
+    },
+    {
+      "number": "5",
+      "text": "Haton heb' tik yinhtilal winhaj Jafet. Ix kajnaj heb' t'a stitak ha' mar, junjun makan yinhtilal heb' yet' smakb'en yet' sti' syala'."
+    },
+    {
+      "number": "6",
+      "text": "Ha sb'i heb' yuninal winhaj Cam: Haton winhaj Cus, winhaj Mizraim, winhaj Fut yet' winhaj Canaán."
+    },
+    {
+      "number": "7",
+      "text": "Ha sb'i heb' yuninal winhaj Cus: Haton winhaj Seba, winhaj Havila, winhaj Sabta, winhaj Raama yet' winhaj Sabteca. Ha sb'i heb' yuninal winhaj Raama: Haton winhaj Seba yet' winhaj Dedán."
+    },
+    {
+      "number": "8",
+      "text": "Ha winhaj Cus ay yuninal winhaj Nimrod. Ha winhaj Nimrod chi' b'ab'el ix och yajalil t'a skal heb' chonhab'."
+    },
+    {
+      "number": "9",
+      "text": "Te julum nok' winh t'a yichanh Jehová, yuj chi' ay jun lolonel t'a skal heb' anima tz'alan icha tik: Lajan winh icha winhaj Nimrod, winh te julum nok' t'a yol sat Jehová, xchi jun lolonel chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ha t'a sb'ab'elal, yajal yaj winhaj Nimrod t'a yib'anh Babel, Erec, Acad yet' Calne. Ha t'a yol smakb'en Sinar ata' ay juntzanh chonhab' chi'."
+    },
+    {
+      "number": "11",
+      "text": "Ixlajwi chi', ix b'at winh t'a Asiria. Ata' ix sb'o chanhexo niwak chonhab' winh: Haton chonhab' Nínive, Rehobot, Kala"
+    },
+    {
+      "number": "12",
+      "text": "yet' Resén, haton jun chonhab' ay t'a skal Nínive yet' Kala. Ha chanhe' chonhab' chi', junxonhej niwan chonhab'il ix aji."
+    },
+    {
+      "number": "13",
+      "text": "Axo t'a winhaj Mizraim ix kot heb' Ludim, heb' Anamim, heb' Lehabim, heb' Naftuhim,"
+    },
+    {
+      "number": "14",
+      "text": "heb' Patrusim, heb' Casluhim yet' heb' Kaftorim. Ha t'a heb' chi' ix kot heb' filisteo."
+    },
+    {
+      "number": "15",
+      "text": "Ha winhaj Canaán smam winhaj Sidón yet' winhaj Het. Ha winhaj Sidón chi', b'ab'el unin winh."
+    },
+    {
+      "number": "16",
+      "text": "Ha winhaj Canaán chi' smam icham heb' jebuseo, heb' amorreo, heb' gergeseo,"
+    },
+    {
+      "number": "17",
+      "text": "heb' heweo, heb' arakeo, heb' sineo,"
+    },
+    {
+      "number": "18",
+      "text": "heb' arwadeo, heb' zemareo, heb' amateo. Ayik ix b'ey tiempo ix saklemkanb'at heb' kananeo chi'."
+    },
+    {
+      "number": "19",
+      "text": "Ha sluum heb', tzato k'och t'a smojonal Sidón masanto t'a stojolal Gerar, masanto t'a Gaza. Skumlajxib'at lu'um t'a yol smakb'en chonhab' Sodoma, Gomorra, Adma yet' Zeboim masanto sk'och lum t'a chonhab' Lasa."
+    },
+    {
+      "number": "20",
+      "text": "Ata' ix kajnaj heb' yinhtilal winhaj Cam, junjun makan yinhtilal heb' t'a yol smakb'en yet' sti' syala'."
+    },
+    {
+      "number": "21",
+      "text": "Axo pax winhaj Sem, winh b'ab'el winak t'a winhaj Jafet, ay pax yuninal winh. Ha onh masanil onh tik, yinhtilal onh winhaj Heber, kotnak onh t'a yinhtilal winhaj Sem."
+    },
+    {
+      "number": "22",
+      "text": "Ha heb' yuninal winhaj Sem chi', haton winhaj Elam, winhaj Asur, winhaj Arfaxad, winhaj Lud yet' winhaj Aram."
+    },
+    {
+      "number": "23",
+      "text": "Axo heb' yuninal winhaj Aram, haton winhaj Uz, winhaj Hul, winhaj Geter yet' winhaj Mas."
+    },
+    {
+      "number": "24",
+      "text": "Ha winhaj Arfaxad ay yuninal winhaj Sala, haxo winhaj Sala chi' ay yuninal winhaj Heber."
+    },
+    {
+      "number": "25",
+      "text": "Axo winhaj Heber chi', chawanh yuninal winh, Peleg sb'i jun winh. Ha t'a yol stiempoal winh tik ix pukaxkanb'at heb' anima t'a sat lum lum tik. Axo junxo winh skuchan Joctán."
+    },
+    {
+      "number": "26",
+      "text": "Ha winhaj Joctán chi' ay yuninal winhaj Almodad, winhaj Selef, winhaj Hazar-mawet, winhaj Jera,"
+    },
+    {
+      "number": "27",
+      "text": "winhaj Adoram, winhaj Uzal, winhaj Dicla,"
+    },
+    {
+      "number": "28",
+      "text": "winhaj Obal, winhaj Abimael, winhaj Seba,"
+    },
+    {
+      "number": "29",
+      "text": "winhaj Ofir, winhaj Havila yet' winhaj Jobab. Masanil heb' tik, a winhaj Joctán ay yuninal heb'."
+    },
+    {
+      "number": "30",
+      "text": "Ix kajnaj heb' t'a lum skot t'a Mesa, masanto sk'och t'a Sefar t'a tzalkixtak t'a stojolal b'aj sjawi k'u."
+    },
+    {
+      "number": "31",
+      "text": "Ata' ix kajnaj heb' yinhtilal winhaj Sem, junjun makan yinhtilal heb' t'a yol smakb'en yet' sti' syala'."
+    },
+    {
+      "number": "32",
+      "text": "Masanil juntzanh anima tik, a heb' yuninal winhaj Noé ay yinhtilal heb', junjun makan yinhtilal heb' yet' smakb'en. Ayik ix lajwi yek' jun owal ha' mukwajum chi', ix saklemkanb'at heb'. Ha t'a heb' tik ix pitzwi juntzanh nakión ay t'a yol yib'anhk'inal tik."
+    }
+  ]
 }

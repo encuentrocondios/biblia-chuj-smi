@@ -1,65 +1,69 @@
 {
-    "chapter": "19",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan Jehová t'ayin icha tik: B'at man junok lum ch'ub', tzik'anb'at heb' yichamtac winaquil chonhab' ed'oc yet' heb' sacerdote ichamtac winacxo."
-        },
-        {
-            "number": "2",
-            "text": "Tzach el t'a puerta b'aj tz'el heb' sb'at ak'ojcan k'alem t'a sch'olanil yic Ben-hinom, ata' ol al juntzanh lolonel swal tik t'ayach t'a heb'."
-        },
-        {
-            "number": "3",
-            "text": "Tzalan icha tik: Ex sreyal Judá yet' ex kajan ex t'a Jerusalén tik, ab'ec wal slolonel Jehová ko Diosal Yajal t'a Smasanil: Ab'ec, ol wak'b'at jun niwan yaelal t'a yib'anh he chonhab' tik. Masanil mach ol ab'anoc, ol sat sk'ol heb' yab'ani."
-        },
-        {
-            "number": "4",
-            "text": "Yujto tzin eyactejkani, tzeyak'anoch jun lugar tik yicoc comon Dios. Tze nhusan incienso t'a juntzanh comon Dios manh eyojtakoc yet' heb' he mam eyicham. Manhxa yalnab'il jantac heb' unin malaj smul tze milchamoc."
-        },
-        {
-            "number": "5",
-            "text": "Ix he b'ok'e juntzanh altar b'aj tze nhustz'a heb' eyuninal silab'il t'a Baal. Tze k'ulan wal tas manhoc in swak' he k'ulej, max ek' t'a in pensar juntzanh tas tze k'ulej chi'."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi', a in wal Jehová in tik swala': Ay wal jun k'ual to a jun ch'olan tik, manhxo ol scuch Tofet, ma sch'olanil yic Ben-hinom, palta sch'olanil b'aj smiljicham anima ol sb'iejkani."
-        },
-        {
-            "number": "7",
-            "text": "Yuj jantac anima ol cham t'a jun ch'olan tik, ol wak' ixtaxel tas nab'il eyuj ex aj Judá yet' ex aj Jerusalén. Ol ex wak' ak'joc ganar yuj heb' eyajk'ol snib'ej tzex milanchamoc. Axo he niwanil ol och schib'ejoc nok' ostoc yet' nok' kaltacte'al nok'."
-        },
-        {
-            "number": "8",
-            "text": "Ol ochkan he chonhab' tik tzinan lumal, xiwub'tac ol ajkanoc. Ha heb' ol ek' t'a tik, ol xiv heb', ol sat sk'ol heb' yilani, ol b'uchwaj heb' yuj tas ol ajkan chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ol wak' he chilajb'at eyuninal yet' eyisil yuj wejel, ol wak'an he chilajb'at he b'a, ayic ol oymaj heb' ajk'ol t'a spatic he chonhab', xchi Jehová, xa chi t'a heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ayic slajwi alan juntzanh tik, tza mak'anpoj jun lum ch'ub' chi' t'a yichanh heb' anima ajun ed' chi',"
-        },
-        {
-            "number": "11",
-            "text": "tzalan t'a heb' icha tik: Ha Jehová Yajal t'a Smasanil tz'alan icha tik: Ol in satel jun chonhab' tik, icha tz'aj smak'jipoj junok lum ch'ub' maxtzac yal sb'o junelxo. Ha t'a lum Tofet tik ol he muquem heb' he chamnac, yujto manhxa b'aj ol yal he mukan heb'."
-        },
-        {
-            "number": "12",
-            "text": "Ha in Jehová in swala', icha chi' ol wutej jun chonhab' tik yet' heb' kajan t'ay, lajan ol aj icha ol aj Tofet tik."
-        },
-        {
-            "number": "13",
-            "text": "Te yajb'entac ol ajkan masanil pat t'a Jerusalén tik yet' spalacio heb' sreyal Judá. Anhejtona' yajb'entac ol ajkan spanhanil yib'anhtac pat b'aj snhusji incienso t'a k'een k'anal t'a satcha’anh yet' b'aj tze sequem wino ofrendail t'a comon Dios. Icha Tofet chi' ol ajkanoc, xchi Jehová, xa chi t'a heb', xchi Jehová t'ayin."
-        },
-        {
-            "number": "14",
-            "text": "Ayic ix lajwi in k'ulan juntzanh tik, a in Jeremías in tik, in paxta t'a Tofet chi', b'aj ix walkanel slolonel Jehová. In och linhan t'a yol yamaq'uil stemplo Dios, ix walan t'a masanil heb' anima icha tik:"
-        },
-        {
-            "number": "15",
-            "text": "Ha Jehová ko Diosal Yajal t'a Smasanil tz'alan icha tik: Ol wak'b'at yaelal t'a yib'anh jun he chonhab' tik yet' t'a yib'anh juntzanhxo chonhab' ay t'a he lak'anil. Ol jawok masanil juntzanh yaelal toxo ix wal tik t'a eyib'anh, yujto ix he pitej he b'a, maxtzac he k'anab'ajej tas swala', xchi Jehová, xin chi t'a heb'."
-        }
-    ]
+  "chapter": "19",
+  "book": "JEREMÍAS",
+  "book_short": "Jer",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan Jehová t'ayin icha tik: B'at man junok lum ch'ub', tzik'anb'at heb' yichamtak winakil chonhab' et'ok yet' heb' sakerdote ichamtak winakxo."
+    },
+    {
+      "number": "2",
+      "text": "Tzach el t'a puerta b'aj tz'el heb' sb'at ak'ojkan k'alem t'a sch'olanil yik Ben-hinom, ata' ol al juntzanh lolonel swal tik t'ayach t'a heb'."
+    },
+    {
+      "number": "3",
+      "text": "Tzalan icha tik: Ex sreyal Judá yet' ex kajan ex t'a Jerusalén tik, ab'ek wal slolonel Jehová ko Diosal Yajal t'a Smasanil: Ab'ek, ol wak'b'at jun niwan yaelal t'a yib'anh he chonhab' tik. Masanil mach ol ab'anok, ol sat sk'ol heb' yab'ani."
+    },
+    {
+      "number": "4",
+      "text": "Yujto tzin eyaktejkani, tzeyak'anoch jun lugar tik yikok komon Dios. Tze nhusan inkienso t'a juntzanh komon Dios manh eyojtakok yet' heb' he mam eyicham. Manhxa yalnab'il jantak heb' unin malaj smul tze milchamok."
+    },
+    {
+      "number": "5",
+      "text": "Ix he b'ok'e juntzanh altar b'aj tze nhustz'a heb' eyuninal silab'il t'a Baal. Tze k'ulan wal tas manhok in swak' he k'ulej, max ek' t'a in pensar juntzanh tas tze k'ulej chi'."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi', a in wal Jehová in tik swala': Ay wal jun k'ual to a jun ch'olan tik, manhxo ol skuch Tofet, ma sch'olanil yik Ben-hinom, palta sch'olanil b'aj smiljicham anima ol sb'iejkani."
+    },
+    {
+      "number": "7",
+      "text": "Yuj jantak anima ol cham t'a jun ch'olan tik, ol wak' ixtaxel tas nab'il eyuj ex aj Judá yet' ex aj Jerusalén. Ol ex wak' ak'jok ganar yuj heb' eyajk'ol snib'ej tzex milanchamok. Axo he niwanil ol och schib'ejok nok' ostok yet' nok' kaltakte'al nok'."
+    },
+    {
+      "number": "8",
+      "text": "Ol ochkan he chonhab' tik tzinan lumal, xiwub'tak ol ajkanok. Ha heb' ol ek' t'a tik, ol xiw heb', ol sat sk'ol heb' yilani, ol b'uchwaj heb' yuj tas ol ajkan chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ol wak' he chilajb'at eyuninal yet' eyisil yuj wejel, ol wak'an he chilajb'at he b'a, ayik ol oymaj heb' ajk'ol t'a spatik he chonhab', xchi Jehová, xa chi t'a heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ayik slajwi alan juntzanh tik, tza mak'anpoj jun lum ch'ub' chi' t'a yichanh heb' anima ajun et' chi',"
+    },
+    {
+      "number": "11",
+      "text": "tzalan t'a heb' icha tik: Ha Jehová Yajal t'a Smasanil tz'alan icha tik: Ol in satel jun chonhab' tik, icha tz'aj smak'jipoj junok lum ch'ub' maxtzak yal sb'o junelxo. Ha t'a lum Tofet tik ol he mukem heb' he chamnak, yujto manhxa b'aj ol yal he mukan heb'."
+    },
+    {
+      "number": "12",
+      "text": "Ha in Jehová in swala', icha chi' ol wutej jun chonhab' tik yet' heb' kajan t'ay, lajan ol aj icha ol aj Tofet tik."
+    },
+    {
+      "number": "13",
+      "text": "Te yajb'entak ol ajkan masanil pat t'a Jerusalén tik yet' spalakio heb' sreyal Judá. Anhejtona' yajb'entak ol ajkan spanhanil yib'anhtak pat b'aj snhusji inkienso t'a k'een k'anal t'a satcha'anh yet' b'aj tze sekem wino ofrendail t'a komon Dios. Icha Tofet chi' ol ajkanok, xchi Jehová, xa chi t'a heb', xchi Jehová t'ayin."
+    },
+    {
+      "number": "14",
+      "text": "Ayik ix lajwi in k'ulan juntzanh tik, a in Jeremías in tik, in paxta t'a Tofet chi', b'aj ix walkanel slolonel Jehová. In och linhan t'a yol yamaq'uil stemplo Dios, ix walan t'a masanil heb' anima icha tik:"
+    },
+    {
+      "number": "15",
+      "text": "Ha Jehová ko Diosal Yajal t'a Smasanil tz'alan icha tik: Ol wak'b'at yaelal t'a yib'anh jun he chonhab' tik yet' t'a yib'anh juntzanhxo chonhab' ay t'a he lak'anil. Ol jawok masanil juntzanh yaelal toxo ix wal tik t'a eyib'anh, yujto ix he pitej he b'a, maxtzak he k'anab'ajej tas swala', xchi Jehová, xin chi t'a heb'."
+    }
+  ]
 }

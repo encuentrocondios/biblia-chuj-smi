@@ -1,53 +1,57 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Axo yic ix lajwi masanil munlajel ix schec b'ojoc winhaj Salomón t'a stemplo Jehová chi', ix ik'jib'at masanil juntzanh yamk'ab' chi' b'aj sik'chaj tas tz'ak'ji yicoc Jehová t'a yol templo chi', aton juntzanh yamk'ab' nab'a oro, nab'a plata yet' juntzanhxo tastac yic Jehová yajkan yuj winhaj rey Dawid smam winhaj Salomón chi'."
-        },
-        {
-            "number": "2",
-            "text": "Ixlajwi chi' haxo t'a sk'ual q'uinh te niwan yelk'och t'a yuquil uj t'a yol ab'il chi', ix schekan winhaj Salomón chi' smolb'ej sb'a masanil heb' yichamtac winaquil chonhab' Israel chi' t'a Jerusalén yet' masanil heb' yajal yaj t'a junjun inhtilal yet' heb' niwac yelk'och t'a skal heb' sk'ab' yoc. Ix smolb'ej sb'a heb', yic tz'ik'chajcot te' skaxail strato Jehová yuj heb' lewita t'a Sion, aton schonhab' winhaj Dawid."
-        },
-        {
-            "number": "3",
-            "text": "Ix yik'ancot jun mantiado heb' sacerdote yet' heb' lewita, aton jun b'aj sch'ox sb'a Jehová. Ix jawi heb' yet'oc t'a templo chi' yet' masanil syamk'ab'il."
-        },
-        {
-            "number": "4",
-            "text": "Ha winhaj rey Salomón yet' masanil heb' yetisraelal molanek' chi', b'ab'el scot heb' t'a yichanh te' skaxail strato Dios chi', snhusan nok' silab' heb', aton nok' kalnel yet' nok' wakax. Manh jantacoc nok' ix yak' heb', manhxo b'ischajb'enoc nok'."
-        },
-        {
-            "number": "5",
-            "text": "Ixlajwi chi', ix b'at yak'anoch te' skaxail strato Jehová chi' heb' sacerdote t'a yol templo chi' t'a yichochk'ochi, aton t'a jun lugar Yicnhej Jehová Yaji, t'a yalanh sk'axil juntzanh yechel querubín."
-        },
-        {
-            "number": "6",
-            "text": "Ha juntzanh yechel querubín chi', jenhanb'at sk'axil t'a yib'anh b'aj ix kan te' kaxa chi' yet' t'a yib'anh te' sb'akhnub'al."
-        },
-        {
-            "number": "7",
-            "text": "Ha te' sb'akhlab'il te' kaxa chi', najat steel te', chequel te' t'a jun lugar ay t'a snanhal yol templo chi', jun ay t'a sat elta jun lugar Yicnhej Dios Yaji, palta manh chequeloc te' t'a sti'. Ha t'a jun lugar chi' ix kannhej te' kaxa chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha tas ayem t'a yol te', anhej chab' pachanh k'een k'een yak'nakkanem winhaj Moisés t'a Horeb. Ha t'a k'een tz'ib'ab'ilkanoch strato Jehová sb'onac yet' chonhab' Israel ayic wan scot heb' t'a yol b'e ayic yelnaccot heb' t'a Egipto."
-        },
-        {
-            "number": "9",
-            "text": "Ix elta heb' sacerdote t'a jun lugar ay t'a snanhal yol templo chi'. Toxo ix sacb'itej sb'a heb' smasanil, wach'chom manto k'och stzolal yoch heb' t'a yopisio."
-        },
-        {
-            "number": "10",
-            "text": "Axo masanil heb' lewita ak'b'iloch yic sb'itani, aton winhaj Asaf, winhaj Hemán, winhaj Jedutún, heb' yuninal heb' winh yet' heb' sk'ab' yoc heb' winh, linhjab'och heb' winh t'a stojolal b'aj sjawi k'u t'a stz'ey altar t'a yamaq'uil templo chi'. Nab'a lino spichul heb' winh ayochi, yet'nac platillo heb' winh, salterio yet' arpa. Ay pax 120 heb' winh sacerdote spu'an k'een trompeta."
-        },
-        {
-            "number": "11",
-            "text": "Junnhej ix aj spu'an k'een trompeta chi' heb' winh smasanil. Junnhej ix aj sjaj heb' winh sb'itani, yic syalan wach' lolonel heb' winh yuj yak'an yuj diosal heb' winh t'a Jehová. Yacb'an wan sb'itan heb' winh chi', ix puchaj k'een trompeta, ix tzinhji platillo yet' juntzanhxo yamk'ab' yic b'it chi'. Sb'itan heb' winh icha tik: Calec wach' lolonel t'a Jehová, yujto te wach'nhej, tzonh xajanej t'a masanil tiempo, xchi heb'. Ha t'a jun rato chi' ix b'ud'jiel yol templo chi' yuj jun asun."
-        },
-        {
-            "number": "12",
-            "text": "Majxo yal-laj yoch heb' winh sacerdote yil yopisio, yujto ix b'ud'jiel yol templo chi' yuj stziquiquial Jehová."
-        }
-    ]
+  "chapter": "5",
+  "book": "2 CRÓNICAS",
+  "book_short": "2Cr",
+  "aligned": false,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Axo yik ix lajwi masanil munlajel ix schek b'ojok winhaj Salomón t'a stemplo Jehová chi', ix ik'jib'at masanil juntzanh yamk'ab' chi' b'aj sik'chaj tas tz'ak'ji yikok Jehová t'a yol templo chi', haton juntzanh yamk'ab' nab'a oro, nab'a plata yet' juntzanhxo tastak yik Jehová yajkan yuj winhaj rey David smam winhaj Salomón chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ixlajwi chi' haxo t'a sk'ual q'uinh te niwan yelk'och t'a yukil uj t'a yol ab'il chi', ix schekan winhaj Salomón chi' smolb'ej sb'a masanil heb' yichamtak winakil chonhab' Israel chi' t'a Jerusalén yet' masanil heb' yajal yaj t'a junjun inhtilal yet' heb' niwak yelk'och t'a skal heb' sk'ab' yok. Ix smolb'ej sb'a heb', yik tz'ik'chajkot te' skaxail strato Jehová yuj heb' lewita t'a Sion, haton schonhab' winhaj David."
+    },
+    {
+      "number": "3",
+      "text": "Ix yik'ankot jun mantiado heb' sakerdote yet' heb' lewita, haton jun b'aj sch'ox sb'a Jehová. Ix jawi heb' yet'ok t'a templo chi' yet' masanil syamk'ab'il."
+    },
+    {
+      "number": "4",
+      "text": "Ha winhaj rey Salomón yet' masanil heb' yetisraelal molanek' chi', b'ab'el skot heb' t'a yichanh te' skaxail strato Dios chi', snhusan nok' silab' heb', haton nok' kalnel yet' nok' wakax. Manh jantakok nok' ix yak' heb', manhxo b'ischajb'enok nok'."
+    },
+    {
+      "number": "5",
+      "text": "Ixlajwi chi', ix b'at yak'anoch te' skaxail strato Jehová chi' heb' sakerdote t'a yol templo chi' t'a yichochk'ochi, haton t'a jun lugar Yiknhej Jehová Yaji, t'a yalanh sk'axil juntzanh yechel querubín."
+    },
+    {
+      "number": "6",
+      "text": "Ha juntzanh yechel querubín chi', jenhanb'at sk'axil t'a yib'anh b'aj ix kan te' kaxa chi' yet' t'a yib'anh te' sb'akhnub'al."
+    },
+    {
+      "number": "7",
+      "text": "Ha te' sb'akhlab'il te' kaxa chi', najat steel te', chekel te' t'a jun lugar ay t'a snanhal yol templo chi', jun ay t'a sat elta jun lugar Yiknhej Dios Yaji, palta manh chekelok te' t'a sti'. Ha t'a jun lugar chi' ix kannhej te' kaxa chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha tas ayem t'a yol te', anhej chab' pachanh k'een k'een yak'nakkanem winhaj Moisés t'a Horeb. Ha t'a k'een tz'ib'ab'ilkanoch strato Jehová sb'onak yet' chonhab' Israel ayik wan skot heb' t'a yol b'e ayik yelnakkot heb' t'a Egipto."
+    },
+    {
+      "number": "9",
+      "text": "Ix elta heb' sakerdote t'a jun lugar ay t'a snanhal yol templo chi'. Toxo ix sakb'itej sb'a heb' smasanil, wach'chom manto k'och stzolal yoch heb' t'a yopisio."
+    },
+    {
+      "number": "10",
+      "text": "Axo masanil heb' lewita ak'b'iloch yik sb'itani, haton winhaj Asaf, winhaj Hemán, winhaj Jedutún, heb' yuninal heb' winh yet' heb' sk'ab' yok heb' winh, linhjab'och heb' winh t'a stojolal b'aj sjawi k'u t'a stz'ey altar t'a yamaq'uil templo chi'. Nab'a lino spichul heb' winh ayochi, yet'nak platillo heb' winh, salterio yet' arpa. Ay pax 120 heb' winh sakerdote spu'an k'een trompeta."
+    },
+    {
+      "number": "11",
+      "text": "Junnhej ix aj spu'an k'een trompeta chi' heb' winh smasanil. Junnhej ix aj sjaj heb' winh sb'itani, yik syalan wach' lolonel heb' winh yuj yak'an yuj diosal heb' winh t'a Jehová. Yakb'an wan sb'itan heb' winh chi', ix puchaj k'een trompeta, ix tzinhji platillo yet' juntzanhxo yamk'ab' yik b'it chi'. Sb'itan heb' winh icha tik: Kalek wach' lolonel t'a Jehová, yujto te wach'nhej, tzonh xajanej t'a masanil tiempo, xchi heb'. Ha t'a jun rato chi' ix b'ut'jiel yol templo chi' yuj jun asun."
+    },
+    {
+      "number": "12",
+      "text": "Majxo yal-laj yoch heb' winh sakerdote yil yopisio, yujto ix b'ut'jiel yol templo chi' yuj stzikikial Jehová."
+    }
+  ]
 }

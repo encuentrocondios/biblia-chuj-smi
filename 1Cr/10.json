@@ -1,61 +1,65 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yak' owal heb' filisteo yet' heb' israel, ix el lemnaj heb' israel chi', te niwan heb' ix cham t'a lum witzal Gilboa."
-        },
-        {
-            "number": "2",
-            "text": "Ix b'at heb' filisteo chi' t'a spatic winhaj Saúl yet' heb' winh yuninal: Aton winhaj Jonatán, winhaj Abinadab yet' winhaj Malquisúa. Ix miljicham heb' winh yuninal winh chi' yoxwanhil."
-        },
-        {
-            "number": "3",
-            "text": "Ix ochwal heb' winh filisteo chi' t'a spatic winhaj Saúl chi', ix lajwi winh sjulan heb' winh."
-        },
-        {
-            "number": "4",
-            "text": "Yuj chi' ix yal winh t'a winh ed'jinac syamk'ab' icha tik: Ik'k'eta k'een espada chi', tza tipanoch k'een t'ayin, yic wach' manhoc juntzanh ch'oc chonhab'il tik ol tzalaj in smilani, xchi winh. Palta a winh ed'jinac syamk'ab' winh chi', maj yal-laj sk'ol winh ix sk'ulej icha ix yal winh chi', yujto xiv winh. Yuj chi' a winh ix ik'ank'eta k'een yespada, ix syumanb'at nhojnaj sb'a winh t'a yib'anh snhi' k'een."
-        },
-        {
-            "number": "5",
-            "text": "Ayic ix yilan winh ed'jinac syamk'ab' winh chi' to toxo ix cham winh, ix syumanpaxb'at nhojnaj sb'a winh t'a yib'anh snhi' k'een yespada chi', ix champax winh."
-        },
-        {
-            "number": "6",
-            "text": "Icha chi' ix aj scham winhaj Saúl t'a jun k'u chi' yet' oxwanh heb' winh yuninal. Manhxo junok yinhtilal winh ix elkani."
-        },
-        {
-            "number": "7",
-            "text": "Ayic ix yilan heb' israel kajan t'a jun ch'olan chi' to toxo ix el lemnaj heb' yetisraelal heb', toxo ix champax winhaj Saúl yet' heb' winh yuninal, yuj chi' ix yaktejkan schonhab' heb', ix b'at heb' elelal. Axo heb' filisteo ix k'ochkan kajan t'a juntzanh schonhab' heb' chi'."
-        },
-        {
-            "number": "8",
-            "text": "Axo t'a junxo k'u, ix b'at heb' filisteo chi' spojek' tastac ay t'a heb' ix cham chi'. Ix yilan heb' to a winhaj Saúl yet' heb' winh yuninal chamnacxo heb' winh, teljab'kan sniwanil heb' winh t'a lum witzal Gilboa."
-        },
-        {
-            "number": "9",
-            "text": "Ha spichul winhaj Saúl chi' yic owal ayochi, elanhchamel ix yik'el heb', ix xikanel sjolom winh heb'. Ix yik'anb'at heb'. Ix schekan heb' b'at alchaj t'a masanil yol smacb'en heb' yet' t'a sdiosal heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ix b'at yak'anoch syamk'ab' winhaj Saúl chi' heb' t'a stemplo jun sdiosal skuchan Dagón, ix yak'ank'e lokan sjolom winh heb'."
-        },
-        {
-            "number": "11",
-            "text": "Ayic ix yab'an heb' aj Jabes ay t'a yol yic Galaad tas ix yutej sniwanil winhaj Saúl heb' filisteo chi',"
-        },
-        {
-            "number": "12",
-            "text": "ix slajtian sb'a masanil heb' winh winak te tek'an. Ix b'at yik'ancot sniwanil winhaj Saúl chi' heb' yet' pax sniwanil heb' winh yuninal winh, ix k'och yuj heb' t'a Jabes chi'. Ha t'a yich jun te' ji ix smuc sniwanil heb' winh chi' heb'. Uque' k'ual ix och heb' t'a tzek'ojk'olal yuj cusk'olal."
-        },
-        {
-            "number": "13",
-            "text": "Icha chi' ix aj scham winhaj Saúl yuj chukal ix sk'ulej, yujto maj sk'anab'ajej schecnab'il Jehová winh, yujto ix sk'anb'ej pax sb'a winh t'a jun ix sk'uman spixan heb' chamnac, manhoc t'a Jehová ix sk'anb'ej sb'a winh."
-        },
-        {
-            "number": "14",
-            "text": "Yuj chi' ix cham winh yuj Jehová, haxo t'a winhaj Dawid yuninal winhaj Isaí ix ak'jikan yopisio winh chi'."
-        }
-    ]
+  "chapter": "10",
+  "book": "1 CRÓNICAS",
+  "book_short": "1Cr",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yak' owal heb' filisteo yet' heb' israel, ix el lemnaj heb' israel chi', te niwan heb' ix cham t'a lum witzal Gilboa."
+    },
+    {
+      "number": "2",
+      "text": "Ix b'at heb' filisteo chi' t'a spatik winhaj Saúl yet' heb' winh yuninal: Haton winhaj Jonatán, winhaj Abinadab yet' winhaj Malquisúa. Ix miljicham heb' winh yuninal winh chi' yoxwanhil."
+    },
+    {
+      "number": "3",
+      "text": "Ix ochwal heb' winh filisteo chi' t'a spatik winhaj Saúl chi', ix lajwi winh sjulan heb' winh."
+    },
+    {
+      "number": "4",
+      "text": "Yuj chi' ix yal winh t'a winh et'jinak syamk'ab' icha tik: Ik'k'eta k'een espada chi', tza tipanoch k'een t'ayin, yik wach' manhok juntzanh ch'ok chonhab'il tik ol tzalaj in smilani, xchi winh. Palta a winh et'jinak syamk'ab' winh chi', maj yal-laj sk'ol winh ix sk'ulej icha ix yal winh chi', yujto xiw winh. Yuj chi' a winh ix ik'ank'eta k'een yespada, ix syumanb'at nhojnaj sb'a winh t'a yib'anh snhi' k'een."
+    },
+    {
+      "number": "5",
+      "text": "Ayik ix yilan winh et'jinak syamk'ab' winh chi' to toxo ix cham winh, ix syumanpaxb'at nhojnaj sb'a winh t'a yib'anh snhi' k'een yespada chi', ix champax winh."
+    },
+    {
+      "number": "6",
+      "text": "Icha chi' ix aj scham winhaj Saúl t'a jun k'u chi' yet' oxwanh heb' winh yuninal. Manhxo junok yinhtilal winh ix elkani."
+    },
+    {
+      "number": "7",
+      "text": "Ayik ix yilan heb' israel kajan t'a jun ch'olan chi' to toxo ix el lemnaj heb' yetisraelal heb', toxo ix champax winhaj Saúl yet' heb' winh yuninal, yuj chi' ix yaktejkan schonhab' heb', ix b'at heb' elelal. Axo heb' filisteo ix k'ochkan kajan t'a juntzanh schonhab' heb' chi'."
+    },
+    {
+      "number": "8",
+      "text": "Axo t'a junxo k'u, ix b'at heb' filisteo chi' spojek' tastak ay t'a heb' ix cham chi'. Ix yilan heb' to a winhaj Saúl yet' heb' winh yuninal chamnakxo heb' winh, teljab'kan sniwanil heb' winh t'a lum witzal Gilboa."
+    },
+    {
+      "number": "9",
+      "text": "Ha spichul winhaj Saúl chi' yik owal ayochi, elanhchamel ix yik'el heb', ix xikanel sjolom winh heb'. Ix yik'anb'at heb'. Ix schekan heb' b'at alchaj t'a masanil yol smakb'en heb' yet' t'a sdiosal heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ix b'at yak'anoch syamk'ab' winhaj Saúl chi' heb' t'a stemplo jun sdiosal skuchan Dagón, ix yak'ank'e lokan sjolom winh heb'."
+    },
+    {
+      "number": "11",
+      "text": "Ayik ix yab'an heb' aj Jabes ay t'a yol yik Galaad tas ix yutej sniwanil winhaj Saúl heb' filisteo chi',"
+    },
+    {
+      "number": "12",
+      "text": "ix slajtian sb'a masanil heb' winh winak te tek'an. Ix b'at yik'ankot sniwanil winhaj Saúl chi' heb' yet' pax sniwanil heb' winh yuninal winh, ix k'och yuj heb' t'a Jabes chi'. Ha t'a yich jun te' ji ix smuk sniwanil heb' winh chi' heb'. Uke' k'ual ix och heb' t'a tzek'ojk'olal yuj kusk'olal."
+    },
+    {
+      "number": "13",
+      "text": "Icha chi' ix aj scham winhaj Saúl yuj chukal ix sk'ulej, yujto maj sk'anab'ajej scheknab'il Jehová winh, yujto ix sk'anb'ej pax sb'a winh t'a jun ix sk'uman spixan heb' chamnak, manhok t'a Jehová ix sk'anb'ej sb'a winh."
+    },
+    {
+      "number": "14",
+      "text": "Yuj chi' ix cham winh yuj Jehová, haxo t'a winhaj David yuninal winhaj Isaí ix ak'jikan yopisio winh chi'."
+    }
+  ]
 }

@@ -1,89 +1,93 @@
 {
-    "chapter": "18",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi winhaj Bildad icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "¿B'aq'uinh wal ol actej a loloni? Nachajokab' uuj, ichato pax chi' syal ko loloni."
-        },
-        {
-            "number": "3",
-            "text": "¿Tas yuj tzonh al nok'al, manhxa jab'oc quelk'och t'a a sat?"
-        },
-        {
-            "number": "4",
-            "text": "¿Tas yuj tza chalchitej a b'a yuj chichonk'olal? ¿Am a naani yujto icha chi' tzutej a b'a ol kan tzinan lum lum tik, ma ol k'exwoc yet'tal k'een tenam?"
-        },
-        {
-            "number": "5",
-            "text": "Ha tas ayoch yipoc sk'ol junok mach chuk spensar, ol tupemoc, icha stup junok candil wanxo stup sk'ak'al."
-        },
-        {
-            "number": "6",
-            "text": "Ol tup sk'ak'al skandil t'a yol spat, manhxa sakil k'inal ta'."
-        },
-        {
-            "number": "7",
-            "text": "Maxtzac yal yek' yet' stek'anil, wan slocan sb'a yoc, stelwi yuj tas nab'il yuj."
-        },
-        {
-            "number": "8",
-            "text": "Ichato ol em junok ch'anh yaal t'a yol sb'e, ol kan sud'naj t'a yol jun ch'anh yaal chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ol em jun ch'anh yaal chi' t'a yol sb'e. Ha t'a sjaj yoc ol och sud'naj ch'anh."
-        },
-        {
-            "number": "10",
-            "text": "k'ub'eltac yajem jun yaal chi' t'a yol sb'e."
-        },
-        {
-            "number": "11",
-            "text": "Aynhejoch xivk'olal t'a spatic yichanh, ichato spechji b'eyek'oc."
-        },
-        {
-            "number": "12",
-            "text": "Ay tas t'ay t'a peka', haxo ticnaik wan scham yuj wejel, a yaelal k'elanxo och t'ay."
-        },
-        {
-            "number": "13",
-            "text": "Ha jun ilya slajanel sniwanil, haxo sk'ab' yet' yoc ichato ol k'uxjocb'at yuj jun ilya chi'."
-        },
-        {
-            "number": "14",
-            "text": "Ol ik'joquel t'a skal junk'olal b'aj kajan, ol nherjokkanb'at t'a yichanh jun aj chamel."
-        },
-        {
-            "number": "15",
-            "text": "Ch'ocxo mach ol kajnajkan t'a skajnub'. Ayic toxo ix cham chi', ol tzicchajek' azufre t'a yol spat chi', yic satel jun yab'il chi'."
-        },
-        {
-            "number": "16",
-            "text": "Lajan wal icha junok te te' taquinhxo sch'anhal yib' yet' sk'ab'tac."
-        },
-        {
-            "number": "17",
-            "text": "Ha sb'inajnaquil ol satkanel t'a sat lu'um tik. Manhxa b'ak'uinh ol b'inajoc."
-        },
-        {
-            "number": "18",
-            "text": "Ol ik'chajel t'a skal heb' pitzan b'aj sacq'uinal. B'aj ay heb' chamnac t'a k’ik’ k’inal ol yumjokkanb'atoc."
-        },
-        {
-            "number": "19",
-            "text": "Manhxa yinhtilal ol kan t'a schonhab' yet' b'aj kajan."
-        },
-        {
-            "number": "20",
-            "text": "Ayic ol ab'chaj tas ix jawi t'a yib'anh, ol xivcank'e heb' kajan t'a stojolal b'aj sjawi k'u yet' b'aj tz'em k'u."
-        },
-        {
-            "number": "21",
-            "text": "Icha wal chi' ol aj satel heb' chuk, aton heb' malaj yelk'och Dios t'ay, xchi winhaj Bildad chi'."
-        }
-    ]
+  "chapter": "18",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 21,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi winhaj Bildad icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "¿B'aq'uinh wal ol aktej a loloni? Nachajokab' uuj, ichato pax chi' syal ko loloni."
+    },
+    {
+      "number": "3",
+      "text": "¿Tas yuj tzonh al nok'al, manhxa jab'ok kelk'och t'a a sat?"
+    },
+    {
+      "number": "4",
+      "text": "¿Tas yuj tza chalchitej a b'a yuj chichonk'olal? ¿Am a naani yujto icha chi' tzutej a b'a ol kan tzinan lum lum tik, ma ol k'exwok yet'tal k'een tenam?"
+    },
+    {
+      "number": "5",
+      "text": "Ha tas ayoch yipok sk'ol junok mach chuk spensar, ol tupemok, icha stup junok kandil wanxo stup sk'ak'al."
+    },
+    {
+      "number": "6",
+      "text": "Ol tup sk'ak'al skandil t'a yol spat, manhxa sakil k'inal ta'."
+    },
+    {
+      "number": "7",
+      "text": "Maxtzak yal yek' yet' stek'anil, wan slokan sb'a yok, stelwi yuj tas nab'il yuj."
+    },
+    {
+      "number": "8",
+      "text": "Ichato ol em junok ch'anh yaal t'a yol sb'e, ol kan sut'naj t'a yol jun ch'anh yaal chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ol em jun ch'anh yaal chi' t'a yol sb'e. Ha t'a sjaj yok ol och sut'naj ch'anh."
+    },
+    {
+      "number": "10",
+      "text": "k'ub'eltak yajem jun yaal chi' t'a yol sb'e."
+    },
+    {
+      "number": "11",
+      "text": "Aynhejoch xiwk'olal t'a spatik yichanh, ichato spechji b'eyek'ok."
+    },
+    {
+      "number": "12",
+      "text": "Ay tas t'ay t'a peka', haxo tiknaik wan scham yuj wejel, a yaelal k'elanxo och t'ay."
+    },
+    {
+      "number": "13",
+      "text": "Ha jun ilya slajanel sniwanil, haxo sk'ab' yet' yok ichato ol k'uxjokb'at yuj jun ilya chi'."
+    },
+    {
+      "number": "14",
+      "text": "Ol ik'jokel t'a skal junk'olal b'aj kajan, ol nherjokkanb'at t'a yichanh jun aj chamel."
+    },
+    {
+      "number": "15",
+      "text": "Ch'okxo mach ol kajnajkan t'a skajnub'. Ayik toxo ix cham chi', ol tzikchajek' azufre t'a yol spat chi', yik satel jun yab'il chi'."
+    },
+    {
+      "number": "16",
+      "text": "Lajan wal icha junok te te' takinhxo sch'anhal yib' yet' sk'ab'tak."
+    },
+    {
+      "number": "17",
+      "text": "Ha sb'inajnakil ol satkanel t'a sat lu'um tik. Manhxa b'ak'uinh ol b'inajok."
+    },
+    {
+      "number": "18",
+      "text": "Ol ik'chajel t'a skal heb' pitzan b'aj sakq'uinal. B'aj ay heb' chamnak t'a k'ik' k'inal ol yumjokkanb'atok."
+    },
+    {
+      "number": "19",
+      "text": "Manhxa yinhtilal ol kan t'a schonhab' yet' b'aj kajan."
+    },
+    {
+      "number": "20",
+      "text": "Ayik ol ab'chaj tas ix jawi t'a yib'anh, ol xiwkank'e heb' kajan t'a stojolal b'aj sjawi k'u yet' b'aj tz'em k'u."
+    },
+    {
+      "number": "21",
+      "text": "Icha wal chi' ol aj satel heb' chuk, haton heb' malaj yelk'och Dios t'ay, xchi winhaj Bildad chi'."
+    }
+  ]
 }

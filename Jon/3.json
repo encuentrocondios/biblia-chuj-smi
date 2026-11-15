@@ -1,45 +1,49 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix lolonxi Jehová t'a schaelal t'a winhaj Jonás chi'. Ix yalan icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ixic lemnaj t'a niwan chonhab' Níniwe, sb'at alan tas ol wal tik t'ayach, xchi t'a winh."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi', ix b'at winhaj Jonás chi' t'a Níniwe chi' icha ix aj yalan Jehová. Ha jun chonhab' chi' te niwan, ay am oxeoc k'ual stek'nab'il yek' yool."
-        },
-        {
-            "number": "4",
-            "text": "Ix och winhaj Jonás chi' t'a yol chonhab' chi'. Ha t'a b'ab'el k'u te chaanh ix yal winh icha tik: Yic wal chawinac k'ual tik ol satjoquel jun chonhab' tik, xchi winh."
-        },
-        {
-            "number": "5",
-            "text": "Masanil heb' anima kajan t'a jun niwan chonhab' chi', heb' icham anima yet' heb' unin, ix yak'och slolonel Dios heb' t'a sk'ool, ix och heb' t'a tzek'ojk'olal, ix laj yak'anoch pichul heb' ya swa'i. Icha chi' ix yutej heb' sch'oxanel scusk'olal yuj smul."
-        },
-        {
-            "number": "6",
-            "text": "Axo ix k'och yab'ixal jun tik t'a winh sreyal Níniwe chi', ix k'e waan winh t'a sdespacho, ix yik'anel spichul winh yic sreyal, ix yak'anoch pichul winh ya swa'i, ix em k'ojan winh t'a skal k'een tik'aq'uil taanh."
-        },
-        {
-            "number": "7",
-            "text": "Ha winh rey chi' yet' heb' ayoch yajalil yet' winh, ix yak'elta jun ley heb' t'a masanil chonhab' chi', xchi icha tik: Malaj junok onh tzonh wa'i. Malaj pax junok onh skak' wa nok' ko wakax, ma nok' ko kalnel, max kak'paxlaj yuk' ha' nok'."
-        },
-        {
-            "number": "8",
-            "text": "Ha tas ol ko k'ulej to ol kak'ecoch ko pichul ya swa'i yet' nok' ko molb'etzal nok' chi', yic sko ch'oxanel ko cusk'olal. Ol onh lesalwoc d'ha Dios yet' wal masanil quip, ol cactankan masanil chukal sko k'ulej, ol cactan ko mak'an heb' quetanimail,"
-        },
-        {
-            "number": "9",
-            "text": "talaj tzato sk'ex spensar Dios t'a quib'anh, tz'och waan yowal sk'ool, yic manh ol onh chamlaj, xchi jun ley chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ayic ix yilan Dios to ix sna sb'a heb' aj Níniwe chi', ix yactankan schuc b'eyb'al heb', ix snaani to manh ol satel jun chonhab' chi' icha ix yutej schekan alchajeloc."
-        }
-    ]
+  "chapter": "3",
+  "book": "JONÁS",
+  "book_short": "Jon",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix lolonxi Jehová t'a schaelal t'a winhaj Jonás chi'. Ix yalan icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ixik lemnaj t'a niwan chonhab' Nínive, sb'at alan tas ol wal tik t'ayach, xchi t'a winh."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi', ix b'at winhaj Jonás chi' t'a Nínive chi' icha ix aj yalan Jehová. Ha jun chonhab' chi' te niwan, ay am oxeok k'ual stek'nab'il yek' yool."
+    },
+    {
+      "number": "4",
+      "text": "Ix och winhaj Jonás chi' t'a yol chonhab' chi'. Ha t'a b'ab'el k'u te chaanh ix yal winh icha tik: Yik wal chawinak k'ual tik ol satjokel jun chonhab' tik, xchi winh."
+    },
+    {
+      "number": "5",
+      "text": "Masanil heb' anima kajan t'a jun niwan chonhab' chi', heb' icham anima yet' heb' unin, ix yak'och slolonel Dios heb' t'a sk'ool, ix och heb' t'a tzek'ojk'olal, ix laj yak'anoch pichul heb' ya swa'i. Icha chi' ix yutej heb' sch'oxanel skusk'olal yuj smul."
+    },
+    {
+      "number": "6",
+      "text": "Axo ix k'och yab'ixal jun tik t'a winh sreyal Nínive chi', ix k'e waan winh t'a sdespacho, ix yik'anel spichul winh yik sreyal, ix yak'anoch pichul winh ya swa'i, ix em k'ojan winh t'a skal k'een tik'aq'uil taanh."
+    },
+    {
+      "number": "7",
+      "text": "Ha winh rey chi' yet' heb' ayoch yajalil yet' winh, ix yak'elta jun ley heb' t'a masanil chonhab' chi', xchi icha tik: Malaj junok onh tzonh wa'i. Malaj pax junok onh skak' wa nok' ko wakax, ma nok' ko kalnel, max kak'paxlaj yuk' ha' nok'."
+    },
+    {
+      "number": "8",
+      "text": "Ha tas ol ko k'ulej to ol kak'ekoch ko pichul ya swa'i yet' nok' ko molb'etzal nok' chi', yik sko ch'oxanel ko kusk'olal. Ol onh lesalwok t'a Dios yet' wal masanil kip, ol kaktankan masanil chukal sko k'ulej, ol kaktan ko mak'an heb' ketanimail,"
+    },
+    {
+      "number": "9",
+      "text": "talaj tzato sk'ex spensar Dios t'a kib'anh, tz'och waan yowal sk'ool, yik manh ol onh chamlaj, xchi jun ley chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ayik ix yilan Dios to ix sna sb'a heb' aj Nínive chi', ix yaktankan schuk b'eyb'al heb', ix snaani to manh ol satel jun chonhab' chi' icha ix yutej schekan alchajelok."
+    }
+  ]
 }

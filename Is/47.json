@@ -1,65 +1,69 @@
 {
-    "chapter": "47",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Icha tik yalan Jehová yuj Babilonia: Emanhcot t'a a despacho ach Babilonia, emanh k'ojan t'a kal pokok. Ha t'a peka' lajan ach icha junok ix cob'es mantalaj winak syik'a'. Axo ticnaik manhxo ol alchajoc to yune' cob'es ya ilab'il ach. Ha ticnaik chekab' achxo."
-        },
-        {
-            "number": "2",
-            "text": "Ochanh t'a k'een cha', jax ixim trigo, ik'el smusil a sat, tok'k'e a k'apac t'a a xub' yic tzach k'axpaj t'a yol ha ha'."
-        },
-        {
-            "number": "3",
-            "text": "Iljokab' a niwanil b'eranel chi', ilchajokab' a niwanil q'uixwelal yilji. Ha jun chi' ol wak' spacoc t'ayach, malaj junok mach ed'nac b'aj ol ok' in k'ool, xchi Jehová."
-        },
-        {
-            "number": "4",
-            "text": "Ha ko Kolumal a onh israel onh tik, ko Diosal Axonhej Ochi, Jehová Yajal t'a Smasanil, a tz'alan icha tik:"
-        },
-        {
-            "number": "5",
-            "text": "Ex caldeo, emanhec k'ojan t'a cuseltaquil t'a kal k’ik’ k’inal. Manhxa b'ak'uinh ol ex b'inaj yajalil t'a juntzanhxo niwac nación."
-        },
-        {
-            "number": "6",
-            "text": "Ayic aycot wowal t'a in chonhab', ix wactejkan heb', ichato manh in chonhab'oc heb'. Ix wak'och heb' t'a q'uixwelal, ix wak'ankanoch heb' t'a yol he k'ab', maj ok' he k'ol t'a heb'. Ipan heb' ichamtac animaxo ya ix eyutej."
-        },
-        {
-            "number": "7",
-            "text": "Ix eyalanpax icha tik: Ha onh tik yajal onh t'a masanil tiempo, xe chi. Malaj jab'oc tas ix he na' tas ol ex ajelk'ochoc."
-        },
-        {
-            "number": "8",
-            "text": "Yuj chi' ach chonhab' Babilonia, ab' wal tas ol wala': Lajan ach icha syutej sb'oan sb'a junok ix ajmul ix. Te junk'olalxo ajeq'ui, tza naan t'a a pensar to malaj junocxo mach lajan icha ach tik. Tza naani to malaj b'ak'uinh ol ach kan icha junok ix ix chamnac yetb'eyum, malaj b'ak'uinh pax ol ach kan manh uninal a naani."
-        },
-        {
-            "number": "9",
-            "text": "Wach'chom jantac heb' ajchum yet' heb' ajb'aal, palta manhxo ol ach coljoc yuj heb' ayic ol ja lemnaj cha makan chi' t'a ib'anh, aton junixtaquil yet' manh uninal. Junnhej k'ual ol jawok lemnaj juntzanh chi' t'ayach."
-        },
-        {
-            "number": "10",
-            "text": "Ha a naani to wach'nhej ajek' t'a a chukal chi', malaj mach tz'ilan tas tza k'ulej. Ha tas ojtak yet' a jelanil tzach ak'an musansatil. Tza naani to a achnhej, malaj junocxo."
-        },
-        {
-            "number": "11",
-            "text": "Palta ol ja wal jun yaelal t'a ib'anh, manhxo ol yal a yamanoch waan yet' heb' ajb'aal chi'. Ayic ol jawok jun yaelal chi', manhxo ol yal a cachani. Ol jawok lemnaj t'a ib'anh ayic manh naanoc uuj."
-        },
-        {
-            "number": "12",
-            "text": "B'eyb'alej ajchumal yet' ajb'aalil chi', aton juntzanh chi' a k'ayb'ejnac yictax cob'es ach. Ol wila'' tato olto och yopisio uuj, ol wila'' tato olto xiv heb' anima t'ayach yuj."
-        },
-        {
-            "number": "13",
-            "text": "Tzijtum heb' ak'um razón ix smolb'ej sb'a ed'oc, ix ach tzactzajk'och yet' heb'. Jawokab' heb' schuman yet' k'een k'anal chi' ticnaik. Ayic syilan k'een k'anal chi' heb', snachajel yuj heb' yalani. Ha heb' tz'alan tas tzuji t'a junjun uj, jawokab' heb' ach scol ticnaik."
-        },
-        {
-            "number": "14",
-            "text": "Palta lajan ol aj heb' icha yoc ixim trigo, a k'ak' ol nhusantz'a heb'. Manhxo ol yal scolan sb'a heb' t'a kal k'ak' chi'. Ha jun k'ak' chi' te ov, manh lajanoc icha junok comon k'ak' skan stzak'aq'uil tzonh em k'ojan tzonh k'axni t'a sti'."
-        },
-        {
-            "number": "15",
-            "text": "Icha chi' ol ajelk'och heb' a colwajum chi', aton heb' b'aj ix a k'anb'ejnhej yictax ach cotochi. Ol ach actajkan yuj heb' smasanil, junjun heb' ol b'atkan t'a sb'eal satnaquil, manhxa junok mach ol ach colanoc, xchi Jehová."
-        }
-    ]
+  "chapter": "47",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Icha tik yalan Jehová yuj Babilonia: Emanhkot t'a a despacho ach Babilonia, emanh k'ojan t'a kal pokok. Ha t'a peka' lajan ach icha junok ix kob'es mantalaj winak syik'a'. Axo tiknaik manhxo ol alchajok to yune' kob'es ya ilab'il ach. Ha tiknaik chekab' achxo."
+    },
+    {
+      "number": "2",
+      "text": "Ochanh t'a k'een cha', jax ixim trigo, ik'el smusil a sat, tok'k'e a k'apak t'a a xub' yik tzach k'axpaj t'a yol ha ha'."
+    },
+    {
+      "number": "3",
+      "text": "Iljokab' a niwanil b'eranel chi', ilchajokab' a niwanil q'uixwelal yilji. Ha jun chi' ol wak' spakok t'ayach, malaj junok mach et'nak b'aj ol ok' in k'ool, xchi Jehová."
+    },
+    {
+      "number": "4",
+      "text": "Ha ko Kolumal a onh israel onh tik, ko Diosal Axonhej Ochi, Jehová Yajal t'a Smasanil, a tz'alan icha tik:"
+    },
+    {
+      "number": "5",
+      "text": "Ex kaldeo, emanhek k'ojan t'a kuseltakil t'a kal k'ik' k'inal. Manhxa b'ak'uinh ol ex b'inaj yajalil t'a juntzanhxo niwak nakión."
+    },
+    {
+      "number": "6",
+      "text": "Ayik aykot wowal t'a in chonhab', ix waktejkan heb', ichato manh in chonhab'ok heb'. Ix wak'och heb' t'a q'uixwelal, ix wak'ankanoch heb' t'a yol he k'ab', maj ok' he k'ol t'a heb'. Ipan heb' ichamtak animaxo ya ix eyutej."
+    },
+    {
+      "number": "7",
+      "text": "Ix eyalanpax icha tik: Ha onh tik yajal onh t'a masanil tiempo, xe chi. Malaj jab'ok tas ix he na' tas ol ex ajelk'ochok."
+    },
+    {
+      "number": "8",
+      "text": "Yuj chi' ach chonhab' Babilonia, ab' wal tas ol wala': Lajan ach icha syutej sb'oan sb'a junok ix ajmul ix. Te junk'olalxo ajeq'ui, tza naan t'a a pensar to malaj junokxo mach lajan icha ach tik. Tza naani to malaj b'ak'uinh ol ach kan icha junok ix ix chamnak yetb'eyum, malaj b'ak'uinh pax ol ach kan manh uninal a naani."
+    },
+    {
+      "number": "9",
+      "text": "Wach'chom jantak heb' ajchum yet' heb' ajb'aal, palta manhxo ol ach koljok yuj heb' ayik ol ja lemnaj cha makan chi' t'a ib'anh, haton junixtakil yet' manh uninal. Junnhej k'ual ol jawok lemnaj juntzanh chi' t'ayach."
+    },
+    {
+      "number": "10",
+      "text": "Ha a naani to wach'nhej ajek' t'a a chukal chi', malaj mach tz'ilan tas tza k'ulej. Ha tas ojtak yet' a jelanil tzach ak'an musansatil. Tza naani to a achnhej, malaj junokxo."
+    },
+    {
+      "number": "11",
+      "text": "Palta ol ja wal jun yaelal t'a ib'anh, manhxo ol yal a yamanoch waan yet' heb' ajb'aal chi'. Ayik ol jawok jun yaelal chi', manhxo ol yal a kachani. Ol jawok lemnaj t'a ib'anh ayik manh naanok uuj."
+    },
+    {
+      "number": "12",
+      "text": "B'eyb'alej ajchumal yet' ajb'aalil chi', haton juntzanh chi' a k'ayb'ejnak yiktax kob'es ach. Ol wila'' tato olto och yopisio uuj, ol wila'' tato olto xiw heb' anima t'ayach yuj."
+    },
+    {
+      "number": "13",
+      "text": "Tzijtum heb' ak'um razón ix smolb'ej sb'a et'ok, ix ach tzaktzajk'och yet' heb'. Jawokab' heb' schuman yet' k'een k'anal chi' tiknaik. Ayik syilan k'een k'anal chi' heb', snachajel yuj heb' yalani. Ha heb' tz'alan tas tzuji t'a junjun uj, jawokab' heb' ach skol tiknaik."
+    },
+    {
+      "number": "14",
+      "text": "Palta lajan ol aj heb' icha yok ixim trigo, a k'ak' ol nhusantz'a heb'. Manhxo ol yal skolan sb'a heb' t'a kal k'ak' chi'. Ha jun k'ak' chi' te ow, manh lajanok icha junok komon k'ak' skan stzak'aq'uil tzonh em k'ojan tzonh k'axni t'a sti'."
+    },
+    {
+      "number": "15",
+      "text": "Icha chi' ol ajelk'och heb' a kolwajum chi', haton heb' b'aj ix a k'anb'ejnhej yiktax ach kotochi. Ol ach aktajkan yuj heb' smasanil, junjun heb' ol b'atkan t'a sb'eal satnakil, manhxa junok mach ol ach kolanok, xchi Jehová."
+    }
+  ]
 }

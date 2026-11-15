@@ -1,73 +1,77 @@
 {
-    "chapter": "40",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix in tanhwejnhej scolwal Jehová, haxo ix ab'ani ayic ix in tewi t'ay."
-        },
-        {
-            "number": "2",
-            "text": "Ix in yik'k'eta t'a jun olan te ay smay. Ix in scol b'aj sitz'atac. Ix in yak'ank'e t'a yib'anh jun k'een k'een yic tzin tek'b'ej in b'a."
-        },
-        {
-            "number": "3",
-            "text": "Ix yak' wal jun b'it ak'to t'ayin, b'it yic aloj wach' lolonel t'a ko Diosal. Comonoc sat sk'ol jantac heb' tz'ilan jun tik, yic syak'och Jehová heb' yipoc sk'ool."
-        },
-        {
-            "number": "4",
-            "text": "Te wach' yic heb' tz'ak'anoch Jehová yipoc sk'ool, max yak'och spensar heb' t'a heb' syik'chaanh sb'a, aton heb' tz'och tzak'an t'a spatic juntzanh comon Dios."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová in Diosal, manh jantacoc juntzanh tas satub'tac ix a b'o'o yet' jantac a wach'k'olal ix ak' t'ayonh. Malaj junok mach syal slajb'an sb'a ed'oc. In gana swalel masanil a wach'k'olal chi', palta max in tzak'wanlaj, yujto manhxo b'ischajb'enoc."
-        },
-        {
-            "number": "6",
-            "text": "Max a nib'ejlaj nok' nok' yet' ixim trigo silab'il. Malaj nok' nok' tza k'ana' yic snhusji silab'il t'ayach, ma silab' yic stupcanel ko mul. Palta ix a jac in chiquin yic tzin cha wab' tas tzala'."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ix wala': Tik tzin ja'i, xin chi. Ha tas tz'ib'ab'ilkan t'a a lolonel, a wab'ixal syala'."
-        },
-        {
-            "number": "8",
-            "text": "Ach in Diosal, snib'ej in k'ool tzin k'ulej icha a gana. Ayoch a k'ayb'ub'al t'a in pensar."
-        },
-        {
-            "number": "9",
-            "text": "Mamin Jehová, ix walkanel yab'ixal a tojolal t'a skal heb' a chonhab'. Ojtac wal to malaj b'aj ix wactejkan walaneli."
-        },
-        {
-            "number": "10",
-            "text": "Malaj b'aj max walel a tojolal. Ix walel yab'ixal to tz'elnhejk'och tas tzala', tzak'anpax colnab'il. Malaj b'aj ix in k'ub'ejel t'a yichanh heb' a chonhab' molaneq'ui, to te niwan a wach'k'olal, yelnhej pax tzala'."
-        },
-        {
-            "number": "11",
-            "text": "Mamin Jehová, ayokab'nhej ok'elk'olal t'ayin. Ilinnhej yet' a wach'k'olal icha ix aj alani."
-        },
-        {
-            "number": "12",
-            "text": "Yujto te ay tas sjawi t'a wib'anh, maxtzac b'ischajlaj wuuj. In yamchajelta yuj in chukal. Ichato maxtzac yal-laj wilani. Ek'b'al in chukal chi' t'a yichanh sb'isul xil in jolom. Vanxo somchajel in k'ool."
-        },
-        {
-            "number": "13",
-            "text": "Mamin, cotanh wal k'elan t'ayin, cotanh, colineli. Cotanh elanhchamel, tzach och wed'oc."
-        },
-        {
-            "number": "14",
-            "text": "Ha heb' snib'ej in smilanchamoc, jawokab' q'uixwelal yet' somk'olal t'a yib'anh heb'. B'atokab' heb' elelal t'a skal niwac q'uixwelal, yujto snib'ej heb' yak'an chukal t'ayin."
-        },
-        {
-            "number": "15",
-            "text": "Ha heb' tzin b'uchani, kanokab' heb' t'a manh pensaril yuj somk'olal."
-        },
-        {
-            "number": "16",
-            "text": "Axo masanil heb' ayoch spensar t'ayach, tzalajokab' heb' t'ayach. Te niwan elk'och ach Jehová, xchiokab' heb' snib'an a colwal."
-        },
-        {
-            "number": "17",
-            "text": "Ha inxo jun, ob'iltac in, ay in och t'a ilk'olal. Mamin, mokab' in b'atkan satk'olal uuj. Ha ach tzach ochtaxon wed'oc yic tzin a colani. Ach Jehová in Diosal, manh ik'ek' tiempo in a colani."
-        }
-    ]
+  "chapter": "40",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix in tanhwejnhej skolwal Jehová, haxo ix ab'ani ayik ix in tewi t'ay."
+    },
+    {
+      "number": "2",
+      "text": "Ix in yik'k'eta t'a jun olan te ay smay. Ix in skol b'aj sitz'atak. Ix in yak'ank'e t'a yib'anh jun k'een k'een yik tzin tek'b'ej in b'a."
+    },
+    {
+      "number": "3",
+      "text": "Ix yak' wal jun b'it ak'to t'ayin, b'it yik aloj wach' lolonel t'a ko Diosal. Komonok sat sk'ol jantak heb' tz'ilan jun tik, yik syak'och Jehová heb' yipok sk'ool."
+    },
+    {
+      "number": "4",
+      "text": "Te wach' yik heb' tz'ak'anoch Jehová yipok sk'ool, max yak'och spensar heb' t'a heb' syik'chaanh sb'a, haton heb' tz'och tzak'an t'a spatik juntzanh komon Dios."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová in Diosal, manh jantakok juntzanh tas satub'tak ix a b'o'o yet' jantak a wach'k'olal ix ak' t'ayonh. Malaj junok mach syal slajb'an sb'a et'ok. In gana swalel masanil a wach'k'olal chi', palta max in tzak'wanlaj, yujto manhxo b'ischajb'enok."
+    },
+    {
+      "number": "6",
+      "text": "Max a nib'ejlaj nok' nok' yet' ixim trigo silab'il. Malaj nok' nok' tza k'ana' yik snhusji silab'il t'ayach, ma silab' yik stupkanel ko mul. Palta ix a jak in chikin yik tzin cha wab' tas tzala'."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ix wala': Tik tzin ja'i, xin chi. Ha tas tz'ib'ab'ilkan t'a a lolonel, a wab'ixal syala'."
+    },
+    {
+      "number": "8",
+      "text": "Ach in Diosal, snib'ej in k'ool tzin k'ulej icha a gana. Ayoch a k'ayb'ub'al t'a in pensar."
+    },
+    {
+      "number": "9",
+      "text": "Mamin Jehová, ix walkanel yab'ixal a tojolal t'a skal heb' a chonhab'. Ojtak wal to malaj b'aj ix waktejkan walaneli."
+    },
+    {
+      "number": "10",
+      "text": "Malaj b'aj max walel a tojolal. Ix walel yab'ixal to tz'elnhejk'och tas tzala', tzak'anpax kolnab'il. Malaj b'aj ix in k'ub'ejel t'a yichanh heb' a chonhab' molaneq'ui, to te niwan a wach'k'olal, yelnhej pax tzala'."
+    },
+    {
+      "number": "11",
+      "text": "Mamin Jehová, ayokab'nhej ok'elk'olal t'ayin. Ilinnhej yet' a wach'k'olal icha ix aj alani."
+    },
+    {
+      "number": "12",
+      "text": "Yujto te ay tas sjawi t'a wib'anh, maxtzak b'ischajlaj wuuj. In yamchajelta yuj in chukal. Ichato maxtzak yal-laj wilani. Ek'b'al in chukal chi' t'a yichanh sb'isul xil in jolom. Wanxo somchajel in k'ool."
+    },
+    {
+      "number": "13",
+      "text": "Mamin, kotanh wal k'elan t'ayin, kotanh, kolineli. Kotanh elanhchamel, tzach och wet'ok."
+    },
+    {
+      "number": "14",
+      "text": "Ha heb' snib'ej in smilanchamok, jawokab' q'uixwelal yet' somk'olal t'a yib'anh heb'. B'atokab' heb' elelal t'a skal niwak q'uixwelal, yujto snib'ej heb' yak'an chukal t'ayin."
+    },
+    {
+      "number": "15",
+      "text": "Ha heb' tzin b'uchani, kanokab' heb' t'a manh pensaril yuj somk'olal."
+    },
+    {
+      "number": "16",
+      "text": "Axo masanil heb' ayoch spensar t'ayach, tzalajokab' heb' t'ayach. Te niwan elk'och ach Jehová, xchiokab' heb' snib'an a kolwal."
+    },
+    {
+      "number": "17",
+      "text": "Ha inxo jun, ob'iltak in, ay in och t'a ilk'olal. Mamin, mokab' in b'atkan satk'olal uuj. Ha ach tzach ochtaxon wet'ok yik tzin a kolani. Ach Jehová in Diosal, manh ik'ek' tiempo in a kolani."
+    }
+  ]
 }

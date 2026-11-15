@@ -1,65 +1,69 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ay pax junxo ix ch'oxji wila''. Ix wil yelta chanhe' carruaje yic owal t'a skal snanhal chab' tzalan nab'a bronce."
-        },
-        {
-            "number": "2",
-            "text": "Ha jun b'ab'el carruaje, nherb'il yuj nok' chacchac chej. Axo jun schab'il, q'uiq'uik' yilji nok' nherjinac."
-        },
-        {
-            "number": "3",
-            "text": "Axo jun yoxil, sacsac yilji nok' nherjinac. Axo junxo schanhil, sacb'alinac yilji nok' nherjinac."
-        },
-        {
-            "number": "4",
-            "text": "Ix in k'anb'an t'a jun ángel wan slolon chi' wed'oc icha tik: Mamin, ¿tas wal syalelk'och junxo tik? xin chi t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Ix yalan t'ayin icha tik: Ha juntzanh nok' chej yet' carruaje tik, a chanhe' espíritu sch'oxo'. Ha Dios Yajal t'a masanil yol yib'anhk’inal, a schekancot heb'."
-        },
-        {
-            "number": "6",
-            "text": "Ha jun carruaje nherb'il yuj nok' q'uiq'uik' chej chi', sb'at t'a jun nación t'a stojolal norte. Axo jun carruaje nherb'il yuj nok' sacsac chej chi', sb'at t'a stojolal b'aj tz'em k'u. Axo junxo carruaje nherb'il yuj nok' chej sacb'alinac chi', sb'at t'a stojolal sur, xchi jun ángel chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ha juntzanh nok' chej te ay yip chi', ix tzalaj nok' sb'at sb'eytzitej masanil yol yib'anhk’inal tik. Ix yalan jun ángel chi' t'a nok' icha tik: Ixiquec he b'eytzitej masanil yol yib'anhk’inal tik, xchi t'a nok'. Ix b'at nok' b'ian."
-        },
-        {
-            "number": "8",
-            "text": "Ixlajwi chi', ix awajcot jun ángel chi' t'ayin icha tik: Ilnab' wal, a jun carruaje ix b'at t'a jun nación t'a stojolal norte, ha' ol b'oan tas nab'il wuuj ta', xchi."
-        },
-        {
-            "number": "9",
-            "text": "Ix yalan Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "10",
-            "text": "Cha yofrenda heb' meltzajnaccot t'a Babilonia: Aton winhaj Heldai, winhaj Tobías yet' winhaj Jedaías. Anhejtona' t'a jun k'u chi', tzach b'atpax t'a spat winhaj Josías yuninal winhaj Sofonías."
-        },
-        {
-            "number": "11",
-            "text": "Ha yet' k'een plata yet' k'een oro ol a cha chi' tza b'o junok corona, tzak'ank'e t'a sjolom winhaj Josué, aton winh sat sacerdote yuninal winhaj Josadac."
-        },
-        {
-            "number": "12",
-            "text": "Tzalan t'a winh icha tik: Ha Jehová Yajal t'a Smasanil tz'alani: Ay jun winak skuchan Swol, ol tek'k'aj b'aj ayeq'ui, ha' ol b'oanxik'e in templo."
-        },
-        {
-            "number": "13",
-            "text": "Aton d'inhantaxon sb'oanxik'e in templo chi', ol b'inaj wal icha junok rey, ol em k'ojan t'a sdespacho yic syak'an yajalil. Ha t'a stz'ey sdespacho chi' ol em k'ojan jun winh sacerdote, junnhej pensaril ol aj heb' schawanhil, xa chi t'a winh."
-        },
-        {
-            "number": "14",
-            "text": "Ha corona ol ak' b'o chi', skan t'a in templo yic snachajcot winhaj Heldai, winhaj Tobías, winhaj Jedaías yet' winhaj Hen yuninal winhaj Sofonías, xchi Jehová t'ayin."
-        },
-        {
-            "number": "15",
-            "text": "Ol cot heb' anima t'a najat, ol kolwaj heb' eyed'oc yic sb'ochajxik'e stemplo Jehová. Icha chi' ol aj snachajel eyuuj to a Jehová Yajal t'a Smasanil ix in chekancot wal t'ayex. Ha jun tik ol ujok tato tze k'anab'ajej t'a smasanil he k'ool tas syal Jehová ko Diosal."
-        }
-    ]
+  "chapter": "6",
+  "book": "ZACARÍAS",
+  "book_short": "Zac",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ay pax junxo ix ch'oxji wila''. Ix wil yelta chanhe' karruaje yik owal t'a skal snanhal chab' tzalan nab'a bronke."
+    },
+    {
+      "number": "2",
+      "text": "Ha jun b'ab'el karruaje, nherb'il yuj nok' chakchak chej. Axo jun schab'il, q'uiq'uik' yilji nok' nherjinak."
+    },
+    {
+      "number": "3",
+      "text": "Axo jun yoxil, saksak yilji nok' nherjinak. Axo junxo schanhil, sakb'alinak yilji nok' nherjinak."
+    },
+    {
+      "number": "4",
+      "text": "Ix in k'anb'an t'a jun ángel wan slolon chi' wet'ok icha tik: Mamin, ¿tas wal syalelk'och junxo tik? xin chi t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Ix yalan t'ayin icha tik: Ha juntzanh nok' chej yet' karruaje tik, a chanhe' espíritu sch'oxo'. Ha Dios Yajal t'a masanil yol yib'anhk'inal, a schekankot heb'."
+    },
+    {
+      "number": "6",
+      "text": "Ha jun karruaje nherb'il yuj nok' q'uiq'uik' chej chi', sb'at t'a jun nakión t'a stojolal norte. Axo jun karruaje nherb'il yuj nok' saksak chej chi', sb'at t'a stojolal b'aj tz'em k'u. Axo junxo karruaje nherb'il yuj nok' chej sakb'alinak chi', sb'at t'a stojolal sur, xchi jun ángel chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ha juntzanh nok' chej te ay yip chi', ix tzalaj nok' sb'at sb'eytzitej masanil yol yib'anhk'inal tik. Ix yalan jun ángel chi' t'a nok' icha tik: Ixikek he b'eytzitej masanil yol yib'anhk'inal tik, xchi t'a nok'. Ix b'at nok' b'ian."
+    },
+    {
+      "number": "8",
+      "text": "Ixlajwi chi', ix awajkot jun ángel chi' t'ayin icha tik: Ilnab' wal, a jun karruaje ix b'at t'a jun nakión t'a stojolal norte, ha' ol b'oan tas nab'il wuuj ta', xchi."
+    },
+    {
+      "number": "9",
+      "text": "Ix yalan Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "10",
+      "text": "Cha yofrenda heb' meltzajnakkot t'a Babilonia: Haton winhaj Heldai, winhaj Tobías yet' winhaj Jedaías. Anhejtona' t'a jun k'u chi', tzach b'atpax t'a spat winhaj Josías yuninal winhaj Sofonías."
+    },
+    {
+      "number": "11",
+      "text": "Ha yet' k'een plata yet' k'een oro ol a cha chi' tza b'o junok korona, tzak'ank'e t'a sjolom winhaj Josué, haton winh sat sakerdote yuninal winhaj Josadac."
+    },
+    {
+      "number": "12",
+      "text": "Tzalan t'a winh icha tik: Ha Jehová Yajal t'a Smasanil tz'alani: Ay jun winak skuchan Swol, ol tek'k'aj b'aj ayeq'ui, ha' ol b'oanxik'e in templo."
+    },
+    {
+      "number": "13",
+      "text": "Haton t'inhantaxon sb'oanxik'e in templo chi', ol b'inaj wal icha junok rey, ol em k'ojan t'a sdespacho yik syak'an yajalil. Ha t'a stz'ey sdespacho chi' ol em k'ojan jun winh sakerdote, junnhej pensaril ol aj heb' schawanhil, xa chi t'a winh."
+    },
+    {
+      "number": "14",
+      "text": "Ha korona ol ak' b'o chi', skan t'a in templo yik snachajkot winhaj Heldai, winhaj Tobías, winhaj Jedaías yet' winhaj Hen yuninal winhaj Sofonías, xchi Jehová t'ayin."
+    },
+    {
+      "number": "15",
+      "text": "Ol kot heb' anima t'a najat, ol kolwaj heb' eyet'ok yik sb'ochajxik'e stemplo Jehová. Icha chi' ol aj snachajel eyuuj to a Jehová Yajal t'a Smasanil ix in chekankot wal t'ayex. Ha jun tik ol ujok tato tze k'anab'ajej t'a smasanil he k'ool tas syal Jehová ko Diosal."
+    }
+  ]
 }

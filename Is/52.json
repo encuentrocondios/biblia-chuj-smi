@@ -1,65 +1,69 @@
 {
-    "chapter": "52",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex aj Sion schonhab' Dios, ak'equel he wayanh, k'eanhec waan, tek'b'ejec he b'a. Ch'oxequel swach'il eyilji, yujto manhxa b'ak'uinh ol jax heb' ch'oc nacional ch'oc sdiosal yak' chukal t'ayex."
-        },
-        {
-            "number": "2",
-            "text": "Q'ueanhec waan ex aj Jerusalén, mak'equel pokok t'ayex, ol ex emxoc k'ojan t'a he despacho eyak'an yajalil. Ex aj Sion, ex ix ex xid'ek' t'a ch'oc nacional, ik'equel tas tzek'b'iloch t'a he jaj."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jehová Kajal tz'alan icha tik: Malaj wal jab'oc tumin ix in cha t'a he patic ayic ix ex ik'chajb'at chekab'oc. Anhejtona', malaj pax tumin ol wak'a' yic tzex wik'anxi meltzajoc."
-        },
-        {
-            "number": "4",
-            "text": "Ha in chonhab' tik, b'atnac t'a Egipto t'a peka', ch'oc chonhab'il ajnac yek' heb' ta'. Axo ticnaik ix ixtaj heb' yuj heb' aj Asiria, wach'chom malaj jab'oc yuj."
-        },
-        {
-            "number": "5",
-            "text": "Axo ticnaik, ¿tas smoj tzin k'ulej? D'a ichnhej ta' ix ik'jib'at in chonhab' tik t'a Babilonia. Ha heb' tz'ak'an yajalil t'a yib'anh heb', syik'chaanh sb'a heb', max yaktej heb' in sb'uchani."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi', ol k'och sk'ual, ol yojtaquejel in chonhab' tik to Dios in, ol nachajel yuj heb' to a in ix in lolon t'a heb', xchi Jehová."
-        },
-        {
-            "number": "7",
-            "text": "Jantac swach'il quilan t'a tzalquixtac, ayic sjawi junok mach tz'alan wach' ab'ix. Yed'nac yab'ixal junk'olal, syalanpax yab'ixal colnab'il, syalan icha tik: Ex aj Sion, a he Diosal wan yoch Reyal, xchi."
-        },
-        {
-            "number": "8",
-            "text": "Ab'ec, a heb' stanhwumal he chonhab', tz'el yav heb', jun lajan tz'aj sk'e nhilnaj heb' yel yav yuj tzalajk'olal, yujto syil wal heb' sjax Jehová t'a Sion."
-        },
-        {
-            "number": "9",
-            "text": "Ex aj Jerusalén juwinakkan he chonhab', elokab' eyav he b'itan t'a tzalajk'olal, yujto ol ok'xoc sk'ol Jehová t'ayex, ol scolanxi Jerusalén."
-        },
-        {
-            "number": "10",
-            "text": "Yujto ol sch'ox spoder Jehová yil juntzanhxo nación. Masanil anima t'a yol yib'anhk’inal tik, ol yojtaquejel heb' to ha Dios onh colanxi."
-        },
-        {
-            "number": "11",
-            "text": "Elanhec, elanhecta t'a yol sk'ab' heb' aj Babilonia. Ha ex eyed'nac yamk'ab' yic stemplo Jehová, manh eyam tas manh wach'oc, manh eyak'b'at he b'ha t'a skal chukal."
-        },
-        {
-            "number": "12",
-            "text": "Manh sk'ak'aliloc, manh elelaloc ol ex elta, yujto a Jehová ko Diosal ol oymaj t'a he patictac, ol ex stanhwani."
-        },
-        {
-            "number": "13",
-            "text": "Ix yalan Jehová icha tik: Ha jun in Chekab' tik wach'nhej ol elk'ochoc, ol ik'joc wal chaanh, ol b'inaj wal."
-        },
-        {
-            "number": "14",
-            "text": "Tzijtum mach ol sat sk'ol yilani, yujto ol ixtax yilji, manhxo animaoc ol aj yilji yuj tas ol utajoc."
-        },
-        {
-            "number": "15",
-            "text": "Icha pax chi' jantac nación, ol sat sk'ol yilani ayic ol ik'jocchaanh. Ha heb' rey toxonhej ol och k'elan heb', yujto ol yil heb', ol nachajel yuj heb' tas to manta b'aj ix yab' heb' yalji, xchi Jehová."
-        }
-    ]
+  "chapter": "52",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex aj Sion schonhab' Dios, ak'ekel he wayanh, k'eanhek waan, tek'b'ejek he b'a. Ch'oxekel swach'il eyilji, yujto manhxa b'ak'uinh ol jax heb' ch'ok nakional ch'ok sdiosal yak' chukal t'ayex."
+    },
+    {
+      "number": "2",
+      "text": "Q'ueanhek waan ex aj Jerusalén, mak'ekel pokok t'ayex, ol ex emxok k'ojan t'a he despacho eyak'an yajalil. Ex aj Sion, ex ix ex xit'ek' t'a ch'ok nakional, ik'ekel tas tzek'b'iloch t'a he jaj."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jehová Kajal tz'alan icha tik: Malaj wal jab'ok tumin ix in cha t'a he patik ayik ix ex ik'chajb'at chekab'ok. Anhejtona', malaj pax tumin ol wak'a' yik tzex wik'anxi meltzajok."
+    },
+    {
+      "number": "4",
+      "text": "Ha in chonhab' tik, b'atnak t'a Egipto t'a peka', ch'ok chonhab'il ajnak yek' heb' ta'. Axo tiknaik ix ixtaj heb' yuj heb' aj Asiria, wach'chom malaj jab'ok yuj."
+    },
+    {
+      "number": "5",
+      "text": "Axo tiknaik, ¿tas smoj tzin k'ulej? T'a ichnhej ta' ix ik'jib'at in chonhab' tik t'a Babilonia. Ha heb' tz'ak'an yajalil t'a yib'anh heb', syik'chaanh sb'a heb', max yaktej heb' in sb'uchani."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi', ol k'och sk'ual, ol yojtakejel in chonhab' tik to Dios in, ol nachajel yuj heb' to a in ix in lolon t'a heb', xchi Jehová."
+    },
+    {
+      "number": "7",
+      "text": "Jantak swach'il kilan t'a tzalkixtak, ayik sjawi junok mach tz'alan wach' ab'ix. Yet'nak yab'ixal junk'olal, syalanpax yab'ixal kolnab'il, syalan icha tik: Ex aj Sion, a he Diosal wan yoch Reyal, xchi."
+    },
+    {
+      "number": "8",
+      "text": "Ab'ek, a heb' stanhwumal he chonhab', tz'el yaw heb', jun lajan tz'aj sk'e nhilnaj heb' yel yaw yuj tzalajk'olal, yujto syil wal heb' sjax Jehová t'a Sion."
+    },
+    {
+      "number": "9",
+      "text": "Ex aj Jerusalén juwinakkan he chonhab', elokab' eyaw he b'itan t'a tzalajk'olal, yujto ol ok'xok sk'ol Jehová t'ayex, ol skolanxi Jerusalén."
+    },
+    {
+      "number": "10",
+      "text": "Yujto ol sch'ox spoder Jehová yil juntzanhxo nakión. Masanil anima t'a yol yib'anhk'inal tik, ol yojtakejel heb' to ha Dios onh kolanxi."
+    },
+    {
+      "number": "11",
+      "text": "Elanhek, elanhekta t'a yol sk'ab' heb' aj Babilonia. Ha ex eyet'nak yamk'ab' yik stemplo Jehová, manh eyam tas manh wach'ok, manh eyak'b'at he b'a t'a skal chukal."
+    },
+    {
+      "number": "12",
+      "text": "Manh sk'ak'alilok, manh elelalok ol ex elta, yujto a Jehová ko Diosal ol oymaj t'a he patiktak, ol ex stanhwani."
+    },
+    {
+      "number": "13",
+      "text": "Ix yalan Jehová icha tik: Ha jun in Chekab' tik wach'nhej ol elk'ochok, ol ik'jok wal chaanh, ol b'inaj wal."
+    },
+    {
+      "number": "14",
+      "text": "Tzijtum mach ol sat sk'ol yilani, yujto ol ixtax yilji, manhxo animaok ol aj yilji yuj tas ol utajok."
+    },
+    {
+      "number": "15",
+      "text": "Icha pax chi' jantak nakión, ol sat sk'ol yilani ayik ol ik'jokchaanh. Ha heb' rey toxonhej ol och k'elan heb', yujto ol yil heb', ol nachajel yuj heb' tas to manta b'aj ix yab' heb' yalji, xchi Jehová."
+    }
+  ]
 }

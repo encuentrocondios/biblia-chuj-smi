@@ -1,93 +1,97 @@
 {
-    "chapter": "33",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex anima wach' he pensar, b'itejec Jehová t'a tzalajk'olal. Yujto a heb' anima tojol sb'eyb'al, smojton wal sb'itan heb' t'a Jehová chi'."
-        },
-        {
-            "number": "2",
-            "text": "Alec wach' lolonel t'a Jehová yet' te' arpa. B'itananhec t'ay yet' salterio lajunhe' sch'anhal."
-        },
-        {
-            "number": "3",
-            "text": "B'itananhec t'a Jehová yet' ak' b'it. Wach' tzeyutej he b'itan t'ay t'a tzalajk'olal."
-        },
-        {
-            "number": "4",
-            "text": "Yujto a slolonel Jehová yel toni. Ha tas sb'o'o, a sch'oxaneli to syak'elk'och tas syala'."
-        },
-        {
-            "number": "5",
-            "text": "Ha Jehová, a tojolal yet' wach' b'eyb'al snib'ej. Sch'oxel sb'a swach'k'olal t'a masanil yol yib'anhk’inal tik."
-        },
-        {
-            "number": "6",
-            "text": "Tonhej ix yal Jehová, ix b'o satcha’anh yet' masanil tastac ay t'ay."
-        },
-        {
-            "number": "7",
-            "text": "A' ix molb'ankan ha ha'. Ha ha' mar tonhej malanek' ha' t'a yet'tal yuj."
-        },
-        {
-            "number": "8",
-            "text": "Ayokab' yelk'och Jehová t'a masanil tastac ay t'a sat lu'um tik. E masanil kajan ex t'a yol yib'anhk’inal tik, ayokab' he xivk'olal t'a Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Yujto ha' ix alani, ix b'o smasanil. A' ix alani, wach' ix ajkan masanil tas."
-        },
-        {
-            "number": "10",
-            "text": "Ha Jehová smak'an lajwoc spensar juntzanh ch'oc nacional."
-        },
-        {
-            "number": "11",
-            "text": "Axo tas sna'a, aynhej ek' t'a masanil tiempo."
-        },
-        {
-            "number": "12",
-            "text": "Tzalajk'olal yic junok nación to a Jehová ayoch sDiosaloc, to sik'b'ilel yuj yic tz'och yicoc."
-        },
-        {
-            "number": "13",
-            "text": "Ha t'a satcha’anh k'elanemta Jehová, syilanemta masanil anima."
-        },
-        {
-            "number": "14",
-            "text": "Ha b'aj kajanek' Jehová syilcot masanil heb' kajan t'a sat lu'um tik."
-        },
-        {
-            "number": "15",
-            "text": "A' ixb’o’an spensar heb' smasanil. Anheja' pax smaclan yila' tas sk'ulej heb'."
-        },
-        {
-            "number": "16",
-            "text": "Manh yujoc to te niwan sb'isul soldado ol colchajel junok yajal. Manh yujoc to te ay yip junok soldado, ol colchajoc."
-        },
-        {
-            "number": "17",
-            "text": "Ha nok' chej, malaj yopisio nok' scolan heb' anima. Wach'chom te ay yip nok', palta max yal-laj skolwaj nok'."
-        },
-        {
-            "number": "18",
-            "text": "Ha Jehová k'elanoch t'a heb' ay xivk'olal t'ay, aton heb' ayoch swach'k'olal yipoc sk'ool."
-        },
-        {
-            "number": "19",
-            "text": "Scoljikanel heb' yuj t'a chamel, tz'ak'ji wa heb' yuj t'a stiempoal wejel."
-        },
-        {
-            "number": "20",
-            "text": "Ha onh tik, a Jehová skak'och yipoc ko k'ool. A' tzonh colani, tzonh stanhwan paxi."
-        },
-        {
-            "number": "21",
-            "text": "Yuj chi' stzalajb'i ko k'ool yuj. Skak'anoch yipoc ko k'ool, yujto Axonhejochi."
-        },
-        {
-            "number": "22",
-            "text": "Mamin Jehová, ayokab'och a wach'k'olal t'ayonh, yujto tzach kak'och yipoc ko k'ool."
-        }
-    ]
+  "chapter": "33",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 22,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex anima wach' he pensar, b'itejek Jehová t'a tzalajk'olal. Yujto a heb' anima tojol sb'eyb'al, smojton wal sb'itan heb' t'a Jehová chi'."
+    },
+    {
+      "number": "2",
+      "text": "Alek wach' lolonel t'a Jehová yet' te' arpa. B'itananhek t'ay yet' salterio lajunhe' sch'anhal."
+    },
+    {
+      "number": "3",
+      "text": "B'itananhek t'a Jehová yet' ak' b'it. Wach' tzeyutej he b'itan t'ay t'a tzalajk'olal."
+    },
+    {
+      "number": "4",
+      "text": "Yujto a slolonel Jehová yel toni. Ha tas sb'o'o, a sch'oxaneli to syak'elk'och tas syala'."
+    },
+    {
+      "number": "5",
+      "text": "Ha Jehová, a tojolal yet' wach' b'eyb'al snib'ej. Sch'oxel sb'a swach'k'olal t'a masanil yol yib'anhk'inal tik."
+    },
+    {
+      "number": "6",
+      "text": "Tonhej ix yal Jehová, ix b'o satcha'anh yet' masanil tastak ay t'ay."
+    },
+    {
+      "number": "7",
+      "text": "A' ix molb'ankan ha ha'. Ha ha' mar tonhej malanek' ha' t'a yet'tal yuj."
+    },
+    {
+      "number": "8",
+      "text": "Ayokab' yelk'och Jehová t'a masanil tastak ay t'a sat lu'um tik. E masanil kajan ex t'a yol yib'anhk'inal tik, ayokab' he xiwk'olal t'a Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Yujto ha' ix alani, ix b'o smasanil. A' ix alani, wach' ix ajkan masanil tas."
+    },
+    {
+      "number": "10",
+      "text": "Ha Jehová smak'an lajwok spensar juntzanh ch'ok nakional."
+    },
+    {
+      "number": "11",
+      "text": "Axo tas sna'a, aynhej ek' t'a masanil tiempo."
+    },
+    {
+      "number": "12",
+      "text": "Tzalajk'olal yik junok nakión to a Jehová ayoch sDiosalok, to sik'b'ilel yuj yik tz'och yikok."
+    },
+    {
+      "number": "13",
+      "text": "Ha t'a satcha'anh k'elanemta Jehová, syilanemta masanil anima."
+    },
+    {
+      "number": "14",
+      "text": "Ha b'aj kajanek' Jehová syilkot masanil heb' kajan t'a sat lu'um tik."
+    },
+    {
+      "number": "15",
+      "text": "A' ixb'o'an spensar heb' smasanil. Anheja' pax smaklan yila' tas sk'ulej heb'."
+    },
+    {
+      "number": "16",
+      "text": "Manh yujok to te niwan sb'isul soldado ol kolchajel junok yajal. Manh yujok to te ay yip junok soldado, ol kolchajok."
+    },
+    {
+      "number": "17",
+      "text": "Ha nok' chej, malaj yopisio nok' skolan heb' anima. Wach'chom te ay yip nok', palta max yal-laj skolwaj nok'."
+    },
+    {
+      "number": "18",
+      "text": "Ha Jehová k'elanoch t'a heb' ay xiwk'olal t'ay, haton heb' ayoch swach'k'olal yipok sk'ool."
+    },
+    {
+      "number": "19",
+      "text": "Skoljikanel heb' yuj t'a chamel, tz'ak'ji wa heb' yuj t'a stiempoal wejel."
+    },
+    {
+      "number": "20",
+      "text": "Ha onh tik, a Jehová skak'och yipok ko k'ool. A' tzonh kolani, tzonh stanhwan paxi."
+    },
+    {
+      "number": "21",
+      "text": "Yuj chi' stzalajb'i ko k'ool yuj. Skak'anoch yipok ko k'ool, yujto Axonhejochi."
+    },
+    {
+      "number": "22",
+      "text": "Mamin Jehová, ayokab'och a wach'k'olal t'ayonh, yujto tzach kak'och yipok ko k'ool."
+    }
+  ]
 }

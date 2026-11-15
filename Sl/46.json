@@ -1,49 +1,53 @@
 {
-    "chapter": "46",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Dios ayoch quenhuloc, anheja' pax ayoch quipumaloc. Ha tz'och qued'oc ayic ayonh t'a skal yaelal."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi' max onh xivlaj. Wach'chom stzicub'tanhaj lum lum tik, scot juyuljoc juntzanh witz t'a yol ha' mar,"
-        },
-        {
-            "number": "3",
-            "text": "wach'chom sk'anh ha' mar chi', sk'epax chulnaj sat ha', wach'chom stzicub'tanhaj jolomtac witz yuj yowal ha', palta max onh xivlaj."
-        },
-        {
-            "number": "4",
-            "text": "Ay jun ha' niwan ha' tz'ak'an tzalaj sk'ol heb' kajan t'a schonhab' Dios, aton b'aj kajan Dios ek'to t'a yib'anh smasanil."
-        },
-        {
-            "number": "5",
-            "text": "Ha Dios ayek' t'a schonhab' chi', yuj chi' manh ol satel-laj. Ha tz'och yet' schonhab' chi' ayic wan sakb'i."
-        },
-        {
-            "number": "6",
-            "text": "Tz'el yav juntzanh niwac chonhab' yuj owal. Ol satel juntzanh nación chi'. Ol ulaxb'at lum lum tik ayic ol ab'chaj sjaj Dios."
-        },
-        {
-            "number": "7",
-            "text": "Ha Jehová Yajal t'a Smasanil, ayek' qued'oc. Ha sDiosal ko mam quicham Jacob, a ayoch qued'oc, ay paxoch quenhuloc."
-        },
-        {
-            "number": "8",
-            "text": "Ul ilec satub'taquil tas ix aj satjiel heb' ajk'ol t'a sat lu'um tik yuj Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Slajwiek' owal yuj masanto t'a slajwub' yol yib'anhk’inal tik. Scanhchajkanb'at sjul-lab' heb' yuj. Ha k'een lanza, chok' tz'aj k'een yuj. Syak'anoch sk'ak'al carruaje yic owal chi'."
-        },
-        {
-            "number": "10",
-            "text": "Syalan Dios chi' t'a juntzanh nación: Actejec eyak'an owal. Nachajokab'el eyuuj to a in ton Dios in. Ol alchajel in poder t'a skal masanil nación t'a sat lu'um tik, xchi Dios."
-        },
-        {
-            "number": "11",
-            "text": "Ha Jehová Yajal t'a Smasanil, ayek' qued'oc. Ha sDiosal ko mam quicham Jacob, a ayoch qued'oc, ay paxoch quenhuloc."
-        }
-    ]
+  "chapter": "46",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Dios ayoch kenhulok, anheja' pax ayoch kipumalok. Ha tz'och ket'ok ayik ayonh t'a skal yaelal."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi' max onh xiwlaj. Wach'chom stzikub'tanhaj lum lum tik, skot juyuljok juntzanh witz t'a yol ha' mar,"
+    },
+    {
+      "number": "3",
+      "text": "wach'chom sk'anh ha' mar chi', sk'epax chulnaj sat ha', wach'chom stzikub'tanhaj jolomtak witz yuj yowal ha', palta max onh xiwlaj."
+    },
+    {
+      "number": "4",
+      "text": "Ay jun ha' niwan ha' tz'ak'an tzalaj sk'ol heb' kajan t'a schonhab' Dios, haton b'aj kajan Dios ek'to t'a yib'anh smasanil."
+    },
+    {
+      "number": "5",
+      "text": "Ha Dios ayek' t'a schonhab' chi', yuj chi' manh ol satel-laj. Ha tz'och yet' schonhab' chi' ayik wan sakb'i."
+    },
+    {
+      "number": "6",
+      "text": "Tz'el yaw juntzanh niwak chonhab' yuj owal. Ol satel juntzanh nakión chi'. Ol ulaxb'at lum lum tik ayik ol ab'chaj sjaj Dios."
+    },
+    {
+      "number": "7",
+      "text": "Ha Jehová Yajal t'a Smasanil, ayek' ket'ok. Ha sDiosal ko mam kicham Jacob, a ayoch ket'ok, ay paxoch kenhulok."
+    },
+    {
+      "number": "8",
+      "text": "Ul ilek satub'takil tas ix aj satjiel heb' ajk'ol t'a sat lu'um tik yuj Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Slajwiek' owal yuj masanto t'a slajwub' yol yib'anhk'inal tik. Skanhchajkanb'at sjul-lab' heb' yuj. Ha k'een lanza, chok' tz'aj k'een yuj. Syak'anoch sk'ak'al karruaje yik owal chi'."
+    },
+    {
+      "number": "10",
+      "text": "Syalan Dios chi' t'a juntzanh nakión: Aktejek eyak'an owal. Nachajokab'el eyuuj to a in ton Dios in. Ol alchajel in poder t'a skal masanil nakión t'a sat lu'um tik, xchi Dios."
+    },
+    {
+      "number": "11",
+      "text": "Ha Jehová Yajal t'a Smasanil, ayek' ket'ok. Ha sDiosal ko mam kicham Jacob, a ayoch ket'ok, ay paxoch kenhulok."
+    }
+  ]
 }

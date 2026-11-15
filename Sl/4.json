@@ -1,37 +1,41 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, a ach tza b'o yaj in lolonel, tak'wej in ayic tzin awaj t'ayach. Ayic ay in och t'a syaelal ix in a colani. Ok'okab' a k'ool t'ayin ticnaik, ab' tas swal t'a in lesal tik."
-        },
-        {
-            "number": "2",
-            "text": "Ex wetanimail, ¿b'aq'uinh ol eyactejkan eyalan in pecal? ¿B'aq'uinh ol eyactejkan eyalan lolonel malaj yelk'ochi? ¿B'aq'uinh ol eyactejkan he sayan tas manh yeloc?"
-        },
-        {
-            "number": "3",
-            "text": "Ab'ec, a Jehová ix sik'ankanel heb' anima ayoch spensar t'ay, yic wach' tz'och heb' yicoc. Ayic tzin awaj t'ay, stak'wi t'ayin."
-        },
-        {
-            "number": "4",
-            "text": "Xiwanhec d'ha Dios, yic manhxo ol och he mul. Ayic jichan ex eq'ui, a wal yic te numan, tze b'eyk'olan he b'a."
-        },
-        {
-            "number": "5",
-            "text": "Hak'ek och Jehová yipoc he k'ool, aq'ek he silab' t'ay icha wal t'a smojal."
-        },
-        {
-            "number": "6",
-            "text": "Tzijtum heb' tz'alani: ¿Mach ol ch'oxan swach'il t'ayonh? xchi heb'. Mamin Jehová, ch'ox a wach'k'olal t'ayonh."
-        },
-        {
-            "number": "7",
-            "text": "Ha ach ix ak'cot tzalajk'olal t'ayin, ek'to t'a yichanh stzalajk'olal heb' niwan tas syik' t'a smunlajel."
-        },
-        {
-            "number": "8",
-            "text": "Malaj tas tzin na' ayic tzin ek' jichan, te junk'olal tzin wayi. Mamin Jehová, a ach ton ayach och wed'oc, yuj chi' malaj tas tzin ik'ani."
-        }
-    ]
+  "chapter": "4",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, a ach tza b'o yaj in lolonel, tak'wej in ayik tzin awaj t'ayach. Ayik ay in och t'a syaelal ix in a kolani. Ok'okab' a k'ool t'ayin tiknaik, ab' tas swal t'a in lesal tik."
+    },
+    {
+      "number": "2",
+      "text": "Ex wetanimail, ¿b'aq'uinh ol eyaktejkan eyalan in pekal? ¿B'aq'uinh ol eyaktejkan eyalan lolonel malaj yelk'ochi? ¿B'aq'uinh ol eyaktejkan he sayan tas manh yelok?"
+    },
+    {
+      "number": "3",
+      "text": "Ab'ek, a Jehová ix sik'ankanel heb' anima ayoch spensar t'ay, yik wach' tz'och heb' yikok. Ayik tzin awaj t'ay, stak'wi t'ayin."
+    },
+    {
+      "number": "4",
+      "text": "Xiwanhek t'a Dios, yik manhxo ol och he mul. Ayik jichan ex eq'ui, a wal yik te numan, tze b'eyk'olan he b'a."
+    },
+    {
+      "number": "5",
+      "text": "Hak'ek och Jehová yipok he k'ool, aq'ek he silab' t'ay icha wal t'a smojal."
+    },
+    {
+      "number": "6",
+      "text": "Tzijtum heb' tz'alani: ¿Mach ol ch'oxan swach'il t'ayonh? xchi heb'. Mamin Jehová, ch'ox a wach'k'olal t'ayonh."
+    },
+    {
+      "number": "7",
+      "text": "Ha ach ix ak'kot tzalajk'olal t'ayin, ek'to t'a yichanh stzalajk'olal heb' niwan tas syik' t'a smunlajel."
+    },
+    {
+      "number": "8",
+      "text": "Malaj tas tzin na' ayik tzin ek' jichan, te junk'olal tzin wayi. Mamin Jehová, a ach ton ayach och wet'ok, yuj chi' malaj tas tzin ik'ani."
+    }
+  ]
 }

@@ -1,45 +1,49 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ayek' winh t'a yol sk'ool nok' chay chi', ix lesalwi winh t'a Jehová sDiosal. Ix yalan winh icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Mamin Jehová, a wal t'a skal in yaelal ix in awaj t'ayach. Ix ach tak'wi t'ayin ayic ayinek' t'a chamel. Ata' ix in awaj t'ayach, ix ab'an tas ix wala'."
-        },
-        {
-            "number": "3",
-            "text": "Ato t'a sjulal yich ha' mar ix in a yumcanemi, junelnhej ix yoy sb'a ha ha' t'ayin. Ha ha' niwac ha' ix laj ek' t'a wib'anh."
-        },
-        {
-            "number": "4",
-            "text": "Ata' ix in na' to ix in ik'kanel t'a ichanh t'a junelnhej, a walani to manhxa b'ak'uinh ol wil a templo to ic yaji."
-        },
-        {
-            "number": "5",
-            "text": "Ix in mucchajkanem t'a sjulal yich ha' mar chi'. Ix och b'ak'an juntzanh anh anh k'ultac ay t'a yol ha' chi' t'a in jolom."
-        },
-        {
-            "number": "6",
-            "text": "Ix in emkan t'a yichtac juntzanh witz t'a yol ha' chi'. Junelnhej ix in kan ta' walani, palta a ach tik Jehová in Diosal ach, ix in a colcanel t'a chamel."
-        },
-        {
-            "number": "7",
-            "text": "Axo yic wanxo slajwi in k 'inal ix wab'i, ix ach in naancot Mamin. Ix k'och in lesal t'a ichanh t'a a templo."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' slaj yak'em sb'ha t'a yechel comon Dios malaj yelk'ochi, spatiquejkanel a wach'k'olal heb' tza nib'ej tzak' t'a heb'."
-        },
-        {
-            "number": "9",
-            "text": "Palta a inxo tik, ol wak' in silab' t'ayach yuj wak'an yuj diosal t'ayach. Ol in k'anab'ajej b'aj ix wak' in ti' t'ayach. Ha achxonhej syal a kolwaj Mamin Jehová, xchi winhaj Jonás chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ixlajwi chi', haxo Jehová ix chekanb'at nok' niwan chay chi', yic b'at xejajkanel winhaj Jonás chi' yuj nok' t'a sti' ha' mar chi'."
-        }
-    ]
+  "chapter": "2",
+  "book": "JONÁS",
+  "book_short": "Jon",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ayek' winh t'a yol sk'ool nok' chay chi', ix lesalwi winh t'a Jehová sDiosal. Ix yalan winh icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Mamin Jehová, a wal t'a skal in yaelal ix in awaj t'ayach. Ix ach tak'wi t'ayin ayik ayinek' t'a chamel. Ata' ix in awaj t'ayach, ix ab'an tas ix wala'."
+    },
+    {
+      "number": "3",
+      "text": "Ato t'a sjulal yich ha' mar ix in a yumkanemi, junelnhej ix yoy sb'a ha ha' t'ayin. Ha ha' niwak ha' ix laj ek' t'a wib'anh."
+    },
+    {
+      "number": "4",
+      "text": "Ata' ix in na' to ix in ik'kanel t'a ichanh t'a junelnhej, a walani to manhxa b'ak'uinh ol wil a templo to ik yaji."
+    },
+    {
+      "number": "5",
+      "text": "Ix in mukchajkanem t'a sjulal yich ha' mar chi'. Ix och b'ak'an juntzanh anh anh k'ultak ay t'a yol ha' chi' t'a in jolom."
+    },
+    {
+      "number": "6",
+      "text": "Ix in emkan t'a yichtak juntzanh witz t'a yol ha' chi'. Junelnhej ix in kan ta' walani, palta a ach tik Jehová in Diosal ach, ix in a kolkanel t'a chamel."
+    },
+    {
+      "number": "7",
+      "text": "Axo yik wanxo slajwi in k 'inal ix wab'i, ix ach in naankot Mamin. Ix k'och in lesal t'a ichanh t'a a templo."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' slaj yak'em sb'a t'a yechel komon Dios malaj yelk'ochi, spatikejkanel a wach'k'olal heb' tza nib'ej tzak' t'a heb'."
+    },
+    {
+      "number": "9",
+      "text": "Palta a inxo tik, ol wak' in silab' t'ayach yuj wak'an yuj diosal t'ayach. Ol in k'anab'ajej b'aj ix wak' in ti' t'ayach. Ha achxonhej syal a kolwaj Mamin Jehová, xchi winhaj Jonás chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ixlajwi chi', haxo Jehová ix chekanb'at nok' niwan chay chi', yik b'at xejajkanel winhaj Jonás chi' yuj nok' t'a sti' ha' mar chi'."
+    }
+  ]
 }

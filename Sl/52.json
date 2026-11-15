@@ -1,41 +1,45 @@
 {
-    "chapter": "52",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach to jelan ach t'a owal, ¿tas yuj tzik'chaanh a b'ha t'a a chukal? Ha swach'k'olal Dios aynhejek' t'a smasanil tiempo."
-        },
-        {
-            "number": "2",
-            "text": "Anhej chukal a gana tza k'ulej. Ha a ti' tzak'lab'ej t'a lolonel manh yeloc, icha wal junok k'een cuchilub' te jay ye syak'lab'ej junok anima smil-lab'oc."
-        },
-        {
-            "number": "3",
-            "text": "Ha chukal a gana t'a yichanh wach'il. Ha lolonel es a gana t'a yichanh lolonel yel."
-        },
-        {
-            "number": "4",
-            "text": "Ach anima chab' sat, a wal lolonel yic tz'ixtan anima a gana."
-        },
-        {
-            "number": "5",
-            "text": "Palta ha Dios ol ach satanel t'a junelnhej. Ol och yub'naj t'ayach, ol ach yik'ankanel t'a a pat, ol yik'anel a k 'inal."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' sk'anab'ajan Dios ol yil jun tik heb', ol xiv heb' t'ay, palta ol b'uchwaj heb' t'a jun winh chuk chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ol yalan heb': Ilec wal winh maj ak'anoch Dios yipoc sk'ool. Anhej wal t'a niwac b'eyumal ix yak'och sk'ol winh, aynhejoch spensar winh sk'ulan chukal, xcham heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ha inxo tik, lajan in icha junok te' oliwo te yaax, wach' sq'uib' t'a yamaq'uil stemplo Dios. Anhej swach'k'olal Dios ol wak'och yipoc in k'ool."
-        },
-        {
-            "number": "9",
-            "text": "Ach in Diosal, ol wak'nhej yuj diosal yuj a wach'k'olal t'ayin. Tzach wak'nhejoch yipoc in k'ool yujto wach' ach. Ol walel ab'ixal t'a yichanh heb' icxo, to toxonton wach' ach."
-        }
-    ]
+  "chapter": "52",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach to jelan ach t'a owal, ¿tas yuj tzik'chaanh a b'a t'a a chukal? Ha swach'k'olal Dios aynhejek' t'a smasanil tiempo."
+    },
+    {
+      "number": "2",
+      "text": "Anhej chukal a gana tza k'ulej. Ha a ti' tzak'lab'ej t'a lolonel manh yelok, icha wal junok k'een kuchilub' te jay ye syak'lab'ej junok anima smil-lab'ok."
+    },
+    {
+      "number": "3",
+      "text": "Ha chukal a gana t'a yichanh wach'il. Ha lolonel es a gana t'a yichanh lolonel yel."
+    },
+    {
+      "number": "4",
+      "text": "Ach anima chab' sat, a wal lolonel yik tz'ixtan anima a gana."
+    },
+    {
+      "number": "5",
+      "text": "Palta ha Dios ol ach satanel t'a junelnhej. Ol och yub'naj t'ayach, ol ach yik'ankanel t'a a pat, ol yik'anel a k 'inal."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' sk'anab'ajan Dios ol yil jun tik heb', ol xiw heb' t'ay, palta ol b'uchwaj heb' t'a jun winh chuk chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ol yalan heb': Ilek wal winh maj ak'anoch Dios yipok sk'ool. Anhej wal t'a niwak b'eyumal ix yak'och sk'ol winh, aynhejoch spensar winh sk'ulan chukal, xcham heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ha inxo tik, lajan in icha junok te' oliwo te yaax, wach' sq'uib' t'a yamaq'uil stemplo Dios. Anhej swach'k'olal Dios ol wak'och yipok in k'ool."
+    },
+    {
+      "number": "9",
+      "text": "Ach in Diosal, ol wak'nhej yuj diosal yuj a wach'k'olal t'ayin. Tzach wak'nhejoch yipok in k'ool yujto wach' ach. Ol walel ab'ixal t'a yichanh heb' ikxo, to toxonton wach' ach."
+    }
+  ]
 }

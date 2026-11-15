@@ -1,53 +1,57 @@
 {
-    "chapter": "60",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach ko Diosal yet' wal yowal a k'ool ix onh actankani. Ix onh actejkani, onh ak'ji ganar. Mamin, ak'xicot quip ticnaik."
-        },
-        {
-            "number": "2",
-            "text": "Ix ak' ib'xoc jun lum tik, ix jatkanb'at lu'um. Ha ticnaik, macxi sjatelal lum chi', yic mantzac ib'xilaj lu'um."
-        },
-        {
-            "number": "3",
-            "text": "Ha onh a chonhab' onh tik, niwan yaelal ix ak' quila'. Ichato te niwan wino ix ak' t'ayonh, ix k'e t'a ko jolom."
-        },
-        {
-            "number": "4",
-            "text": "Ix ak' jun ch'oxnab'il t'a heb' niwan elk'och t'a yichanh yic wach' max yamchaj heb' yuj sjul-lab' heb' ajk'ool."
-        },
-        {
-            "number": "5",
-            "text": "Tak'wanh t'ayonh, colonheli, yujto masanil syal uuj. Colonhcanel a onh xajanab'il onh tik uuj."
-        },
-        {
-            "number": "6",
-            "text": "Ix loloncot Dios masanto t'a skajnub', ix yalan icha tik: Ol tzalaj in k'ool ayic ol in cotac pojanb'at lum Siquem yet' yak'likal lum Sucot."
-        },
-        {
-            "number": "7",
-            "text": "Axo lum Galaad yet' lum Manasés wik yaj lu'um. Ha Efraín icha in k'een xumpil yaji. Axo Judá icha sk'ocochal wopisio yaji."
-        },
-        {
-            "number": "8",
-            "text": "Ha Moab, icha yet'tal b'aj tzin b'ic in b'a yaji. Ha t'a yib'anh Edom ol wak'kanb'at in xanhab'. D'a tzalajk'olal ol in awajoc yujto ol wak' ganar heb' filisteo, xchi Dios."
-        },
-        {
-            "number": "9",
-            "text": "Ach in Diosal ¿mach tzin ik'anb'at t'a jun chonhab' ayoch smuroal t'a spatic yichanh? ¿Mach tzin ik'anb'at t'a Edom?"
-        },
-        {
-            "number": "10",
-            "text": "Ach ko Diosal, ix onh a patiquejeli. Maxtzac yal-laj a k'ol tzach b'at yet' heb' ko soldado t'a owal."
-        },
-        {
-            "number": "11",
-            "text": "Ochanh qued'oc, colonhel t'a heb' ayoch ajk'olal t'ayonh. Ha scolwal heb' quetanimail t'ayonh, malaj yalani."
-        },
-        {
-            "number": "12",
-            "text": "Ach ko Diosal, a yet' a colwal ol kak' ganar owal. Ha ach ol a tek'kanem heb' ayoch ajk'olal t'ayonh."
-        }
-    ]
+  "chapter": "60",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach ko Diosal yet' wal yowal a k'ool ix onh aktankani. Ix onh aktejkani, onh ak'ji ganar. Mamin, ak'xikot kip tiknaik."
+    },
+    {
+      "number": "2",
+      "text": "Ix ak' ib'xok jun lum tik, ix jatkanb'at lu'um. Ha tiknaik, makxi sjatelal lum chi', yik mantzak ib'xilaj lu'um."
+    },
+    {
+      "number": "3",
+      "text": "Ha onh a chonhab' onh tik, niwan yaelal ix ak' kila'. Ichato te niwan wino ix ak' t'ayonh, ix k'e t'a ko jolom."
+    },
+    {
+      "number": "4",
+      "text": "Ix ak' jun ch'oxnab'il t'a heb' niwan elk'och t'a yichanh yik wach' max yamchaj heb' yuj sjul-lab' heb' ajk'ool."
+    },
+    {
+      "number": "5",
+      "text": "Tak'wanh t'ayonh, kolonheli, yujto masanil syal uuj. Kolonhkanel a onh xajanab'il onh tik uuj."
+    },
+    {
+      "number": "6",
+      "text": "Ix lolonkot Dios masanto t'a skajnub', ix yalan icha tik: Ol tzalaj in k'ool ayik ol in kotak pojanb'at lum Siquem yet' yak'likal lum Sucot."
+    },
+    {
+      "number": "7",
+      "text": "Axo lum Galaad yet' lum Manasés wik yaj lu'um. Ha Efraín icha in k'een xumpil yaji. Axo Judá icha sk'okochal wopisio yaji."
+    },
+    {
+      "number": "8",
+      "text": "Ha Moab, icha yet'tal b'aj tzin b'ik in b'a yaji. Ha t'a yib'anh Edom ol wak'kanb'at in xanhab'. T'a tzalajk'olal ol in awajok yujto ol wak' ganar heb' filisteo, xchi Dios."
+    },
+    {
+      "number": "9",
+      "text": "Ach in Diosal ¿mach tzin ik'anb'at t'a jun chonhab' ayoch smuroal t'a spatik yichanh? ¿Mach tzin ik'anb'at t'a Edom?"
+    },
+    {
+      "number": "10",
+      "text": "Ach ko Diosal, ix onh a patikejeli. Maxtzak yal-laj a k'ol tzach b'at yet' heb' ko soldado t'a owal."
+    },
+    {
+      "number": "11",
+      "text": "Ochanh ket'ok, kolonhel t'a heb' ayoch ajk'olal t'ayonh. Ha skolwal heb' ketanimail t'ayonh, malaj yalani."
+    },
+    {
+      "number": "12",
+      "text": "Ach ko Diosal, a yet' a kolwal ol kak' ganar owal. Ha ach ol a tek'kanem heb' ayoch ajk'olal t'ayonh."
+    }
+  ]
 }

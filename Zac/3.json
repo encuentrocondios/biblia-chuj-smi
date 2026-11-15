@@ -1,45 +1,49 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix ch'oxji wila'' to a winhaj Josué, aton winh sat sacerdote, linhanoch winh t'a yichanh Yángel Jehová. Ha t'a stojolal swach' winhaj Josué chi', ata' linhanoch winh Satanás, yic syaloch smul winhaj Josué chi' winh."
-        },
-        {
-            "number": "2",
-            "text": "Ix yalan Yángel Jehová chi' t'a winh Satanás chi' icha tik: Ha Jehová ix sik'anel chonhab' Jerusalén, a tzach cachani. Yujto a jun winh winak tik, lajan winh icha junok cuxk'ak' tz'ik'chajelta t'a yol k'ak', xchi."
-        },
-        {
-            "number": "3",
-            "text": "Ha winhaj Josué chi', te mictac spichul winh ayochi, linhannhejoch winh t'a yichanh Yángel Jehová chi'."
-        },
-        {
-            "number": "4",
-            "text": "Ha Yángel Jehová chi' ix alan t'a juntzanh schekab' linhanoch t'a yichanh to tz'ik'chajel spichul winhaj Josué te mictac ayochi. Ix yalanpax t'a winhaj Josué chi' icha tik: Scham wal ilani, a syalelk'och jun tik to a in swik'kanel a mul. Ha ticnaik ol wak' k'apac pichul yic q'uinh ak'ochi, xchi."
-        },
-        {
-            "number": "5",
-            "text": "Ixlajwi chi', ix walani: Comonoc wal tz'ak'chajk'e junok k'ox te sac t'a sjolom winhaj Josué chi', xin chi. Ix yak'ank'e heb' b'ian. Ixlajwi chi' ix yak'anoch pichul yic q'uinh chi' heb' t'a winh, yacb'an linhannhejek' Yángel Jehová chi' ta'."
-        },
-        {
-            "number": "6",
-            "text": "Ixlajwi chi', ix yalan Yángel Jehová t'a winhaj Josué chi' icha tik:"
-        },
-        {
-            "number": "7",
-            "text": "Aton wal juntzanh tik syal Jehová Yajal t'a Smasanil t'ayach: Cha ab' tas swala', tza k'anab'ajannhej masanil tas swak' a k'ulej. Tato ol a k'ulej masanil juntzanh chi', ol ach ochkan yilumaloc in templo, ol a tanhwannhej yet' yamaq'uil. Ha in ol wak' opisio och t'a wichanh icha heb' in chekab' ayek' t'a wichanh tik."
-        },
-        {
-            "number": "8",
-            "text": "Ach Josué, scham wal ab'ani, a ach tik, sat sacerdote aji. Scham yab'anpax heb' ayoch t'a yopisio ed'oc, yujto a ex tik, ch'oxnab'il eyaj yuj junok tas toxo wal ol ujok. Ol wik'cot in chekab', aton jun scuch Swol."
-        },
-        {
-            "number": "9",
-            "text": "Ha in swak'och jun k'een k'een uque' pak'anh t'a yichanh winhaj Josué. Ha in ol in tz'ib'ej och t'a k'een icha tik: Junnhej k'ual ol aj wik'anel smul heb' kajan t'a jun nación tik."
-        },
-        {
-            "number": "10",
-            "text": "Ha t'a jun k'ual chi', ol eyavtej he b'a. D'a tzalajk'olal ol aj eyik'an eyip t'a yalanh yenhul xil te' eyuwa yet' te' eyigo. Ha in Jehová Yajal in t'a Smasanil swal jun tik, xchi Jehová, xchi jun ángel chi'."
-        }
-    ]
+  "chapter": "3",
+  "book": "ZACARÍAS",
+  "book_short": "Zac",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix ch'oxji wila'' to a winhaj Josué, haton winh sat sakerdote, linhanoch winh t'a yichanh Yángel Jehová. Ha t'a stojolal swach' winhaj Josué chi', ata' linhanoch winh Satanás, yik syaloch smul winhaj Josué chi' winh."
+    },
+    {
+      "number": "2",
+      "text": "Ix yalan Yángel Jehová chi' t'a winh Satanás chi' icha tik: Ha Jehová ix sik'anel chonhab' Jerusalén, a tzach kachani. Yujto a jun winh winak tik, lajan winh icha junok kuxk'ak' tz'ik'chajelta t'a yol k'ak', xchi."
+    },
+    {
+      "number": "3",
+      "text": "Ha winhaj Josué chi', te miktak spichul winh ayochi, linhannhejoch winh t'a yichanh Yángel Jehová chi'."
+    },
+    {
+      "number": "4",
+      "text": "Ha Yángel Jehová chi' ix alan t'a juntzanh schekab' linhanoch t'a yichanh to tz'ik'chajel spichul winhaj Josué te miktak ayochi. Ix yalanpax t'a winhaj Josué chi' icha tik: Scham wal ilani, a syalelk'och jun tik to a in swik'kanel a mul. Ha tiknaik ol wak' k'apak pichul yik q'uinh ak'ochi, xchi."
+    },
+    {
+      "number": "5",
+      "text": "Ixlajwi chi', ix walani: Komonok wal tz'ak'chajk'e junok k'ox te sak t'a sjolom winhaj Josué chi', xin chi. Ix yak'ank'e heb' b'ian. Ixlajwi chi' ix yak'anoch pichul yik q'uinh chi' heb' t'a winh, yakb'an linhannhejek' Yángel Jehová chi' ta'."
+    },
+    {
+      "number": "6",
+      "text": "Ixlajwi chi', ix yalan Yángel Jehová t'a winhaj Josué chi' icha tik:"
+    },
+    {
+      "number": "7",
+      "text": "Haton wal juntzanh tik syal Jehová Yajal t'a Smasanil t'ayach: Cha ab' tas swala', tza k'anab'ajannhej masanil tas swak' a k'ulej. Tato ol a k'ulej masanil juntzanh chi', ol ach ochkan yilumalok in templo, ol a tanhwannhej yet' yamaq'uil. Ha in ol wak' opisio och t'a wichanh icha heb' in chekab' ayek' t'a wichanh tik."
+    },
+    {
+      "number": "8",
+      "text": "Ach Josué, scham wal ab'ani, a ach tik, sat sakerdote aji. Scham yab'anpax heb' ayoch t'a yopisio et'ok, yujto a ex tik, ch'oxnab'il eyaj yuj junok tas toxo wal ol ujok. Ol wik'kot in chekab', haton jun skuch Swol."
+    },
+    {
+      "number": "9",
+      "text": "Ha in swak'och jun k'een k'een uke' pak'anh t'a yichanh winhaj Josué. Ha in ol in tz'ib'ej och t'a k'een icha tik: Junnhej k'ual ol aj wik'anel smul heb' kajan t'a jun nakión tik."
+    },
+    {
+      "number": "10",
+      "text": "Ha t'a jun k'ual chi', ol eyawtej he b'a. T'a tzalajk'olal ol aj eyik'an eyip t'a yalanh yenhul xil te' eyuwa yet' te' eyigo. Ha in Jehová Yajal in t'a Smasanil swal jun tik, xchi Jehová, xchi jun ángel chi'."
+    }
+  ]
 }

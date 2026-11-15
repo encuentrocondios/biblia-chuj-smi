@@ -1,65 +1,69 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex chonhab' Israel, ab'ec tas swal a in Jehová in tik. Ha in ton wik'naquelta heb' he mam eyicham t'a Egipto."
-        },
-        {
-            "number": "2",
-            "text": "Ha exnhej tik ix ex in sik'kanel t'a skal masanil juntzanhxo chonhab' ay t'a yol yib'anhk’inal tik. Yuj chi' ol wak'och eyaelal yuj masanil chukal tze k'ulej."
-        },
-        {
-            "number": "3",
-            "text": "Tato ay chawanhoc junnhej sb'eyi, syalelk'ochi to wach' yak'an heb'."
-        },
-        {
-            "number": "4",
-            "text": "Tato tz'el yav nok' choj t'a kaltac te', syalelk'ochi to toxo ix yamchaj schib'ej nok'. Tato tz'el yav nok' yune' choj t'a swaynub' t'a yoltac nhak'een, syalelk'ochi to ay tas ix yamchaj yuj nok'."
-        },
-        {
-            "number": "5",
-            "text": "Tato tz'em junok nok' much t'a sat lu'um, syalelk'ochi to ay junok yaal ayemi. Tato sk'e ritnaj jun yaal ayem t'a sat lu'um chi', ay tas toxo ix kan t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Tato spukhaj k'een trompeta, syak' lista sb'a heb' soldado. Tato ay junok yaelal tzek' t'a skal chonhab', syalelk'ochi to a in swak'koti."
-        },
-        {
-            "number": "7",
-            "text": "Malaj junok tas tzin k'ulej tato manto wal-laj t'a heb' in chekab'."
-        },
-        {
-            "number": "8",
-            "text": "Tato tz'el yav nok' choj, ¿tom ay junok mach max xivk'ei? Axo pax heb' in chekab' ¿tom manh ol yalel in lolonel heb' tato a in tzin chec yal heb'? xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Laj alequel t'a scuartel chonhab' Asdod yet' t'a scuartel chonhab' Egipto: Cotanhec t'a jolomtac witz t'a spatictac chonhab' Samaria. Ilec wal somchaj heb' anima yuj yixtan yetanimail, xe chi."
-        },
-        {
-            "number": "10",
-            "text": "Ha Jehová tz'alan icha tik: Manh yojtakoc jab'oc heb' sk'ulan tojolal. D'a yoltac spat heb' ay masanil tas tonhej syik'ek' heb' t'a anima, xchi Jehová chi'."
-        },
-        {
-            "number": "11",
-            "text": "Yuj chi' syal Jehová, aton Yajal yaji: Ha jun ajk'ol ol jawok ol och oyan t'a snación heb' tik, ol yak'an lajwoquel scuartel heb', ol yik'anelta masanil tas ay t'a yol sdespacho heb', xchi Jehová chi'."
-        },
-        {
-            "number": "12",
-            "text": "Icha tik yalan Jehová: Icha chab'oc yoc nok' kalnel, ma jab'oc snhi' schiquin nok' scolchajkanel yuj stanhwumal t'a yol sti' junok nok' choj, icha chi' ol aj heb' israel kajan t'a Samaria, aton heb' te wach' swaynub' b'aj swayi."
-        },
-        {
-            "number": "13",
-            "text": "Ab'ec a ex tik, tzeyalan t'a heb' yinhtilalkan winhaj Jacob, a in Jehová Dios, Yajal in t'a Smasanil swala':"
-        },
-        {
-            "number": "14",
-            "text": "Ha t'a jun k'ual ol wak'och yaelal t'a yib'anh Israel yuj chukal sk'ulej, ol in pojem masanil yaltar t'a Betel. Ha schiquintac juntzanh altar chi' ol mak'chajem t'a sat lu'um."
-        },
-        {
-            "number": "15",
-            "text": "Ha in Jehová in swala', ol wak' lajwoquem pat sk'anchaj t'a stiempoal siic yet' juntzanh sk'anchaj t'a stiempoal k'ak'. Ol wak' lajwoc masanil juntzanh pat ayoch k'een marfil yelwanub'oc, ol in juanb'at juntzanh niwac pat chi', xchi."
-        }
-    ]
+  "chapter": "3",
+  "book": "AMÓS",
+  "book_short": "Am",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex chonhab' Israel, ab'ek tas swal a in Jehová in tik. Ha in ton wik'nakelta heb' he mam eyicham t'a Egipto."
+    },
+    {
+      "number": "2",
+      "text": "Ha exnhej tik ix ex in sik'kanel t'a skal masanil juntzanhxo chonhab' ay t'a yol yib'anhk'inal tik. Yuj chi' ol wak'och eyaelal yuj masanil chukal tze k'ulej."
+    },
+    {
+      "number": "3",
+      "text": "Tato ay chawanhok junnhej sb'eyi, syalelk'ochi to wach' yak'an heb'."
+    },
+    {
+      "number": "4",
+      "text": "Tato tz'el yaw nok' choj t'a kaltak te', syalelk'ochi to toxo ix yamchaj schib'ej nok'. Tato tz'el yaw nok' yune' choj t'a swaynub' t'a yoltak nhak'een, syalelk'ochi to ay tas ix yamchaj yuj nok'."
+    },
+    {
+      "number": "5",
+      "text": "Tato tz'em junok nok' much t'a sat lu'um, syalelk'ochi to ay junok yaal ayemi. Tato sk'e ritnaj jun yaal ayem t'a sat lu'um chi', ay tas toxo ix kan t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Tato spukhaj k'een trompeta, syak' lista sb'a heb' soldado. Tato ay junok yaelal tzek' t'a skal chonhab', syalelk'ochi to a in swak'koti."
+    },
+    {
+      "number": "7",
+      "text": "Malaj junok tas tzin k'ulej tato manto wal-laj t'a heb' in chekab'."
+    },
+    {
+      "number": "8",
+      "text": "Tato tz'el yaw nok' choj, ¿tom ay junok mach max xiwk'ei? Axo pax heb' in chekab' ¿tom manh ol yalel in lolonel heb' tato a in tzin chek yal heb'? xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Laj alekel t'a skuartel chonhab' Asdod yet' t'a skuartel chonhab' Egipto: Kotanhek t'a jolomtak witz t'a spatiktak chonhab' Samaria. Ilek wal somchaj heb' anima yuj yixtan yetanimail, xe chi."
+    },
+    {
+      "number": "10",
+      "text": "Ha Jehová tz'alan icha tik: Manh yojtakok jab'ok heb' sk'ulan tojolal. T'a yoltak spat heb' ay masanil tas tonhej syik'ek' heb' t'a anima, xchi Jehová chi'."
+    },
+    {
+      "number": "11",
+      "text": "Yuj chi' syal Jehová, haton Yajal yaji: Ha jun ajk'ol ol jawok ol och oyan t'a snakión heb' tik, ol yak'an lajwokel skuartel heb', ol yik'anelta masanil tas ay t'a yol sdespacho heb', xchi Jehová chi'."
+    },
+    {
+      "number": "12",
+      "text": "Icha tik yalan Jehová: Icha chab'ok yok nok' kalnel, ma jab'ok snhi' schikin nok' skolchajkanel yuj stanhwumal t'a yol sti' junok nok' choj, icha chi' ol aj heb' israel kajan t'a Samaria, haton heb' te wach' swaynub' b'aj swayi."
+    },
+    {
+      "number": "13",
+      "text": "Ab'ek a ex tik, tzeyalan t'a heb' yinhtilalkan winhaj Jacob, a in Jehová Dios, Yajal in t'a Smasanil swala':"
+    },
+    {
+      "number": "14",
+      "text": "Ha t'a jun k'ual ol wak'och yaelal t'a yib'anh Israel yuj chukal sk'ulej, ol in pojem masanil yaltar t'a Betel. Ha schikintak juntzanh altar chi' ol mak'chajem t'a sat lu'um."
+    },
+    {
+      "number": "15",
+      "text": "Ha in Jehová in swala', ol wak' lajwokem pat sk'anchaj t'a stiempoal siik yet' juntzanh sk'anchaj t'a stiempoal k'ak'. Ol wak' lajwok masanil juntzanh pat ayoch k'een marfil yelwanub'ok, ol in juanb'at juntzanh niwak pat chi', xchi."
+    }
+  ]
 }

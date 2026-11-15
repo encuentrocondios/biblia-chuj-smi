@@ -1,73 +1,77 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha heb' winh schekab' Jehová Dios, aton winhaj Hageo yet' winhaj Zacarías yuninal winhaj Iddo, ix och ijan heb' winh yalan t'a heb' aj Judá yet' t'a heb' aj Jerusalén, tas syal Jehová Dios t'a heb'."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi', ix och winhaj Zorobabel yuninal winhaj Salatiel yet' winhaj Jesúa yuninal winhaj Josadac t'a munlajel junelxo yic sb'ochajxik'e skajnub' Dios chi'. Ix och heb' winh schekab' Dios chi' yiptzitan heb'."
-        },
-        {
-            "number": "3",
-            "text": "Axo pax winhaj Tatnai yajal t'a stojolal b'aj tz'em k'u t'ha ha' Éufrates, winhaj Setar-boznai yet' heb' winh yetb'eyum sb'a yet' heb' winh, ix ulek' heb' winh yal icha tik: ¿Mach ix alan t'ayex yuj chi' tze b'oxik'e jun niwan pat tik, tzeyak'anoch ste'al?"
-        },
-        {
-            "number": "4",
-            "text": "¿Tastac sb'i heb' sb'oan jun niwan pat tik? xchi heb' winh."
-        },
-        {
-            "number": "5",
-            "text": "Palta ha Dios ix och wal yet' heb' israel scuchb'an jun munlajel chi', yuj chi' maj cachjioch waan heb' munlajwum yuj winh yajal chi' yet' heb' ajun yet'oc. Anhejto ix stz'ib'ejb'at juntzanh lolonel heb' winh t'a winhaj rey Darío, ix stanhwan heb' winh tas ol aj spakan winh."
-        },
-        {
-            "number": "6",
-            "text": "Aton scopiail tas ix stz'ib'ejb'at winhaj Tatnai, winhaj Setar-boznai yet' pax juntzanhxo heb' winh yetyajalil heb' winh t'a winhaj rey Darío chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ix yalan heb' winh icha tik: Mamin rey, junk'olalokab' aji."
-        },
-        {
-            "number": "8",
-            "text": "Ha wal jun tik skak' ojtaquejeli: Ix onh xid'ek' t'a Judá, ix quilani to wan sb'ochajxi skajnub' jun Dios niwan yelk'ochi. Van yak'anoch k'een niwac k'een heb' tzeyb'il t'ay yet' te te' tzek' pax t'a yib'anh k'een. Te yelk'olal smunlaj heb', wanxo sb'o yuj heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ix ko k'anb'ej t'a heb' scuchb'an munlajel chi' mach ix alani sb'oan jun munlajel chi' heb' yet' yak'anoch te te' chi' heb' t'ay."
-        },
-        {
-            "number": "10",
-            "text": "Ix ko k'anb'ejpax kab'i tastac sb'i heb' scuchb'an heb' chi', yic sko tz'ib'anb'at t'ayach kalani."
-        },
-        {
-            "number": "11",
-            "text": "Ix yalan heb' t'ayonh tob' tz'och heb' ejmelal t'a sDiosal satcha’anh yet' sat lum tik, yuj chi' wan sb'oanxik'e jun spat chi' heb', jun sb'onac jun niwan rey t'a Israel t'a peka'."
-        },
-        {
-            "number": "12",
-            "text": "Ix yalan heb' to a heb' smam yicham heb' tzuntzannaccot yowal sk'ol sDiosal satcha’anh chi', yuj chi' a ak'annacoch heb' t'a yol sk'ab' winhaj Nabucodonosor sreyal Babilonia, yinhtilal heb' caldeo. Ha winh pojannac em jun pat chi', yik'annacb'at heb' anima winh t'a Babilonia chi'."
-        },
-        {
-            "number": "13",
-            "text": "Axob' t'a b'ab'el ab'il yoch winhaj Ciro reyal t'a Babilonia chi', ix ab' schekan winh b'ochajxik'e jun pat chi'."
-        },
-        {
-            "number": "14",
-            "text": "Anhejtona' yik'nac ab' b'at juntzanh yamk'ab' nab'a oro, nab'a plata ay t'a yol skajnub' Dios t'a Jerusalén winhaj Nabucodonosor chi'. Yak'annac och winh t'a yol stemplo sdiosal t'a Babilonia chi'. Axob' winhaj rey Ciro ix ak'an juntzanh yamk'ab' chi' t'a winhaj Sesbasar, winh ix yak'och winh yajalil t'a Jerusalén."
-        },
-        {
-            "number": "15",
-            "text": "Ix ab' yalan winh to syik'b'at juntzanh yamk'ab' chi' winh t'a Jerusalén chi' masanto yic sb'ochajxik'e skajnub' Dios chi' b'aj aytaxoni."
-        },
-        {
-            "number": "16",
-            "text": "Ayic ix k'och winhaj Sesbasar t'a Jerusalén chi', ix yak'anem yich stemplo Dios chi' winh. Atax ta' ix chael yich sb'ochajxi, palta manto b'oel-laj ticnaik."
-        },
-        {
-            "number": "17",
-            "text": "Ha ticnaik mamin rey, tato wach' skan jun tik t'ayach, saychajokab' ilchaj b'ajtac tz'ib'ab'il tastac yic heb' rey t'a spalacio heb' t'a Babilonia chi', tato yel to a winhaj rey Ciro chi' ix chekan b'ochajxi stemplo Dios t'a Jerusalén chi', mato maay. Slajwi chi' tzalan kab'i tas tz'aj a naan t'a yib'anh jun tik, xchib'at heb' winh."
-        }
-    ]
+  "chapter": "5",
+  "book": "ESDRAS",
+  "book_short": "Esd",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha heb' winh schekab' Jehová Dios, haton winhaj Hageo yet' winhaj Zacarías yuninal winhaj Iddo, ix och ijan heb' winh yalan t'a heb' aj Judá yet' t'a heb' aj Jerusalén, tas syal Jehová Dios t'a heb'."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi', ix och winhaj Zorobabel yuninal winhaj Salatiel yet' winhaj Jesúa yuninal winhaj Josadac t'a munlajel junelxo yik sb'ochajxik'e skajnub' Dios chi'. Ix och heb' winh schekab' Dios chi' yiptzitan heb'."
+    },
+    {
+      "number": "3",
+      "text": "Axo pax winhaj Tatnai yajal t'a stojolal b'aj tz'em k'u t'a ha' Éufrates, winhaj Setar-boznai yet' heb' winh yetb'eyum sb'a yet' heb' winh, ix ulek' heb' winh yal icha tik: ¿Mach ix alan t'ayex yuj chi' tze b'oxik'e jun niwan pat tik, tzeyak'anoch ste'al?"
+    },
+    {
+      "number": "4",
+      "text": "¿Tastak sb'i heb' sb'oan jun niwan pat tik? xchi heb' winh."
+    },
+    {
+      "number": "5",
+      "text": "Palta ha Dios ix och wal yet' heb' israel skuchb'an jun munlajel chi', yuj chi' maj kachjioch waan heb' munlajwum yuj winh yajal chi' yet' heb' ajun yet'ok. Anhejto ix stz'ib'ejb'at juntzanh lolonel heb' winh t'a winhaj rey Darío, ix stanhwan heb' winh tas ol aj spakan winh."
+    },
+    {
+      "number": "6",
+      "text": "Haton skopiail tas ix stz'ib'ejb'at winhaj Tatnai, winhaj Setar-boznai yet' pax juntzanhxo heb' winh yetyajalil heb' winh t'a winhaj rey Darío chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ix yalan heb' winh icha tik: Mamin rey, junk'olalokab' aji."
+    },
+    {
+      "number": "8",
+      "text": "Ha wal jun tik skak' ojtakejeli: Ix onh xit'ek' t'a Judá, ix kilani to wan sb'ochajxi skajnub' jun Dios niwan yelk'ochi. Wan yak'anoch k'een niwak k'een heb' tzeyb'il t'ay yet' te te' tzek' pax t'a yib'anh k'een. Te yelk'olal smunlaj heb', wanxo sb'o yuj heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ix ko k'anb'ej t'a heb' skuchb'an munlajel chi' mach ix alani sb'oan jun munlajel chi' heb' yet' yak'anoch te te' chi' heb' t'ay."
+    },
+    {
+      "number": "10",
+      "text": "Ix ko k'anb'ejpax kab'i tastak sb'i heb' skuchb'an heb' chi', yik sko tz'ib'anb'at t'ayach kalani."
+    },
+    {
+      "number": "11",
+      "text": "Ix yalan heb' t'ayonh tob' tz'och heb' ejmelal t'a sDiosal satcha'anh yet' sat lum tik, yuj chi' wan sb'oanxik'e jun spat chi' heb', jun sb'onak jun niwan rey t'a Israel t'a peka'."
+    },
+    {
+      "number": "12",
+      "text": "Ix yalan heb' to a heb' smam yicham heb' tzuntzannakkot yowal sk'ol sDiosal satcha'anh chi', yuj chi' a ak'annakoch heb' t'a yol sk'ab' winhaj Nabucodonosor sreyal Babilonia, yinhtilal heb' kaldeo. Ha winh pojannak em jun pat chi', yik'annakb'at heb' anima winh t'a Babilonia chi'."
+    },
+    {
+      "number": "13",
+      "text": "Axob' t'a b'ab'el ab'il yoch winhaj Ciro reyal t'a Babilonia chi', ix ab' schekan winh b'ochajxik'e jun pat chi'."
+    },
+    {
+      "number": "14",
+      "text": "Anhejtona' yik'nak ab' b'at juntzanh yamk'ab' nab'a oro, nab'a plata ay t'a yol skajnub' Dios t'a Jerusalén winhaj Nabucodonosor chi'. Yak'annak och winh t'a yol stemplo sdiosal t'a Babilonia chi'. Axob' winhaj rey Ciro ix ak'an juntzanh yamk'ab' chi' t'a winhaj Sesbasar, winh ix yak'och winh yajalil t'a Jerusalén."
+    },
+    {
+      "number": "15",
+      "text": "Ix ab' yalan winh to syik'b'at juntzanh yamk'ab' chi' winh t'a Jerusalén chi' masanto yik sb'ochajxik'e skajnub' Dios chi' b'aj aytaxoni."
+    },
+    {
+      "number": "16",
+      "text": "Ayik ix k'och winhaj Sesbasar t'a Jerusalén chi', ix yak'anem yich stemplo Dios chi' winh. Atax ta' ix chael yich sb'ochajxi, palta manto b'oel-laj tiknaik."
+    },
+    {
+      "number": "17",
+      "text": "Ha tiknaik mamin rey, tato wach' skan jun tik t'ayach, saychajokab' ilchaj b'ajtak tz'ib'ab'il tastak yik heb' rey t'a spalakio heb' t'a Babilonia chi', tato yel to a winhaj rey Ciro chi' ix chekan b'ochajxi stemplo Dios t'a Jerusalén chi', mato maay. Slajwi chi' tzalan kab'i tas tz'aj a naan t'a yib'anh jun tik, xchib'at heb' winh."
+    }
+  ]
 }

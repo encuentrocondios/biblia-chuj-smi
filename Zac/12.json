@@ -1,53 +1,57 @@
 {
-    "chapter": "12",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová, sb'oumal satcha’anh yet' yich yol yib'anhk’inal tik, ha' tz'ak'anpax sk'inal heb' anima, ha' tz'alan yuj chonhab' Israel icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ha in Jehová in tik, a in ol wak'lab'ej Jerusalén, ol ek' quetcon juntzanh nación ay t'a slak'anil yuj xiwelal, aton juntzanh ol ak'an owal yet' Jerusalén yet' Judá."
-        },
-        {
-            "number": "3",
-            "text": "Ha t'a jun pekti’ chi', icha junok k'een k'een te al ol wutejkan Jerusalén t'a juntzanhxo nación. Wach'chom masanil nación ol snib'ej yak' owal yet'oc, chok' ol ajkan heb' yuj."
-        },
-        {
-            "number": "4",
-            "text": "Palta a in ol in tanhwej heb' yinhtilal Judá. Ol in te xib'tej masanil nok' chej molanek' ta', haxo heb' ayk'e t'a yib'anh nok', ol quistalaxcan heb'. Ol wak' k'ik'yataxcan nok' schej juntzanh nación chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ayic ol yilan juntzanh tik heb' yajalil Judá, ol yalan heb' icha tik: Ha wal Jehová Yajal t'a Smasanil, ko Diosal yet' heb' aj Jerusalén, a tz'ak'an yip heb' aj Jerusalén chi', xcham heb'."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a jun owal chi', a heb' yajalil Judá, icha junok tzak'ak' chac xilinac tz'och t'a skal te' k'atzitz ol wutej heb', ma icha sk'e sk'ak'al junok tob'anh taj tz'och t'a skal ixim trigo manojail yaji. Icha chi' ol aj satanel masanil juntzanh nación heb' ay t'a slak'anil Judá. Ha t'a jun pekti’ chi', manh jantacoc heb' anima ol kajnajxoc t'a Jerusalén."
-        },
-        {
-            "number": "7",
-            "text": "Palta a in Jehová in tik, b'ab'el ol in colcanel juntzanh cotac chonhab' t'a yol yic Judá, yic wach' manh ol yik'chaanh sb'a heb' yinhtilal winhaj Dawid yet' masanil heb' kajan t'a Jerusalén t'a yichanh heb' aj Judá chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha in Jehová in tik, ol in tanhwejpax heb' kajan t'a Jerusalén chi'. Ha heb' malaj yip t'a skal heb' chi', tek'an ol aj heb' icha winhaj rey Dawid t'a peka'. Axo pax heb' yinhtilal winhaj rey Dawid chi', b'ab'el sb'at heb' t'a yichanh heb', lajan ol aj stek'anil heb' icha in tek'anil, ma icha stek'anil heb' vángel."
-        },
-        {
-            "number": "9",
-            "text": "Ha t'a jun pekti’ chi', ol wak' wip in satanel masanil juntzanh nación ol yak' owal yet' Jerusalén chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ol wak' Vespíritu t'a heb' yinhtilal winhaj Dawid yet' t'a juntzanhxo heb' kajan t'a Jerusalén, yic tz'ok' sk'ol heb', stewipax heb' t'ayin. Ayic ol in yilan heb' ix in tekani, ol ok'k'e heb' icha yok' junok anima yuj schamel jun k'otanh yuninal, ma yuj sb'ab'el yuninal."
-        },
-        {
-            "number": "11",
-            "text": "Ha t'a jun k'ual chi', ol och wal jun niwan cusk'olal t'a heb' aj Jerusalén, icha tz'aj scus heb' anima t'a ak'lic Meguido yuj jun comon Dios scuch Hadad-rimón."
-        },
-        {
-            "number": "12",
-            "text": "Junjun makan inhtilal t'a nación chi', ch'occh'oc yaj heb' ayic ol ok' heb': Aton yinhtilal winhaj Dawid, yinhtilal winhaj Natán, yinhtilal winhaj Leví, yinhtilal winhaj Simei yet' juntzanhxo makan inhtilal, ch'occh'oc b'aj ol ok' heb'. Yed' heb' ix yetb'eyum heb', ch'oc b'aj ol ok'pax heb' ix."
-        }
-    ]
+  "chapter": "12",
+  "book": "ZACARÍAS",
+  "book_short": "Zac",
+  "aligned": false,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová, sb'oumal satcha'anh yet' yich yol yib'anhk'inal tik, ha' tz'ak'anpax sk'inal heb' anima, ha' tz'alan yuj chonhab' Israel icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ha in Jehová in tik, a in ol wak'lab'ej Jerusalén, ol ek' ketkon juntzanh nakión ay t'a slak'anil yuj xiwelal, haton juntzanh ol ak'an owal yet' Jerusalén yet' Judá."
+    },
+    {
+      "number": "3",
+      "text": "Ha t'a jun pekti' chi', icha junok k'een k'een te al ol wutejkan Jerusalén t'a juntzanhxo nakión. Wach'chom masanil nakión ol snib'ej yak' owal yet'ok, chok' ol ajkan heb' yuj."
+    },
+    {
+      "number": "4",
+      "text": "Palta a in ol in tanhwej heb' yinhtilal Judá. Ol in te xib'tej masanil nok' chej molanek' ta', haxo heb' ayk'e t'a yib'anh nok', ol kistalaxkan heb'. Ol wak' k'ik'yataxkan nok' schej juntzanh nakión chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ayik ol yilan juntzanh tik heb' yajalil Judá, ol yalan heb' icha tik: Ha wal Jehová Yajal t'a Smasanil, ko Diosal yet' heb' aj Jerusalén, a tz'ak'an yip heb' aj Jerusalén chi', xcham heb'."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a jun owal chi', a heb' yajalil Judá, icha junok tzak'ak' chak xilinak tz'och t'a skal te' k'atzitz ol wutej heb', ma icha sk'e sk'ak'al junok tob'anh taj tz'och t'a skal ixim trigo manojail yaji. Icha chi' ol aj satanel masanil juntzanh nakión heb' ay t'a slak'anil Judá. Ha t'a jun pekti' chi', manh jantakok heb' anima ol kajnajxok t'a Jerusalén."
+    },
+    {
+      "number": "7",
+      "text": "Palta a in Jehová in tik, b'ab'el ol in kolkanel juntzanh kotak chonhab' t'a yol yik Judá, yik wach' manh ol yik'chaanh sb'a heb' yinhtilal winhaj David yet' masanil heb' kajan t'a Jerusalén t'a yichanh heb' aj Judá chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha in Jehová in tik, ol in tanhwejpax heb' kajan t'a Jerusalén chi'. Ha heb' malaj yip t'a skal heb' chi', tek'an ol aj heb' icha winhaj rey David t'a peka'. Axo pax heb' yinhtilal winhaj rey David chi', b'ab'el sb'at heb' t'a yichanh heb', lajan ol aj stek'anil heb' icha in tek'anil, ma icha stek'anil heb' wángel."
+    },
+    {
+      "number": "9",
+      "text": "Ha t'a jun pekti' chi', ol wak' wip in satanel masanil juntzanh nakión ol yak' owal yet' Jerusalén chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ol wak' Wespíritu t'a heb' yinhtilal winhaj David yet' t'a juntzanhxo heb' kajan t'a Jerusalén, yik tz'ok' sk'ol heb', stewipax heb' t'ayin. Ayik ol in yilan heb' ix in tekani, ol ok'k'e heb' icha yok' junok anima yuj schamel jun k'otanh yuninal, ma yuj sb'ab'el yuninal."
+    },
+    {
+      "number": "11",
+      "text": "Ha t'a jun k'ual chi', ol och wal jun niwan kusk'olal t'a heb' aj Jerusalén, icha tz'aj skus heb' anima t'a ak'lik Meguido yuj jun komon Dios skuch Hadad-rimón."
+    },
+    {
+      "number": "12",
+      "text": "Junjun makan inhtilal t'a nakión chi', ch'okch'ok yaj heb' ayik ol ok' heb': Haton yinhtilal winhaj David, yinhtilal winhaj Natán, yinhtilal winhaj Leví, yinhtilal winhaj Simei yet' juntzanhxo makan inhtilal, ch'okch'ok b'aj ol ok' heb'. Yet' heb' ix yetb'eyum heb', ch'ok b'aj ol ok'pax heb' ix."
+    }
+  ]
 }

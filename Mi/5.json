@@ -1,65 +1,69 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex aj Sion, b'oecoch smuroal b'aj tze col he b'a, yujto ix jawi oyan heb' ajk'ol t'a he patic. Ol smak' spak'ultac sti' winh yajalil Israel heb' yet' te' jixk'ab' te'."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jehová tz'alan icha tik: Ha chonhab' Belén ay t'a Efrata, wach'chom yunenhej t'a skal chonhab' t'a yol yic Judá, palta ata' ol cot jun ol wak'och yajalil t'a yib'anh in chonhab' Israel. Ol cot t'a jun inhtilal aytaxon t'a peka', a jun ol ak'an yajalil chi', aytaxon yictax yichb’anel, xchi Jehová."
-        },
-        {
-            "number": "3",
-            "text": "Axo ticnaik, ol yaktejkan schonhab' Jehová t'a yol sk'ab' heb' ajk'ool, masanto ol aljoc jun yune' ix ix wan stanhwan yalji chi'. Ichato chi' ol meltzaj heb' sk'ab' yoc jun Yajal ik'b'ilkanb'at t'a ch'oc chonhab'il chi', ol smolb'anxi sb'a heb' yet' heb' yetchonhab'."
-        },
-        {
-            "number": "4",
-            "text": "Ha jun Rey chi', ol k'e waan yet' spoder yet' yopisio ak'b'il yuj Jehová yic stanhwej schonhab', yic tz'aj heb' t'a junk'olal, yujto a jun Rey chi', niwan ol aj yelk'och t'a skal masanil nación b'aj slajwik'och yol yib'anhk’inal tik."
-        },
-        {
-            "number": "5",
-            "text": "Ha jun Rey chi' ol ik'ancot junk'olal. Ayic ol jawok heb' aj Asiria t'a yol ko nación tik, yic tz'och heb' t'a yoltac ko cuartel, ol ko checb'at ucwanh wajxacwanhoc heb' yajal niwac yelk'ochi, yic syak' owal heb' yet' heb' aj Asiria chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' chi' yet' k'een yespada heb' ol yak' ganar heb' aj Asiria chi', aton snación winhaj Nimrod. Ol onh colchaj yuj jun kajalil t'a heb' aj Asiria chi', ayic ol k'axpajek'ta heb' t'a ko mojon yic syik'anek' lum ko lu'um heb' yalani."
-        },
-        {
-            "number": "7",
-            "text": "Ha t'a jun pekti’ chi', a heb' yinhtilal winhaj Jacob ixto kani, yuj heb' ol ja wach'ilal t'a skal juntzanh nación, icha tz'aj yak'an yaxilal yal ak'wal, ma yaxnhab' t'a yib'anh anh ank'ultak syak'cot Jehová, manhoc heb' anima tz'ak'ancoti."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' yinhtilal winhaj Jacob olto kan chi', lajan ol aj heb' t'a skal juntzanh nación icha junok nok' choj ay t'a skal nok' k'ultaquil nok', ma icha junok nok' choj tz'och t'a skal junok nhilanh nok' kalnel. Ayic tz'och nok' t'a skal nok' kalnel chi', syamancot nok' scotac tzilchitanb'at nok'. Manhxa junok mach syal scolanel nok'."
-        },
-        {
-            "number": "9",
-            "text": "Ex yinhtilal winhaj Jacob, icha chi' ol aj eyak'an ganar heb' eyajk'ool, ol he satanel heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ex wetisraelal, a Jehová tz'alan icha tik t'ayex: Ha t'a jun k'ual chi', ol in mak'cham nok' he chej, ol in satanel he carruaje yic owal."
-        },
-        {
-            "number": "11",
-            "text": "Ha he chonhab' ayoch smuroal yet' he cuartel ol in satel t'a junelnhej."
-        },
-        {
-            "number": "12",
-            "text": "Ol in satanel heb' ajb'aal t'a he kal. Manhxo junok heb' ajchum ol wak'kan t'a he kal chi'."
-        },
-        {
-            "number": "13",
-            "text": "Ol in satel juntzanh he comon Dios yet' k'een k'een b'aj tzex lesalwi, yic manhxo ol ex och ejmelal t'a juntzanh tas tze b'o he diosaloc chi'."
-        },
-        {
-            "number": "14",
-            "text": "Ol in tok'k'eta masanil te te' b'aj tzex och ejmelal, ol in satanel he chonhab' b'aj tzeyak' he silab' t'a juntzanh comon Dios."
-        },
-        {
-            "number": "15",
-            "text": "Yed' wal yowal in k'ool ol in pactzitej t'a juntzanh nación max in k'anab'ajan jab'oc, xchi Jehová."
-        }
-    ]
+  "chapter": "5",
+  "book": "MIQUEAS",
+  "book_short": "Mi",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex aj Sion, b'oekoch smuroal b'aj tze kol he b'a, yujto ix jawi oyan heb' ajk'ol t'a he patik. Ol smak' spak'ultak sti' winh yajalil Israel heb' yet' te' jixk'ab' te'."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jehová tz'alan icha tik: Ha chonhab' Belén ay t'a Efrata, wach'chom yunenhej t'a skal chonhab' t'a yol yik Judá, palta ata' ol kot jun ol wak'och yajalil t'a yib'anh in chonhab' Israel. Ol kot t'a jun inhtilal aytaxon t'a peka', a jun ol ak'an yajalil chi', aytaxon yiktax yichb'anel, xchi Jehová."
+    },
+    {
+      "number": "3",
+      "text": "Axo tiknaik, ol yaktejkan schonhab' Jehová t'a yol sk'ab' heb' ajk'ool, masanto ol aljok jun yune' ix ix wan stanhwan yalji chi'. Ichato chi' ol meltzaj heb' sk'ab' yok jun Yajal ik'b'ilkanb'at t'a ch'ok chonhab'il chi', ol smolb'anxi sb'a heb' yet' heb' yetchonhab'."
+    },
+    {
+      "number": "4",
+      "text": "Ha jun Rey chi', ol k'e waan yet' spoder yet' yopisio ak'b'il yuj Jehová yik stanhwej schonhab', yik tz'aj heb' t'a junk'olal, yujto a jun Rey chi', niwan ol aj yelk'och t'a skal masanil nakión b'aj slajwik'och yol yib'anhk'inal tik."
+    },
+    {
+      "number": "5",
+      "text": "Ha jun Rey chi' ol ik'ankot junk'olal. Ayik ol jawok heb' aj Asiria t'a yol ko nakión tik, yik tz'och heb' t'a yoltak ko kuartel, ol ko chekb'at ukwanh wajxakwanhok heb' yajal niwak yelk'ochi, yik syak' owal heb' yet' heb' aj Asiria chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' chi' yet' k'een yespada heb' ol yak' ganar heb' aj Asiria chi', haton snakión winhaj Nimrod. Ol onh kolchaj yuj jun kajalil t'a heb' aj Asiria chi', ayik ol k'axpajek'ta heb' t'a ko mojon yik syik'anek' lum ko lu'um heb' yalani."
+    },
+    {
+      "number": "7",
+      "text": "Ha t'a jun pekti' chi', a heb' yinhtilal winhaj Jacob ixto kani, yuj heb' ol ja wach'ilal t'a skal juntzanh nakión, icha tz'aj yak'an yaxilal yal ak'wal, ma yaxnhab' t'a yib'anh anh ank'ultak syak'kot Jehová, manhok heb' anima tz'ak'ankoti."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' yinhtilal winhaj Jacob olto kan chi', lajan ol aj heb' t'a skal juntzanh nakión icha junok nok' choj ay t'a skal nok' k'ultakil nok', ma icha junok nok' choj tz'och t'a skal junok nhilanh nok' kalnel. Ayik tz'och nok' t'a skal nok' kalnel chi', syamankot nok' skotak tzilchitanb'at nok'. Manhxa junok mach syal skolanel nok'."
+    },
+    {
+      "number": "9",
+      "text": "Ex yinhtilal winhaj Jacob, icha chi' ol aj eyak'an ganar heb' eyajk'ool, ol he satanel heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ex wetisraelal, a Jehová tz'alan icha tik t'ayex: Ha t'a jun k'ual chi', ol in mak'cham nok' he chej, ol in satanel he karruaje yik owal."
+    },
+    {
+      "number": "11",
+      "text": "Ha he chonhab' ayoch smuroal yet' he kuartel ol in satel t'a junelnhej."
+    },
+    {
+      "number": "12",
+      "text": "Ol in satanel heb' ajb'aal t'a he kal. Manhxo junok heb' ajchum ol wak'kan t'a he kal chi'."
+    },
+    {
+      "number": "13",
+      "text": "Ol in satel juntzanh he komon Dios yet' k'een k'een b'aj tzex lesalwi, yik manhxo ol ex och ejmelal t'a juntzanh tas tze b'o he diosalok chi'."
+    },
+    {
+      "number": "14",
+      "text": "Ol in tok'k'eta masanil te te' b'aj tzex och ejmelal, ol in satanel he chonhab' b'aj tzeyak' he silab' t'a juntzanh komon Dios."
+    },
+    {
+      "number": "15",
+      "text": "Yet' wal yowal in k'ool ol in paktzitej t'a juntzanh nakión max in k'anab'ajan jab'ok, xchi Jehová."
+    }
+  ]
 }

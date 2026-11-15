@@ -1,57 +1,61 @@
 {
-    "chapter": "39",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix wak' pensar to ol in ya'ilej in b'eyb'al, yic max och in mul yuj tas swala'. Tzin yamoch waan in ti' yacb'an ayek' heb' anima chuk spensar t'a wichanh."
-        },
-        {
-            "number": "2",
-            "text": "Ix in em numnajoc, majxo walpaxlaj wach' lolonel. Palta haxo in yaelal ix te nivtaji."
-        },
-        {
-            "number": "3",
-            "text": "Vanxo stz'a in pixan ix wab'i. Yacb'an wan in te naub'tanhani, ix wach' och pitz'an t'a in pixan. Yuj chi' chaanh ix in awaji, ix walani:"
-        },
-        {
-            "number": "4",
-            "text": "Mamin Jehová, ak' wal wojtaquejeli to chamel b'a waji, to jayenhej ab'il in k 'inal. In gana snachajel wuuj to elanhchamel tzek'b'at in k 'inal."
-        },
-        {
-            "number": "5",
-            "text": "Quennhej in k 'inal ix ak'a'. Manh niwanoclaj in k 'inal t'a ichanh. Ha onh anima onh tik, icha wal quik'an jab'oc quik', icha chi' ko k 'inal."
-        },
-        {
-            "number": "6",
-            "text": "Icha wewen kaj ko masanil. Nab'anhej sko mak' k'unb'oc ko b'a. ¿Tocwal skak' ko gana yet' ko b'eyumal sko molb'ejk'e b'ulan? Manh cojtakoc mach ol ik'ankanb'atoc."
-        },
-        {
-            "number": "7",
-            "text": "Mamin Vajal, haxo ticnaik, ¿tas wach' swak'och yipoc in k'ool? Ha ach ton ayach och yipoc in k'ool."
-        },
-        {
-            "number": "8",
-            "text": "Colinel t'a masanil in chukal. Manh in a cha b'uchjoc yuj heb' chuk spensar."
-        },
-        {
-            "number": "9",
-            "text": "Icha wal heb' max ujilaj sloloni, icha chi' ix wutej in b'a. Manhxalaj tas ix elta t'a in ti', yujto a ach tik ix ak'och juntzanh tik t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Ik'el in yaelal ix ak'ochi. Vanxo in lajwiel swab' yuj b'aj ix in a mak'a'."
-        },
-        {
-            "number": "11",
-            "text": "Ha ach tzak'och ko yaelal a onh anima onh tik. Tzak'anoch ko tz'uumal yuj ko mul. Ha ach tzak' lajwoc tas nib'ab'il cuuj, ichato tz'ijaxb'ati. Co masanil, icha wal quik'an quik', icha chi' yek' ko k 'inal."
-        },
-        {
-            "number": "12",
-            "text": "Mamin Jehová, ab' in lesal tik, cotanh k'elan t'ayin ayic swalan in b'a t'ayach. Manh ak' sat a k'ool t'a yal in sat tik. Mamin, a t'ayach, ek'elb'anhej wek' t'a sat lu'um tik icha heb' in mam wicham."
-        },
-        {
-            "number": "13",
-            "text": "Mamin, manh ak'cot a k'ak'alk'olal t'ayin, yic wach' tzin tzalaj junok rato, yacb'an manto el-laj in k'ool."
-        }
-    ]
+  "chapter": "39",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix wak' pensar to ol in ya'ilej in b'eyb'al, yik max och in mul yuj tas swala'. Tzin yamoch waan in ti' yakb'an ayek' heb' anima chuk spensar t'a wichanh."
+    },
+    {
+      "number": "2",
+      "text": "Ix in em numnajok, majxo walpaxlaj wach' lolonel. Palta haxo in yaelal ix te niwtaji."
+    },
+    {
+      "number": "3",
+      "text": "Wanxo stz'a in pixan ix wab'i. Yakb'an wan in te naub'tanhani, ix wach' och pitz'an t'a in pixan. Yuj chi' chaanh ix in awaji, ix walani:"
+    },
+    {
+      "number": "4",
+      "text": "Mamin Jehová, ak' wal wojtakejeli to chamel b'a waji, to jayenhej ab'il in k 'inal. In gana snachajel wuuj to elanhchamel tzek'b'at in k 'inal."
+    },
+    {
+      "number": "5",
+      "text": "Kennhej in k 'inal ix ak'a'. Manh niwanoklaj in k 'inal t'a ichanh. Ha onh anima onh tik, icha wal kik'an jab'ok kik', icha chi' ko k 'inal."
+    },
+    {
+      "number": "6",
+      "text": "Icha wewen kaj ko masanil. Nab'anhej sko mak' k'unb'ok ko b'a. ¿Tokwal skak' ko gana yet' ko b'eyumal sko molb'ejk'e b'ulan? Manh kojtakok mach ol ik'ankanb'atok."
+    },
+    {
+      "number": "7",
+      "text": "Mamin Wajal, haxo tiknaik, ¿tas wach' swak'och yipok in k'ool? Ha ach ton ayach och yipok in k'ool."
+    },
+    {
+      "number": "8",
+      "text": "Kolinel t'a masanil in chukal. Manh in a cha b'uchjok yuj heb' chuk spensar."
+    },
+    {
+      "number": "9",
+      "text": "Icha wal heb' max ujilaj sloloni, icha chi' ix wutej in b'a. Manhxalaj tas ix elta t'a in ti', yujto a ach tik ix ak'och juntzanh tik t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Ik'el in yaelal ix ak'ochi. Wanxo in lajwiel swab' yuj b'aj ix in a mak'a'."
+    },
+    {
+      "number": "11",
+      "text": "Ha ach tzak'och ko yaelal a onh anima onh tik. Tzak'anoch ko tz'uumal yuj ko mul. Ha ach tzak' lajwok tas nib'ab'il kuuj, ichato tz'ijaxb'ati. Ko masanil, icha wal kik'an kik', icha chi' yek' ko k 'inal."
+    },
+    {
+      "number": "12",
+      "text": "Mamin Jehová, ab' in lesal tik, kotanh k'elan t'ayin ayik swalan in b'a t'ayach. Manh ak' sat a k'ool t'a yal in sat tik. Mamin, a t'ayach, ek'elb'anhej wek' t'a sat lu'um tik icha heb' in mam wicham."
+    },
+    {
+      "number": "13",
+      "text": "Mamin, manh ak'kot a k'ak'alk'olal t'ayin, yik wach' tzin tzalaj junok rato, yakb'an manto el-laj in k'ool."
+    }
+  ]
 }

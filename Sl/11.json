@@ -1,33 +1,37 @@
 {
-    "chapter": "11",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová swak'och yipoc in k'ool, yuj chi' nab'anhej tzeyal t'ayin: Ixic, k'ub'ejel a b'ha t'a kaltac te' icha syutej sb'a nok' much."
-        },
-        {
-            "number": "2",
-            "text": "Ina wal heb' winh chuk, syak' lista sjul-lab' heb' winh yic sjulwaji, ijanxocan heb' winh yet' sjul-lab' chi'. D'a k'ub'eltac sjulji heb' anima wach' yuj heb' winh."
-        },
-        {
-            "number": "3",
-            "text": "Tato a heb' yajal axonhej chukal ay t'a spensar, ¿tasto wal ol yutoc sb'a heb' wach' sb'eyb'al? xe chi t'ayin."
-        },
-        {
-            "number": "4",
-            "text": "Palta ayek' Jehová t'a stemplo to anhej ay yico'. Ha t'a satcha’anh, ata' ay sdespacho, scham wal sk'ool yilani, sch'olb'itan sb'eyb'al heb' anima."
-        },
-        {
-            "number": "5",
-            "text": "Ha Jehová sch'olb'itan yaj heb' anima wach' yet' heb' chuk. Te yajb'ilel heb' anima comonnhej smak'waj yuj."
-        },
-        {
-            "number": "6",
-            "text": "Ha ol ak'anemta k'ak' icha wal yax nhab' yet' azufre ayoch sk'ak'al t'a yib'anh heb' chuk. Ol yak'anemta jun niwan ik' yic stacjiel masanil tas yuj. Ha ol pactzitan t'a heb' anima, ato syala' tastac sk'ulej heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ha Jehová tojol toni, scham wal sk'ool yet' tojolal. Yuj chi', a heb' anima tojol sb'eyb'al, ol yil wal Dios heb'."
-        }
-    ]
+  "chapter": "11",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová swak'och yipok in k'ool, yuj chi' nab'anhej tzeyal t'ayin: Ixik, k'ub'ejel a b'a t'a kaltak te' icha syutej sb'a nok' much."
+    },
+    {
+      "number": "2",
+      "text": "Ina wal heb' winh chuk, syak' lista sjul-lab' heb' winh yik sjulwaji, ijanxokan heb' winh yet' sjul-lab' chi'. T'a k'ub'eltak sjulji heb' anima wach' yuj heb' winh."
+    },
+    {
+      "number": "3",
+      "text": "Tato a heb' yajal axonhej chukal ay t'a spensar, ¿tasto wal ol yutok sb'a heb' wach' sb'eyb'al? xe chi t'ayin."
+    },
+    {
+      "number": "4",
+      "text": "Palta ayek' Jehová t'a stemplo to anhej ay yiko'. Ha t'a satcha'anh, ata' ay sdespacho, scham wal sk'ool yilani, sch'olb'itan sb'eyb'al heb' anima."
+    },
+    {
+      "number": "5",
+      "text": "Ha Jehová sch'olb'itan yaj heb' anima wach' yet' heb' chuk. Te yajb'ilel heb' anima komonnhej smak'waj yuj."
+    },
+    {
+      "number": "6",
+      "text": "Ha ol ak'anemta k'ak' icha wal yax nhab' yet' azufre ayoch sk'ak'al t'a yib'anh heb' chuk. Ol yak'anemta jun niwan ik' yik stakjiel masanil tas yuj. Ha ol paktzitan t'a heb' anima, ato syala' tastak sk'ulej heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ha Jehová tojol toni, scham wal sk'ool yet' tojolal. Yuj chi', a heb' anima tojol sb'eyb'al, ol yil wal Dios heb'."
+    }
+  ]
 }

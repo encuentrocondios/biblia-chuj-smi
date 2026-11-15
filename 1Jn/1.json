@@ -1,45 +1,49 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Tik sko tz'ib'ejb'at yab'ixal jun Lolonel sb'i t'ayex, aton jun tz'ak'an ko k 'inal. Aytax ek' t'a yichb’anel. Ix kab' sloloni. Ix quil wal ochi. Ix onh och k'elan t'ay, ix ko yamlan yet' ko k'ab'."
-        },
-        {
-            "number": "2",
-            "text": "Ha jun tz'ak'an ko k 'inal chi', ix ch'oxchaj quila', ix quilanoch a onh tik, yuj chi' skak' testigoal ko b'a yuj, skalanpax eyab'i to a tz'ak'an ko k 'inal t'a junelnhej. Ha jun chi', aytaxon ek' yet' Dios, palta ix ch'oxji t'ayonh."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' a jun ix quil chi', jun ix kab' slolon chi', ha' skal t'ayex yic wach' junxonhej tzex aj a ex tik qued'oc. Yujto t'a wal yel wach'xo kak'an yet' ko Mam Dios yet' Jesucristo Yuninal."
-        },
-        {
-            "number": "4",
-            "text": "Yuj chi' sko tz'ib'ejb'at juntzanh tik t'ayex, yic wach' ol te tz'acwoc ko tzalajk'olal."
-        },
-        {
-            "number": "5",
-            "text": "Scalb'at eyab'i tas alb'ilkan yuj Jesucristo t'ayonh to ha Dios sakil k'inal yaji, malaj wal jab'oc k’ik’ k’inal t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Tato skala' to wach' kaj yet'oc, palta anheja' ay onh to ek' t'a k’ik’ k’inal, tonhej skal syal chi', a tas sko k'ulej manh yeloclaj."
-        },
-        {
-            "number": "7",
-            "text": "Ha Dios sakil k'inal yaji. Yuj chi' tato a sakil k'inal sko b'eyb'alej, wach' kak'an yet'oc junjun onh, haxo schiq'uil Jesucristo Yuninal, ha' tz'ik'anel masanil ko chukal ayoch t'ayonh."
-        },
-        {
-            "number": "8",
-            "text": "Tato skala' to malaj ko chukal, tonhej skak' musansatil ko b'a, manh yeloclaj tas skal chi'."
-        },
-        {
-            "number": "9",
-            "text": "Tato t'a wal yel sko cha ko mulej ko chukal, ha Dios sukan sat smasanil, syik'anpaxel masanil tas manh wach'oc ayoch t'ayonh, yujto tojol toni, tz'elnhejk'och tas syala'."
-        },
-        {
-            "number": "10",
-            "text": "Tato skala': Malaj b'aj ix och ko mul, ta xco chi, syalelk'ochi to wan kak'anoch Dios esalwumal. Tato icha chi', manh chab'iloclaj slolonel cuuj."
-        }
-    ]
+  "chapter": "1",
+  "book": "1 SAN JUAN",
+  "book_short": "1Jn",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Tik sko tz'ib'ejb'at yab'ixal jun Lolonel sb'i t'ayex, haton jun tz'ak'an ko k 'inal. Aytax ek' t'a yichb'anel. Ix kab' sloloni. Ix kil wal ochi. Ix onh och k'elan t'ay, ix ko yamlan yet' ko k'ab'."
+    },
+    {
+      "number": "2",
+      "text": "Ha jun tz'ak'an ko k 'inal chi', ix ch'oxchaj kila', ix kilanoch a onh tik, yuj chi' skak' testigoal ko b'a yuj, skalanpax eyab'i to a tz'ak'an ko k 'inal t'a junelnhej. Ha jun chi', aytaxon ek' yet' Dios, palta ix ch'oxji t'ayonh."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' a jun ix kil chi', jun ix kab' slolon chi', ha' skal t'ayex yik wach' junxonhej tzex aj a ex tik ket'ok. Yujto t'a wal yel wach'xo kak'an yet' ko Mam Dios yet' Jesucristo Yuninal."
+    },
+    {
+      "number": "4",
+      "text": "Yuj chi' sko tz'ib'ejb'at juntzanh tik t'ayex, yik wach' ol te tz'akwok ko tzalajk'olal."
+    },
+    {
+      "number": "5",
+      "text": "Skalb'at eyab'i tas alb'ilkan yuj Jesucristo t'ayonh to ha Dios sakil k'inal yaji, malaj wal jab'ok k'ik' k'inal t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Tato skala' to wach' kaj yet'ok, palta anheja' ay onh to ek' t'a k'ik' k'inal, tonhej skal syal chi', a tas sko k'ulej manh yeloklaj."
+    },
+    {
+      "number": "7",
+      "text": "Ha Dios sakil k'inal yaji. Yuj chi' tato a sakil k'inal sko b'eyb'alej, wach' kak'an yet'ok junjun onh, haxo schiq'uil Jesucristo Yuninal, ha' tz'ik'anel masanil ko chukal ayoch t'ayonh."
+    },
+    {
+      "number": "8",
+      "text": "Tato skala' to malaj ko chukal, tonhej skak' musansatil ko b'a, manh yeloklaj tas skal chi'."
+    },
+    {
+      "number": "9",
+      "text": "Tato t'a wal yel sko cha ko mulej ko chukal, ha Dios sukan sat smasanil, syik'anpaxel masanil tas manh wach'ok ayoch t'ayonh, yujto tojol toni, tz'elnhejk'och tas syala'."
+    },
+    {
+      "number": "10",
+      "text": "Tato skala': Malaj b'aj ix och ko mul, ta xko chi, syalelk'ochi to wan kak'anoch Dios esalwumal. Tato icha chi', manh chab'iloklaj slolonel kuuj."
+    }
+  ]
 }

@@ -1,65 +1,69 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a jun pekti’ chi', ix te q'uib' sb'isul heb' creyente. Palta a heb' creyente aj Grecia, ix cot yowal heb' t'a heb' creyente aj Israel, yujto ayic tz'ak'ji wa heb' meb'a' t'a junjun k'u, manh tz'akanok tz'ak'ji swael heb' ix chamnac yetb'eyum aj Grecia chi'."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi' ix avtajcot heb' creyente smasanil yuj heb' schekab' Jesús chi'. Ix yalan heb': --Manh smojoc skaktejkan kalanel slolonel Dios tik yic axonhej wael tik squila'."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi', ex wuk'tac, tze say ucwanhoc winak t'a ko kal tik, tzeyak'anoch yopisio heb' sb'oan jun munlajel tik. Ha heb' tze say chi', aton heb' te wach' sb'eyb'al, heb' snachaj wal el yic Dios yuj, heb' te ay wal och Yespíritu Dios yet'oc."
-        },
-        {
-            "number": "4",
-            "text": "Ha onhxo tik, anheja' ol onh lesalwoc, ol kalanpaxel slolonel Dios, xchi heb' lajchawanh chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ix te tzalaj heb' smasanil yuj jun lolonel chi'. Axo heb' winh ix sik'jiel chi', aton heb' winh tik: Vinhaj Esteban, te ay wal och spensar winh d'ha Dios, te ay wal och Yespíritu Dios yet' winh, winhaj Felipe, winhaj Prócoro, winhaj Nikanor, winhaj Timón, winhaj Parmenas yet' winhaj Nicolás aj Antioquía. Ha winhaj Nicolás tik, ochnac winh t'a sk'ayb'ub'al heb' israel t'a yalanhtaxo."
-        },
-        {
-            "number": "6",
-            "text": "Ixlajwi sik'jielta heb' winh chi', ix ik'jib'at heb' winh t'a yichanh heb' winh schekab' Jesús. Axo heb' winh schekab' Jesús chi' ix lesalwi yuj heb' winh, ix yak'anpaxek' sk'ab' heb' winh t'a sjolom heb' winh."
-        },
-        {
-            "number": "7",
-            "text": "Axo slolonel Dios ix te pukaxb'at t'a skal heb' anima. Yuj chi' ix te q'uib' sb'isul heb' creyente t'a Jerusalén chi'. Ay pax juntzanh heb' winh sacerdote ix ak'anoch Cristo t'a sk'ool."
-        },
-        {
-            "number": "8",
-            "text": "Axo winhaj Esteban chi', niwan swach'k'olal Dios ix scha winh. Ix och wal Dios yet' winh, yuj chi' tzijtum milagro ix sch'oxel winh t'a skal heb' anima."
-        },
-        {
-            "number": "9",
-            "text": "Palta ay juntzanh heb' israel smolb'ej sb'ha t'a jun spatil culto scuch Yic heb' Ak'b'ilxocanel t'a Libre. Ay pax juntzanhxo heb' aj chonhab' Cirene, heb' aj Alejandría, heb' aj Cilicia yet' heb' aj Asia. Ix k'och heb' t'a winhaj Esteban chi'. Ix stelan sb'a heb' yet' winh."
-        },
-        {
-            "number": "10",
-            "text": "Palta maj yak'laj ganar winh heb', yujto a Espíritu Santo ix ak'an sjelanil winh."
-        },
-        {
-            "number": "11",
-            "text": "Axo heb' chi', tonhej ix sman jaywanh stestigo heb'. Ix ak'ji sk'ool heb' yuj heb', yic syal heb' icha tik: --Ix kab' sb'uchwaj winhaj Esteban tik t'a spatic winh ko mam quicham aj Moisés yet' d'ha Dios, xchi heb'."
-        },
-        {
-            "number": "12",
-            "text": "Icha chi' ix yutej heb' stzuntzan chaanh heb' chonhab', heb' ichamtac winak yet' heb' k'ayb'um t'a ley Moisés. Yuj chi' ix cot jucnaj heb' t'a winhaj Esteban chi', ix syaman winh heb', xid' yak'anoch winh heb' t'a yichanh heb' winh sat yajal."
-        },
-        {
-            "number": "13",
-            "text": "Ixlajwi chi', ix manji juntzanhxo heb' tz'ak'anoch es t'a yib'anh winhaj Esteban chi' yuj heb'. Ix stz'akan yal heb' icha tik t'a heb' winh yajal chi': --Ha winhaj Esteban tik, max yaktejkan winh sb'uchwaj t'a jun templo yicnhej Dios yaj tik. Sb'uchwaj pax winh t'a ley Moisés."
-        },
-        {
-            "number": "14",
-            "text": "Ix kab' yalan winh icha tik: Ha Jesús aj Nazaret ol pojanem stemplo Dios tik. Ol k'exchaj juntzanh ko b'eyb'al ak'b'ilkan t'ayonh yuj Moisés chi', xchi winh, xchi heb'."
-        },
-        {
-            "number": "15",
-            "text": "Axo heb' winh yajal chi' yet' heb' k'ojanem ta' smasanil, ix och k'elan heb' t'a winhaj Esteban chi', ix yilanoch sat winh heb', lajan yilji icha sat junok ángel."
-        }
-    ]
+  "chapter": "6",
+  "book": "HECHOS",
+  "book_short": "He",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a jun pekti' chi', ix te q'uib' sb'isul heb' kreyente. Palta a heb' kreyente aj Grecia, ix kot yowal heb' t'a heb' kreyente aj Israel, yujto ayik tz'ak'ji wa heb' meb'a' t'a junjun k'u, manh tz'akanok tz'ak'ji swael heb' ix chamnak yetb'eyum aj Grecia chi'."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi' ix awtajkot heb' kreyente smasanil yuj heb' schekab' Jesús chi'. Ix yalan heb': --Manh smojok skaktejkan kalanel slolonel Dios tik yik axonhej wael tik skila'."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi', ex wuk'tak, tze say ukwanhok winak t'a ko kal tik, tzeyak'anoch yopisio heb' sb'oan jun munlajel tik. Ha heb' tze say chi', haton heb' te wach' sb'eyb'al, heb' snachaj wal el yik Dios yuj, heb' te ay wal och Yespíritu Dios yet'ok."
+    },
+    {
+      "number": "4",
+      "text": "Ha onhxo tik, anheja' ol onh lesalwok, ol kalanpaxel slolonel Dios, xchi heb' lajchawanh chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ix te tzalaj heb' smasanil yuj jun lolonel chi'. Axo heb' winh ix sik'jiel chi', haton heb' winh tik: Winhaj Esteban, te ay wal och spensar winh t'a Dios, te ay wal och Yespíritu Dios yet' winh, winhaj Felipe, winhaj Prócoro, winhaj Nicanor, winhaj Timón, winhaj Parmenas yet' winhaj Nicolás aj Antioquía. Ha winhaj Nicolás tik, ochnak winh t'a sk'ayb'ub'al heb' israel t'a yalanhtaxo."
+    },
+    {
+      "number": "6",
+      "text": "Ixlajwi sik'jielta heb' winh chi', ix ik'jib'at heb' winh t'a yichanh heb' winh schekab' Jesús. Axo heb' winh schekab' Jesús chi' ix lesalwi yuj heb' winh, ix yak'anpaxek' sk'ab' heb' winh t'a sjolom heb' winh."
+    },
+    {
+      "number": "7",
+      "text": "Axo slolonel Dios ix te pukaxb'at t'a skal heb' anima. Yuj chi' ix te q'uib' sb'isul heb' kreyente t'a Jerusalén chi'. Ay pax juntzanh heb' winh sakerdote ix ak'anoch Cristo t'a sk'ool."
+    },
+    {
+      "number": "8",
+      "text": "Axo winhaj Esteban chi', niwan swach'k'olal Dios ix scha winh. Ix och wal Dios yet' winh, yuj chi' tzijtum milagro ix sch'oxel winh t'a skal heb' anima."
+    },
+    {
+      "number": "9",
+      "text": "Palta ay juntzanh heb' israel smolb'ej sb'a t'a jun spatil kulto skuch Yik heb' Ak'b'ilxokanel t'a Libre. Ay pax juntzanhxo heb' aj chonhab' Cirene, heb' aj Alejandría, heb' aj Cilicia yet' heb' aj Asia. Ix k'och heb' t'a winhaj Esteban chi'. Ix stelan sb'a heb' yet' winh."
+    },
+    {
+      "number": "10",
+      "text": "Palta maj yak'laj ganar winh heb', yujto a Espíritu Santo ix ak'an sjelanil winh."
+    },
+    {
+      "number": "11",
+      "text": "Axo heb' chi', tonhej ix sman jaywanh stestigo heb'. Ix ak'ji sk'ool heb' yuj heb', yik syal heb' icha tik: --Ix kab' sb'uchwaj winhaj Esteban tik t'a spatik winh ko mam kicham aj Moisés yet' t'a Dios, xchi heb'."
+    },
+    {
+      "number": "12",
+      "text": "Icha chi' ix yutej heb' stzuntzan chaanh heb' chonhab', heb' ichamtak winak yet' heb' k'ayb'um t'a ley Moisés. Yuj chi' ix kot juknaj heb' t'a winhaj Esteban chi', ix syaman winh heb', xit' yak'anoch winh heb' t'a yichanh heb' winh sat yajal."
+    },
+    {
+      "number": "13",
+      "text": "Ixlajwi chi', ix manji juntzanhxo heb' tz'ak'anoch es t'a yib'anh winhaj Esteban chi' yuj heb'. Ix stz'akan yal heb' icha tik t'a heb' winh yajal chi': --Ha winhaj Esteban tik, max yaktejkan winh sb'uchwaj t'a jun templo yiknhej Dios yaj tik. Sb'uchwaj pax winh t'a ley Moisés."
+    },
+    {
+      "number": "14",
+      "text": "Ix kab' yalan winh icha tik: Ha Jesús aj Nazaret ol pojanem stemplo Dios tik. Ol k'exchaj juntzanh ko b'eyb'al ak'b'ilkan t'ayonh yuj Moisés chi', xchi winh, xchi heb'."
+    },
+    {
+      "number": "15",
+      "text": "Axo heb' winh yajal chi' yet' heb' k'ojanem ta' smasanil, ix och k'elan heb' t'a winhaj Esteban chi', ix yilanoch sat winh heb', lajan yilji icha sat junok ángel."
+    }
+  ]
 }

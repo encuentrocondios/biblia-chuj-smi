@@ -1,33 +1,37 @@
 {
-    "chapter": "142",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, a t'ayach tzin awaji ayic swalan in b'a. Swak' wal wip in k'anan t'ayach to tz'ok' a k'ool t'ayin."
-        },
-        {
-            "number": "2",
-            "text": "D'a ichanh swal in b'a, a wal t'a ichanh swal wilk'olal."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, ayic manhxo animaoc waj swab'i, ojtak wal in b'e. Ha t'a jun b'e b'aj tzin b'ati, ata' ix yak'em yaal heb' ajk'ol t'ayin."
-        },
-        {
-            "number": "4",
-            "text": "Tzin b'at k'elan t'a in wach', malaj junok mach sjawi yic tz'och wed'oc. Malaj mach tzin colani. Malaj mach tz'och ilk'olal wuuj, wach'chom tzin chami."
-        },
-        {
-            "number": "5",
-            "text": "Mamin, a wal t'ayach swal in b'a, swalan icha tik: Ha t'ayach tzin col in b'a, a achnhej tzach in nib'ej t'a yichanh masanil tas t'a sat lu'um tik."
-        },
-        {
-            "number": "6",
-            "text": "Cotanh k'elan t'ayin tzin awaj t'ayach, yujto malaj wip. Colinel t'a heb' tzin pechan b'eyek'oc, yujto te ay yip heb' t'a wichanh."
-        },
-        {
-            "number": "7",
-            "text": "Ik' in elta t'a skal in yaelal in k'ana', yic wach' ol wal wach' lolonel t'ayach, haxo heb' anima wach' spensar ol och oyan heb' t'a in patic ayic ol ak'an a wach'k'olal t'ayin, xin chi."
-        }
-    ]
+  "chapter": "142",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, a t'ayach tzin awaji ayik swalan in b'a. Swak' wal wip in k'anan t'ayach to tz'ok' a k'ool t'ayin."
+    },
+    {
+      "number": "2",
+      "text": "T'a ichanh swal in b'a, a wal t'a ichanh swal wilk'olal."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, ayik manhxo animaok waj swab'i, ojtak wal in b'e. Ha t'a jun b'e b'aj tzin b'ati, ata' ix yak'em yaal heb' ajk'ol t'ayin."
+    },
+    {
+      "number": "4",
+      "text": "Tzin b'at k'elan t'a in wach', malaj junok mach sjawi yik tz'och wet'ok. Malaj mach tzin kolani. Malaj mach tz'och ilk'olal wuuj, wach'chom tzin chami."
+    },
+    {
+      "number": "5",
+      "text": "Mamin, a wal t'ayach swal in b'a, swalan icha tik: Ha t'ayach tzin kol in b'a, a achnhej tzach in nib'ej t'a yichanh masanil tas t'a sat lu'um tik."
+    },
+    {
+      "number": "6",
+      "text": "Kotanh k'elan t'ayin tzin awaj t'ayach, yujto malaj wip. Kolinel t'a heb' tzin pechan b'eyek'ok, yujto te ay yip heb' t'a wichanh."
+    },
+    {
+      "number": "7",
+      "text": "Ik' in elta t'a skal in yaelal in k'ana', yik wach' ol wal wach' lolonel t'ayach, haxo heb' anima wach' spensar ol och oyan heb' t'a in patik ayik ol ak'an a wach'k'olal t'ayin, xin chi."
+    }
+  ]
 }

@@ -1,101 +1,105 @@
 {
-    "chapter": "37",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha swilan niwac ik'nhab' chi', ste ib'xik'e in pixan yuj xiwelal, ichato sk'eta swab'i."
-        },
-        {
-            "number": "2",
-            "text": "Ab'ec wal sk'anh k'u, aton sjaj Dios, ha t'a yol sti' tz'elta jun sk'anh chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ha tz'ak'anek' copnaj lheb'lon t'a masanil satcha’anh, scheclajk'och b'aj slajwik'och lum lum tik."
-        },
-        {
-            "number": "4",
-            "text": "Slajwi chi' tz'ab'chaj sk'anh yoch sjaj Dios te niwan yelk'ochi. Yacb'an wan sk'anh chi' haxo lheb'lon chi' maxtzac och waan yek' copoljoc."
-        },
-        {
-            "number": "5",
-            "text": "Ha yuj sk'anh yol sjaj chi', ay tas satub'tac sk'ulej, max nachajel cuuj."
-        },
-        {
-            "number": "6",
-            "text": "Ha tz'ak'anem k'een sacb'akom t'a sat lu'um tik, syak'anpaxem nhab' te ay smay."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi' ha Dios tz'ak'anoch heb' anima t'a yol spat, yic wach' snachajel yuj heb' to a tz'ak'ancot juntzanh chi'."
-        },
-        {
-            "number": "8",
-            "text": "Axo nok' nok' sb'at nok' t'a yoltac snhak'een, ata' b'at sk'ub'ejkan sb'a nok'."
-        },
-        {
-            "number": "9",
-            "text": "Scot chacxuxum ik' t'a stojolal sur, haxo t'a stojolal norte scot siic yuj ik'."
-        },
-        {
-            "number": "10",
-            "text": "Ha yuj yik' Dios spitzwik'e k'een cheev, sb'at quechan k'een t'a yib'anh ha' niwac ha'."
-        },
-        {
-            "number": "11",
-            "text": "Ha tz'ak'anoch ha' t'a skal asun, haxo t'a skal ha' spitzwielta lheb'lon."
-        },
-        {
-            "number": "12",
-            "text": "Ha asun tzek'nhej b'aj snib'ej Dios. Icha chi' tz'aj sk'anab'ajan asun chi' tas syal t'a smasanil sat lu'um tik."
-        },
-        {
-            "number": "13",
-            "text": "Ha yet' juntzanh tik sch'oxan Dios, syak'an yaelal ma syak'an swach'k'olal t'a heb' anima."
-        },
-        {
-            "number": "14",
-            "text": "Mamin Job, ab' wal tas swala', scham wal ilan tas satub'tac sk'ulej Dios."
-        },
-        {
-            "number": "15",
-            "text": "¿Tzam nachajel uuj tas syutej Dios sk'ulan masanil juntzanh tik, tas tz'aj yek' copnaj lheb'lon t'a skal asun chi'?"
-        },
-        {
-            "number": "16",
-            "text": "¿Ojtac ama tas tz'aj skan waan asun t'a satcha’anh? Aton jun chi' sch'oxanel sjelanil Dios satub'tac."
-        },
-        {
-            "number": "17",
-            "text": "Ha ach tik, pural stechaj k'ak' uuj t'a yol a pichul. Yuj ik' te k'ak' scot t'a sur numanxonhej tz'aj sat lum tik."
-        },
-        {
-            "number": "18",
-            "text": "¿Tzam yal a kolwaj yet' Dios yic syak'anb'at jenhan satcha’anh tik, icha junok quechanh k'een k'een tzatz tz'ajkani?"
-        },
-        {
-            "number": "19",
-            "text": "Al t'ayonh ticnaik tas wach' skal d'ha Dios, yujto icha t'a skal k’ik’ k’inal ayonh eq'ui, manhxa tas wach' kalani."
-        },
-        {
-            "number": "20",
-            "text": "Ha in tik max in tek'b'ej in b'a walani to tzin lolon yet' Dios. Tato tzin k'ulej icha chi', ichato in gana swik'cot in chamel."
-        },
-        {
-            "number": "21",
-            "text": "Ina ayic tzek' ik' syik'anel asun, sk'achwi t'a chaanh, maxtzac yal ko k'e k'elan t'a yoc k'u."
-        },
-        {
-            "number": "22",
-            "text": "Ha t'a stojolal norte toxonhej copopi tz'aj icha k'een oro, toxonhej sat ko k'ol quilan stziquiquial Dios."
-        },
-        {
-            "number": "23",
-            "text": "Maxtzac nachajel cuuj tas yaj Dios Syal Yuj Smasanil, yujto ek'b'al spoder yet' stojolal. Te tojol yuj chi' malaj b'aj syixtej junok anima."
-        },
-        {
-            "number": "24",
-            "text": "Yuj chi' xiv heb' anima t'ay. Malaj jab'oc yelk'och heb' syaloch sb'a jelanil t'a yichanh, xchi winhaj Eliú chi'."
-        }
-    ]
+  "chapter": "37",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 24,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha swilan niwak ik'nhab' chi', ste ib'xik'e in pixan yuj xiwelal, ichato sk'eta swab'i."
+    },
+    {
+      "number": "2",
+      "text": "Ab'ek wal sk'anh k'u, haton sjaj Dios, ha t'a yol sti' tz'elta jun sk'anh chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ha tz'ak'anek' kopnaj lheb'lon t'a masanil satcha'anh, scheklajk'och b'aj slajwik'och lum lum tik."
+    },
+    {
+      "number": "4",
+      "text": "Slajwi chi' tz'ab'chaj sk'anh yoch sjaj Dios te niwan yelk'ochi. Yakb'an wan sk'anh chi' haxo lheb'lon chi' maxtzak och waan yek' kopoljok."
+    },
+    {
+      "number": "5",
+      "text": "Ha yuj sk'anh yol sjaj chi', ay tas satub'tak sk'ulej, max nachajel kuuj."
+    },
+    {
+      "number": "6",
+      "text": "Ha tz'ak'anem k'een sakb'akom t'a sat lu'um tik, syak'anpaxem nhab' te ay smay."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi' ha Dios tz'ak'anoch heb' anima t'a yol spat, yik wach' snachajel yuj heb' to a tz'ak'ankot juntzanh chi'."
+    },
+    {
+      "number": "8",
+      "text": "Axo nok' nok' sb'at nok' t'a yoltak snhak'een, ata' b'at sk'ub'ejkan sb'a nok'."
+    },
+    {
+      "number": "9",
+      "text": "Skot chakxuxum ik' t'a stojolal sur, haxo t'a stojolal norte skot siik yuj ik'."
+    },
+    {
+      "number": "10",
+      "text": "Ha yuj yik' Dios spitzwik'e k'een cheew, sb'at kechan k'een t'a yib'anh ha' niwak ha'."
+    },
+    {
+      "number": "11",
+      "text": "Ha tz'ak'anoch ha' t'a skal asun, haxo t'a skal ha' spitzwielta lheb'lon."
+    },
+    {
+      "number": "12",
+      "text": "Ha asun tzek'nhej b'aj snib'ej Dios. Icha chi' tz'aj sk'anab'ajan asun chi' tas syal t'a smasanil sat lu'um tik."
+    },
+    {
+      "number": "13",
+      "text": "Ha yet' juntzanh tik sch'oxan Dios, syak'an yaelal ma syak'an swach'k'olal t'a heb' anima."
+    },
+    {
+      "number": "14",
+      "text": "Mamin Job, ab' wal tas swala', scham wal ilan tas satub'tak sk'ulej Dios."
+    },
+    {
+      "number": "15",
+      "text": "¿Tzam nachajel uuj tas syutej Dios sk'ulan masanil juntzanh tik, tas tz'aj yek' kopnaj lheb'lon t'a skal asun chi'?"
+    },
+    {
+      "number": "16",
+      "text": "¿Ojtak ama tas tz'aj skan waan asun t'a satcha'anh? Haton jun chi' sch'oxanel sjelanil Dios satub'tak."
+    },
+    {
+      "number": "17",
+      "text": "Ha ach tik, pural stechaj k'ak' uuj t'a yol a pichul. Yuj ik' te k'ak' skot t'a sur numanxonhej tz'aj sat lum tik."
+    },
+    {
+      "number": "18",
+      "text": "¿Tzam yal a kolwaj yet' Dios yik syak'anb'at jenhan satcha'anh tik, icha junok kechanh k'een k'een tzatz tz'ajkani?"
+    },
+    {
+      "number": "19",
+      "text": "Al t'ayonh tiknaik tas wach' skal t'a Dios, yujto icha t'a skal k'ik' k'inal ayonh eq'ui, manhxa tas wach' kalani."
+    },
+    {
+      "number": "20",
+      "text": "Ha in tik max in tek'b'ej in b'a walani to tzin lolon yet' Dios. Tato tzin k'ulej icha chi', ichato in gana swik'kot in chamel."
+    },
+    {
+      "number": "21",
+      "text": "Ina ayik tzek' ik' syik'anel asun, sk'achwi t'a chaanh, maxtzak yal ko k'e k'elan t'a yok k'u."
+    },
+    {
+      "number": "22",
+      "text": "Ha t'a stojolal norte toxonhej kopopi tz'aj icha k'een oro, toxonhej sat ko k'ol kilan stzikikial Dios."
+    },
+    {
+      "number": "23",
+      "text": "Maxtzak nachajel kuuj tas yaj Dios Syal Yuj Smasanil, yujto ek'b'al spoder yet' stojolal. Te tojol yuj chi' malaj b'aj syixtej junok anima."
+    },
+    {
+      "number": "24",
+      "text": "Yuj chi' xiw heb' anima t'ay. Malaj jab'ok yelk'och heb' syaloch sb'a jelanil t'a yichanh, xchi winhaj Eliú chi'."
+    }
+  ]
 }

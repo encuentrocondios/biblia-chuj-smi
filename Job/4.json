@@ -1,89 +1,93 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan winhaj Elifaz aj Temán t'a winhaj Job chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ach Job, tekan chuk tzab'i tato ay mach stek'b'ej sb'a slolon ed'oc, palta maxtzac techaj wuuj tato tonhej swab'i."
-        },
-        {
-            "number": "3",
-            "text": "Yujto tzijtum mach b'aj ix ak' k'ayb'ub'al, ix ak'an pax stek'anil heb' somchajnaqueli."
-        },
-        {
-            "number": "4",
-            "text": "Ix ak' stek'anil heb' telwinac. Ix a yamanoch waan heb' ay schab'k'olal,"
-        },
-        {
-            "number": "5",
-            "text": "haxo yic ix ja yaelal t'a ib'anh tik, manhxa jab'oc a tek'anil."
-        },
-        {
-            "number": "6",
-            "text": "Ha ach tik tza k'anab'ajej wal Dios, tojol a b'eyb'al alani. ¿Tas yuj somchajel a k'ol ticnaik?"
-        },
-        {
-            "number": "7",
-            "text": "Nawalcoti, ¿tocwal sjawi yaelal t'a yib'anh heb' malaj smul? ¿Tocwal comon scham heb' wach' sb'eyb'al?"
-        },
-        {
-            "number": "8",
-            "text": "Ha swilani, a heb' sk'ulan chukal, a tas sk'ulej heb' chi' sjawi t'a yib'anh."
-        },
-        {
-            "number": "9",
-            "text": "Syak'cot yowal sk'ol Dios t'a yib'anh heb', satjiel heb' t'a junelnhej yuj, icha tz'aj satjiel tastac yuj chacxuxum ik'."
-        },
-        {
-            "number": "10",
-            "text": "Tz'el yav heb' icha yel yav nok' choj, palta ha Dios tz'ak'an em numan heb', icha yem numan nok' choj smak'jiel ye."
-        },
-        {
-            "number": "11",
-            "text": "Maxtzac yal-laj swa nok', scham nok' yuj wejel, haxo nok' yunetac, toxonhej saklemkanb'at nok'. Icha chi' tz'aj heb' chuk chi' yuj Dios."
-        },
-        {
-            "number": "12",
-            "text": "k'unnhej ix k'och jun lolonel ix sajjioch t'a in chiquin, pural wal ix wab'i."
-        },
-        {
-            "number": "13",
-            "text": "Ha t'ak'walil ayic yoralil sway anima, ix in wayichej jun tas te xiwub'tac."
-        },
-        {
-            "number": "14",
-            "text": "Ix jawi jun niwan xivk'olal t'ayin, ix in ib'xik'e yuj xiwelal."
-        },
-        {
-            "number": "15",
-            "text": "Ay jun icha spixan anima ix wab' yek' masasoc t'a in sat, ix k'e chijan xil in jolom yuj xiwelal."
-        },
-        {
-            "number": "16",
-            "text": "Ix k'och linhan jun pixan chi' t'a in tz'ey ix wab'i. Maj wilochlaj. Axo ix wab'ani ix sajsonk'ei, ix yalan icha tik:"
-        },
-        {
-            "number": "17",
-            "text": "¿Tocwal ay junok anima tojol t'a yichanh Dios? Wach'chom ay mach te tek'an, ¿tocwal malaj jab'oc spaltail t'a yichanh mach ix b'oani?"
-        },
-        {
-            "number": "18",
-            "text": "Ina max yak' wal och Dios heb' schekab' ay t'a satcha’anh yipoc sk'ool. Inatax heb' ángel tz'och spaltail heb' t'a yichanh."
-        },
-        {
-            "number": "19",
-            "text": "Ocxom wal heb' anima. Jab'nhej sk'inal heb', lajan heb' icha junok xan pat b'ob'il t'a yib'anh lum pokok, k'un yem lanhnajoc. Syal stek'chajem heb' icha nok' ij."
-        },
-        {
-            "number": "20",
-            "text": "Wach'chom wach' heb' t'a q'uinhib'alil, haxo tz'emkan k'u, satxikanem heb'. Satel heb' t'a junelnhej, malaj mach scus yuj heb'."
-        },
-        {
-            "number": "21",
-            "text": "Icha yic tz'em lanhnaj junok mantiado spolchaj sch'anhal, icha chi' yaj sk'inal heb' anima. Tz'ek'b'at lemnajoc, malaj jab'oc jelanil syik'kan heb', xchi jun pixan chi' t'ayin."
-        }
-    ]
+  "chapter": "4",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 21,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan winhaj Elifaz aj Temán t'a winhaj Job chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ach Job, tekan chuk tzab'i tato ay mach stek'b'ej sb'a slolon et'ok, palta maxtzak techaj wuuj tato tonhej swab'i."
+    },
+    {
+      "number": "3",
+      "text": "Yujto tzijtum mach b'aj ix ak' k'ayb'ub'al, ix ak'an pax stek'anil heb' somchajnakeli."
+    },
+    {
+      "number": "4",
+      "text": "Ix ak' stek'anil heb' telwinak. Ix a yamanoch waan heb' ay schab'k'olal,"
+    },
+    {
+      "number": "5",
+      "text": "haxo yik ix ja yaelal t'a ib'anh tik, manhxa jab'ok a tek'anil."
+    },
+    {
+      "number": "6",
+      "text": "Ha ach tik tza k'anab'ajej wal Dios, tojol a b'eyb'al alani. ¿Tas yuj somchajel a k'ol tiknaik?"
+    },
+    {
+      "number": "7",
+      "text": "Nawalkoti, ¿tokwal sjawi yaelal t'a yib'anh heb' malaj smul? ¿Tokwal komon scham heb' wach' sb'eyb'al?"
+    },
+    {
+      "number": "8",
+      "text": "Ha swilani, a heb' sk'ulan chukal, a tas sk'ulej heb' chi' sjawi t'a yib'anh."
+    },
+    {
+      "number": "9",
+      "text": "Syak'kot yowal sk'ol Dios t'a yib'anh heb', satjiel heb' t'a junelnhej yuj, icha tz'aj satjiel tastak yuj chakxuxum ik'."
+    },
+    {
+      "number": "10",
+      "text": "Tz'el yaw heb' icha yel yaw nok' choj, palta ha Dios tz'ak'an em numan heb', icha yem numan nok' choj smak'jiel ye."
+    },
+    {
+      "number": "11",
+      "text": "Maxtzak yal-laj swa nok', scham nok' yuj wejel, haxo nok' yunetak, toxonhej saklemkanb'at nok'. Icha chi' tz'aj heb' chuk chi' yuj Dios."
+    },
+    {
+      "number": "12",
+      "text": "k'unnhej ix k'och jun lolonel ix sajjioch t'a in chikin, pural wal ix wab'i."
+    },
+    {
+      "number": "13",
+      "text": "Ha t'ak'walil ayik yoralil sway anima, ix in wayichej jun tas te xiwub'tak."
+    },
+    {
+      "number": "14",
+      "text": "Ix jawi jun niwan xiwk'olal t'ayin, ix in ib'xik'e yuj xiwelal."
+    },
+    {
+      "number": "15",
+      "text": "Ay jun icha spixan anima ix wab' yek' masasok t'a in sat, ix k'e chijan xil in jolom yuj xiwelal."
+    },
+    {
+      "number": "16",
+      "text": "Ix k'och linhan jun pixan chi' t'a in tz'ey ix wab'i. Maj wilochlaj. Axo ix wab'ani ix sajsonk'ei, ix yalan icha tik:"
+    },
+    {
+      "number": "17",
+      "text": "¿Tokwal ay junok anima tojol t'a yichanh Dios? Wach'chom ay mach te tek'an, ¿tokwal malaj jab'ok spaltail t'a yichanh mach ix b'oani?"
+    },
+    {
+      "number": "18",
+      "text": "Ina max yak' wal och Dios heb' schekab' ay t'a satcha'anh yipok sk'ool. Inatax heb' ángel tz'och spaltail heb' t'a yichanh."
+    },
+    {
+      "number": "19",
+      "text": "Okxom wal heb' anima. Jab'nhej sk'inal heb', lajan heb' icha junok xan pat b'ob'il t'a yib'anh lum pokok, k'un yem lanhnajok. Syal stek'chajem heb' icha nok' ij."
+    },
+    {
+      "number": "20",
+      "text": "Wach'chom wach' heb' t'a q'uinhib'alil, haxo tz'emkan k'u, satxikanem heb'. Satel heb' t'a junelnhej, malaj mach skus yuj heb'."
+    },
+    {
+      "number": "21",
+      "text": "Icha yik tz'em lanhnaj junok mantiado spolchaj sch'anhal, icha chi' yaj sk'inal heb' anima. Tz'ek'b'at lemnajok, malaj jab'ok jelanil syik'kan heb', xchi jun pixan chi' t'ayin."
+    }
+  ]
 }

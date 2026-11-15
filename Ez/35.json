@@ -1,65 +1,69 @@
 {
-    "chapter": "35",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ach anima, ixic k'elan t'a stojolal lum tzalquixtac yic Seir. Tzalan in lolonel t'a yib'anh lu'um."
-        },
-        {
-            "number": "3",
-            "text": "Tzalan icha tik: Ha Jehová Yajal tz'alan icha tik: Ex kajan ex t'a tzalquixtac yic Seir, a in swala' to ay cot wowal t'ayex, ol wak'och yaelal t'a eyib'anh, ol wak'kan tzinan he chonhab', ol mak'jokkanem lanhnajoc."
-        },
-        {
-            "number": "4",
-            "text": "Ha juntzanh he chonhab', ol in satel t'a junelnhej. Ol wak'kan tzinan. Icha chi' ol aj snachajel eyuuj to a in ton Jehová in swutej icha chi'"
-        },
-        {
-            "number": "5",
-            "text": "Yujto ayexnhejoch ajk'olal t'a chonhab' Israel, he milnaccham heb' ayic ayoch syaelal heb' yuj smul."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi' a in Dios Yajal in swak' in ti' to ol ex wak'kanoch t'a yol sk'ab' chamel, haxo chamel chi' ol ex pechan b'eyek'oc, ol ex cham yuj."
-        },
-        {
-            "number": "7",
-            "text": "Ol wak'kan tzinan lum tzalquixtac Seir chi', manhxo ol in cha ek' anima ta'."
-        },
-        {
-            "number": "8",
-            "text": "Ol wak'kan b'ud'joc el lum tzalquixtac, lum ch'olquixtac yet' yoltac ha ha' yuj sniwanil heb' chamnac, aton heb' ol cham t'a owal."
-        },
-        {
-            "number": "9",
-            "text": "Junelnhej ol wak'kan tzinan lum he lu'um chi', manhxalaj mach olto kajnajkan t'a he chonhab' chi'. Icha chi' ol aj eyojtakaneli to a in ton Jehová in swutej icha chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ha ex tik eyojtak to a in Jehová in ayinek' yet' heb' israel tik, palta tzeyalan icha tik: Ha smacb'en Israel yet' Judá, quik ol ajkanoc, xe comon chiej."
-        },
-        {
-            "number": "11",
-            "text": "Palta a in Dios Yajal in swak' in ti' to icha wal yowal he k'ool yet' he chichonk'olal ayoch t'a Israel tik, icha pax chi' ol ex wutej. Icha chi' ol aj snachajel yuj heb' israel to a in swak'och eyaelal yuj tas ix eyutej heb'."
-        },
-        {
-            "number": "12",
-            "text": "Icha chi' ol aj eyojtakaneli to a in Jehová in ix wab' wal he b'uchwal lolonel ayic ix eyalan icha tik: Ha lum tzalquixtac t'a yol smacb'en Israel, ix kan wal tzinan lu'um. Co maquec quiquej lu'um, xe chi."
-        },
-        {
-            "number": "13",
-            "text": "Ix eyik' wal chaanh he b'a t'ayin, ix in he b'uchani, palta ix wab'nhej tas ix eyal chi'."
-        },
-        {
-            "number": "14",
-            "text": "Ha in Dios Yajal in swal juntzanh tik: Masanil yol yib'anhk’inal tik ol tzalajk'eoc ayic ol ex in satanel chi'."
-        },
-        {
-            "number": "15",
-            "text": "Yujto a ex tik, ix ex te tzalaji ayic ix lajwiel chonhab' Israel, yuj chi' ol in pactzitej t'ayex icha ix eyutej he b'a chi'. Ol wak'kan tzinan lum tzalquixtac Seir chi', aton he macb'en ex yinhtilalkan Edom. Icha chi' ol aj eyojtakaneli to a in ton Jehová in swutej icha chi', xchi Jehová, xa chi t'a heb', xchi t'ayin."
-        }
-    ]
+  "chapter": "35",
+  "book": "EZEQUIEL",
+  "book_short": "Ez",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ach anima, ixik k'elan t'a stojolal lum tzalkixtak yik Seir. Tzalan in lolonel t'a yib'anh lu'um."
+    },
+    {
+      "number": "3",
+      "text": "Tzalan icha tik: Ha Jehová Yajal tz'alan icha tik: Ex kajan ex t'a tzalkixtak yik Seir, a in swala' to ay kot wowal t'ayex, ol wak'och yaelal t'a eyib'anh, ol wak'kan tzinan he chonhab', ol mak'jokkanem lanhnajok."
+    },
+    {
+      "number": "4",
+      "text": "Ha juntzanh he chonhab', ol in satel t'a junelnhej. Ol wak'kan tzinan. Icha chi' ol aj snachajel eyuuj to a in ton Jehová in swutej icha chi'"
+    },
+    {
+      "number": "5",
+      "text": "Yujto ayexnhejoch ajk'olal t'a chonhab' Israel, he milnakcham heb' ayik ayoch syaelal heb' yuj smul."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi' a in Dios Yajal in swak' in ti' to ol ex wak'kanoch t'a yol sk'ab' chamel, haxo chamel chi' ol ex pechan b'eyek'ok, ol ex cham yuj."
+    },
+    {
+      "number": "7",
+      "text": "Ol wak'kan tzinan lum tzalkixtak Seir chi', manhxo ol in cha ek' anima ta'."
+    },
+    {
+      "number": "8",
+      "text": "Ol wak'kan b'ut'jok el lum tzalkixtak, lum ch'olkixtak yet' yoltak ha ha' yuj sniwanil heb' chamnak, haton heb' ol cham t'a owal."
+    },
+    {
+      "number": "9",
+      "text": "Junelnhej ol wak'kan tzinan lum he lu'um chi', manhxalaj mach olto kajnajkan t'a he chonhab' chi'. Icha chi' ol aj eyojtakaneli to a in ton Jehová in swutej icha chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ha ex tik eyojtak to a in Jehová in ayinek' yet' heb' israel tik, palta tzeyalan icha tik: Ha smakb'en Israel yet' Judá, kik ol ajkanok, xe komon chiej."
+    },
+    {
+      "number": "11",
+      "text": "Palta a in Dios Yajal in swak' in ti' to icha wal yowal he k'ool yet' he chichonk'olal ayoch t'a Israel tik, icha pax chi' ol ex wutej. Icha chi' ol aj snachajel yuj heb' israel to a in swak'och eyaelal yuj tas ix eyutej heb'."
+    },
+    {
+      "number": "12",
+      "text": "Icha chi' ol aj eyojtakaneli to a in Jehová in ix wab' wal he b'uchwal lolonel ayik ix eyalan icha tik: Ha lum tzalkixtak t'a yol smakb'en Israel, ix kan wal tzinan lu'um. Ko makek kikej lu'um, xe chi."
+    },
+    {
+      "number": "13",
+      "text": "Ix eyik' wal chaanh he b'a t'ayin, ix in he b'uchani, palta ix wab'nhej tas ix eyal chi'."
+    },
+    {
+      "number": "14",
+      "text": "Ha in Dios Yajal in swal juntzanh tik: Masanil yol yib'anhk'inal tik ol tzalajk'eok ayik ol ex in satanel chi'."
+    },
+    {
+      "number": "15",
+      "text": "Yujto a ex tik, ix ex te tzalaji ayik ix lajwiel chonhab' Israel, yuj chi' ol in paktzitej t'ayex icha ix eyutej he b'a chi'. Ol wak'kan tzinan lum tzalkixtak Seir chi', haton he makb'en ex yinhtilalkan Edom. Icha chi' ol aj eyojtakaneli to a in ton Jehová in swutej icha chi', xchi Jehová, xa chi t'a heb', xchi t'ayin."
+    }
+  ]
 }

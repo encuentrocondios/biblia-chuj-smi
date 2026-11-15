@@ -1,17 +1,21 @@
 {
-    "chapter": "133",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Naecnab'i, manh jantacoc swach'il schaan sb'a yaj heb' sk'ab' yoc sb'a ayic junnhej tz'aj spensar heb'."
-        },
-        {
-            "number": "2",
-            "text": "Lajan yet' jun perfume manh jantacoc swach'il scot jililoc t'a sjolom winhaj sacerdote Aarón, tz'emul t'a xil sti' winh, tz'emk'och t'a spayual sjaj spichul winh."
-        },
-        {
-            "number": "3",
-            "text": "Lajan wal icha yal ak'wal tz'em t'a sjolom lum witzal Hermón, tz'empax t'a lum tzalan Sion. Ha b'aj ay junk'olal chi', syak'b'at swach'k'olal Jehová, aton k 'inal t'a junelnhej."
-        }
-    ]
+  "chapter": "133",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 3,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Naeknab'i, manh jantakok swach'il schaan sb'a yaj heb' sk'ab' yok sb'a ayik junnhej tz'aj spensar heb'."
+    },
+    {
+      "number": "2",
+      "text": "Lajan yet' jun perfume manh jantakok swach'il skot jililok t'a sjolom winhaj sakerdote Aarón, tz'emul t'a xil sti' winh, tz'emk'och t'a spayual sjaj spichul winh."
+    },
+    {
+      "number": "3",
+      "text": "Lajan wal icha yal ak'wal tz'em t'a sjolom lum witzal Hermón, tz'empax t'a lum tzalan Sion. Ha b'aj ay junk'olal chi', syak'b'at swach'k'olal Jehová, haton k 'inal t'a junelnhej."
+    }
+  ]
 }

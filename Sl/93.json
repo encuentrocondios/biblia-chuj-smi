@@ -1,25 +1,29 @@
 {
-    "chapter": "93",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, Rey ach toni. Niwan chequel a b'inajnaquil yet' a poder. Tzatz ix utej em k'ojan yol yib'anhk’inal tik, yuj chi' max ib'xilaj."
-        },
-        {
-            "number": "2",
-            "text": "Mamin Jehová, atax t'a yichb’anel Yajal achtaxoni. Toxonton ayach eq'ui."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, ha ha' mar tz'ib'xi ha', sk'epax chulnaj ha'."
-        },
-        {
-            "number": "4",
-            "text": "Ha achxo pax Mamin Jehová, Yajal ach t'a satcha’anh, ek'al ach t'a juntzanh ha ha' chi'. Ek'to a poder t'ha ha' mar chi'."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová, a a checnab'il aynhej ek' t'a junelnhej. Ha a kajnub' niwan yelk'ochi yujto icnhej yaj t'a masanil tiempo."
-        }
-    ]
+  "chapter": "93",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 5,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, Rey ach toni. Niwan chekel a b'inajnakil yet' a poder. Tzatz ix utej em k'ojan yol yib'anhk'inal tik, yuj chi' max ib'xilaj."
+    },
+    {
+      "number": "2",
+      "text": "Mamin Jehová, atax t'a yichb'anel Yajal achtaxoni. Toxonton ayach eq'ui."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, ha ha' mar tz'ib'xi ha', sk'epax chulnaj ha'."
+    },
+    {
+      "number": "4",
+      "text": "Ha achxo pax Mamin Jehová, Yajal ach t'a satcha'anh, ek'al ach t'a juntzanh ha ha' chi'. Ek'to a poder t'a ha' mar chi'."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová, a a cheknab'il aynhej ek' t'a junelnhej. Ha a kajnub' niwan yelk'ochi yujto iknhej yaj t'a masanil tiempo."
+    }
+  ]
 }

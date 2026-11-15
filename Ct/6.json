@@ -1,57 +1,61 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach ix te wach' ilji t'a yichanh heb' ix ix wach' yilji, ¿b'ajtil ix k'och winh xajanab'il chi' uuj? ¿B'ajwaltil ix b'at winh yic wach' b'at ko say winh? xchi heb' t'ayin. Syalan ix cob'es:"
-        },
-        {
-            "number": "2",
-            "text": "Ha winh xajanab'il chi' wuuj, toxo ix b'at winh b'aj ay yavb'en, t'a skal tas awab'il yuj winh to suk'uq'ui yel sjab'. Ix b'at winh yak' tzalajb'oc sk'ool yet' smolan te' xumac."
-        },
-        {
-            "number": "3",
-            "text": "Ha in tik, yic in winh xajanab'il wuuj chi', wik pax winh. Syak' tzalajb'oc sk'ol winh t'a skal te' xumac chi', xchi ix. Syalan winh quelem:"
-        },
-        {
-            "number": "4",
-            "text": "Ach ix xajanab'il wuuj, te wach' ilji, nib'ab'ilxonhej ilji icha wal yilji chonhab' Tirsa yet' chonhab' Jerusalén. Ayxo smay yilji, icha juntzanh soldado sb'ey t'a stzolal."
-        },
-        {
-            "number": "5",
-            "text": "Manhxookab' mutz'mutz'an a sat t'ayin, yujto toxo ix ik'ji in pixan uuj. Ha xil a jolom, lajan yilji icha yemta nhililoc nok' chiwa t'a pak'an yic Galaad."
-        },
-        {
-            "number": "6",
-            "text": "Ha k'een e, toxonhej stz'ilili k'een. Lajan yilji k'een icha nok' kalnel toto tz'elta b'aj sb'icjieli, chatacwanh sb'ey nok' yet' yune', malaj junok nok' to sch'ocoj."
-        },
-        {
-            "number": "7",
-            "text": "Ha wal spak'ultac a ti' musan yuj junok k'apac, ichaxonhej yilji k'axepoc te' granada."
-        },
-        {
-            "number": "8",
-            "text": "Tzalajokab' winh rey yet' 60 heb' ix yetb'eyum reina yaji yet' 80 heb' ix schab'il yetb'eyum yet' pax heb' ix cob'estac maxtzac b'ischaji."
-        },
-        {
-            "number": "9",
-            "text": "Palta a in tik, junnhej ix wico'. Lajan ix icha wal nok' paramuch malaj spaltail. Anhej ix xajanab'il yuj snun, yuj chi' malaj junocxo mach lajan icha ix tik yalan snun chi'. Ayic tz'ilji ix yuj heb' ix cob'estac, yuj heb' ix reina, yuj pax heb' ix schab'il yetb'eyum winh rey chi', masanil heb' chi' tz'alani to wach' yilji ix, xchi winh. Syalan heb' amigo:"
-        },
-        {
-            "number": "10",
-            "text": "¿Mach jun ix ix sch'ox sb'a chi', icha wal sch'oxan sb'a k'u t'a q'uinhib'alil? Wach'xonhej yilji ix icha yilji k'een uj, icha yilji yoc k'u, ay smay yilji icha juntzanh soldado sb'ey t'a stzolal, xchi heb'. Syalan ix cob'es:"
-        },
-        {
-            "number": "11",
-            "text": "Ix in b'at b'aj ay te' ch'acte' nogales, yic swilan masanil tas swolan t'a ch'olan. Ix in nib'ej ix wila'' tato wan skan sat te' uwa yet' xumaquil te' granado."
-        },
-        {
-            "number": "12",
-            "text": "Manhxo toc tzin na', icha wal to ayinek' t'a yol carruaje yet' winh wajalil, xchi ix. Syalan heb' amigo:"
-        },
-        {
-            "number": "13",
-            "text": "Meltzajanh, meltzajanh ach Sulamita. Meltzajanh, snib'ej ko k'ol tzonh och k'elan t'ayach, xchi heb'. Syalan ix cob'es: ¿Tas yuj tze nib'ej tzeyil in chanhalwi t'a skal snanhal cha tzol anima tik? xchi ix Sulamita chi'."
-        }
-    ]
+  "chapter": "6",
+  "book": "CANTARES",
+  "book_short": "Ct",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach ix te wach' ilji t'a yichanh heb' ix ix wach' yilji, ¿b'ajtil ix k'och winh xajanab'il chi' uuj? ¿B'ajwaltil ix b'at winh yik wach' b'at ko say winh? xchi heb' t'ayin. Syalan ix kob'es:"
+    },
+    {
+      "number": "2",
+      "text": "Ha winh xajanab'il chi' wuuj, toxo ix b'at winh b'aj ay yawb'en, t'a skal tas awab'il yuj winh to suk'uq'ui yel sjab'. Ix b'at winh yak' tzalajb'ok sk'ool yet' smolan te' xumak."
+    },
+    {
+      "number": "3",
+      "text": "Ha in tik, yik in winh xajanab'il wuuj chi', wik pax winh. Syak' tzalajb'ok sk'ol winh t'a skal te' xumak chi', xchi ix. Syalan winh kelem:"
+    },
+    {
+      "number": "4",
+      "text": "Ach ix xajanab'il wuuj, te wach' ilji, nib'ab'ilxonhej ilji icha wal yilji chonhab' Tirsa yet' chonhab' Jerusalén. Ayxo smay yilji, icha juntzanh soldado sb'ey t'a stzolal."
+    },
+    {
+      "number": "5",
+      "text": "Manhxookab' mutz'mutz'an a sat t'ayin, yujto toxo ix ik'ji in pixan uuj. Ha xil a jolom, lajan yilji icha yemta nhililok nok' chiwa t'a pak'an yik Galaad."
+    },
+    {
+      "number": "6",
+      "text": "Ha k'een e, toxonhej stz'ilili k'een. Lajan yilji k'een icha nok' kalnel toto tz'elta b'aj sb'ikjieli, chatakwanh sb'ey nok' yet' yune', malaj junok nok' to sch'okoj."
+    },
+    {
+      "number": "7",
+      "text": "Ha wal spak'ultak a ti' musan yuj junok k'apak, ichaxonhej yilji k'axepok te' granada."
+    },
+    {
+      "number": "8",
+      "text": "Tzalajokab' winh rey yet' 60 heb' ix yetb'eyum reina yaji yet' 80 heb' ix schab'il yetb'eyum yet' pax heb' ix kob'estak maxtzak b'ischaji."
+    },
+    {
+      "number": "9",
+      "text": "Palta a in tik, junnhej ix wiko'. Lajan ix icha wal nok' paramuch malaj spaltail. Anhej ix xajanab'il yuj snun, yuj chi' malaj junokxo mach lajan icha ix tik yalan snun chi'. Ayik tz'ilji ix yuj heb' ix kob'estak, yuj heb' ix reina, yuj pax heb' ix schab'il yetb'eyum winh rey chi', masanil heb' chi' tz'alani to wach' yilji ix, xchi winh. Syalan heb' amigo:"
+    },
+    {
+      "number": "10",
+      "text": "¿Mach jun ix ix sch'ox sb'a chi', icha wal sch'oxan sb'a k'u t'a q'uinhib'alil? Wach'xonhej yilji ix icha yilji k'een uj, icha yilji yok k'u, ay smay yilji icha juntzanh soldado sb'ey t'a stzolal, xchi heb'. Syalan ix kob'es:"
+    },
+    {
+      "number": "11",
+      "text": "Ix in b'at b'aj ay te' ch'akte' nogales, yik swilan masanil tas swolan t'a ch'olan. Ix in nib'ej ix wila'' tato wan skan sat te' uwa yet' xumakil te' granado."
+    },
+    {
+      "number": "12",
+      "text": "Manhxo tok tzin na', icha wal to ayinek' t'a yol karruaje yet' winh wajalil, xchi ix. Syalan heb' amigo:"
+    },
+    {
+      "number": "13",
+      "text": "Meltzajanh, meltzajanh ach Sulamita. Meltzajanh, snib'ej ko k'ol tzonh och k'elan t'ayach, xchi heb'. Syalan ix kob'es: ¿Tas yuj tze nib'ej tzeyil in chanhalwi t'a skal snanhal cha tzol anima tik? xchi ix Sulamita chi'."
+    }
+  ]
 }

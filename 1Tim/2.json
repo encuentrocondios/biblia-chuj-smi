@@ -1,65 +1,69 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha ticnaik, tzin b'ab'laj alej wal b'at jun tik t'ayach. Yowalil tzonh tewi d'ha Dios yuj anima smasanil. Yowalil sko k'an d'ha Dios yic syak' swach'k'olal t'a heb', yic scolwajpax yet' heb'."
-        },
-        {
-            "number": "2",
-            "text": "Yowalil tzonh lesalwi yuj heb' niwac yajal yet' pax yuj heb' yajal smasanil, yic wach' junk'olal tzonh aj yet' heb', yic malaj pax tas sk'e waan t'a ko kal yet' heb'. Tato icha chi', ol yal ko k'ulan icha snib'ej Dios, ol yalpax ko b'eyek' t'a ak'ank'olal."
-        },
-        {
-            "number": "3",
-            "text": "Tato icha chi' scutej ko b'a, te wach' t'a sat Dios ko Kolumal. Ste tzalaj wal qued'oc."
-        },
-        {
-            "number": "4",
-            "text": "Yujto snib'ej Dios chi' scolchajkanel heb' anima smasanil. Snib'ej syojtaquejel jun k'ayb'ub'al heb' te yel."
-        },
-        {
-            "number": "5",
-            "text": "Junnhej ton Dios ay. Anhejtona', junnhej pax mach syal yak'anoch ko ti' t'ay, aton Jesucristo, yujto a ochnac animail."
-        },
-        {
-            "number": "6",
-            "text": "A' ulnaquek' yak'och sb'ha t'a yol sk'ab' chamel, yic scolel masanil heb' anima t'a jun yaelal ol ak'joc och t'a yib'anh heb' yuj smul. Ha schamel chi' a wal t'a stiempoal ix uji yic scheclajeli to snib'ej Dios scolchajel heb' anima smasanil."
-        },
-        {
-            "number": "7",
-            "text": "Yuj wal jun tik, ix ak'ji wopisio walanel jun ab'ix tik. Ix in ak'jioch schekab'oc Jesucristo yic tzin k'ayb'ej heb' manh israelok t'a jun k'ayb'ub'al te yel tik, yic syak'och Cristo heb' t'a sk'ool. Te yel swala', manh wanoc wesani."
-        },
-        {
-            "number": "8",
-            "text": "Yuj chi' in gana slesalwi heb' winh winak t'a junjun lugar. Ha heb' syik'chaanh sk'ab' slesalwi, yowalilokab' wach' sb'eyb'al heb' t'a yichanh Dios, malajokab' schichonk'olal heb', malajokab' b'aj stelaj sb'a heb'."
-        },
-        {
-            "number": "9",
-            "text": "Axo heb' ix ix, yowalil wach' syutej heb' ix yak'anoch spichul, tojolnhejokab' syutej heb' ix yak'anochi. Mokab' ak'umtacoc syutej sb'a heb' ix spach'uch'an xil sjolom. Mokab' ak'umtacoc syutej sb'a heb' ix yuj juntzanh oro sweei yilji t'a snhi' sch'umil heb' ix. Mokab' ak'umtacoc pax syutej sb'a heb' ix yuj juntzanh pichul te caro stojol syak'ochi."
-        },
-        {
-            "number": "10",
-            "text": "Aokab' wach' b'eyb'al sch'oxel heb' ix. Smoj wal icha chi', yujto yicxo Dios yaj heb' ix."
-        },
-        {
-            "number": "11",
-            "text": "Yowalil numan tz'aj heb' ix yab'an sk'ayb'ub'al t'a emnaquilal."
-        },
-        {
-            "number": "12",
-            "text": "Ha in swala', max yal-laj a heb' ix sk'ayb'an heb' winh winak. Max yal-laj a heb' ix tz'ak'an mandar heb' winh. Yowalil numan tz'aj heb' ix yab'ani."
-        },
-        {
-            "number": "13",
-            "text": "Yujto a winhaj Adán, b'ab'el b'ob'il winh yuj Dios. Axo ix Ewa, tzak'anto b'onac ix."
-        },
-        {
-            "number": "14",
-            "text": "Manhok winhaj Adán chi' ak'jinac musansatil yuj winh diablo, palta a ix Ewa chi'. Yuj chi', a ix ochnac smul d'ha Dios."
-        },
-        {
-            "number": "15",
-            "text": "Palta ol colchajel heb' ix, tato sq'uib'tzitej yune' heb' ix, tato tek'tek' yaj yune' heb' ix chi' yak'anoch Dios t'a sk'ool. Tato xajanej heb' anima heb' ix, tato wach' sb'eyb'al heb' ix t'a yichanh Dios, syilan sb'a heb' ix. Tato icha chi', ol colchajel heb' ix."
-        }
-    ]
+  "chapter": "2",
+  "book": "1 TIMOTEO",
+  "book_short": "1Tim",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha tiknaik, tzin b'ab'laj alej wal b'at jun tik t'ayach. Yowalil tzonh tewi t'a Dios yuj anima smasanil. Yowalil sko k'an t'a Dios yik syak' swach'k'olal t'a heb', yik skolwajpax yet' heb'."
+    },
+    {
+      "number": "2",
+      "text": "Yowalil tzonh lesalwi yuj heb' niwak yajal yet' pax yuj heb' yajal smasanil, yik wach' junk'olal tzonh aj yet' heb', yik malaj pax tas sk'e waan t'a ko kal yet' heb'. Tato icha chi', ol yal ko k'ulan icha snib'ej Dios, ol yalpax ko b'eyek' t'a ak'ank'olal."
+    },
+    {
+      "number": "3",
+      "text": "Tato icha chi' skutej ko b'a, te wach' t'a sat Dios ko Kolumal. Ste tzalaj wal ket'ok."
+    },
+    {
+      "number": "4",
+      "text": "Yujto snib'ej Dios chi' skolchajkanel heb' anima smasanil. Snib'ej syojtakejel jun k'ayb'ub'al heb' te yel."
+    },
+    {
+      "number": "5",
+      "text": "Junnhej ton Dios ay. Anhejtona', junnhej pax mach syal yak'anoch ko ti' t'ay, haton Jesucristo, yujto a ochnak animail."
+    },
+    {
+      "number": "6",
+      "text": "A' ulnakek' yak'och sb'a t'a yol sk'ab' chamel, yik skolel masanil heb' anima t'a jun yaelal ol ak'jok och t'a yib'anh heb' yuj smul. Ha schamel chi' a wal t'a stiempoal ix uji yik scheklajeli to snib'ej Dios skolchajel heb' anima smasanil."
+    },
+    {
+      "number": "7",
+      "text": "Yuj wal jun tik, ix ak'ji wopisio walanel jun ab'ix tik. Ix in ak'jioch schekab'ok Jesucristo yik tzin k'ayb'ej heb' manh israelok t'a jun k'ayb'ub'al te yel tik, yik syak'och Cristo heb' t'a sk'ool. Te yel swala', manh wanok wesani."
+    },
+    {
+      "number": "8",
+      "text": "Yuj chi' in gana slesalwi heb' winh winak t'a junjun lugar. Ha heb' syik'chaanh sk'ab' slesalwi, yowalilokab' wach' sb'eyb'al heb' t'a yichanh Dios, malajokab' schichonk'olal heb', malajokab' b'aj stelaj sb'a heb'."
+    },
+    {
+      "number": "9",
+      "text": "Axo heb' ix ix, yowalil wach' syutej heb' ix yak'anoch spichul, tojolnhejokab' syutej heb' ix yak'anochi. Mokab' ak'umtakok syutej sb'a heb' ix spach'uch'an xil sjolom. Mokab' ak'umtakok syutej sb'a heb' ix yuj juntzanh oro sweei yilji t'a snhi' sch'umil heb' ix. Mokab' ak'umtakok pax syutej sb'a heb' ix yuj juntzanh pichul te karo stojol syak'ochi."
+    },
+    {
+      "number": "10",
+      "text": "Aokab' wach' b'eyb'al sch'oxel heb' ix. Smoj wal icha chi', yujto yikxo Dios yaj heb' ix."
+    },
+    {
+      "number": "11",
+      "text": "Yowalil numan tz'aj heb' ix yab'an sk'ayb'ub'al t'a emnakilal."
+    },
+    {
+      "number": "12",
+      "text": "Ha in swala', max yal-laj a heb' ix sk'ayb'an heb' winh winak. Max yal-laj a heb' ix tz'ak'an mandar heb' winh. Yowalil numan tz'aj heb' ix yab'ani."
+    },
+    {
+      "number": "13",
+      "text": "Yujto a winhaj Adán, b'ab'el b'ob'il winh yuj Dios. Axo ix Eva, tzak'anto b'onak ix."
+    },
+    {
+      "number": "14",
+      "text": "Manhok winhaj Adán chi' ak'jinak musansatil yuj winh diablo, palta a ix Eva chi'. Yuj chi', a ix ochnak smul t'a Dios."
+    },
+    {
+      "number": "15",
+      "text": "Palta ol kolchajel heb' ix, tato sq'uib'tzitej yune' heb' ix, tato tek'tek' yaj yune' heb' ix chi' yak'anoch Dios t'a sk'ool. Tato xajanej heb' anima heb' ix, tato wach' sb'eyb'al heb' ix t'a yichanh Dios, syilan sb'a heb' ix. Tato icha chi', ol kolchajel heb' ix."
+    }
+  ]
 }

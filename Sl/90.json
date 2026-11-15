@@ -1,73 +1,77 @@
 {
-    "chapter": "90",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin, yictax yichb’anel, a ach tzonh a coltaxoni."
-        },
-        {
-            "number": "2",
-            "text": "Yictax manto a b'olaj juntzanh witz yet' yol yib'anhk’inal tik, masanto t'a slajwub', Dios ach taxoni."
-        },
-        {
-            "number": "3",
-            "text": "Ha ach tzonh ak' meltzajxioch pokokal, ayic tzalani: Ex anima, meltzajanhecxioch pokokal, xa chi."
-        },
-        {
-            "number": "4",
-            "text": "Ha jun mil ab'il, icha yaj junok k'ual yaj t'a yol a sat. Icha yaj jayeoc hora t'ak'walil icha chi' yaj t'ayach."
-        },
-        {
-            "number": "5",
-            "text": "Elanhchamel tzik' b'ey ko k 'inal. Icha wal yek'b'at junok wayich, icha wal chi' kaj a onh tik."
-        },
-        {
-            "number": "6",
-            "text": "Lajan onh icha anh ank'ultak sk'euli. Scot xumaquil anh t'a q'uinhib'alil, haxo yic tz'emkan k'u, stacjieli, schamxikanem anh."
-        },
-        {
-            "number": "7",
-            "text": "Yel toni, a yowal a k'ool tzonh ak'an lajwoqueli. Manhxo animaoc tzonh ajkan yuj."
-        },
-        {
-            "number": "8",
-            "text": "Ha ko mul yet' ko chukal, wach'chom te k'ub'eltac yaji, palta chequel yaj t'a ichanh."
-        },
-        {
-            "number": "9",
-            "text": "Yel ton wal, a yuj yowal a k'ol satel ko k 'inal. Elanhchamel tzek'b'at ko k 'inal chi', ichanhej sja sik'son ko k'ool."
-        },
-        {
-            "number": "10",
-            "text": "Anhej 70 ab'il ko k 'inal. Axo heb' tek'an jun, sk'och heb' t'a 80 ab'il. Palta te yaxo yek' k'u ak'wal yuj heb'. Elanhchamel tzek'b'at ko k 'inal, tzonh sateli."
-        },
-        {
-            "number": "11",
-            "text": "¿Mach wal ojtannac spoder yowal a k'ool? ¿Mach ay xivk'olal t'ayach icha smojal yowal a k'ool chi'?"
-        },
-        {
-            "number": "12",
-            "text": "Ak' cojtaquejeli to tzapan ko k 'inal, yic wach' snachajel cuuj, yic tzonh b'ey t'a jelanil."
-        },
-        {
-            "number": "13",
-            "text": "Mamin Jehová, ochannhej qued'oc. ¿Jantacto wal tiempo ol ko tanhwej yic tzonh a colani? Ok'oc wal a k'ol t'ayonh a onh a chekab' onh tik."
-        },
-        {
-            "number": "14",
-            "text": "Ak' tzalajb'oc ko k'ool t'a junjun q'uinhib'alil yuj a wach'k'olal, yic tzonh b'itan t'a tzalajk'olal yacb'an pitzan onhto."
-        },
-        {
-            "number": "15",
-            "text": "Sco nib'ej tzijtum ab'ilal ko tzalajk'olal tzak'a', icha wal sb'isul yab'ilal ko yaelal."
-        },
-        {
-            "number": "16",
-            "text": "Elokab' t'a a k'ool to a onh a chekab' onh tik yet' heb' quinhtilal, to squil tas satub'tac tza k'ulej yet' a poder."
-        },
-        {
-            "number": "17",
-            "text": "Mamin ach ko Diosal, ayokab' a wach'k'olal t'a quib'anh. Ak' najtilb'oc ko munlajel, checlajokab' t'a junelnhej. Yel ton Mamin, checlajokab' ko munlajel chi' t'a junelnhej."
-        }
-    ]
+  "chapter": "90",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin, yiktax yichb'anel, a ach tzonh a koltaxoni."
+    },
+    {
+      "number": "2",
+      "text": "Yiktax manto a b'olaj juntzanh witz yet' yol yib'anhk'inal tik, masanto t'a slajwub', Dios ach taxoni."
+    },
+    {
+      "number": "3",
+      "text": "Ha ach tzonh ak' meltzajxioch pokokal, ayik tzalani: Ex anima, meltzajanhekxioch pokokal, xa chi."
+    },
+    {
+      "number": "4",
+      "text": "Ha jun mil ab'il, icha yaj junok k'ual yaj t'a yol a sat. Icha yaj jayeok hora t'ak'walil icha chi' yaj t'ayach."
+    },
+    {
+      "number": "5",
+      "text": "Elanhchamel tzik' b'ey ko k 'inal. Icha wal yek'b'at junok wayich, icha wal chi' kaj a onh tik."
+    },
+    {
+      "number": "6",
+      "text": "Lajan onh icha anh ank'ultak sk'euli. Skot xumakil anh t'a q'uinhib'alil, haxo yik tz'emkan k'u, stakjieli, schamxikanem anh."
+    },
+    {
+      "number": "7",
+      "text": "Yel toni, a yowal a k'ool tzonh ak'an lajwokeli. Manhxo animaok tzonh ajkan yuj."
+    },
+    {
+      "number": "8",
+      "text": "Ha ko mul yet' ko chukal, wach'chom te k'ub'eltak yaji, palta chekel yaj t'a ichanh."
+    },
+    {
+      "number": "9",
+      "text": "Yel ton wal, a yuj yowal a k'ol satel ko k 'inal. Elanhchamel tzek'b'at ko k 'inal chi', ichanhej sja sik'son ko k'ool."
+    },
+    {
+      "number": "10",
+      "text": "Anhej 70 ab'il ko k 'inal. Axo heb' tek'an jun, sk'och heb' t'a 80 ab'il. Palta te yaxo yek' k'u ak'wal yuj heb'. Elanhchamel tzek'b'at ko k 'inal, tzonh sateli."
+    },
+    {
+      "number": "11",
+      "text": "¿Mach wal ojtannak spoder yowal a k'ool? ¿Mach ay xiwk'olal t'ayach icha smojal yowal a k'ool chi'?"
+    },
+    {
+      "number": "12",
+      "text": "Ak' kojtakejeli to tzapan ko k 'inal, yik wach' snachajel kuuj, yik tzonh b'ey t'a jelanil."
+    },
+    {
+      "number": "13",
+      "text": "Mamin Jehová, ochannhej ket'ok. ¿Jantakto wal tiempo ol ko tanhwej yik tzonh a kolani? Ok'ok wal a k'ol t'ayonh a onh a chekab' onh tik."
+    },
+    {
+      "number": "14",
+      "text": "Ak' tzalajb'ok ko k'ool t'a junjun q'uinhib'alil yuj a wach'k'olal, yik tzonh b'itan t'a tzalajk'olal yakb'an pitzan onhto."
+    },
+    {
+      "number": "15",
+      "text": "Sko nib'ej tzijtum ab'ilal ko tzalajk'olal tzak'a', icha wal sb'isul yab'ilal ko yaelal."
+    },
+    {
+      "number": "16",
+      "text": "Elokab' t'a a k'ool to a onh a chekab' onh tik yet' heb' kinhtilal, to skil tas satub'tak tza k'ulej yet' a poder."
+    },
+    {
+      "number": "17",
+      "text": "Mamin ach ko Diosal, ayokab' a wach'k'olal t'a kib'anh. Ak' najtilb'ok ko munlajel, cheklajokab' t'a junelnhej. Yel ton Mamin, cheklajokab' ko munlajel chi' t'a junelnhej."
+    }
+  ]
 }

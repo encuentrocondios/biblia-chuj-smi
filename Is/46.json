@@ -1,57 +1,61 @@
 {
-    "chapter": "46",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha sdiosal heb' aj Babilonia scuch Bel, q'uixwelal ix ajkani, haxo sdiosal heb' aj Nebo, manhxalaj yelk'ochi. Ha juntzanh comon Dios chi', ix tzek'jioch t'a yib'anh yikatz nok' b'uru al yaji, k'unb'inac nok'."
-        },
-        {
-            "number": "2",
-            "text": "Ha juntzanh comon Dios chi', manhxa jab'oc yopisio, maj yal scolan sb'a, ix ik'chajb'at t'a ch'oc nacional."
-        },
-        {
-            "number": "3",
-            "text": "Ix yalan Jehová icha tik: Maclejec eyab' tas swal ex yinhtilal Jacob, jantac exto kannak ex t'a Israel tik, cuchb'ilexnhej wuuj ayic manto ex alji. Ix ex in chelb'eyek'oc."
-        },
-        {
-            "number": "4",
-            "text": "Ichanhej chi' ol in k'ulej eyed'oc, ayic ol ex och icham animail, sacxo xil he jolom, ayinnhej och eyed'oc. Ha in in b'onac ex, ol ex in tanhwejnhej. Ol in ochnhej eyed'oc, ol ex in colnhej."
-        },
-        {
-            "number": "5",
-            "text": "¿Mach junok syal in he lajb'an yet'oc? ¿Mach junok lajan wed'oc he naani?"
-        },
-        {
-            "number": "6",
-            "text": "Ay heb' syik'k'eta k'een oro t'a yol yet'tal, syechtan k'een plata t'a yol echlab', syak'an k'een heb' t'a junok winh jelan sb'oani yic sb'o junok sdiosal heb' t'a k'een. Axo sb'oelk'ochi, tz'och heb' ejmelal t'ay, syalan sb'a heb' t'ay."
-        },
-        {
-            "number": "7",
-            "text": "Syak'ank'e heb' t'a sjolom sjenhjab', syik'anb'at heb'. Syak'ank'e heb' t'a sat junok smexa. Skanxonhej chek'an ta', maxtzac ib'xi. Wach'chom jantac yawajoch heb' ay yic chi' t'ay, palta max tak'wi, max colji heb' yuj t'a syaelal."
-        },
-        {
-            "number": "8",
-            "text": "Naeccot jun tik ex anima pit, scham wal he naancoti yic max b'at satk'olal eyuuj tastac in k'ulejnac."
-        },
-        {
-            "number": "9",
-            "text": "Naeccot tas ujinac t'a pecataxo to Ha innhej Dios in, malaj junocxo, malaj junocxo Dios lajan wed'oc."
-        },
-        {
-            "number": "10",
-            "text": "Ha in walnakkan t'a yictax yichb’anel tas ol ujok t'a slajwub'. Ayocto walannakkani tastac toto ol ujok. Masanil tas nab'il wuuj ol in k'ulejnhej."
-        },
-        {
-            "number": "11",
-            "text": "Ol wavtejcot jun winak t'a najat b'aj sjawi k'u, ol ja jucnaj icha junok nok' ch'acb'a. Ha tas nab'il wuuj, a chi' ol wak' sk'ulej. Icha wutejnac walani, icha chi' ol ujok."
-        },
-        {
-            "number": "12",
-            "text": "Ex anima pit, mach ex najat eyajkanel t'a tojolal, ab'ec tas ol wala'."
-        },
-        {
-            "number": "13",
-            "text": "Ha colnab'il swak'a' toxo wal tz'elk'och wuuj, manhxo ol ek' tiempo in colan chonhab' Sion, ol b'inajxoc Israel tik wuuj, xchi Jehová."
-        }
-    ]
+  "chapter": "46",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha sdiosal heb' aj Babilonia skuch Bel, q'uixwelal ix ajkani, haxo sdiosal heb' aj Nebo, manhxalaj yelk'ochi. Ha juntzanh komon Dios chi', ix tzek'jioch t'a yib'anh yikatz nok' b'uru al yaji, k'unb'inak nok'."
+    },
+    {
+      "number": "2",
+      "text": "Ha juntzanh komon Dios chi', manhxa jab'ok yopisio, maj yal skolan sb'a, ix ik'chajb'at t'a ch'ok nakional."
+    },
+    {
+      "number": "3",
+      "text": "Ix yalan Jehová icha tik: Maklejek eyab' tas swal ex yinhtilal Jacob, jantak exto kannak ex t'a Israel tik, kuchb'ilexnhej wuuj ayik manto ex alji. Ix ex in chelb'eyek'ok."
+    },
+    {
+      "number": "4",
+      "text": "Ichanhej chi' ol in k'ulej eyet'ok, ayik ol ex och icham animail, sakxo xil he jolom, ayinnhej och eyet'ok. Ha in in b'onak ex, ol ex in tanhwejnhej. Ol in ochnhej eyet'ok, ol ex in kolnhej."
+    },
+    {
+      "number": "5",
+      "text": "¿Mach junok syal in he lajb'an yet'ok? ¿Mach junok lajan wet'ok he naani?"
+    },
+    {
+      "number": "6",
+      "text": "Ay heb' syik'k'eta k'een oro t'a yol yet'tal, syechtan k'een plata t'a yol echlab', syak'an k'een heb' t'a junok winh jelan sb'oani yik sb'o junok sdiosal heb' t'a k'een. Axo sb'oelk'ochi, tz'och heb' ejmelal t'ay, syalan sb'a heb' t'ay."
+    },
+    {
+      "number": "7",
+      "text": "Syak'ank'e heb' t'a sjolom sjenhjab', syik'anb'at heb'. Syak'ank'e heb' t'a sat junok smexa. Skanxonhej chek'an ta', maxtzak ib'xi. Wach'chom jantak yawajoch heb' ay yik chi' t'ay, palta max tak'wi, max kolji heb' yuj t'a syaelal."
+    },
+    {
+      "number": "8",
+      "text": "Naekkot jun tik ex anima pit, scham wal he naankoti yik max b'at satk'olal eyuuj tastak in k'ulejnak."
+    },
+    {
+      "number": "9",
+      "text": "Naekkot tas ujinak t'a pekataxo to Ha innhej Dios in, malaj junokxo, malaj junokxo Dios lajan wet'ok."
+    },
+    {
+      "number": "10",
+      "text": "Ha in walnakkan t'a yiktax yichb'anel tas ol ujok t'a slajwub'. Ayokto walannakkani tastak toto ol ujok. Masanil tas nab'il wuuj ol in k'ulejnhej."
+    },
+    {
+      "number": "11",
+      "text": "Ol wawtejkot jun winak t'a najat b'aj sjawi k'u, ol ja juknaj icha junok nok' ch'akb'a. Ha tas nab'il wuuj, a chi' ol wak' sk'ulej. Icha wutejnak walani, icha chi' ol ujok."
+    },
+    {
+      "number": "12",
+      "text": "Ex anima pit, mach ex najat eyajkanel t'a tojolal, ab'ek tas ol wala'."
+    },
+    {
+      "number": "13",
+      "text": "Ha kolnab'il swak'a' toxo wal tz'elk'och wuuj, manhxo ol ek' tiempo in kolan chonhab' Sion, ol b'inajxok Israel tik wuuj, xchi Jehová."
+    }
+  ]
 }

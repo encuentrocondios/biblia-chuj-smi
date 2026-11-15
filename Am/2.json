@@ -1,69 +1,73 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha Jehová tz'alan icha tik: Manh jantacoc chukal ix sk'ulej heb' aj Moab, yuj chi' yowalil ol wak'och syaelal heb'. Ix snhustz'a sb'aquil winh sreyal Edom heb', taanhxonhej ix ajkan stz'ab'ati."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi' ol wak'och sk'ak'al Moab chi'. Ha jun k'ak' chi' ol ak'an lajwoquel cuartel t'a Queriot. D'a skal av yic owal yet' yok' k'een trompeta, ol cham masanil heb' aj Moab chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ol wak'cham winh sreyal heb' yet' heb' winh ayoch yet' winh t'a yopisio, xchi Jehová."
-        },
-        {
-            "number": "4",
-            "text": "Ha Jehová tz'alan icha tik: Manh jantacoc chukal ix sk'ulej heb' aj Judá, yuj chi' yowalil ol wak'och syaelal heb'. Maj scha yab' in k'ayb'ub'al heb', maj sk'anab'ajej pax in ley heb'. Palta ha t'a juntzanh tas malaj yelk'och b'aj ix yak'em sb'a heb', aton t'a juntzanh comon Dios b'aj yalnac sb'a heb' smam yicham heb'."
-        },
-        {
-            "number": "5",
-            "text": "Yuj chi' ol wak'och sk'ak'al Judá, haxo jun k'ak' chi' ol ak'an lajwoquel cuartel t'a Jerusalén, xchi Jehová."
-        },
-        {
-            "number": "6",
-            "text": "Ha Jehová tz'alan icha tik: Manh jantacoc chukal ix sk'ulej heb' aj Israel tik, yuj chi' yowalil ol wak'och syaelal heb'. Ix schonhel heb' meb'a' heb' wach' spensar t'a skal, yujto max yal stupan sb'oc heb' t'a heb', wach'chom yujnhej stojol jun mojoc xanhab'."
-        },
-        {
-            "number": "7",
-            "text": "Tz'ixtax heb' meb'a' yuj heb', man wach'oc pax syutej heb' sb'oan yaj heb' meb'a' emnaquil chi'. Q'uixwelal in b'inaj yuj heb' ch'oc chonhab'il yuj schukal heb'. Ha winh mamab'il yet' winh yuninal, junnhej ix cob'es smulan heb' winh yet'oc."
-        },
-        {
-            "number": "8",
-            "text": "Tz'ek' jichan heb' t'a yib'anh pichul scha b'aj syak' tumin majanil, smulan heb' t'a yichanh junjun altar. Swaan wael heb' tz'altaj t'a juntzanh comon Dios. Sman anh anh heb' yet' k'een multa scha'a, syuk'an anh heb' t'a stemplo juntzanh sdiosal chi', xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Syalanxi Jehová: Ha in Jehová in swala', wak'nac satel heb' amorreo yuj wak'an slum heb' t'ayex. Wach'chom chaanh steel heb' icha steel te' k'ute', tzatz pax heb' icha te' ji, palta junelnhej wak'nac satel heb'."
-        },
-        {
-            "number": "10",
-            "text": "Palta a ex tik, wik'naquelta heb' he mam eyicham t'a Egipto, wik'annacb'at heb' 40 ab'il t'a tzinan lu'um, yuj wak'an slum heb' amorreo chi' t'a heb'."
-        },
-        {
-            "number": "11",
-            "text": "Ix wik'chaanh juntzanh heb' eyinhtilal in chekab'oc, haxo juntzanhxo heb', wak'nacoch heb' nazareoal yic tz'och heb' wicoc. ¿Tom manh yeloc juntzanh tik, ex israel?"
-        },
-        {
-            "number": "12",
-            "text": "Ha exxo tik, ix eyak' pural heb' wicxo chi' yuk'wi anh, ix he cachan heb' in chekab' yic max yalel in lolonel heb'."
-        },
-        {
-            "number": "13",
-            "text": "Yuj chi' niwan yaelal ol wak'cot t'a eyib'anh, ol ex k'acwoc yuj icha snhach'ach'i junok carreta al yaj yuj ixim trigo."
-        },
-        {
-            "number": "14",
-            "text": "Ha t'a jun k'ual chi', a heb' jelan sb'eyi, manhxo ol yal-laj yel heb', haxo heb' te ay yip, ichato manhxa jab'oc yip heb'. Ha heb' soldado tek'an, manhxo ol yal scolan sb'a heb'."
-        },
-        {
-            "number": "15",
-            "text": "Ha mach sjulwaj yet' jul-lab', manhxo ol yal stek'b'an sb'a. Manhxo ol yal scolan sb'a heb' jelan sb'eyi, manhxo ol yalpax scolan sb'a heb' tz'el lemnaj ayk'e t'a yib'anh nok' chej."
-        },
-        {
-            "number": "16",
-            "text": "Ha in Jehová in swala' to ha t'a jun k'ual chi', a heb' jelan t'a owal, ol yaktejkan syamk'ab' heb' yic owal, ol b'at heb' elelal, xchi Jehová."
-        }
-    ]
+  "chapter": "2",
+  "book": "AMÓS",
+  "book_short": "Am",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha Jehová tz'alan icha tik: Manh jantakok chukal ix sk'ulej heb' aj Moab, yuj chi' yowalil ol wak'och syaelal heb'. Ix snhustz'a sb'akil winh sreyal Edom heb', taanhxonhej ix ajkan stz'ab'ati."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi' ol wak'och sk'ak'al Moab chi'. Ha jun k'ak' chi' ol ak'an lajwokel kuartel t'a Queriot. T'a skal aw yik owal yet' yok' k'een trompeta, ol cham masanil heb' aj Moab chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ol wak'cham winh sreyal heb' yet' heb' winh ayoch yet' winh t'a yopisio, xchi Jehová."
+    },
+    {
+      "number": "4",
+      "text": "Ha Jehová tz'alan icha tik: Manh jantakok chukal ix sk'ulej heb' aj Judá, yuj chi' yowalil ol wak'och syaelal heb'. Maj scha yab' in k'ayb'ub'al heb', maj sk'anab'ajej pax in ley heb'. Palta ha t'a juntzanh tas malaj yelk'och b'aj ix yak'em sb'a heb', haton t'a juntzanh komon Dios b'aj yalnak sb'a heb' smam yicham heb'."
+    },
+    {
+      "number": "5",
+      "text": "Yuj chi' ol wak'och sk'ak'al Judá, haxo jun k'ak' chi' ol ak'an lajwokel kuartel t'a Jerusalén, xchi Jehová."
+    },
+    {
+      "number": "6",
+      "text": "Ha Jehová tz'alan icha tik: Manh jantakok chukal ix sk'ulej heb' aj Israel tik, yuj chi' yowalil ol wak'och syaelal heb'. Ix schonhel heb' meb'a' heb' wach' spensar t'a skal, yujto max yal stupan sb'ok heb' t'a heb', wach'chom yujnhej stojol jun mojok xanhab'."
+    },
+    {
+      "number": "7",
+      "text": "Tz'ixtax heb' meb'a' yuj heb', man wach'ok pax syutej heb' sb'oan yaj heb' meb'a' emnakil chi'. Q'uixwelal in b'inaj yuj heb' ch'ok chonhab'il yuj schukal heb'. Ha winh mamab'il yet' winh yuninal, junnhej ix kob'es smulan heb' winh yet'ok."
+    },
+    {
+      "number": "8",
+      "text": "Tz'ek' jichan heb' t'a yib'anh pichul scha b'aj syak' tumin majanil, smulan heb' t'a yichanh junjun altar. Swaan wael heb' tz'altaj t'a juntzanh komon Dios. Sman anh anh heb' yet' k'een multa scha'a, syuk'an anh heb' t'a stemplo juntzanh sdiosal chi', xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Syalanxi Jehová: Ha in Jehová in swala', wak'nak satel heb' amorreo yuj wak'an slum heb' t'ayex. Wach'chom chaanh steel heb' icha steel te' k'ute', tzatz pax heb' icha te' ji, palta junelnhej wak'nak satel heb'."
+    },
+    {
+      "number": "10",
+      "text": "Palta a ex tik, wik'nakelta heb' he mam eyicham t'a Egipto, wik'annakb'at heb' 40 ab'il t'a tzinan lu'um, yuj wak'an slum heb' amorreo chi' t'a heb'."
+    },
+    {
+      "number": "11",
+      "text": "Ix wik'chaanh juntzanh heb' eyinhtilal in chekab'ok, haxo juntzanhxo heb', wak'nakoch heb' nazareoal yik tz'och heb' wikok. ¿Tom manh yelok juntzanh tik, ex israel?"
+    },
+    {
+      "number": "12",
+      "text": "Ha exxo tik, ix eyak' pural heb' wikxo chi' yuk'wi anh, ix he kachan heb' in chekab' yik max yalel in lolonel heb'."
+    },
+    {
+      "number": "13",
+      "text": "Yuj chi' niwan yaelal ol wak'kot t'a eyib'anh, ol ex k'akwok yuj icha snhach'ach'i junok karreta al yaj yuj ixim trigo."
+    },
+    {
+      "number": "14",
+      "text": "Ha t'a jun k'ual chi', a heb' jelan sb'eyi, manhxo ol yal-laj yel heb', haxo heb' te ay yip, ichato manhxa jab'ok yip heb'. Ha heb' soldado tek'an, manhxo ol yal skolan sb'a heb'."
+    },
+    {
+      "number": "15",
+      "text": "Ha mach sjulwaj yet' jul-lab', manhxo ol yal stek'b'an sb'a. Manhxo ol yal skolan sb'a heb' jelan sb'eyi, manhxo ol yalpax skolan sb'a heb' tz'el lemnaj ayk'e t'a yib'anh nok' chej."
+    },
+    {
+      "number": "16",
+      "text": "Ha in Jehová in swala' to ha t'a jun k'ual chi', a heb' jelan t'a owal, ol yaktejkan syamk'ab' heb' yik owal, ol b'at heb' elelal, xchi Jehová."
+    }
+  ]
 }

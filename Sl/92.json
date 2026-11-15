@@ -1,65 +1,69 @@
 {
-    "chapter": "92",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, manh jantacoc swach'il kak'an yuj diosal t'ayach yet' ko b'itan t'ayach yic tzach quik'anchaanh yujto ek'achto t'a yib'anh smasanil."
-        },
-        {
-            "number": "2",
-            "text": "Manh jantacoc swach'il kalanel jantac a wach'k'olal t'a junjun q'uinhib'alil yet' kalanpaxel t'a junjun t'ak'walil to tz'elnhejk'och tas tzala'."
-        },
-        {
-            "number": "3",
-            "text": "Manh jantacoc swach'il ach ko b'itan yet' masanil juntzanh chinhb'il yet' pax te' arpa to wach' yoch sjaj."
-        },
-        {
-            "number": "4",
-            "text": "Mamin Jehová, a ach ix in ak'och t'a tzalajk'olal yuj tas b'ob'il uuj. Tzin b'itan t'a tzalajk'olal yuj tas ix a k'ulej chi'."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová, te satub'tac tas ix a k'ulej. Malaj junocxo stzak'wan spensar t'ayach."
-        },
-        {
-            "number": "6",
-            "text": "Ha heb' malaj spensar, max nachajel-laj juntzanh tik yuj heb':"
-        },
-        {
-            "number": "7",
-            "text": "Wach'chom tz'och heb' ixtum anima b'eyumal, ma sk'echaanh heb' chukal anima icha tz'aj sq'uib' anh ank'ultak, palta junnhej rato syak' snib'ej heb', slajwi chi' satixcanel heb' t'a junelnhej."
-        },
-        {
-            "number": "8",
-            "text": "Ha achxo Mamin Jehová, masanil tiempo te niwan elk'ochtaxoni."
-        },
-        {
-            "number": "9",
-            "text": "Yel ton Mamin, ol ak' satjoquel heb' ayoch ajk'olal t'ayach. Masanil heb' sk'ulan chukal, ol ak' saklemkanb'at heb'."
-        },
-        {
-            "number": "10",
-            "text": "Van ak'an wip icha yip junok nok' kaltacte'al toro. Tzin te tzalaji yujto xajan in uuj."
-        },
-        {
-            "number": "11",
-            "text": "Yowalil ol wil yak'ji ganar heb' ayoch ajk'olal t'ayin. Ol wab'anpax sk'acwi heb' sk'ulan chukal chi'."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' anima wach' spensar, ol k'echaanh heb' icha xumaquil te' palma. Ol q'uib'chaanh heb' icha wal te' k'ute' t'a Líbano,"
-        },
-        {
-            "number": "13",
-            "text": "yujto aynhejek' heb' t'a yamaq'uil stemplo Jehová. Ol k'echaanh heb' yujto ayek' heb' t'a slak'anil ko Diosal."
-        },
-        {
-            "number": "14",
-            "text": "Wach'chom icham animaxo heb', palta lajanto wal heb' icha junok te te' tzato satani, tek'anto wal yip heb'."
-        },
-        {
-            "number": "15",
-            "text": "Ol sch'oxanel heb' to a Jehová ko Kolumal, tojol toni, malaj jab'oc chukal t'ay."
-        }
-    ]
+  "chapter": "92",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, manh jantakok swach'il kak'an yuj diosal t'ayach yet' ko b'itan t'ayach yik tzach kik'anchaanh yujto ek'achto t'a yib'anh smasanil."
+    },
+    {
+      "number": "2",
+      "text": "Manh jantakok swach'il kalanel jantak a wach'k'olal t'a junjun q'uinhib'alil yet' kalanpaxel t'a junjun t'ak'walil to tz'elnhejk'och tas tzala'."
+    },
+    {
+      "number": "3",
+      "text": "Manh jantakok swach'il ach ko b'itan yet' masanil juntzanh chinhb'il yet' pax te' arpa to wach' yoch sjaj."
+    },
+    {
+      "number": "4",
+      "text": "Mamin Jehová, a ach ix in ak'och t'a tzalajk'olal yuj tas b'ob'il uuj. Tzin b'itan t'a tzalajk'olal yuj tas ix a k'ulej chi'."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová, te satub'tak tas ix a k'ulej. Malaj junokxo stzak'wan spensar t'ayach."
+    },
+    {
+      "number": "6",
+      "text": "Ha heb' malaj spensar, max nachajel-laj juntzanh tik yuj heb':"
+    },
+    {
+      "number": "7",
+      "text": "Wach'chom tz'och heb' ixtum anima b'eyumal, ma sk'echaanh heb' chukal anima icha tz'aj sq'uib' anh ank'ultak, palta junnhej rato syak' snib'ej heb', slajwi chi' satixkanel heb' t'a junelnhej."
+    },
+    {
+      "number": "8",
+      "text": "Ha achxo Mamin Jehová, masanil tiempo te niwan elk'ochtaxoni."
+    },
+    {
+      "number": "9",
+      "text": "Yel ton Mamin, ol ak' satjokel heb' ayoch ajk'olal t'ayach. Masanil heb' sk'ulan chukal, ol ak' saklemkanb'at heb'."
+    },
+    {
+      "number": "10",
+      "text": "Wan ak'an wip icha yip junok nok' kaltakte'al toro. Tzin te tzalaji yujto xajan in uuj."
+    },
+    {
+      "number": "11",
+      "text": "Yowalil ol wil yak'ji ganar heb' ayoch ajk'olal t'ayin. Ol wab'anpax sk'akwi heb' sk'ulan chukal chi'."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' anima wach' spensar, ol k'echaanh heb' icha xumakil te' palma. Ol q'uib'chaanh heb' icha wal te' k'ute' t'a Líbano,"
+    },
+    {
+      "number": "13",
+      "text": "yujto aynhejek' heb' t'a yamaq'uil stemplo Jehová. Ol k'echaanh heb' yujto ayek' heb' t'a slak'anil ko Diosal."
+    },
+    {
+      "number": "14",
+      "text": "Wach'chom icham animaxo heb', palta lajanto wal heb' icha junok te te' tzato satani, tek'anto wal yip heb'."
+    },
+    {
+      "number": "15",
+      "text": "Ol sch'oxanel heb' to a Jehová ko Kolumal, tojol toni, malaj jab'ok chukal t'ay."
+    }
+  ]
 }

@@ -1,29 +1,33 @@
 {
-    "chapter": "126",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix onh yik'anxi meltzaj Jehová b'aj sacleminac kajkanb'ati, ix onh yik'ancot t'a Sion tik, ichato tonhej ix onh wayichani."
-        },
-        {
-            "number": "2",
-            "text": "Ichato chi', ix onh te tzewaji, ix el cav yuj tzalajk'olal. Yuj chi' ix yal heb' ch'oc chonhab'il icha tik: Ha Jehová ix ak'anxi sniwan wach'k'olal t'a heb', xchi heb'."
-        },
-        {
-            "number": "3",
-            "text": "Yel toni, a Jehová ix ak'an sniwan wach'k'olal t'ayonh, yuj chi' tzonh te tzalaj ticnaik."
-        },
-        {
-            "number": "4",
-            "text": "Mamin, ak'nhej a wach'k'olal t'a quib'anh, icha tz'aj syaxb'i sat lum taquinh lu'um yuj ha' eluma' t'a lum Neguev."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' tz'avwi t'a skal ok'el, ol smol sat tas syawej heb' chi' t'a tzalajk'olal."
-        },
-        {
-            "number": "6",
-            "text": "Wach'chom wan yok' heb' ayic syawanem ixim inhat te nib'ab'il heb'. Palta ayic ol elul ixim trigo chi', axonhej b'it ol yak' heb' yuj tzalajk'olal ayic mek'b'ilxok'e ixim yuj heb'."
-        }
-    ]
+  "chapter": "126",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix onh yik'anxi meltzaj Jehová b'aj sakleminak kajkanb'ati, ix onh yik'ankot t'a Sion tik, ichato tonhej ix onh wayichani."
+    },
+    {
+      "number": "2",
+      "text": "Ichato chi', ix onh te tzewaji, ix el kaw yuj tzalajk'olal. Yuj chi' ix yal heb' ch'ok chonhab'il icha tik: Ha Jehová ix ak'anxi sniwan wach'k'olal t'a heb', xchi heb'."
+    },
+    {
+      "number": "3",
+      "text": "Yel toni, a Jehová ix ak'an sniwan wach'k'olal t'ayonh, yuj chi' tzonh te tzalaj tiknaik."
+    },
+    {
+      "number": "4",
+      "text": "Mamin, ak'nhej a wach'k'olal t'a kib'anh, icha tz'aj syaxb'i sat lum takinh lu'um yuj ha' eluma' t'a lum Neguev."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' tz'awwi t'a skal ok'el, ol smol sat tas syawej heb' chi' t'a tzalajk'olal."
+    },
+    {
+      "number": "6",
+      "text": "Wach'chom wan yok' heb' ayik syawanem ixim inhat te nib'ab'il heb'. Palta ayik ol elul ixim trigo chi', axonhej b'it ol yak' heb' yuj tzalajk'olal ayik mek'b'ilxok'e ixim yuj heb'."
+    }
+  ]
 }

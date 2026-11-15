@@ -1,57 +1,61 @@
 {
-    "chapter": "31",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix och heb' filisteo yak' owal yet' heb' israel, ix el lemnaj heb' israel chi', tzijtum heb' ix cham t'a Gilboa."
-        },
-        {
-            "number": "2",
-            "text": "Ix b'atnhej heb' filisteo t'a spatic winhaj Saúl yet' heb' yuninal. Ix cham heb' yuninal winh chi', aton winhaj Jonatán, winhaj Abinadab yet' winhaj Malquisúa."
-        },
-        {
-            "number": "3",
-            "text": "Ix te och wal owal chi' b'aj ayek' winhaj Saúl chi', haxo ix aji, ix yamchaj winh yuj sjul-lab' heb' filisteo chi', yuj chi' ix te xiv winh."
-        },
-        {
-            "number": "4",
-            "text": "Ix yalan winh t'a winh ed'jinac syamk'ab': --Ik'k'eta k'een espada chi' tzin a tekanchamoc, yic wach' a juntzanh ch'oc chonhab'il tik, manh ol in sb'uch heb' ayic ol in smilancham heb', xchi winhaj Saúl chi'. Palta ix te xiv winh ed'jinac syamk'ab' winh chi', maj stak'laj winh stekancham winh. Yuj chi' ix syumb'at nhojnaj sb'a winh t'a yib'anh k'een yespada, ix cham winh."
-        },
-        {
-            "number": "5",
-            "text": "Ayic ix yilan winh ed'jinac syamk'ab' winh chi' to toxo ix cham winh, ix smilanpaxcham sb'a winh icha ix aj smilancham sb'a winhaj Saúl chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a jun k'u chi' ix cham winhaj Saúl, heb' yuninal winh yoxwanhil, winh ed'jinac syamk'ab' winh chi' yet' masanil heb' israel yet'nac winh."
-        },
-        {
-            "number": "7",
-            "text": "Ayic ix yab'an heb' israel ayek' t'a sk'axepalb'at yak'likal Jezreel yet' pax heb' kajan t'a sk'axepalb'at ha' Jordán to toxo ix el lemnaj heb' soldado, toxo ix champax winhaj Saúl yet' heb' yuninal yoxwanhil, ix b'at heb' elelal, ix yaktejkan schonhab' heb'. Axo heb' filisteo ix k'ochkan kajan ta'."
-        },
-        {
-            "number": "8",
-            "text": "Axo t'a junxo k'u, ix b'at heb' filisteo chi' yik'cot masanil tastac ay t'a heb' israel ix cham t'a owal chi', ix yilan heb' to b'alankan winhaj Saúl yet' heb' yuninal yoxwanhil t'a skal jantac heb' soldado chamnacxo t'a lum witz Gilboa."
-        },
-        {
-            "number": "9",
-            "text": "Yuj chi' ix xiquel sjolom winh heb', ix yik'anpaxel k'een syamk'ab' winh heb' yic owal. Ixlajwi chi', ix yak'anb'at yab'ixal heb' t'a junjun schonhab' heb' filisteo yet' t'a spatil sdiosal heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ix yik'anb'at syamk'ab' winhaj Saúl chi' heb' t'a spatil sdiosal scuch Astarot, ix stzek'ankank'e jachan sniwanil winh chi' heb' yet' yic heb' yuninal winh t'a smuroal chonhab' Bet-sán."
-        },
-        {
-            "number": "11",
-            "text": "Ayic ix yab'an heb' aj Jabes t'a yol yic Galaad to ix locb'ajkank'e sniwanil winhaj Saúl chi' yuj heb' filisteo ta',"
-        },
-        {
-            "number": "12",
-            "text": "masanil heb' soldado te tek'an, pilan ak'wal ix b'ey heb', ix k'och heb' b'aj aykan sniwanil heb' chamnac chi', ix yik'ancot heb' t'a Jabes. Axo ta' ix snhustz'a heb'."
-        },
-        {
-            "number": "13",
-            "text": "Axo sb'aquil heb', ha t'a yich jun te te' t'a Jabes chi' ix mucchajkani. Uque' k'ual ix och heb' aj Jabes chi' t'a tzek'ojk'olal yuj heb' chamnac chi'."
-        }
-    ]
+  "chapter": "31",
+  "book": "1 SAMUEL",
+  "book_short": "1Sam",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix och heb' filisteo yak' owal yet' heb' israel, ix el lemnaj heb' israel chi', tzijtum heb' ix cham t'a Gilboa."
+    },
+    {
+      "number": "2",
+      "text": "Ix b'atnhej heb' filisteo t'a spatik winhaj Saúl yet' heb' yuninal. Ix cham heb' yuninal winh chi', haton winhaj Jonatán, winhaj Abinadab yet' winhaj Malquisúa."
+    },
+    {
+      "number": "3",
+      "text": "Ix te och wal owal chi' b'aj ayek' winhaj Saúl chi', haxo ix aji, ix yamchaj winh yuj sjul-lab' heb' filisteo chi', yuj chi' ix te xiw winh."
+    },
+    {
+      "number": "4",
+      "text": "Ix yalan winh t'a winh et'jinak syamk'ab': --Ik'k'eta k'een espada chi' tzin a tekanchamok, yik wach' a juntzanh ch'ok chonhab'il tik, manh ol in sb'uch heb' ayik ol in smilancham heb', xchi winhaj Saúl chi'. Palta ix te xiw winh et'jinak syamk'ab' winh chi', maj stak'laj winh stekancham winh. Yuj chi' ix syumb'at nhojnaj sb'a winh t'a yib'anh k'een yespada, ix cham winh."
+    },
+    {
+      "number": "5",
+      "text": "Ayik ix yilan winh et'jinak syamk'ab' winh chi' to toxo ix cham winh, ix smilanpaxcham sb'a winh icha ix aj smilancham sb'a winhaj Saúl chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a jun k'u chi' ix cham winhaj Saúl, heb' yuninal winh yoxwanhil, winh et'jinak syamk'ab' winh chi' yet' masanil heb' israel yet'nak winh."
+    },
+    {
+      "number": "7",
+      "text": "Ayik ix yab'an heb' israel ayek' t'a sk'axepalb'at yak'likal Jezreel yet' pax heb' kajan t'a sk'axepalb'at ha' Jordán to toxo ix el lemnaj heb' soldado, toxo ix champax winhaj Saúl yet' heb' yuninal yoxwanhil, ix b'at heb' elelal, ix yaktejkan schonhab' heb'. Axo heb' filisteo ix k'ochkan kajan ta'."
+    },
+    {
+      "number": "8",
+      "text": "Axo t'a junxo k'u, ix b'at heb' filisteo chi' yik'kot masanil tastak ay t'a heb' israel ix cham t'a owal chi', ix yilan heb' to b'alankan winhaj Saúl yet' heb' yuninal yoxwanhil t'a skal jantak heb' soldado chamnakxo t'a lum witz Gilboa."
+    },
+    {
+      "number": "9",
+      "text": "Yuj chi' ix xikel sjolom winh heb', ix yik'anpaxel k'een syamk'ab' winh heb' yik owal. Ixlajwi chi', ix yak'anb'at yab'ixal heb' t'a junjun schonhab' heb' filisteo yet' t'a spatil sdiosal heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ix yik'anb'at syamk'ab' winhaj Saúl chi' heb' t'a spatil sdiosal skuch Astarot, ix stzek'ankank'e jachan sniwanil winh chi' heb' yet' yik heb' yuninal winh t'a smuroal chonhab' Bet-sán."
+    },
+    {
+      "number": "11",
+      "text": "Ayik ix yab'an heb' aj Jabes t'a yol yik Galaad to ix lokb'ajkank'e sniwanil winhaj Saúl chi' yuj heb' filisteo ta',"
+    },
+    {
+      "number": "12",
+      "text": "masanil heb' soldado te tek'an, pilan ak'wal ix b'ey heb', ix k'och heb' b'aj aykan sniwanil heb' chamnak chi', ix yik'ankot heb' t'a Jabes. Axo ta' ix snhustz'a heb'."
+    },
+    {
+      "number": "13",
+      "text": "Axo sb'akil heb', ha t'a yich jun te te' t'a Jabes chi' ix mukchajkani. Uke' k'ual ix och heb' aj Jabes chi' t'a tzek'ojk'olal yuj heb' chamnak chi'."
+    }
+  ]
 }

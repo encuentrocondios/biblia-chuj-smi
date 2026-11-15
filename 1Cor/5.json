@@ -1,53 +1,57 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix wab'i to ay jun winh te ajmul t'a he kal. Tob' ix yik' ix schab'il snun winh. Ha jun chi', te chuk. Ha t'a skal heb' manto ojtannacoc Dios, malaj jun chi'."
-        },
-        {
-            "number": "2",
-            "text": "Eyojtak to icha chi' ix sk'ulej winh, palta anheja' eyik'anchaanh he b'a. Smoj wal to tzex och ilk'olal yuj. Ha jun winh ix k'ulan jun chukal chi', yowalil tzeyik'el winh t'a he kal."
-        },
-        {
-            "number": "3",
-            "text": "Ha inxo tik, wach'chom manh in ayoc ek' eyed' ta', palta ichato ay in wal ek' eyed'oc. Yuj chi', toxo ix in b'eytzitej tas yaj jun winh chi', yujto ichato ay in ek' eyed' ta'."
-        },
-        {
-            "number": "4",
-            "text": "Yuj chi', ayic tze molb'an he b'ha t'a sb'i Kajal Jesús ta' yet' yipalil yak'an mandar, a inxo tik, ichato ol in k'och eyed'oc."
-        },
-        {
-            "number": "5",
-            "text": "Axo jun winh chi', ak'jokab'kan och winh t'a yol sk'ab' winh Satanás, yic ol satkanel sniwanil winh, yic wach' ol colchaj winh ayic ol jax Kajal Jesús."
-        },
-        {
-            "number": "6",
-            "text": "Yuj jun chukal t'a he kal chi', manh smojoc tzeyik'chaanh he b'a. ¿Tom manh eyojtakoc to a jab'oc yich pan, spajb'ib'at ixim pan chi' smasanil yuj?"
-        },
-        {
-            "number": "7",
-            "text": "Ha juntzanh ko b'eyb'al t'a yalanhtaxo, lajan icha yich pan chi'. Yuj chi' actejekkan juntzanh he b'eyb'al chi' yic icha chi' ol aj he yoch icha ixim pan to malaj jab'oc spaltail, aton ixim swaji t'a q'uinh chi'. Yujto wal yel icha ex chi' t'a yichanh Cristo, yujto a ix cham ko k'exuloc, icha nok' kalnel smiljicham yicoc silab' heb' israel yic snaancot heb' tas aj yelnaccot heb' t'a Egipto."
-        },
-        {
-            "number": "8",
-            "text": "Mokab' ko nacot schamel chi' t'a skal chukal. Yowalil t'a stojolal sko nacoti, yujto a chukal yet' ajmulal lajan yet' yich pan chi'."
-        },
-        {
-            "number": "9",
-            "text": "Valnacxob'at t'a jun in carta t'ayex to max yal-laj junnhej tzonh ek' yet' heb' sk'ulan ajmulal."
-        },
-        {
-            "number": "10",
-            "text": "Manh yujoc heb' ajmul t'a yol yib'anhk’inal tik swalb'ati. Anhejtona' heb' syiloch sk'ool t'a junocxo, heb' elk'um yet' heb' tz'em cuman t'a juntzanh comon Dios, tato yic yol yib'anhk’inal tik heb', manh yujoc heb' swala' to max yal-laj jun tzonh ek' yet' heb'. Yacb'an ayonh ek' t'a yol yib'anhk’inal tik, ol ko k'umlaj ko b'a yet' heb', yujto ayonh ek' t'a skal heb'."
-        },
-        {
-            "number": "11",
-            "text": "Palta a jun walnacxob'at t'ayex, syalelk'ochi tato ay heb' tz'alani to creyente heb', palta chuk sb'eyb'al heb', manhxo toc syal junnhej tzex ek' yet' heb'. Ha heb' swal chi', aton heb' tik: Eb' ajmul, heb' syiloch sk'ool t'a junocxo, heb' tz'em cuman t'a juntzanh comon Dios, heb' b'ajwajum, heb' uk'um anh yet' heb' elk'um. Ha heb' icha chi' sb'eyb'al, tato syal heb' to creyente heb', wach'chom tonhej tzonh wa yet' heb', max yal-laj."
-        },
-        {
-            "number": "12",
-            "text": "Yujto a heb' yic yol yib'anhk’inal tik, malaj kalan quik ko ch'olb'itan tas yaj heb', yujto ha Dios ol ch'olb'itan heb'. Palta a heb' creyente, yowalil sko ch'olb'itej tas yaj heb'. Yuj chi', a jun winh chuk chi', pechequel winh t'a he kal ta'."
-        }
-    ]
+  "chapter": "5",
+  "book": "1 CORINTIOS",
+  "book_short": "1Cor",
+  "aligned": false,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix wab'i to ay jun winh te ajmul t'a he kal. Tob' ix yik' ix schab'il snun winh. Ha jun chi', te chuk. Ha t'a skal heb' manto ojtannakok Dios, malaj jun chi'."
+    },
+    {
+      "number": "2",
+      "text": "Eyojtak to icha chi' ix sk'ulej winh, palta anheja' eyik'anchaanh he b'a. Smoj wal to tzex och ilk'olal yuj. Ha jun winh ix k'ulan jun chukal chi', yowalil tzeyik'el winh t'a he kal."
+    },
+    {
+      "number": "3",
+      "text": "Ha inxo tik, wach'chom manh in ayok ek' eyet' ta', palta ichato ay in wal ek' eyet'ok. Yuj chi', toxo ix in b'eytzitej tas yaj jun winh chi', yujto ichato ay in ek' eyet' ta'."
+    },
+    {
+      "number": "4",
+      "text": "Yuj chi', ayik tze molb'an he b'a t'a sb'i Kajal Jesús ta' yet' yipalil yak'an mandar, a inxo tik, ichato ol in k'och eyet'ok."
+    },
+    {
+      "number": "5",
+      "text": "Axo jun winh chi', ak'jokab'kan och winh t'a yol sk'ab' winh Satanás, yik ol satkanel sniwanil winh, yik wach' ol kolchaj winh ayik ol jax Kajal Jesús."
+    },
+    {
+      "number": "6",
+      "text": "Yuj jun chukal t'a he kal chi', manh smojok tzeyik'chaanh he b'a. ¿Tom manh eyojtakok to a jab'ok yich pan, spajb'ib'at ixim pan chi' smasanil yuj?"
+    },
+    {
+      "number": "7",
+      "text": "Ha juntzanh ko b'eyb'al t'a yalanhtaxo, lajan icha yich pan chi'. Yuj chi' aktejekkan juntzanh he b'eyb'al chi' yik icha chi' ol aj he yoch icha ixim pan to malaj jab'ok spaltail, haton ixim swaji t'a q'uinh chi'. Yujto wal yel icha ex chi' t'a yichanh Cristo, yujto a ix cham ko k'exulok, icha nok' kalnel smiljicham yikok silab' heb' israel yik snaankot heb' tas aj yelnakkot heb' t'a Egipto."
+    },
+    {
+      "number": "8",
+      "text": "Mokab' ko nakot schamel chi' t'a skal chukal. Yowalil t'a stojolal sko nakoti, yujto a chukal yet' ajmulal lajan yet' yich pan chi'."
+    },
+    {
+      "number": "9",
+      "text": "Walnakxob'at t'a jun in karta t'ayex to max yal-laj junnhej tzonh ek' yet' heb' sk'ulan ajmulal."
+    },
+    {
+      "number": "10",
+      "text": "Manh yujok heb' ajmul t'a yol yib'anhk'inal tik swalb'ati. Anhejtona' heb' syiloch sk'ool t'a junokxo, heb' elk'um yet' heb' tz'em kuman t'a juntzanh komon Dios, tato yik yol yib'anhk'inal tik heb', manh yujok heb' swala' to max yal-laj jun tzonh ek' yet' heb'. Yakb'an ayonh ek' t'a yol yib'anhk'inal tik, ol ko k'umlaj ko b'a yet' heb', yujto ayonh ek' t'a skal heb'."
+    },
+    {
+      "number": "11",
+      "text": "Palta a jun walnakxob'at t'ayex, syalelk'ochi tato ay heb' tz'alani to kreyente heb', palta chuk sb'eyb'al heb', manhxo tok syal junnhej tzex ek' yet' heb'. Ha heb' swal chi', haton heb' tik: Eb' ajmul, heb' syiloch sk'ool t'a junokxo, heb' tz'em kuman t'a juntzanh komon Dios, heb' b'ajwajum, heb' uk'um anh yet' heb' elk'um. Ha heb' icha chi' sb'eyb'al, tato syal heb' to kreyente heb', wach'chom tonhej tzonh wa yet' heb', max yal-laj."
+    },
+    {
+      "number": "12",
+      "text": "Yujto a heb' yik yol yib'anhk'inal tik, malaj kalan kik ko ch'olb'itan tas yaj heb', yujto ha Dios ol ch'olb'itan heb'. Palta a heb' kreyente, yowalil sko ch'olb'itej tas yaj heb'. Yuj chi', a jun winh chuk chi', pechekel winh t'a he kal ta'."
+    }
+  ]
 }

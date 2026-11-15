@@ -1,65 +1,69 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix in naancot yuj masanil tas manh wach'oc tzuji t'a yol yib'anhk’inal tik. Ix wilani to ay heb' tz'ixtaji, tz'ok' heb', palta malaj mach scolan heb', yujto a heb' tz'ixtan heb' chi', aton heb' ay yopisio."
-        },
-        {
-            "number": "2",
-            "text": "Yuj chi' ix in na' to te wach' yic heb' chamnacxo t'a yichanh heb' pitzanto."
-        },
-        {
-            "number": "3",
-            "text": "Te wach' yic heb' manto alji t'a yichanh heb' chamnac yet' heb' pitzan tik, yujto a heb' manto alji chi', manto yil-laj chukal tzuji t'a yol yib'anhk’inal tik heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ix wilanpaxi to ay b'aj squixtej ko b'a ko munlaji yic sko nib'an niwan tz'aj quelk'och yet' tastac ay t'ayonh t'a yichanh juntzanhxo heb'. Malaj yelk'och b'aj squik'chaanh ko b'a chi', yujto lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj cuuj."
-        },
-        {
-            "number": "5",
-            "text": "Ay b'aj tz'alji to malaj ko pensar tato malaj tas sko k'ulej, skak'cham ko b'a yuj wejel."
-        },
-        {
-            "number": "6",
-            "text": "Palta a in tik swala' to yelxo te wach' wach'chom jab'nhej tas ay t'ayonh tato tzalajk'olal kaji, t'a yichanh pax munlajelnhej kaji sko sayan ko b'eyumal. Tato icha chi', lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj cuuj."
-        },
-        {
-            "number": "7",
-            "text": "Ix wilan junxo tas tzuji t'a yol yib'anhk’inal tik to malaj yelk'ochi."
-        },
-        {
-            "number": "8",
-            "text": "Ay mach sch'ocojnhej, malaj junok yuninal, malaj yuk'tac, palta malaj b'aj syik' yip, max och waan sayanek' sb'eyumal, malaj b'aj syeccot sna' icha tik: ¿Mach yuj tzin te munlaji? ¿Tas yuj swixtej in b'a? manh xchioc. Ha heb' icha chi' sk'ulej nab'anhej syixtej sb'a heb'."
-        },
-        {
-            "number": "9",
-            "text": "Wach' tato yaman smunlaj chawanhoc anima t'a yichanh junok mach to sch'ocoj smunlaji, yujto niwan tas syik' heb' t'a smunlajel chi'."
-        },
-        {
-            "number": "10",
-            "text": "Tato stelwi junok, haxo junxo chi' squetzanxi k'e waan. Palta tato a junok anima sch'ocojnhej stelwi, malaj mach squetzan k'e waan."
-        },
-        {
-            "number": "11",
-            "text": "Anhejtona' tato ay chawanhoc anima junnhej swayi, sq'uixinalej sb'a heb', palta tato sch'ocoj junok anima swayi, ¿tas tz'aj sq'uixnaji?"
-        },
-        {
-            "number": "12",
-            "text": "Ha junok mach sch'ocoj, elanhchamel tz'ak'ji ganar yuj junok ajk'ool, palta tato chawanh sb'ey heb' jun, syal stek'b'an sb'a heb'. Ocxom junok lasu oxe' yaj spach'uch'aji, manh comonoc sd'inhchaji."
-        },
-        {
-            "number": "13",
-            "text": "Yelxo te wach' yic junok winh quelem meb'a' ay spensar, t'a yichanh pax junok winh rey icham winacxo to malaj spensar, maxtzac schalaj yab' razón."
-        },
-        {
-            "number": "14",
-            "text": "Wach'chom meb'a' winh quelem chi' ayic tz'elta winh t'a preso, palta syal yoch winh reyal. Ix wilanpaxi to masanil anima tz'alani to wach' a winh quelem chi' tz'ochkan reyal sk'exuloc winh icham winak chi'."
-        },
-        {
-            "number": "15",
-            "text": "Wach'chom manh jantacoc sb'isul anima tz'ak'anoch winh quelem chi' reyal, palta haxo yic tzek' tiempo, jantac heb' maxtzac tzalajlaj yet' winh. Ha skak'an quip ko sayan tas tz'aj stzalaj masanil heb' anima qued'oc malaj yalani, lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj cuuj."
-        }
-    ]
+  "chapter": "4",
+  "book": "ECLESIASTÉS",
+  "book_short": "Ecl",
+  "aligned": false,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix in naankot yuj masanil tas manh wach'ok tzuji t'a yol yib'anhk'inal tik. Ix wilani to ay heb' tz'ixtaji, tz'ok' heb', palta malaj mach skolan heb', yujto a heb' tz'ixtan heb' chi', haton heb' ay yopisio."
+    },
+    {
+      "number": "2",
+      "text": "Yuj chi' ix in na' to te wach' yik heb' chamnakxo t'a yichanh heb' pitzanto."
+    },
+    {
+      "number": "3",
+      "text": "Te wach' yik heb' manto alji t'a yichanh heb' chamnak yet' heb' pitzan tik, yujto a heb' manto alji chi', manto yil-laj chukal tzuji t'a yol yib'anhk'inal tik heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ix wilanpaxi to ay b'aj skixtej ko b'a ko munlaji yik sko nib'an niwan tz'aj kelk'och yet' tastak ay t'ayonh t'a yichanh juntzanhxo heb'. Malaj yelk'och b'aj skik'chaanh ko b'a chi', yujto lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj kuuj."
+    },
+    {
+      "number": "5",
+      "text": "Ay b'aj tz'alji to malaj ko pensar tato malaj tas sko k'ulej, skak'cham ko b'a yuj wejel."
+    },
+    {
+      "number": "6",
+      "text": "Palta a in tik swala' to yelxo te wach' wach'chom jab'nhej tas ay t'ayonh tato tzalajk'olal kaji, t'a yichanh pax munlajelnhej kaji sko sayan ko b'eyumal. Tato icha chi', lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj kuuj."
+    },
+    {
+      "number": "7",
+      "text": "Ix wilan junxo tas tzuji t'a yol yib'anhk'inal tik to malaj yelk'ochi."
+    },
+    {
+      "number": "8",
+      "text": "Ay mach sch'okojnhej, malaj junok yuninal, malaj yuk'tak, palta malaj b'aj syik' yip, max och waan sayanek' sb'eyumal, malaj b'aj syekkot sna' icha tik: ¿Mach yuj tzin te munlaji? ¿Tas yuj swixtej in b'a? manh xchiok. Ha heb' icha chi' sk'ulej nab'anhej syixtej sb'a heb'."
+    },
+    {
+      "number": "9",
+      "text": "Wach' tato yaman smunlaj chawanhok anima t'a yichanh junok mach to sch'okoj smunlaji, yujto niwan tas syik' heb' t'a smunlajel chi'."
+    },
+    {
+      "number": "10",
+      "text": "Tato stelwi junok, haxo junxo chi' sketzanxi k'e waan. Palta tato a junok anima sch'okojnhej stelwi, malaj mach sketzan k'e waan."
+    },
+    {
+      "number": "11",
+      "text": "Anhejtona' tato ay chawanhok anima junnhej swayi, sq'uixinalej sb'a heb', palta tato sch'okoj junok anima swayi, ¿tas tz'aj sq'uixnaji?"
+    },
+    {
+      "number": "12",
+      "text": "Ha junok mach sch'okoj, elanhchamel tz'ak'ji ganar yuj junok ajk'ool, palta tato chawanh sb'ey heb' jun, syal stek'b'an sb'a heb'. Okxom junok lasu oxe' yaj spach'uch'aji, manh komonok st'inhchaji."
+    },
+    {
+      "number": "13",
+      "text": "Yelxo te wach' yik junok winh kelem meb'a' ay spensar, t'a yichanh pax junok winh rey icham winakxo to malaj spensar, maxtzak schalaj yab' razón."
+    },
+    {
+      "number": "14",
+      "text": "Wach'chom meb'a' winh kelem chi' ayik tz'elta winh t'a preso, palta syal yoch winh reyal. Ix wilanpaxi to masanil anima tz'alani to wach' a winh kelem chi' tz'ochkan reyal sk'exulok winh icham winak chi'."
+    },
+    {
+      "number": "15",
+      "text": "Wach'chom manh jantakok sb'isul anima tz'ak'anoch winh kelem chi' reyal, palta haxo yik tzek' tiempo, jantak heb' maxtzak tzalajlaj yet' winh. Ha skak'an kip ko sayan tas tz'aj stzalaj masanil heb' anima ket'ok malaj yalani, lajan wal icha b'aj sko nib'ej sko yam ik', palta max yamchajlaj kuuj."
+    }
+  ]
 }

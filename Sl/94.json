@@ -1,97 +1,101 @@
 {
-    "chapter": "94",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, ch'oxel a b'a to Dios ach, to tza pactzitej tas malaj swach'il."
-        },
-        {
-            "number": "2",
-            "text": "Ach Sjuezal yol yib'anhk’inal tik, cotanh, pactzitej t'a smojal t'a heb' syik'chaanh sb'a."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, ¿jantacto wal tiempo ol tzalajnhej heb' sk'ulan chukal?"
-        },
-        {
-            "number": "4",
-            "text": "Masanil heb' chuk chi', ak'umtac syutej sb'a heb', syik'chaanh sb'a heb' yet' schukal chi'."
-        },
-        {
-            "number": "5",
-            "text": "Ay, Mamin Jehová, syixtejb'at a chonhab' heb'. Manhxa tas syal heb' a chonhab' chi' yuj heb'."
-        },
-        {
-            "number": "6",
-            "text": "Smiljicham heb' ix chamnacxo yetb'eyum yuj heb'. Smilpaxcham heb' ch'oc chonhab'il heb' yet' pax heb' unin manhxalaj smam."
-        },
-        {
-            "number": "7",
-            "text": "Syalan heb' icha tik: Max yil-laj Jehová sDiosal winhaj Jacob tas sko k'ulej tik. Manh yojtakocpaxlaj, xchi heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ex anima te pit, ex malaj jab'oc he pensar, ab'ec, ¿b'aq'uinh ol nachajel eyuuj?"
-        },
-        {
-            "number": "9",
-            "text": "Ha Dios ixb’o’an ko chiquin, ¿tocwal max yab'i tas tz'alchaji? A' ixb’o’an yol ko sat, ¿tocwal max yila' tas tze k'ulej chi'?"
-        },
-        {
-            "number": "10",
-            "text": "A' tz'ak'an syaelal juntzanh niwac nación, ¿tom manh ol yak' eyaelal? A' tz'ak'an sjelanil ko pensar a onh anima onh tik, ¿tocwal manh yojtakoc tas tze k'ulej chi'?"
-        },
-        {
-            "number": "11",
-            "text": "Ha Jehová yojtak to malaj yelk'och tas sko na' a onh anima onh tik."
-        },
-        {
-            "number": "12",
-            "text": "Mamin Jehová, te wach' yic mach tzak' skachnab'il. Tzak'an pax a k'ayb'ub'al t'ay,"
-        },
-        {
-            "number": "13",
-            "text": "yic wach' malaj tas sna'a ayic sjawi yaelal, yacb'an stanhwej sb'oji olan b'aj tz'emkan heb' sk'ulan chukal."
-        },
-        {
-            "number": "14",
-            "text": "Mamin Jehová, manh ol onh a patiquejkanel-laj a onh a chonhab' onh tik. Manh ol onh actejkanlaj ko ch'ocoj."
-        },
-        {
-            "number": "15",
-            "text": "Yuj chi', a heb' yajal, a tojolal ol sb'eyb'alej heb'. Axo heb' anima wach' spensar, ol yak'och heb' yajal chi' heb' yipoc sk'ool."
-        },
-        {
-            "number": "16",
-            "text": "Mamin ¿mach tzin colan t'a yol sk'ab' heb' ixtum anima yet' heb' sk'ulan tas malaj swach'il?"
-        },
-        {
-            "number": "17",
-            "text": "Mamin Jehová, tato manhoc ach tzin a colo', ayin xom ek' b'aj numan yaj heb' chamnac."
-        },
-        {
-            "number": "18",
-            "text": "Mamin Jehová, ayic ix in naani to wanxo in telwi, haxo wal a wach'k'olal ix in yamanoch waan."
-        },
-        {
-            "number": "19",
-            "text": "Ayic manh jantacoc tas tzin na'a, tzak' in tzalajk'olal, tza niwanan in k'ool."
-        },
-        {
-            "number": "20",
-            "text": "Mamin, malaj a gana to wach' ak'an yet' heb' juez chuk syutej yilan yopisio, to manh ichaoc yalan a ley syutej heb' sb'oan yaj junok tas."
-        },
-        {
-            "number": "21",
-            "text": "Ha heb' malaj smul syixtej heb'. Syak'anoch chamel heb' t'a yib'anh heb' wach' sb'eyb'al."
-        },
-        {
-            "number": "22",
-            "text": "Ha onhxo Mamin Jehová, a ach ayach och ko colnab'iloc. Ach ko Diosal, icha quenhul aji."
-        },
-        {
-            "number": "23",
-            "text": "Ha ach ol a pactzitej schukal heb' chuk. Ol satel heb' yuj smul. Ach ko Diosal, ol ak'kan lajwoquel heb'."
-        }
-    ]
+  "chapter": "94",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 23,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, ch'oxel a b'a to Dios ach, to tza paktzitej tas malaj swach'il."
+    },
+    {
+      "number": "2",
+      "text": "Ach Sjuezal yol yib'anhk'inal tik, kotanh, paktzitej t'a smojal t'a heb' syik'chaanh sb'a."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, ¿jantakto wal tiempo ol tzalajnhej heb' sk'ulan chukal?"
+    },
+    {
+      "number": "4",
+      "text": "Masanil heb' chuk chi', ak'umtak syutej sb'a heb', syik'chaanh sb'a heb' yet' schukal chi'."
+    },
+    {
+      "number": "5",
+      "text": "Ay, Mamin Jehová, syixtejb'at a chonhab' heb'. Manhxa tas syal heb' a chonhab' chi' yuj heb'."
+    },
+    {
+      "number": "6",
+      "text": "Smiljicham heb' ix chamnakxo yetb'eyum yuj heb'. Smilpaxcham heb' ch'ok chonhab'il heb' yet' pax heb' unin manhxalaj smam."
+    },
+    {
+      "number": "7",
+      "text": "Syalan heb' icha tik: Max yil-laj Jehová sDiosal winhaj Jacob tas sko k'ulej tik. Manh yojtakokpaxlaj, xchi heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ex anima te pit, ex malaj jab'ok he pensar, ab'ek, ¿b'aq'uinh ol nachajel eyuuj?"
+    },
+    {
+      "number": "9",
+      "text": "Ha Dios ixb'o'an ko chikin, ¿tokwal max yab'i tas tz'alchaji? A' ixb'o'an yol ko sat, ¿tokwal max yila' tas tze k'ulej chi'?"
+    },
+    {
+      "number": "10",
+      "text": "A' tz'ak'an syaelal juntzanh niwak nakión, ¿tom manh ol yak' eyaelal? A' tz'ak'an sjelanil ko pensar a onh anima onh tik, ¿tokwal manh yojtakok tas tze k'ulej chi'?"
+    },
+    {
+      "number": "11",
+      "text": "Ha Jehová yojtak to malaj yelk'och tas sko na' a onh anima onh tik."
+    },
+    {
+      "number": "12",
+      "text": "Mamin Jehová, te wach' yik mach tzak' skachnab'il. Tzak'an pax a k'ayb'ub'al t'ay,"
+    },
+    {
+      "number": "13",
+      "text": "yik wach' malaj tas sna'a ayik sjawi yaelal, yakb'an stanhwej sb'oji olan b'aj tz'emkan heb' sk'ulan chukal."
+    },
+    {
+      "number": "14",
+      "text": "Mamin Jehová, manh ol onh a patikejkanel-laj a onh a chonhab' onh tik. Manh ol onh aktejkanlaj ko ch'okoj."
+    },
+    {
+      "number": "15",
+      "text": "Yuj chi', a heb' yajal, a tojolal ol sb'eyb'alej heb'. Axo heb' anima wach' spensar, ol yak'och heb' yajal chi' heb' yipok sk'ool."
+    },
+    {
+      "number": "16",
+      "text": "Mamin ¿mach tzin kolan t'a yol sk'ab' heb' ixtum anima yet' heb' sk'ulan tas malaj swach'il?"
+    },
+    {
+      "number": "17",
+      "text": "Mamin Jehová, tato manhok ach tzin a kolo', ayin xom ek' b'aj numan yaj heb' chamnak."
+    },
+    {
+      "number": "18",
+      "text": "Mamin Jehová, ayik ix in naani to wanxo in telwi, haxo wal a wach'k'olal ix in yamanoch waan."
+    },
+    {
+      "number": "19",
+      "text": "Ayik manh jantakok tas tzin na'a, tzak' in tzalajk'olal, tza niwanan in k'ool."
+    },
+    {
+      "number": "20",
+      "text": "Mamin, malaj a gana to wach' ak'an yet' heb' juez chuk syutej yilan yopisio, to manh ichaok yalan a ley syutej heb' sb'oan yaj junok tas."
+    },
+    {
+      "number": "21",
+      "text": "Ha heb' malaj smul syixtej heb'. Syak'anoch chamel heb' t'a yib'anh heb' wach' sb'eyb'al."
+    },
+    {
+      "number": "22",
+      "text": "Ha onhxo Mamin Jehová, a ach ayach och ko kolnab'ilok. Ach ko Diosal, icha kenhul aji."
+    },
+    {
+      "number": "23",
+      "text": "Ha ach ol a paktzitej schukal heb' chuk. Ol satel heb' yuj smul. Ach ko Diosal, ol ak'kan lajwokel heb'."
+    }
+  ]
 }

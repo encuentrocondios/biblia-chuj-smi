@@ -1,49 +1,53 @@
 {
-    "chapter": "22",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Masanil heb' kajan t'a Jerusalén chi', ix yak'och winhaj Ocozías heb' reyal sk'exuloc winh smam chi', aton winh slajwub' yuninal winhaj Joram chi. Ha winh ix och reyal chi', yujto a heb' árabe yak'nac owal heb' t'a Judá, milb'ilcham heb' winh b'ab'el yuninal winhaj Joram chi' yuj heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ayic ix schaanel yich winhaj Ocozías chi' yak'an reyal, 22 ab'il sk'inal winh, junnhej ab'il ix yak' reyal winh t'a Jerusalén. Atalía sb'i ix snun winh, yixchiquin ix winhaj Omri."
-        },
-        {
-            "number": "3",
-            "text": "Ha winhaj rey Ocozías chi', a sb'eyb'al winhaj Acab yet' yinhtilal ix sb'eyb'alej winh. Ha ix snun winh chi' ix cuchb'an t'a chukal b'eyb'al chi', yujto yisil ix winhaj Acab chi', yuj chi' te chuk tas ix sk'ulej winh t'a yichanh Jehová. Ayic toxo ix cham winh smam winh chi', a heb' sk'ab' yoc winh chi' ix cuchb'an t'a chukal, yuj chi' ix juwiel spensar winh t'a junelnhej."
-        },
-        {
-            "number": "4",
-            "text": "Yujto ix sk'anab'ajej juntzanh pensar chi' winh, yuj chi' junnhej ix aj spensar winh yet' winhaj Joram sreyal Israel, aton winh yuninal winhaj Acab. Yuj chi' ix yak' owal heb' winh yet' winhaj Hazael sreyal Siria t'a chonhab' Ramot t'a yol yic Galaad. Palta ix lajwi winhaj Joram chi' yuj heb' sirio chi'."
-        },
-        {
-            "number": "5",
-            "text": "Yuj chi' ix meltzajcot winh t'a Jezreel yic tzul yanhtan sb'a winh ta'. Te ya yaj winh, yuj chi' ix b'at winhaj Ocozías yil winh t'a Jezreel chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ha Dios toxo ix sna'a to ayic ol k'och winhaj Ocozías chi' yil winhaj Joram chi', ata' ol cham winh. Ayic ayek' winh ta', ix elta winh yet' winhaj Joram chi', yic syak'an owal heb' winh yet' winhaj Jehú yuninal winhaj Nimsi, aton winh ix sik'jiel yuj Jehová yic satanel masanil makanhil heb' yinhtilal winhaj Acab chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ayic wan smilancham heb' yinhtilal winhaj Acab winhaj Jehú chi', ix ilchajelta heb' winh yajal yaj t'a Judá yet' heb' sk'ab'yoc winhaj Ocozías chi' yuj winh, ix smilancham heb' winh. Ha heb' winh chi' ayoch yopisio heb' winh yet' winhaj Ocozías chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ix schekan winh saychaj ek' winhaj Ocozías chi', yujto ha t'a Samaria ix sk'ub'ejel sb'a winh, palta ix yamchaj winh yuj heb', ix yik'anb'at winh heb' t'a winhaj Jehú chi', haxo ta' ix miljicham winh yuj winh. Ix yalan heb' icha tik: Co muquec winh, yujto yinhtilal winh winhaj Josafat, winh ak'jinac serwil Jehová t'a smasanil sk'ool, xchi heb'. Ha t'a skal heb' sk'ab' yoc winhaj Ocozías chi', manhxa junok mach ix stek'b'ej sb'a yochcan reyal."
-        },
-        {
-            "number": "9",
-            "text": "Ayic ix yab'an ix Atalía to toxo ix cham winhaj Ocozías yune' ix chi', ix schekan ix miljoccham masanil heb' yinhtilal heb' winh sreyal Judá chi'."
-        },
-        {
-            "number": "10",
-            "text": "Palta haxo ix Joseba, elk'altac ix aj yik'ankanel winhaj Joás ix t'a skal juntzanhxo heb' winh yuninal winhaj Ocozías wan smiljicham chi'. Ix sk'ub'anel winh ix t'a ix Atalía chi'. Ix b'at ix sk'ub'ejel winh t'a jun cuarto yic templo b'aj sway anima, haxo jun ix ix, ix ilan q'uib' winh ta'. Yuj chi' maj chamlaj winh. Ha ix Joseba chi' yisil ix winhaj Joram, yanab' ix winhaj Ocozías chi', yetb'eyum ix winhaj sacerdote Joiada."
-        },
-        {
-            "number": "11",
-            "text": "Ha winhaj Joás chi', waque' ab'il ix k'ub'ajel winh t'a stemplo Jehová yet' jun ix ix, ix ilan q'uib'oc. Yacb'an chi' haxo ix Atalía chi', ayoch ix yajalil t'a jun chonhab' chi'."
-        }
-    ]
+  "chapter": "22",
+  "book": "2 CRÓNICAS",
+  "book_short": "2Cr",
+  "aligned": false,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Masanil heb' kajan t'a Jerusalén chi', ix yak'och winhaj Ocozías heb' reyal sk'exulok winh smam chi', haton winh slajwub' yuninal winhaj Joram chi. Ha winh ix och reyal chi', yujto a heb' árabe yak'nak owal heb' t'a Judá, milb'ilcham heb' winh b'ab'el yuninal winhaj Joram chi' yuj heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ayik ix schaanel yich winhaj Ocozías chi' yak'an reyal, 22 ab'il sk'inal winh, junnhej ab'il ix yak' reyal winh t'a Jerusalén. Atalía sb'i ix snun winh, yixchikin ix winhaj Omri."
+    },
+    {
+      "number": "3",
+      "text": "Ha winhaj rey Ocozías chi', a sb'eyb'al winhaj Acab yet' yinhtilal ix sb'eyb'alej winh. Ha ix snun winh chi' ix kuchb'an t'a chukal b'eyb'al chi', yujto yisil ix winhaj Acab chi', yuj chi' te chuk tas ix sk'ulej winh t'a yichanh Jehová. Ayik toxo ix cham winh smam winh chi', a heb' sk'ab' yok winh chi' ix kuchb'an t'a chukal, yuj chi' ix juwiel spensar winh t'a junelnhej."
+    },
+    {
+      "number": "4",
+      "text": "Yujto ix sk'anab'ajej juntzanh pensar chi' winh, yuj chi' junnhej ix aj spensar winh yet' winhaj Joram sreyal Israel, haton winh yuninal winhaj Acab. Yuj chi' ix yak' owal heb' winh yet' winhaj Hazael sreyal Siria t'a chonhab' Ramot t'a yol yik Galaad. Palta ix lajwi winhaj Joram chi' yuj heb' sirio chi'."
+    },
+    {
+      "number": "5",
+      "text": "Yuj chi' ix meltzajkot winh t'a Jezreel yik tzul yanhtan sb'a winh ta'. Te ya yaj winh, yuj chi' ix b'at winhaj Ocozías yil winh t'a Jezreel chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ha Dios toxo ix sna'a to ayik ol k'och winhaj Ocozías chi' yil winhaj Joram chi', ata' ol cham winh. Ayik ayek' winh ta', ix elta winh yet' winhaj Joram chi', yik syak'an owal heb' winh yet' winhaj Jehú yuninal winhaj Nimsi, haton winh ix sik'jiel yuj Jehová yik satanel masanil makanhil heb' yinhtilal winhaj Acab chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ayik wan smilancham heb' yinhtilal winhaj Acab winhaj Jehú chi', ix ilchajelta heb' winh yajal yaj t'a Judá yet' heb' sk'ab'yok winhaj Ocozías chi' yuj winh, ix smilancham heb' winh. Ha heb' winh chi' ayoch yopisio heb' winh yet' winhaj Ocozías chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ix schekan winh saychaj ek' winhaj Ocozías chi', yujto ha t'a Samaria ix sk'ub'ejel sb'a winh, palta ix yamchaj winh yuj heb', ix yik'anb'at winh heb' t'a winhaj Jehú chi', haxo ta' ix miljicham winh yuj winh. Ix yalan heb' icha tik: Ko mukek winh, yujto yinhtilal winh winhaj Josafat, winh ak'jinak serwil Jehová t'a smasanil sk'ool, xchi heb'. Ha t'a skal heb' sk'ab' yok winhaj Ocozías chi', manhxa junok mach ix stek'b'ej sb'a yochkan reyal."
+    },
+    {
+      "number": "9",
+      "text": "Ayik ix yab'an ix Atalía to toxo ix cham winhaj Ocozías yune' ix chi', ix schekan ix miljokcham masanil heb' yinhtilal heb' winh sreyal Judá chi'."
+    },
+    {
+      "number": "10",
+      "text": "Palta haxo ix Joseba, elk'altak ix aj yik'ankanel winhaj Joás ix t'a skal juntzanhxo heb' winh yuninal winhaj Ocozías wan smiljicham chi'. Ix sk'ub'anel winh ix t'a ix Atalía chi'. Ix b'at ix sk'ub'ejel winh t'a jun kuarto yik templo b'aj sway anima, haxo jun ix ix, ix ilan q'uib' winh ta'. Yuj chi' maj chamlaj winh. Ha ix Joseba chi' yisil ix winhaj Joram, yanab' ix winhaj Ocozías chi', yetb'eyum ix winhaj sakerdote Joiada."
+    },
+    {
+      "number": "11",
+      "text": "Ha winhaj Joás chi', wake' ab'il ix k'ub'ajel winh t'a stemplo Jehová yet' jun ix ix, ix ilan q'uib'ok. Yakb'an chi' haxo ix Atalía chi', ayoch ix yajalil t'a jun chonhab' chi'."
+    }
+  ]
 }

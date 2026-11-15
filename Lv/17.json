@@ -1,69 +1,73 @@
 {
-    "chapter": "17",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Al t'a winhaj Aarón yet' t'a heb' yuninal yet' t'a masanil heb' etchonhab' to in checnab'il juntzanhxo tik:"
-        },
-        {
-            "number": "3",
-            "text": "Yalnhej mach smilancham junok nok' wakax, junok nok' kalnel, ma junok nok' chiwa silab'oc t'a spatiquel campamento, ma t'a yool,"
-        },
-        {
-            "number": "4",
-            "text": "palta max yik'cotlaj nok' t'a stielxo in kajnub' b'aj tzin ch'ox in b'a, yowalil manhxa yalan yic t'a he kal. Ha jun chi' skotkan t'a yib'anh, yujto tonhej stob'kanem schiq'uil nok' ta'."
-        },
-        {
-            "number": "5",
-            "text": "Icha chi' tz'aj walani yic mantzac he comon milej nok' nok' silab'il t'a spatiquel campamento, palta to tzeyik'cot nok' t'a stiel in kajnub', haxo junok winh sacerdote tz'ak'anoch nok' silab'il yic junk'olal t'a wichanh."
-        },
-        {
-            "number": "6",
-            "text": "Ha winh sacerdote chi' stzikanoch schiq'uil nok' t'a spatictac altar t'a wichanh, aton t'a stielxo in kajnub', snhustz'a xepual nok' winh t'a wichanh, suk'uq'ui sjab' swab'i."
-        },
-        {
-            "number": "7",
-            "text": "Manhxa b'ak'uinh tzeyak' junokxo silab' t'a heb' enemigo, aton juntzanh b'aj ochnac ex ejmelal. Yujnhej juntzanh chi' ex juwiel t'a wichanh. Ha jun tik ley tz'ajkan t'a he kal t'a masanil tiempo."
-        },
-        {
-            "number": "8",
-            "text": "Yalnhej mach heb' eyetisraelal, ma ch'oc chonhab'il kajanek' t'a he kal, tato syak' junok silab' stz'ai, ma yalnhej tas silab'il,"
-        },
-        {
-            "number": "9",
-            "text": "palta to max yik'cotlaj t'a stielxo in kajnub' b'aj tzin ch'ox in b'a yic tz'ak'ji t'ayin, a jun anima chi', manhxa yalan yic t'a he kal."
-        },
-        {
-            "number": "10",
-            "text": "Te ay wal yowal in k'ol t'a yalnhej mach eyetisraelal ma junok ch'oc chonhab'il ayek' t'a he kal schi'an schiq'uil nok' nok'. Ha in wal ol in och ajk'olal t'ay, ol in satanel t'a he kal."
-        },
-        {
-            "number": "11",
-            "text": "Yujto masanil nok' nok' yet' anima, a yuj schiq'uil pitzan, yuj chi' ix wala' to stob'jioch schiq'uil nok' t'a spatictac altar yic slajwikanel mul. Yujto ha t'a schiq'uil nok' chi' ay sk'inal yuj chi' syal yak'an tup mul chi'."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' swal t'ayex israel ex tik to malaj junok ex, ma heb' ch'oc chonhab'il ayek' kajan t'a he kal syal chi'an schiq'uil nok' nok'."
-        },
-        {
-            "number": "13",
-            "text": "Yalnhej mach ex ma heb' ch'oc chonhab'il ayek' kajan t'a he kal syamchaj junok nok' nok' yuj, ma junok nok' much, aton nok' toxonton schiji, yowalil syik'kanel schiq'uil nok', smukankan yet' lum lum."
-        },
-        {
-            "number": "14",
-            "text": "Yujto a chik' chi' ik'an pitzan nok', yuj chi' swal t'ayex to max yal-laj schiji nok' chib'ej aytooch schiq'uil. Yalnhej mach schi'ani, satjiel t'a he kal."
-        },
-        {
-            "number": "15",
-            "text": "Yalnhej mach ex, ma ch'oc chonhab'il schi'an nok' chib'ej to tonhej schami, mato smiljicham yuj junok nok' chium nok', yowalil sjuk'el spichul, sb'ikanel sb'a, palta manh wach'oc tz'ajkani masanto sq'uik'b'iemi."
-        },
-        {
-            "number": "16",
-            "text": "Palta tato max sjuk'el spichul, mato max sb'iquel sb'a, skannhej smul chi' t'a yib'anh, xa chi, xchi Jehová t'a winhaj Moisés chi'."
-        }
-    ]
+  "chapter": "17",
+  "book": "LEVÍTICO",
+  "book_short": "Lv",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Al t'a winhaj Aarón yet' t'a heb' yuninal yet' t'a masanil heb' etchonhab' to in cheknab'il juntzanhxo tik:"
+    },
+    {
+      "number": "3",
+      "text": "Yalnhej mach smilancham junok nok' wakax, junok nok' kalnel, ma junok nok' chiwa silab'ok t'a spatikel kampamento, ma t'a yool,"
+    },
+    {
+      "number": "4",
+      "text": "palta max yik'kotlaj nok' t'a stielxo in kajnub' b'aj tzin ch'ox in b'a, yowalil manhxa yalan yik t'a he kal. Ha jun chi' skotkan t'a yib'anh, yujto tonhej stob'kanem schiq'uil nok' ta'."
+    },
+    {
+      "number": "5",
+      "text": "Icha chi' tz'aj walani yik mantzak he komon milej nok' nok' silab'il t'a spatikel kampamento, palta to tzeyik'kot nok' t'a stiel in kajnub', haxo junok winh sakerdote tz'ak'anoch nok' silab'il yik junk'olal t'a wichanh."
+    },
+    {
+      "number": "6",
+      "text": "Ha winh sakerdote chi' stzikanoch schiq'uil nok' t'a spatiktak altar t'a wichanh, haton t'a stielxo in kajnub', snhustz'a xepual nok' winh t'a wichanh, suk'uq'ui sjab' swab'i."
+    },
+    {
+      "number": "7",
+      "text": "Manhxa b'ak'uinh tzeyak' junokxo silab' t'a heb' enemigo, haton juntzanh b'aj ochnak ex ejmelal. Yujnhej juntzanh chi' ex juwiel t'a wichanh. Ha jun tik ley tz'ajkan t'a he kal t'a masanil tiempo."
+    },
+    {
+      "number": "8",
+      "text": "Yalnhej mach heb' eyetisraelal, ma ch'ok chonhab'il kajanek' t'a he kal, tato syak' junok silab' stz'ai, ma yalnhej tas silab'il,"
+    },
+    {
+      "number": "9",
+      "text": "palta to max yik'kotlaj t'a stielxo in kajnub' b'aj tzin ch'ox in b'a yik tz'ak'ji t'ayin, a jun anima chi', manhxa yalan yik t'a he kal."
+    },
+    {
+      "number": "10",
+      "text": "Te ay wal yowal in k'ol t'a yalnhej mach eyetisraelal ma junok ch'ok chonhab'il ayek' t'a he kal schi'an schiq'uil nok' nok'. Ha in wal ol in och ajk'olal t'ay, ol in satanel t'a he kal."
+    },
+    {
+      "number": "11",
+      "text": "Yujto masanil nok' nok' yet' anima, a yuj schiq'uil pitzan, yuj chi' ix wala' to stob'jioch schiq'uil nok' t'a spatiktak altar yik slajwikanel mul. Yujto ha t'a schiq'uil nok' chi' ay sk'inal yuj chi' syal yak'an tup mul chi'."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' swal t'ayex israel ex tik to malaj junok ex, ma heb' ch'ok chonhab'il ayek' kajan t'a he kal syal chi'an schiq'uil nok' nok'."
+    },
+    {
+      "number": "13",
+      "text": "Yalnhej mach ex ma heb' ch'ok chonhab'il ayek' kajan t'a he kal syamchaj junok nok' nok' yuj, ma junok nok' much, haton nok' toxonton schiji, yowalil syik'kanel schiq'uil nok', smukankan yet' lum lum."
+    },
+    {
+      "number": "14",
+      "text": "Yujto a chik' chi' ik'an pitzan nok', yuj chi' swal t'ayex to max yal-laj schiji nok' chib'ej aytooch schiq'uil. Yalnhej mach schi'ani, satjiel t'a he kal."
+    },
+    {
+      "number": "15",
+      "text": "Yalnhej mach ex, ma ch'ok chonhab'il schi'an nok' chib'ej to tonhej schami, mato smiljicham yuj junok nok' chium nok', yowalil sjuk'el spichul, sb'ikanel sb'a, palta manh wach'ok tz'ajkani masanto sq'uik'b'iemi."
+    },
+    {
+      "number": "16",
+      "text": "Palta tato max sjuk'el spichul, mato max sb'ikel sb'a, skannhej smul chi' t'a yib'anh, xa chi, xchi Jehová t'a winhaj Moisés chi'."
+    }
+  ]
 }

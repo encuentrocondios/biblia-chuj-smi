@@ -1,153 +1,157 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'ayin icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ixic, b'at alan yab' heb' aj Jerusalén to a in Jehová in swal t'a heb' icha tik: Tzin nawalcoti ayic ex wak'anoch in chonhab'oc. Ix in he k'anab'ajej wal, ix in he xajanej wal, icha junok ix cob'es toto snupnaji xajanan winh yetb'eyum. Ix ex ochwal tzak'an wuj t'a tzinan lu'um, t'a lum malaj b'aj tz'avchaj tas t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ayic chi' wicnhej eyaj a ex israel ex tik, icha wal b'ab'el sat avb'en. Ha in Jehová in swala' to yalnhej mach heb' ex ixtani, ix och smul heb', ix wak'cot yaelal t'a yib'anh heb', xchi t'ayin."
-        },
-        {
-            "number": "4",
-            "text": "E masanil ex yinhtilalkan winhaj Jacob, aton winhaj Israel, maclejec eyab' tas syal Jehová."
-        },
-        {
-            "number": "5",
-            "text": "Syalan t'ayex icha tik: ¿Tas in paltail ix yil heb' he mam eyicham? ¿Tas yuj ix in spatiquejkanel heb', haxo t'a comon Dios malaj yelk'och b'aj ix yal sb'a heb'? Yuj chi' manhxalaj jab'oc ix ajkan yelk'och heb'."
-        },
-        {
-            "number": "6",
-            "text": "Majxo in snacot heb', wach'chom a in ix wik'elta heb' t'a Egipto, ix wik'an b'ey heb' t'a lum tzinan lu'um, lum taquinh sat, lum pak'quiltac, lum malaj mach kajan t'ay, lum malaj mach tzek' t'a sat."
-        },
-        {
-            "number": "7",
-            "text": "Ha in ix wak'och heb' t'a lum te yax sat tik, b'aj te ay tas wach' syab'lej heb'. Palta a exxo yinhtilal ex heb' tik, ex kajan ex t'a sat in lu'um tik, ix eyixtejb'at lu'um yuj he chukal, yuj chi' maxtzac scha in k'ol jun in lu'um tik."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' sacerdote maxtzac in snacot heb'. Ha heb' tzex k'ayb'ani, maxtzac in yojtaquejel heb'. Ha heb' yajal yaj t'a he chonhab', smeltzajoch heb' ajk'olal t'ayin, haxo heb' syaloch sb'a in chekab'oc, a sb'i Baal syalel heb'. Axo t'a comon Dios syal sb'a heb', aton juntzanh malaj jab'oc tas wach' syik' heb' t'ay, xchi Jehová."
-        },
-        {
-            "number": "9",
-            "text": "Ix yalanpax Jehová icha tik: Ha in Jehová in swala' to ol wak' owal eyed'oc yet' pax heb' eyinhtilal."
-        },
-        {
-            "number": "10",
-            "text": "Ixiquec t'a chonhab' Chipre ay t'a snanhal ha' mar, t'a stojolal b'aj tz'em k'u, tzeyilan wal. Tze chekanb'at heb' he chekab' t'a chonhab' Cedar t'a stojolal b'aj sjawi k'u, sb'at yilan wal heb' tato ayxo b'aj tzuji icha wal jun tik."
-        },
-        {
-            "number": "11",
-            "text": "¿Tom ay junok chonhab' scomon actankan sdiosal, wach'chom a sdiosal heb' chi' manh Diosoc? Ha exxo ex in chonhab' ex tik, ix in eyactejkani. Wach'chom a in ix ex wak' wal b'inajoc, palta haxo t'a comon Dios malaj yelk'ochi, ata' tzeyal he b'a."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' a in Jehová in swala': Ex kajan ex t'a satcha’anh, satokab' he k'ool, checlajokab' xiwelal t'a he sat yuj tas wan yuji tik."
-        },
-        {
-            "number": "13",
-            "text": "Ha in chonhab' tik, cha makan smul ix och t'ayin: Ha in tik lajan in icha sjaj ha ha' sk'euli, palta ix in spatiquejeli. Ix sb'oanpax sdiosal lajan icha yet'tal ha ha' jateltacxo, maxtzac yal-laj skan waan ha' t'a yool, xchi Jehová."
-        },
-        {
-            "number": "14",
-            "text": "Ix yalanpax Jehová chi' icha tik: Ha ex in chonhab' Israel ex tik, manh chekab'oc eyajkaneli, palta ¿tas yuj tzex ixtaj icha tz'utaj heb' chekab'?"
-        },
-        {
-            "number": "15",
-            "text": "¿Tas yuj ix och heb' anima ajk'olal t'ayex? Icha yel yav nok' choj icha chi' yel yav heb' t'ayex. Ix kan tzinan he lu'um, ix tz'ab'at he chonhab'. Manhxa mach syal skajnaj t'ay."
-        },
-        {
-            "number": "16",
-            "text": "Ha heb' soldado aj Menfis yet' heb' aj Tafnes yic Egipto, ix smak'poj he jolom heb'."
-        },
-        {
-            "number": "17",
-            "text": "Aton wal juntzanh tik ix eyik'cot t'a eyib'anh, yujto ix in he patiquejel a in Jehová he Diosal in tik, yacb'an ix ex in cuchb'ej b'eyoc."
-        },
-        {
-            "number": "18",
-            "text": "Axo ticnaik ¿tas tzeyak' yala', yuj chi' tzex b'at he k'an scolwal heb' aj Egipto ay t'a sti' ha' Nilo? ¿Tas pax tzeyak' yala' yuj chi' tzex b'at he k'an scolwal heb' aj Asiria ay t'a sti' ha' Éufrates?"
-        },
-        {
-            "number": "19",
-            "text": "Ha in Jehová Yajal in t'a Smasanil, a in swala': Ha wal he mul chi' ol ik'ancot eyaelal t'a eyib'anh. Ha he pitalil ol ak'anb'at t'a eyib'anh. Nachajokab'el eyuuj to te chuk ix he k'ulej yujto ix in he patiquejeli, a in Jehová he Diosal in. Ol wak'och yaelal t'a eyib'anh yujto malaj welk'och t'ayex, xchi Jehová."
-        },
-        {
-            "number": "20",
-            "text": "Atax t'a peka' ix ex och ijan he pitan he b'a t'ayin. Maj yal he k'ol ix in he k'anab'ajej. Ix eyalani: Malaj ko gana tzach kak' serwil, xe chi. Axonhej ajmulal ix he k'ulej t'a tzalquixtac yet' t'a yichtac te te' k'ayum xiil."
-        },
-        {
-            "number": "21",
-            "text": "Icha wal tz'aj yavchaj te' uwa te wach', icha chi' ix aj ex wawani, lajan ex icha yinhatil te' uwa te wach'. ¿Tas yuj lajanxonhej tzex ajkan icha te' kaltacte'al uwa?"
-        },
-        {
-            "number": "22",
-            "text": "Ha in wal Jehová in swala': Wach'chom tze comon b'iquejel he b'a yet' k'een yal taanh, mato niwan xapon tzeyak'ek' t'ayex, palta a he mul chi', chequel yajek' t'a in sat. Malaj b'ak'uinh syal he sacb'ikani."
-        },
-        {
-            "number": "23",
-            "text": "Tze comon alan icha tik: Ha onh tik maj ko juel ko b'a kalan ko b'ha t'a comon Dios, xe chi. Naeccoti, tas ix eyutej he b'ha t'a lum ch'olquixtac. Tonhej tzex comon ek' jechechoc icha junok nok' nun camello sayanek' nok' smam."
-        },
-        {
-            "number": "24",
-            "text": "Lajan ex wal icha junok nok' kaltacte'al nun b'uru k'ajan sb'eyek' b'aj malaj anima, suk'lan nok' tzek' nok' ayic wan stajni nok'. Malaj mach syal syaman wanaj nok'. Ayic stajni nok' chi', secojtak tz'aj schax nok' yuj nok' mam b'uru chi'."
-        },
-        {
-            "number": "25",
-            "text": "Ex israel, actejec he b'eyek' he sayanek' he comon diosal. Nab'anhej slajwi eyoc yet' stacji he ti' he b'eyeq'ui. Palta a ex tik tzeyala': Maay, ayoch ko pensar t'a juntzanh comon Dios, yuj chi' ol calnhej ko b'a t'ay, xe chi."
-        },
-        {
-            "number": "26",
-            "text": "Icha wal sq'uixwi junok elk'um ayic syamchajelta, icha wal chi' ol aj he q'uixwi a ex israel ex tik yet' heb' he reyal, heb' eyajal, heb' sacerdote yet' pax heb' syaloch sb'a in chekab'oc."
-        },
-        {
-            "number": "27",
-            "text": "Tzeyal t'a junok te te' icha tik: Mamin, xe chi t'a te'. Tzeyalanpax t'a junok k'een k'een: Nunin, xe chi. Axo pax t'ayin jun, a yich he patic tze meltzitejcoti. Maxtzac ex cot k'elan t'ayin. Axo wal yic tzeyilani to ay tas tzex ik'ani: Cotanh, colwajanh, xe chi t'ayin."
-        },
-        {
-            "number": "28",
-            "text": "Ex aj Judá, icha wal sb'isul he chonhab', icha chi' sb'isul he diosal. ¿B'ajtil ay juntzanh he comon diosal ix he b'o chi'? Cotokab' heb', ol quilani tato ol yal ex scolan heb' ayic ol jawok yaelal t'a eyib'anh."
-        },
-        {
-            "number": "29",
-            "text": "Ha in wal Jehová in swala': ¿Tas in mul t'ayex yuj chi' tzeyalub'tanhej to max ex in colo'? Ina he masanil tze pitej he b'a t'ayin."
-        },
-        {
-            "number": "30",
-            "text": "Nab'anhej swak'och eyaelal, maxtzac yal pax he k'ol tze k'anab'ajej in k'ayb'ub'al. Lajan ex wal icha junok nok' choj te ov, tze milcham heb' in chekab' swak'b'at t'a he kal."
-        },
-        {
-            "number": "31",
-            "text": "¿Tas animail eyaj a ex yinhtilal ex kan Israel? Maclejec eyab' tas swala'. ¿Tom malaj jab'oc tas swak' t'ayex? ¿Tom icha taquinh lu'um waj t'ayex, mato icha junok lum lum te ay smay? Ex in chonhab', ¿tas wal yuj tzeyal t'ayin icha tik: Munil quik ko b'a, malaj tzach och cuuj? xe chi."
-        },
-        {
-            "number": "32",
-            "text": "¿Tom ol sat sk'ol junok ix cob'es t'a stonh, ma t'a spichul ayic sb'at ix t'a nupnajel? Palta a exxo pax in chonhab' ex tik, junjun k'u tzin b'atnhej satk'olal eyuuj."
-        },
-        {
-            "number": "33",
-            "text": "Lajan ex icha heb' ix ajmul ix yojtak b'e b'aj sb'ati, ayic sayanek' heb' winh winak heb' ix. Sat k'ayb'um eyaj t'a chukal."
-        },
-        {
-            "number": "34",
-            "text": "Te chik'tac he pichul yuj schiq'uil heb' meb'a' yet' heb' malaj smul. Tze milcham heb', wach'chom malaj b'aj tz'och heb' elk'al t'ayex."
-        },
-        {
-            "number": "35",
-            "text": "Wach'chom tze k'ulej icha chi', palta tzeyalan icha tik: Ha onh tik, te wach' onh, malaj ko mul, manhxalaj yowal sk'ol Jehová t'ayonh, xe chi. Palta a in Jehová in tik ol wak'cot yaelal t'a eyib'anh, yujto tzeyala' to malaj he mul."
-        },
-        {
-            "number": "36",
-            "text": "¿Tas yuj tze pech he b'a yic tze k'exan heb' tze nib'ej skolwaj eyed'oc? Icha wal ajnac yel he q'uixwelal yuj heb' aj Asiria, yujto maj ex scol heb', icha pax chi' ol aj yel he q'uixwelal yuj heb' aj Egipto."
-        },
-        {
-            "number": "37",
-            "text": "Toxonhej nhojan ex em yuj q'uixwelal ayic ol ex meltzajcot t'a Egipto chi', yujto toxo ix in patiquejel heb' tzeyak'och yipoc he k'ool chi'. Malaj tas ol eyak' yal yet' heb', xchi Jehová."
-        }
-    ]
+  "chapter": "2",
+  "book": "JEREMÍAS",
+  "book_short": "Jer",
+  "aligned": true,
+  "es_verses": 37,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'ayin icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ixik, b'at alan yab' heb' aj Jerusalén to a in Jehová in swal t'a heb' icha tik: Tzin nawalkoti ayik ex wak'anoch in chonhab'ok. Ix in he k'anab'ajej wal, ix in he xajanej wal, icha junok ix kob'es toto snupnaji xajanan winh yetb'eyum. Ix ex ochwal tzak'an wuj t'a tzinan lu'um, t'a lum malaj b'aj tz'awchaj tas t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ayik chi' wiknhej eyaj a ex israel ex tik, icha wal b'ab'el sat awb'en. Ha in Jehová in swala' to yalnhej mach heb' ex ixtani, ix och smul heb', ix wak'kot yaelal t'a yib'anh heb', xchi t'ayin."
+    },
+    {
+      "number": "4",
+      "text": "E masanil ex yinhtilalkan winhaj Jacob, haton winhaj Israel, maklejek eyab' tas syal Jehová."
+    },
+    {
+      "number": "5",
+      "text": "Syalan t'ayex icha tik: ¿Tas in paltail ix yil heb' he mam eyicham? ¿Tas yuj ix in spatikejkanel heb', haxo t'a komon Dios malaj yelk'och b'aj ix yal sb'a heb'? Yuj chi' manhxalaj jab'ok ix ajkan yelk'och heb'."
+    },
+    {
+      "number": "6",
+      "text": "Majxo in snakot heb', wach'chom a in ix wik'elta heb' t'a Egipto, ix wik'an b'ey heb' t'a lum tzinan lu'um, lum takinh sat, lum pak'kiltak, lum malaj mach kajan t'ay, lum malaj mach tzek' t'a sat."
+    },
+    {
+      "number": "7",
+      "text": "Ha in ix wak'och heb' t'a lum te yax sat tik, b'aj te ay tas wach' syab'lej heb'. Palta a exxo yinhtilal ex heb' tik, ex kajan ex t'a sat in lu'um tik, ix eyixtejb'at lu'um yuj he chukal, yuj chi' maxtzak scha in k'ol jun in lu'um tik."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' sakerdote maxtzak in snakot heb'. Ha heb' tzex k'ayb'ani, maxtzak in yojtakejel heb'. Ha heb' yajal yaj t'a he chonhab', smeltzajoch heb' ajk'olal t'ayin, haxo heb' syaloch sb'a in chekab'ok, a sb'i Baal syalel heb'. Axo t'a komon Dios syal sb'a heb', haton juntzanh malaj jab'ok tas wach' syik' heb' t'ay, xchi Jehová."
+    },
+    {
+      "number": "9",
+      "text": "Ix yalanpax Jehová icha tik: Ha in Jehová in swala' to ol wak' owal eyet'ok yet' pax heb' eyinhtilal."
+    },
+    {
+      "number": "10",
+      "text": "Ixikek t'a chonhab' Chipre ay t'a snanhal ha' mar, t'a stojolal b'aj tz'em k'u, tzeyilan wal. Tze chekanb'at heb' he chekab' t'a chonhab' Cedar t'a stojolal b'aj sjawi k'u, sb'at yilan wal heb' tato ayxo b'aj tzuji icha wal jun tik."
+    },
+    {
+      "number": "11",
+      "text": "¿Tom ay junok chonhab' skomon aktankan sdiosal, wach'chom a sdiosal heb' chi' manh Diosok? Ha exxo ex in chonhab' ex tik, ix in eyaktejkani. Wach'chom a in ix ex wak' wal b'inajok, palta haxo t'a komon Dios malaj yelk'ochi, ata' tzeyal he b'a."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' a in Jehová in swala': Ex kajan ex t'a satcha'anh, satokab' he k'ool, cheklajokab' xiwelal t'a he sat yuj tas wan yuji tik."
+    },
+    {
+      "number": "13",
+      "text": "Ha in chonhab' tik, cha makan smul ix och t'ayin: Ha in tik lajan in icha sjaj ha ha' sk'euli, palta ix in spatikejeli. Ix sb'oanpax sdiosal lajan icha yet'tal ha ha' jateltakxo, maxtzak yal-laj skan waan ha' t'a yool, xchi Jehová."
+    },
+    {
+      "number": "14",
+      "text": "Ix yalanpax Jehová chi' icha tik: Ha ex in chonhab' Israel ex tik, manh chekab'ok eyajkaneli, palta ¿tas yuj tzex ixtaj icha tz'utaj heb' chekab'?"
+    },
+    {
+      "number": "15",
+      "text": "¿Tas yuj ix och heb' anima ajk'olal t'ayex? Icha yel yaw nok' choj icha chi' yel yaw heb' t'ayex. Ix kan tzinan he lu'um, ix tz'ab'at he chonhab'. Manhxa mach syal skajnaj t'ay."
+    },
+    {
+      "number": "16",
+      "text": "Ha heb' soldado aj Menfis yet' heb' aj Tafnes yik Egipto, ix smak'poj he jolom heb'."
+    },
+    {
+      "number": "17",
+      "text": "Haton wal juntzanh tik ix eyik'kot t'a eyib'anh, yujto ix in he patikejel a in Jehová he Diosal in tik, yakb'an ix ex in kuchb'ej b'eyok."
+    },
+    {
+      "number": "18",
+      "text": "Axo tiknaik ¿tas tzeyak' yala', yuj chi' tzex b'at he k'an skolwal heb' aj Egipto ay t'a sti' ha' Nilo? ¿Tas pax tzeyak' yala' yuj chi' tzex b'at he k'an skolwal heb' aj Asiria ay t'a sti' ha' Éufrates?"
+    },
+    {
+      "number": "19",
+      "text": "Ha in Jehová Yajal in t'a Smasanil, a in swala': Ha wal he mul chi' ol ik'ankot eyaelal t'a eyib'anh. Ha he pitalil ol ak'anb'at t'a eyib'anh. Nachajokab'el eyuuj to te chuk ix he k'ulej yujto ix in he patikejeli, a in Jehová he Diosal in. Ol wak'och yaelal t'a eyib'anh yujto malaj welk'och t'ayex, xchi Jehová."
+    },
+    {
+      "number": "20",
+      "text": "Atax t'a peka' ix ex och ijan he pitan he b'a t'ayin. Maj yal he k'ol ix in he k'anab'ajej. Ix eyalani: Malaj ko gana tzach kak' serwil, xe chi. Axonhej ajmulal ix he k'ulej t'a tzalkixtak yet' t'a yichtak te te' k'ayum xiil."
+    },
+    {
+      "number": "21",
+      "text": "Icha wal tz'aj yawchaj te' uwa te wach', icha chi' ix aj ex wawani, lajan ex icha yinhatil te' uwa te wach'. ¿Tas yuj lajanxonhej tzex ajkan icha te' kaltakte'al uwa?"
+    },
+    {
+      "number": "22",
+      "text": "Ha in wal Jehová in swala': Wach'chom tze komon b'ikejel he b'a yet' k'een yal taanh, mato niwan xapon tzeyak'ek' t'ayex, palta a he mul chi', chekel yajek' t'a in sat. Malaj b'ak'uinh syal he sakb'ikani."
+    },
+    {
+      "number": "23",
+      "text": "Tze komon alan icha tik: Ha onh tik maj ko juel ko b'a kalan ko b'a t'a komon Dios, xe chi. Naekkoti, tas ix eyutej he b'a t'a lum ch'olkixtak. Tonhej tzex komon ek' jechechok icha junok nok' nun kamello sayanek' nok' smam."
+    },
+    {
+      "number": "24",
+      "text": "Lajan ex wal icha junok nok' kaltakte'al nun b'uru k'ajan sb'eyek' b'aj malaj anima, suk'lan nok' tzek' nok' ayik wan stajni nok'. Malaj mach syal syaman wanaj nok'. Ayik stajni nok' chi', sekojtak tz'aj schax nok' yuj nok' mam b'uru chi'."
+    },
+    {
+      "number": "25",
+      "text": "Ex israel, aktejek he b'eyek' he sayanek' he komon diosal. Nab'anhej slajwi eyok yet' stakji he ti' he b'eyeq'ui. Palta a ex tik tzeyala': Maay, ayoch ko pensar t'a juntzanh komon Dios, yuj chi' ol kalnhej ko b'a t'ay, xe chi."
+    },
+    {
+      "number": "26",
+      "text": "Icha wal sq'uixwi junok elk'um ayik syamchajelta, icha wal chi' ol aj he q'uixwi a ex israel ex tik yet' heb' he reyal, heb' eyajal, heb' sakerdote yet' pax heb' syaloch sb'a in chekab'ok."
+    },
+    {
+      "number": "27",
+      "text": "Tzeyal t'a junok te te' icha tik: Mamin, xe chi t'a te'. Tzeyalanpax t'a junok k'een k'een: Nunin, xe chi. Axo pax t'ayin jun, a yich he patik tze meltzitejkoti. Maxtzak ex kot k'elan t'ayin. Axo wal yik tzeyilani to ay tas tzex ik'ani: Kotanh, kolwajanh, xe chi t'ayin."
+    },
+    {
+      "number": "28",
+      "text": "Ex aj Judá, icha wal sb'isul he chonhab', icha chi' sb'isul he diosal. ¿B'ajtil ay juntzanh he komon diosal ix he b'o chi'? Kotokab' heb', ol kilani tato ol yal ex skolan heb' ayik ol jawok yaelal t'a eyib'anh."
+    },
+    {
+      "number": "29",
+      "text": "Ha in wal Jehová in swala': ¿Tas in mul t'ayex yuj chi' tzeyalub'tanhej to max ex in kolo'? Ina he masanil tze pitej he b'a t'ayin."
+    },
+    {
+      "number": "30",
+      "text": "Nab'anhej swak'och eyaelal, maxtzak yal pax he k'ol tze k'anab'ajej in k'ayb'ub'al. Lajan ex wal icha junok nok' choj te ow, tze milcham heb' in chekab' swak'b'at t'a he kal."
+    },
+    {
+      "number": "31",
+      "text": "¿Tas animail eyaj a ex yinhtilal ex kan Israel? Maklejek eyab' tas swala'. ¿Tom malaj jab'ok tas swak' t'ayex? ¿Tom icha takinh lu'um waj t'ayex, mato icha junok lum lum te ay smay? Ex in chonhab', ¿tas wal yuj tzeyal t'ayin icha tik: Munil kik ko b'a, malaj tzach och kuuj? xe chi."
+    },
+    {
+      "number": "32",
+      "text": "¿Tom ol sat sk'ol junok ix kob'es t'a stonh, ma t'a spichul ayik sb'at ix t'a nupnajel? Palta a exxo pax in chonhab' ex tik, junjun k'u tzin b'atnhej satk'olal eyuuj."
+    },
+    {
+      "number": "33",
+      "text": "Lajan ex icha heb' ix ajmul ix yojtak b'e b'aj sb'ati, ayik sayanek' heb' winh winak heb' ix. Sat k'ayb'um eyaj t'a chukal."
+    },
+    {
+      "number": "34",
+      "text": "Te chik'tak he pichul yuj schiq'uil heb' meb'a' yet' heb' malaj smul. Tze milcham heb', wach'chom malaj b'aj tz'och heb' elk'al t'ayex."
+    },
+    {
+      "number": "35",
+      "text": "Wach'chom tze k'ulej icha chi', palta tzeyalan icha tik: Ha onh tik, te wach' onh, malaj ko mul, manhxalaj yowal sk'ol Jehová t'ayonh, xe chi. Palta a in Jehová in tik ol wak'kot yaelal t'a eyib'anh, yujto tzeyala' to malaj he mul."
+    },
+    {
+      "number": "36",
+      "text": "¿Tas yuj tze pech he b'a yik tze k'exan heb' tze nib'ej skolwaj eyet'ok? Icha wal ajnak yel he q'uixwelal yuj heb' aj Asiria, yujto maj ex skol heb', icha pax chi' ol aj yel he q'uixwelal yuj heb' aj Egipto."
+    },
+    {
+      "number": "37",
+      "text": "Toxonhej nhojan ex em yuj q'uixwelal ayik ol ex meltzajkot t'a Egipto chi', yujto toxo ix in patikejel heb' tzeyak'och yipok he k'ool chi'. Malaj tas ol eyak' yal yet' heb', xchi Jehová."
+    }
+  ]
 }

@@ -1,57 +1,61 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex ix, b'ak'uech ex yuj he b'eyumal icha nok' wakax t'a Basán, ex kajan ex t'a tzalan yic chonhab' Samaria, ab'ec wal jun tik: Tzeyixtej heb' meb'a' yet' heb' ilb'ajk'ol yilji, tzeyalan t'a heb' winh eyetb'eyum: Ik'eccot anh anh to scuk'ej anh, xe chi."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jehová aton Yajal yaji, ix sloc sb'i ix yak'an sti', ix yalani: Ol k'och sk'ual, ol ak'chajoch gancho t'ayex, ol ex nherchajb'eyoc, haxo heb' eyune', ol och lokan anzuelo t'a heb', ol jachchajb'at heb'."
-        },
-        {
-            "number": "3",
-            "text": "Ha in Jehová in swala', tzololixonhej ol aj eyik'chajel b'aj ol mak'chaj poj pat chi', ol ex ik'chajpaxb'at t'a najat."
-        },
-        {
-            "number": "4",
-            "text": "Ixiquec t'a Betel yet' t'a Gilgal, tzeyak'anoch he mul icha he gana ta'. Slajwi chi' tzeyak'an eyofrenda t'a junjun q'uinhib'alil, t'a schab'jial tzeyak'anpax he diezmo."
-        },
-        {
-            "number": "5",
-            "text": "nhusec ixim pan ay yich t'a ofrendail yuj he ak'oj yuj diosal. Alequel t'a skal anima yuj jantac eyofrenda tz'el t'a he k'ool eyak'ani, yujto icha chi' he gana tze k'ulej."
-        },
-        {
-            "number": "6",
-            "text": "Yuj chi', ix wak' eyab' syail wejel t'a masanil yol he chonhab' tik, palta manh yujoc chi' ix ex meltzajcot t'ayin."
-        },
-        {
-            "number": "7",
-            "text": "Ix wak'anoch waan nhab' t'a oxe' ujal ayic manto elul sat eyavb'en. Ix yak' nhab' t'a jun chonhab', haxo t'a junxo, maay. Ay b'aj ix yak' nhab' chi', ay b'aj maay, yuj chi' ix tacjiel masanil eyavb'en."
-        },
-        {
-            "number": "8",
-            "text": "Chab' oxe' chonhab'il ex ix ex b'at sayoj ha' t'a junocxo chonhab', palta maj yab'laj ha' yic tzek' stak'inhal he ti'. Tocwal yuj chi' ix ex meltzajcot t'ayin."
-        },
-        {
-            "number": "9",
-            "text": "Ix wak' eyaelal yet' ik' te k'ak' yet' juntzanhxo yaelal, ix wak'an ixtax tas tzeyawej yet' eyuwa. Axo nok' k'ulub' ix k'uxanb'at te' eyigo yet' te' eyoliwo. Tocwal yuj chi' ix ex meltzajcot t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Ix wak'cot juntzanh yaelal t'a eyib'anh, icha wal ix aj wak'anb'at yaelal t'a Egipto. Ix cham heb' he kelemtac t'a skal owal, haxo heb' eyajk'ol chi' ix ikankan nok' he chej, ix eyab'an sjab' chamnac ayek' t'a he campamento. Tocwal yuj chi' ix ex meltzajcot t'ayin."
-        },
-        {
-            "number": "11",
-            "text": "Ix ex wak' lajwoquem icha ix aj wak'an lajwoquem chonhab' Sodoma yet' Gomorra, yuj chi' a ex ixto ex kan tik, icha junok cuxk'ak' tz'ik'chajkanelta t'a yol k'ak', icha wal chi' eyaji. Tocwal yuj chi' ix ex meltzajcot t'ayin."
-        },
-        {
-            "number": "12",
-            "text": "Icha chi' ol ex wutej ex aj Israel. Yuj chi' b'oec he b'a, yujto ol eyil-laj och he sat wed'oc a in he Diosal in tik."
-        },
-        {
-            "number": "13",
-            "text": "Ha in Jehová in, ix in b'o niwac witz yet' ik', swak'an yojtaquejel heb' anima tas nab'il wuuj. Ha in swak' meltzajoch sakil k'inal t'a k'ik'alq'uinalil, chaanh tzin b'eyek' t'a yib'anh lum lum. Ha in b'i, aton Jehová Dios, Yajal in t'a Smasanil, xchi Jehová chi'."
-        }
-    ]
+  "chapter": "4",
+  "book": "AMÓS",
+  "book_short": "Am",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex ix, b'ak'uech ex yuj he b'eyumal icha nok' wakax t'a Basán, ex kajan ex t'a tzalan yik chonhab' Samaria, ab'ek wal jun tik: Tzeyixtej heb' meb'a' yet' heb' ilb'ajk'ol yilji, tzeyalan t'a heb' winh eyetb'eyum: Ik'ekkot anh anh to skuk'ej anh, xe chi."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jehová haton Yajal yaji, ix slok sb'i ix yak'an sti', ix yalani: Ol k'och sk'ual, ol ak'chajoch gancho t'ayex, ol ex nherchajb'eyok, haxo heb' eyune', ol och lokan anzuelo t'a heb', ol jachchajb'at heb'."
+    },
+    {
+      "number": "3",
+      "text": "Ha in Jehová in swala', tzololixonhej ol aj eyik'chajel b'aj ol mak'chaj poj pat chi', ol ex ik'chajpaxb'at t'a najat."
+    },
+    {
+      "number": "4",
+      "text": "Ixikek t'a Betel yet' t'a Gilgal, tzeyak'anoch he mul icha he gana ta'. Slajwi chi' tzeyak'an eyofrenda t'a junjun q'uinhib'alil, t'a schab'jial tzeyak'anpax he diezmo."
+    },
+    {
+      "number": "5",
+      "text": "nhusek ixim pan ay yich t'a ofrendail yuj he ak'oj yuj diosal. Alekel t'a skal anima yuj jantak eyofrenda tz'el t'a he k'ool eyak'ani, yujto icha chi' he gana tze k'ulej."
+    },
+    {
+      "number": "6",
+      "text": "Yuj chi', ix wak' eyab' syail wejel t'a masanil yol he chonhab' tik, palta manh yujok chi' ix ex meltzajkot t'ayin."
+    },
+    {
+      "number": "7",
+      "text": "Ix wak'anoch waan nhab' t'a oxe' ujal ayik manto elul sat eyawb'en. Ix yak' nhab' t'a jun chonhab', haxo t'a junxo, maay. Ay b'aj ix yak' nhab' chi', ay b'aj maay, yuj chi' ix takjiel masanil eyawb'en."
+    },
+    {
+      "number": "8",
+      "text": "Chab' oxe' chonhab'il ex ix ex b'at sayoj ha' t'a junokxo chonhab', palta maj yab'laj ha' yik tzek' stak'inhal he ti'. Tokwal yuj chi' ix ex meltzajkot t'ayin."
+    },
+    {
+      "number": "9",
+      "text": "Ix wak' eyaelal yet' ik' te k'ak' yet' juntzanhxo yaelal, ix wak'an ixtax tas tzeyawej yet' eyuwa. Axo nok' k'ulub' ix k'uxanb'at te' eyigo yet' te' eyoliwo. Tokwal yuj chi' ix ex meltzajkot t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Ix wak'kot juntzanh yaelal t'a eyib'anh, icha wal ix aj wak'anb'at yaelal t'a Egipto. Ix cham heb' he kelemtak t'a skal owal, haxo heb' eyajk'ol chi' ix ikankan nok' he chej, ix eyab'an sjab' chamnak ayek' t'a he kampamento. Tokwal yuj chi' ix ex meltzajkot t'ayin."
+    },
+    {
+      "number": "11",
+      "text": "Ix ex wak' lajwokem icha ix aj wak'an lajwokem chonhab' Sodoma yet' Gomorra, yuj chi' a ex ixto ex kan tik, icha junok kuxk'ak' tz'ik'chajkanelta t'a yol k'ak', icha wal chi' eyaji. Tokwal yuj chi' ix ex meltzajkot t'ayin."
+    },
+    {
+      "number": "12",
+      "text": "Icha chi' ol ex wutej ex aj Israel. Yuj chi' b'oek he b'a, yujto ol eyil-laj och he sat wet'ok a in he Diosal in tik."
+    },
+    {
+      "number": "13",
+      "text": "Ha in Jehová in, ix in b'o niwak witz yet' ik', swak'an yojtakejel heb' anima tas nab'il wuuj. Ha in swak' meltzajoch sakil k'inal t'a k'ik'alq'uinalil, chaanh tzin b'eyek' t'a yib'anh lum lum. Ha in b'i, haton Jehová Dios, Yajal in t'a Smasanil, xchi Jehová chi'."
+    }
+  ]
 }

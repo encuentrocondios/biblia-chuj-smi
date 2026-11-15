@@ -1,29 +1,33 @@
 {
-    "chapter": "53",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha heb' chuk spensar sna heb' to malaj Dios. Junlajanxonhej ix aj sjuanel spensar heb'. Yelxo wal te chuk sk'ulej heb'. Manhxalaj mach sk'ulan wach'il."
-        },
-        {
-            "number": "2",
-            "text": "Ato t'a satcha’anh k'elanemta Dios t'a anima, yic syila' tato ay heb' syak'och spensar t'ay, yic syilpaxi tato naan yuj heb'."
-        },
-        {
-            "number": "3",
-            "text": "Ha juntzanh b'eyb'al chuk sb'eyb'alej heb' smasanil. Junlajanxonhej tz'aj sjuwib'at heb'. Manhxalaj junok mach tzato b'eyb'alan wach' b'eyb'al. Toton manhxa wal junok."
-        },
-        {
-            "number": "4",
-            "text": "Icha wal to malaj spensar heb' sk'ulan chukal chi'. Ha heb' chi' satanel heb' yetchonhab', icha wal to swael heb' yaj heb', max yal-laj sb'a heb' d'ha Dios."
-        },
-        {
-            "number": "5",
-            "text": "Tz'ib'xi heb' yuj xiwelal wach'chom malaj tas xib'tan heb'. Ha Dios ix saclemankanb'at sb'aquil heb' ajk'ool, q'uixwelal ix ajkan heb' yujto ix paticajel heb' yuj Dios."
-        },
-        {
-            "number": "6",
-            "text": "Comonoc ha t'a tzalan Sion scot ko colnab'il a onh israel onh tik. Ayic ol yak'anxi swach'k'olal Dios t'a quib'anh, ol tzalaj ko k'ool a onh yinhtil onh winhaj Jacob tik. Ol el lenaj ol quila'."
-        }
-    ]
+  "chapter": "53",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha heb' chuk spensar sna heb' to malaj Dios. Junlajanxonhej ix aj sjuanel spensar heb'. Yelxo wal te chuk sk'ulej heb'. Manhxalaj mach sk'ulan wach'il."
+    },
+    {
+      "number": "2",
+      "text": "Ato t'a satcha'anh k'elanemta Dios t'a anima, yik syila' tato ay heb' syak'och spensar t'ay, yik syilpaxi tato naan yuj heb'."
+    },
+    {
+      "number": "3",
+      "text": "Ha juntzanh b'eyb'al chuk sb'eyb'alej heb' smasanil. Junlajanxonhej tz'aj sjuwib'at heb'. Manhxalaj junok mach tzato b'eyb'alan wach' b'eyb'al. Toton manhxa wal junok."
+    },
+    {
+      "number": "4",
+      "text": "Icha wal to malaj spensar heb' sk'ulan chukal chi'. Ha heb' chi' satanel heb' yetchonhab', icha wal to swael heb' yaj heb', max yal-laj sb'a heb' t'a Dios."
+    },
+    {
+      "number": "5",
+      "text": "Tz'ib'xi heb' yuj xiwelal wach'chom malaj tas xib'tan heb'. Ha Dios ix saklemankanb'at sb'akil heb' ajk'ool, q'uixwelal ix ajkan heb' yujto ix patikajel heb' yuj Dios."
+    },
+    {
+      "number": "6",
+      "text": "Komonok ha t'a tzalan Sion skot ko kolnab'il a onh israel onh tik. Ayik ol yak'anxi swach'k'olal Dios t'a kib'anh, ol tzalaj ko k'ool a onh yinhtil onh winhaj Jacob tik. Ol el lenaj ol kila'."
+    }
+  ]
 }

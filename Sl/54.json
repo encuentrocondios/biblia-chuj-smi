@@ -1,33 +1,37 @@
 {
-    "chapter": "54",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach in Diosal, colin icha ajnac alan t'ayin. Colin yujto syal uuj smasanil."
-        },
-        {
-            "number": "2",
-            "text": "Ach in Diosal, ab' in lesal tik. Ak'cot tz'eyan a chiquin t'a tas swala'."
-        },
-        {
-            "number": "3",
-            "text": "Yujto a heb' anima manh wojtakoc tz'och ajk'olal t'ayin, aton heb' comonnhej tz'ak'an chukal t'a yetanimail. Snib'ej heb' to tzin chami. Malaj elk'och t'a heb'."
-        },
-        {
-            "number": "4",
-            "text": "Palta jun, tik wal a ach ayachoch wed'oc. Tik wal uuj pitzan in."
-        },
-        {
-            "number": "5",
-            "text": "Ha schukal heb' ayoch ajk'olal chi' t'ayin ol meltzajoch t'a yib'anh uuj. Mamin, satkanel heb' yujto tzak'nhejelk'och tas tzala'."
-        },
-        {
-            "number": "6",
-            "text": "Mamin Jehová, ol wak' in silab' t'ayach t'a yol wico', ol ach in b'itani yujto wach' ach,"
-        },
-        {
-            "number": "7",
-            "text": "yujto ix in a colel t'a smasanil wilk'olal. Ix wilan skan heb' ajk'ool t'ayin t'a yalanh uuj."
-        }
-    ]
+  "chapter": "54",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach in Diosal, kolin icha ajnak alan t'ayin. Kolin yujto syal uuj smasanil."
+    },
+    {
+      "number": "2",
+      "text": "Ach in Diosal, ab' in lesal tik. Ak'kot tz'eyan a chikin t'a tas swala'."
+    },
+    {
+      "number": "3",
+      "text": "Yujto a heb' anima manh wojtakok tz'och ajk'olal t'ayin, haton heb' komonnhej tz'ak'an chukal t'a yetanimail. Snib'ej heb' to tzin chami. Malaj elk'och t'a heb'."
+    },
+    {
+      "number": "4",
+      "text": "Palta jun, tik wal a ach ayachoch wet'ok. Tik wal uuj pitzan in."
+    },
+    {
+      "number": "5",
+      "text": "Ha schukal heb' ayoch ajk'olal chi' t'ayin ol meltzajoch t'a yib'anh uuj. Mamin, satkanel heb' yujto tzak'nhejelk'och tas tzala'."
+    },
+    {
+      "number": "6",
+      "text": "Mamin Jehová, ol wak' in silab' t'ayach t'a yol wiko', ol ach in b'itani yujto wach' ach,"
+    },
+    {
+      "number": "7",
+      "text": "yujto ix in a kolel t'a smasanil wilk'olal. Ix wilan skan heb' ajk'ool t'ayin t'a yalanh uuj."
+    }
+  ]
 }

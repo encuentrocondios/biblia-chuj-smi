@@ -1,97 +1,101 @@
 {
-    "chapter": "7",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Axo yic ix k'och sk'ual sjawi jun owal ha' mucwajum chi', ix yalan Jehová Dios t'a winhaj Noé chi' icha tik: Ochanh t'a yol te' niwan barco tik yet' ix etb'eyum, heb' uninal yet' heb' ix alib', yujto a achnhej ix a k'anab'ajej t'ayin t'a skal masanil heb' anima t'a jun pekti’ tik."
-        },
-        {
-            "number": "2",
-            "text": "Ik'och uc mojanhoc nok' nok' syal yoch silab'oc snhuschaji, haxo pax masanil nok' comon nok', junjunnhej mojanh nok' tz'ochi."
-        },
-        {
-            "number": "3",
-            "text": "Ik'paxoch uc mojanhoc junjun makan nok' much, yic wach' max lajwiel yinhtilal nok'."
-        },
-        {
-            "number": "4",
-            "text": "Yic wal ucub'ix tiknaik, ol wak'em nhab'. Chawinac k'u, chawinac ak'wal ol yak'a'. Icha chi' ol aj in satanel masanil tas ix wak' pitzwoc t'a sat lum tik, xchi Jehová t'a winh."
-        },
-        {
-            "number": "5",
-            "text": "Ichaton chi' ix aj sk'anab'ajan winhaj Noé masanil tas ix yal Jehová chi' t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Ayic ix ja jun owal ha' mucwajum chi', 600 ab'il sk'inal winhaj Noé chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ix ochkan winh t'a yol te' niwan barco chi' yet' ix yetb'eyum, heb' yuninal yet' heb' ix yalib', yic scolchaj heb' t'a jun owal ha' mucwajum chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ix ochpax nok' nok': Nok' syal yoch silab'il snhusji, nok' comon nok', nok' much yet' nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um."
-        },
-        {
-            "number": "9",
-            "text": "Junjun mojanh ix aj sjawi nok' yic tz'och nok' t'a yol barco chi' yet' winh, icha ix aj yalan Dios t'a winh."
-        },
-        {
-            "number": "10",
-            "text": "Axo t'a yuquil k'ual chi' ix jawi secnaj jun owal ha' mucwajum chi' t'a sat lu'um."
-        },
-        {
-            "number": "11",
-            "text": "Ha wal stz'acwi 600 ab'il sk'inal winhaj Noé chi', yic 17 yoch schab'il ujal, ix k'eul d'inhnaj ha' niwac ha' t'a yol lu'um, ix cotpax secnaj ha' niwac ha' t'a satcha’anh."
-        },
-        {
-            "number": "12",
-            "text": "40 k'ual, 40 ak'wal ix yak' nhab' t'a sat lu'um tik."
-        },
-        {
-            "number": "13",
-            "text": "Ha t'a sk'ual scot nhab' chi', ata' ochnakkan winhaj Noé t'a yol te' barco yet' oxwanh heb' yuninal winh, aton winhaj Sem, winhaj Cam yet' winhaj Jafet yet' ix yetb'eyum winh yet' oxwanh heb' ix yalib' winh."
-        },
-        {
-            "number": "14",
-            "text": "Ayxo och masanil makanhil nok' nok' yet' winh, nok' molb'etzal nok', nok' k'ultaquil nok', nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um yet' pax nok' much."
-        },
-        {
-            "number": "15",
-            "text": "Masanil nok' nok' syik' yik', chatacwanhil ix aj sjawi nok' t'a winhaj Noé chi' yic tz'ochkan nok' t'a yol te' barco chi',"
-        },
-        {
-            "number": "16",
-            "text": "jun nok' smam, jun nok' snun. Icha chi' ix aj yoch masanil makanhil nok', icha ix aj yalan Dios t'a winhaj Noé chi'. Ixlajwi chi', a wal Jehová ix makankan spuertail te' niwan barco chi'."
-        },
-        {
-            "number": "17",
-            "text": "Chawinac k'ualxo sk'e sib'ib'oc ha ha' chi', ix cuchjichanh te' barco chi' yuj ha'."
-        },
-        {
-            "number": "18",
-            "text": "Ix mucchaj jantac niwac witz yuj ha'."
-        },
-        {
-            "number": "19",
-            "text": "Ix k'enhej ha', ay am uqueoc metro ix ek' ha' t'a yib'anh lum niwac witz."
-        },
-        {
-            "number": "20",
-            "text": "Ichaton chi' ix aj scham masanil anima ay t'a yol yib'anhk’inal tik yet' masanil nok' nok', nok' much, nok' molb'etzal nok', nok' k'ultaquil nok' yet' nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um."
-        },
-        {
-            "number": "21",
-            "text": "Masanil tastac syik' yik' t'a sat lu'um tik, pilan ix chameli."
-        },
-        {
-            "number": "22",
-            "text": "Axonhej winhaj Noé yet' heb' ayoch yet' t'a yol te' barco chi' yet' nok' nok' ix colchaji. Axo anima smasanil, ix satel heb'."
-        },
-        {
-            "number": "23",
-            "text": "Oye' ujal ix kan panhan ha' t'a yib'anh lu'um."
-        }
-    ]
+  "chapter": "7",
+  "book": "GÉNESIS",
+  "book_short": "Gn",
+  "aligned": false,
+  "es_verses": 24,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Axo yik ix k'och sk'ual sjawi jun owal ha' mukwajum chi', ix yalan Jehová Dios t'a winhaj Noé chi' icha tik: Ochanh t'a yol te' niwan barko tik yet' ix etb'eyum, heb' uninal yet' heb' ix alib', yujto a achnhej ix a k'anab'ajej t'ayin t'a skal masanil heb' anima t'a jun pekti' tik."
+    },
+    {
+      "number": "2",
+      "text": "Ik'och uk mojanhok nok' nok' syal yoch silab'ok snhuschaji, haxo pax masanil nok' komon nok', junjunnhej mojanh nok' tz'ochi."
+    },
+    {
+      "number": "3",
+      "text": "Ik'paxoch uk mojanhok junjun makan nok' much, yik wach' max lajwiel yinhtilal nok'."
+    },
+    {
+      "number": "4",
+      "text": "Yik wal ukub'ix tiknaik, ol wak'em nhab'. Chawinak k'u, chawinak ak'wal ol yak'a'. Icha chi' ol aj in satanel masanil tas ix wak' pitzwok t'a sat lum tik, xchi Jehová t'a winh."
+    },
+    {
+      "number": "5",
+      "text": "Ichaton chi' ix aj sk'anab'ajan winhaj Noé masanil tas ix yal Jehová chi' t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Ayik ix ja jun owal ha' mukwajum chi', 600 ab'il sk'inal winhaj Noé chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ix ochkan winh t'a yol te' niwan barko chi' yet' ix yetb'eyum, heb' yuninal yet' heb' ix yalib', yik skolchaj heb' t'a jun owal ha' mukwajum chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ix ochpax nok' nok': Nok' syal yoch silab'il snhusji, nok' komon nok', nok' much yet' nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um."
+    },
+    {
+      "number": "9",
+      "text": "Junjun mojanh ix aj sjawi nok' yik tz'och nok' t'a yol barko chi' yet' winh, icha ix aj yalan Dios t'a winh."
+    },
+    {
+      "number": "10",
+      "text": "Axo t'a yukil k'ual chi' ix jawi seknaj jun owal ha' mukwajum chi' t'a sat lu'um."
+    },
+    {
+      "number": "11",
+      "text": "Ha wal stz'akwi 600 ab'il sk'inal winhaj Noé chi', yik 17 yoch schab'il ujal, ix k'eul t'inhnaj ha' niwak ha' t'a yol lu'um, ix kotpax seknaj ha' niwak ha' t'a satcha'anh."
+    },
+    {
+      "number": "12",
+      "text": "40 k'ual, 40 ak'wal ix yak' nhab' t'a sat lu'um tik."
+    },
+    {
+      "number": "13",
+      "text": "Ha t'a sk'ual skot nhab' chi', ata' ochnakkan winhaj Noé t'a yol te' barko yet' oxwanh heb' yuninal winh, haton winhaj Sem, winhaj Cam yet' winhaj Jafet yet' ix yetb'eyum winh yet' oxwanh heb' ix yalib' winh."
+    },
+    {
+      "number": "14",
+      "text": "Ayxo och masanil makanhil nok' nok' yet' winh, nok' molb'etzal nok', nok' k'ultakil nok', nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um yet' pax nok' much."
+    },
+    {
+      "number": "15",
+      "text": "Masanil nok' nok' syik' yik', chatakwanhil ix aj sjawi nok' t'a winhaj Noé chi' yik tz'ochkan nok' t'a yol te' barko chi',"
+    },
+    {
+      "number": "16",
+      "text": "jun nok' smam, jun nok' snun. Icha chi' ix aj yoch masanil makanhil nok', icha ix aj yalan Dios t'a winhaj Noé chi'. Ixlajwi chi', a wal Jehová ix makankan spuertail te' niwan barko chi'."
+    },
+    {
+      "number": "17",
+      "text": "Chawinak k'ualxo sk'e sib'ib'ok ha ha' chi', ix kuchjichanh te' barko chi' yuj ha'."
+    },
+    {
+      "number": "18",
+      "text": "Ix mukchaj jantak niwak witz yuj ha'."
+    },
+    {
+      "number": "19",
+      "text": "Ix k'enhej ha', ay am ukeok metro ix ek' ha' t'a yib'anh lum niwak witz."
+    },
+    {
+      "number": "20",
+      "text": "Ichaton chi' ix aj scham masanil anima ay t'a yol yib'anhk'inal tik yet' masanil nok' nok', nok' much, nok' molb'etzal nok', nok' k'ultakil nok' yet' nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um."
+    },
+    {
+      "number": "21",
+      "text": "Masanil tastak syik' yik' t'a sat lu'um tik, pilan ix chameli."
+    },
+    {
+      "number": "22",
+      "text": "Axonhej winhaj Noé yet' heb' ayoch yet' t'a yol te' barko chi' yet' nok' nok' ix kolchaji. Axo anima smasanil, ix satel heb'."
+    },
+    {
+      "number": "23",
+      "text": "Oye' ujal ix kan panhan ha' t'a yib'anh lu'um."
+    }
+  ]
 }

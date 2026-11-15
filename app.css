@@ -1,0 +1,171 @@
+/* Biblia Chuj · visor. Mundo: «atz'am k'ik'» (sal negra de San Mateo Ixtatán). */
+@font-face{font-family:Literata;src:url(fonts/literata-latin.woff2) format("woff2");font-weight:400 900;font-style:normal;font-display:swap}
+@font-face{font-family:Literata;src:url(fonts/literata-italic-latin.woff2) format("woff2");font-weight:400 700;font-style:italic;font-display:swap}
+@font-face{font-family:"Atkinson Hyperlegible Next";src:url(fonts/atkinson-latin.woff2) format("woff2");font-weight:400 800;font-style:normal;font-display:swap}
+
+:root{
+  --sal-negra:#1F1A17;      /* marco: franja y barra inferior */
+  --sal-negra-hondo:#100D0C;
+  --sal:#F3F5F4;            /* fondo de lectura: sal blanca, azulada */
+  --tinta:#1A1715;
+  --niebla:#4F5B5D;         /* texto secundario */
+  --brasa:#B03E15;          /* único acento: brasa del fogón */
+  --celda:#E3E8E7;          /* cristal de sal */
+  --linea:#CBD3D2;
+  --borde:#7A8789;          /* bordes de campos y controles (>=3:1) */
+  --sobre-marco:#F3F5F4;    /* letras sobre la sal negra */
+  --brasa-marco:#F28F63;
+  --leer:1.25rem;           /* tamaño de lectura (se ajusta con la preferencia) */
+  --ui:"Atkinson Hyperlegible Next",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --lec:Literata,"Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --ease:cubic-bezier(.16,1,.3,1);
+  --alto-franja:3.5rem;
+  --alto-rail:3.75rem;
+  color-scheme:light dark;
+}
+@media (prefers-color-scheme:dark){:root:not([data-tema=light]){--sal:#1E1917;--tinta:#EBEEED;--niebla:#A5B0B2;--brasa:#F0865B;--celda:#2B2421;--linea:#3B332F;--borde:#868F91;--sal-negra:#100D0C;--sal-negra-hondo:#0A0807}}
+:root[data-tema=dark]{--sal:#1E1917;--tinta:#EBEEED;--niebla:#A5B0B2;--brasa:#F0865B;--celda:#2B2421;--linea:#3B332F;--borde:#868F91;--sal-negra:#100D0C;--sal-negra-hondo:#0A0807}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:calc(var(--alto-franja) + 1rem);scroll-padding-bottom:calc(var(--alto-rail) + 5rem)}
+body{margin:0;background:var(--sal);color:var(--tinta);font-family:var(--ui);line-height:1.5;
+  padding-top:calc(var(--alto-franja) + env(safe-area-inset-top));padding-bottom:calc(var(--alto-rail) + env(safe-area-inset-bottom));min-height:100dvh;
+  scrollbar-color:var(--linea) transparent;accent-color:var(--brasa);caret-color:var(--brasa)}
+::placeholder{color:var(--niebla);opacity:1}
+::selection{background:color-mix(in oklab,var(--brasa) 28%,transparent);color:inherit}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--brasa);outline-offset:2px;border-radius:2px}
+.mast :focus-visible,.rail :focus-visible,.acciones :focus-visible{outline-color:var(--brasa-marco)}
+.skip{position:absolute;left:.5rem;top:-4rem;background:var(--sal-negra);color:var(--sobre-marco);padding:.6rem 1rem;z-index:30;border-radius:.25rem}
+.skip:focus{top:calc(.5rem + env(safe-area-inset-top))}
+.ico{width:1.5rem;height:1.5rem;flex:none;fill:none}
+[hidden]{display:none!important}
+
+/* Franja de sal negra */
+.mast{position:fixed;inset:0 0 auto 0;z-index:20;display:flex;align-items:center;gap:.25rem;
+  height:calc(var(--alto-franja) + env(safe-area-inset-top));padding:env(safe-area-inset-top) max(.5rem,env(safe-area-inset-right),calc((100% - 46rem)/2)) 0 max(.5rem,env(safe-area-inset-left),calc((100% - 46rem)/2));
+  background:var(--sal-negra);color:var(--sobre-marco)}
+.mast-ref{display:flex;align-items:center;gap:.6rem;flex:1;min-width:0;min-height:2.75rem;padding:0 .75rem;border-radius:.5rem;text-decoration:none;
+  font:700 1.125rem/1 var(--ui);letter-spacing:.005em}
+.mast-ref span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mast-ref .ico{color:var(--brasa-marco);fill:currentColor;width:1.15rem;height:1.15rem}
+.mast-btn{display:grid;place-items:center;width:2.75rem;height:2.75rem;border:0;border-radius:.5rem;background:none;color:inherit;cursor:pointer}
+.mast-ref:hover,.mast-btn:hover{background:#ffffff14}
+
+/* Lectura */
+main{outline:0}
+.lectura{max-width:38rem;margin:0 auto;padding:1.75rem max(1.25rem,env(safe-area-inset-left)) 3rem max(1.25rem,env(safe-area-inset-right))}
+.lectura.entra{animation:entra .55s var(--ease) both}
+@keyframes entra{from{opacity:0;transform:translateY(10px)}}
+.lectura h1{margin:0 0 1.5rem;font:800 clamp(2.5rem,9vw,3.75rem)/1.02 var(--lec);font-variation-settings:"opsz" 72;letter-spacing:-.02em;text-wrap:balance;hyphens:none}
+.lectura h1 .cap{color:var(--brasa)}
+.aviso{margin:0 0 1.5rem;padding:.9rem 1rem;background:var(--celda);border-radius:.5rem;font-size:.95rem;color:var(--niebla)}
+.aviso strong{color:var(--tinta);font-weight:700}
+.v{display:grid;grid-template-columns:2.35rem 1fr;align-items:baseline;margin:0;padding:.3rem .5rem .3rem 0;border-radius:.375rem;cursor:pointer;scroll-margin-top:6rem;
+  font:400 var(--leer)/1.68 var(--lec);font-variation-settings:"opsz" 14;-webkit-tap-highlight-color:transparent;overflow-wrap:break-word;hyphens:none}
+.v .n{position:relative;border:0;background:none;cursor:pointer;font:700 .72em/1 var(--ui);font-variant-numeric:tabular-nums;color:var(--brasa);padding:0 .45em 0 0;text-align:right;transform:translateY(-.1em)}
+.v .n::after{content:"";position:absolute;inset:-.9em -.2em -.9em -.6em}  /* zona táctil de 44px */
+.v .t{grid-column:2}
+.v .es{grid-column:2;margin:.15rem 0 .5rem;font:italic 400 .86em/1.5 var(--lec);color:var(--niebla)}
+.v:hover{background:color-mix(in oklab,var(--celda) 55%,transparent)}
+.v.sel{background:color-mix(in oklab,var(--brasa) 13%,transparent)}
+.v.sel .n{text-decoration:underline;text-underline-offset:.28em;text-decoration-thickness:2px}
+@media (min-width:46rem){.lectura{padding-top:3rem}.v{grid-template-columns:3rem 1fr}}
+
+/* Barra inferior */
+.rail{position:fixed;inset:auto 0 0 0;z-index:20;display:grid;grid-template-columns:1fr auto 1fr;align-items:stretch;
+  height:calc(var(--alto-rail) + env(safe-area-inset-bottom));padding:0 max(.5rem,env(safe-area-inset-right),calc((100% - 46rem)/2)) env(safe-area-inset-bottom) max(.5rem,env(safe-area-inset-left),calc((100% - 46rem)/2));
+  background:var(--sal-negra);color:var(--sobre-marco)}
+.rail a{display:flex;align-items:center;gap:.35rem;min-height:2.75rem;padding:0 .9rem;margin:.45rem 0;border-radius:.5rem;text-decoration:none;font:600 1rem/1 var(--ui);white-space:nowrap}
+.rail a:hover{background:#ffffff14}
+.rail #rail-prev{justify-self:start}.rail #rail-next{justify-self:end}
+.rail #rail-libros{gap:.55rem;color:var(--sobre-marco)}.rail #rail-libros .ico{fill:currentColor;width:1.15rem;height:1.15rem;color:var(--brasa-marco)}
+.rail a[aria-disabled=true]{opacity:.35;pointer-events:none}
+
+/* Selector: retícula de cristales de sal */
+.libros{max-width:44rem;margin:0 auto;padding:1.5rem max(1rem,env(safe-area-inset-left)) 3rem}
+.libros h1{margin:0 0 .25rem;font:800 clamp(2.25rem,8vw,3.25rem)/1.05 var(--lec);font-variation-settings:"opsz" 72;letter-spacing:-.02em}
+.libros h2{margin:2.25rem 0 .75rem;font:700 .95rem/1.2 var(--ui);letter-spacing:.04em;text-transform:uppercase;color:var(--niebla)}
+.sin-res{margin:1.5rem 0;color:var(--niebla)}
+.libros .sub{margin:0 0 1.25rem;color:var(--niebla)}
+.seguir{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin:1.25rem 0 0;padding:1rem 1.1rem;border-radius:.5rem;background:var(--sal-negra);color:var(--sobre-marco);text-decoration:none;font:700 1.1rem/1.2 var(--ui)}
+.seguir small{display:block;font:400 .9rem/1.3 var(--ui);color:#C9D1D0;margin-bottom:.2rem}
+.seguir .ico{color:var(--brasa-marco)}
+.retic{display:grid;grid-template-columns:repeat(auto-fill,minmax(7.6rem,1fr));gap:2px;padding:1px}
+.retic.caps{grid-template-columns:repeat(auto-fill,minmax(3.6rem,1fr))}
+.celda{position:relative;box-shadow:0 0 0 1px var(--linea);display:flex;flex-direction:column;justify-content:center;min-height:4.25rem;padding:.6rem .7rem;text-decoration:none;color:var(--tinta);
+  background:linear-gradient(225deg,var(--linea) 0 .75rem,transparent calc(.75rem + 1px)),linear-gradient(45deg,var(--linea) 0 .4rem,transparent calc(.4rem + 1px)),var(--celda)}
+.celda .cod{font:800 1.2rem/1.1 var(--ui);letter-spacing:.01em}
+.celda .nom{font:400 .9rem/1.25 var(--ui);color:var(--niebla);margin-top:.2rem;overflow-wrap:break-word;hyphens:auto}
+.celda:hover{background:linear-gradient(225deg,var(--linea) 0 .75rem,transparent calc(.75rem + 1px)),linear-gradient(45deg,var(--linea) 0 .4rem,transparent calc(.4rem + 1px)),color-mix(in oklab,var(--celda) 80%,var(--tinta))}
+.retic.caps .celda{min-height:3.6rem;align-items:center;font:800 1.2rem/1 var(--ui);font-variant-numeric:tabular-nums}
+.celda[aria-current=true]{box-shadow:0 0 0 1px var(--linea),inset 0 -.28rem 0 var(--brasa)}
+.celda.ultimo::before{content:"";position:absolute;left:.7rem;bottom:.45rem;width:1.1rem;height:.2rem;background:var(--brasa)}
+.retic.entra .celda{animation:entra .5s var(--ease) both;animation-delay:calc(var(--i,0) * 14ms)}
+.libros .btn{margin-top:1.5rem}
+.filtro{display:block;width:100%;min-height:3rem;margin:0 0 .5rem;padding:.6rem .9rem;border:2px solid var(--borde);border-radius:.4rem;background:var(--sal);color:var(--tinta);font:400 1.05rem/1.2 var(--ui)}
+.filtro:focus{border-color:var(--brasa);outline:0}
+
+/* Búsqueda */
+.buscar{max-width:42rem;margin:0 auto;padding:1.5rem max(1rem,env(safe-area-inset-left)) 3rem}
+.buscar .campo{display:flex;gap:.5rem}
+.buscar input[type=search]{flex:1;min-width:0;min-height:3.25rem;padding:.6rem 1rem;border:2px solid var(--borde);border-radius:.4rem;background:var(--sal);color:var(--tinta);font:400 1.2rem/1.2 var(--lec)}
+.buscar input[type=search]:focus{border-color:var(--brasa);outline:0}
+.buscar .info{margin:.9rem 0;color:var(--niebla);font-size:.95rem}
+.res{list-style:none;margin:0;padding:0}
+.res li{border-top:1px solid var(--linea)}
+.res a{display:block;padding:.85rem .25rem;text-decoration:none}
+.res a:hover{background:color-mix(in oklab,var(--celda) 55%,transparent)}
+.res .r{font:700 .9rem/1 var(--ui);color:var(--brasa);margin-bottom:.35rem;font-variant-numeric:tabular-nums}
+.res .x{font:400 1.05rem/1.55 var(--lec)}
+.res mark{background:color-mix(in oklab,var(--brasa) 22%,transparent);color:inherit;border-radius:.15rem;padding:0 .05em}
+
+.estado{max-width:38rem;margin:0 auto;padding:0 1.25rem;color:var(--niebla)}
+.estado:empty{display:none}
+.estado.error{padding-top:2rem;color:var(--tinta)}
+.estado .btn{margin-top:1rem}
+
+/* Botones */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:2.9rem;padding:0 1.1rem;border:2px solid var(--tinta);border-radius:.4rem;background:transparent;color:var(--tinta);font:700 1rem/1 var(--ui);cursor:pointer}
+.btn:hover{background:var(--tinta);color:var(--sal)}
+.btn .ico{width:1.25rem;height:1.25rem}
+
+/* Barra de acciones de versículo */
+.acciones{position:fixed;left:0;right:0;bottom:calc(var(--alto-rail) + env(safe-area-inset-bottom));z-index:19;display:flex;align-items:center;gap:.25rem;
+  padding:.4rem max(.5rem,env(safe-area-inset-right)) .4rem max(.75rem,env(safe-area-inset-left));background:var(--sal-negra-hondo);color:var(--sobre-marco);
+  box-shadow:0 -10px 24px -12px #000a;animation:sube .35s var(--ease) both}
+@keyframes sube{from{transform:translateY(100%)}}
+.acciones #acc-ref{flex:1;font:700 .95rem/1.2 var(--ui);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.acciones button{display:inline-flex;align-items:center;gap:.4rem;min-height:2.75rem;padding:0 .8rem;border:0;border-radius:.4rem;background:none;color:inherit;font:600 .95rem/1 var(--ui);cursor:pointer}
+.acciones button:hover{background:#ffffff1a}
+
+/* Ajustes (popover) */
+.ajustes{margin:0;max-height:calc(100dvh - var(--alto-franja) - env(safe-area-inset-top) - 1rem);overflow:auto;overscroll-behavior:contain;position:fixed;inset:calc(var(--alto-franja) + env(safe-area-inset-top) + .35rem) .5rem auto auto;width:min(22rem,calc(100vw - 1rem));padding:1.1rem 1.1rem .9rem;
+  border:1px solid var(--linea);border-radius:.6rem;background:var(--sal);color:var(--tinta);box-shadow:0 18px 40px -16px #000b}
+.ajustes::backdrop{background:transparent}
+.ajustes h2{margin:0 0 .75rem;font:800 1.2rem/1.1 var(--lec)}
+.fila{display:flex;flex-direction:column;gap:.5rem;margin:0 0 1rem;padding:0;border:0}
+.fila legend,.fila>span{padding:0;font:700 .9rem/1.2 var(--ui);color:var(--niebla)}
+.stepper{display:flex;align-items:center;gap:.5rem}
+.stepper button{min-width:3.25rem;min-height:2.9rem;border:2px solid var(--tinta);border-radius:.4rem;background:none;color:var(--tinta);font:800 1.15rem/1 var(--ui);cursor:pointer}
+.stepper button:hover:not(:disabled){background:var(--tinta);color:var(--sal)}
+.stepper button:disabled{opacity:.35;cursor:default}
+.stepper small{font-size:.8em;margin-left:.1em}
+.stepper output{flex:1;text-align:center;color:var(--niebla);font-variant-numeric:tabular-nums}
+.seg{display:grid;grid-template-columns:repeat(3,1fr);gap:.2rem;padding:.2rem;border:2px solid var(--tinta);border-radius:.5rem}
+.seg label{display:block}.seg input{position:absolute;opacity:0;pointer-events:none}
+.seg span{display:grid;place-items:center;min-height:2.5rem;border-radius:.25rem;font:700 .95rem/1 var(--ui);cursor:pointer}
+.seg input:checked+span{background:var(--tinta);color:var(--sal)}
+.seg input:focus-visible+span{outline:3px solid var(--brasa);outline-offset:-5px}
+.sw{display:flex;gap:.75rem;align-items:flex-start;cursor:pointer;font:600 1rem/1.3 var(--ui)}
+.sw small{display:block;font:400 .9rem/1.35 var(--ui);color:var(--niebla);margin-top:.15rem}
+.sw input{position:absolute;opacity:0}
+.sw-box{flex:none;width:1.6rem;height:1.6rem;margin-top:.05rem;border:2px solid var(--tinta);border-radius:.3rem;position:relative}
+.sw input:checked+.sw-box{background:var(--brasa);border-color:var(--brasa)}
+.sw input:checked+.sw-box::after{content:"";position:absolute;left:.4rem;top:.1rem;width:.45rem;height:.85rem;border:solid var(--sal);border-width:0 3px 3px 0;transform:rotate(45deg)}
+.sw input:focus-visible+.sw-box{outline:3px solid var(--brasa);outline-offset:2px}
+.nota{margin:0;font-size:.9rem;color:var(--niebla)}
+.pie{margin:1rem 0 0;padding-top:.8rem;border-top:1px solid var(--linea);font-size:.9rem;color:var(--niebla)}
+
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+@media print{.mast,.rail,.acciones,.ajustes{display:none}body{padding:0}.v:hover{background:none}}

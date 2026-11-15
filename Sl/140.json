@@ -1,53 +1,57 @@
 {
-    "chapter": "140",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, colinel t'a yol sk'ab' heb' sk'ulan chukal, k'ub'ej in el t'a heb' b'aj malaj yelk'och a k'ayb'ub'al,"
-        },
-        {
-            "number": "2",
-            "text": "yet' t'a yol sk'ab' heb' naannhej chukal yuj, yujto anhej owal sna heb' t'a masanil tiempo."
-        },
-        {
-            "number": "3",
-            "text": "Ha sti' heb' icha wal sti' nok' chan, a tas syal heb' icha wal swenenoal sti' junok nok' chan smilan anima."
-        },
-        {
-            "number": "4",
-            "text": "Mamin Jehová, k'ub'ej in el t'a heb' sk'ulan chukal, heb' malaj yelk'och a k'ayb'ub'al t'ay, heb' naannhej yuj tas tz'aj in yak'an telwoc."
-        },
-        {
-            "number": "5",
-            "text": "Ha juntzanh heb' anima syik'chaanh sb'a chi', ix yak'em yaal heb' t'a yol in b'e."
-        },
-        {
-            "number": "6",
-            "text": "Mamin Jehová, a t'ayach ix wala': In Diosal ach, ab' tas swala' ayic tzin awaji swalan in b'a t'ayach."
-        },
-        {
-            "number": "7",
-            "text": "Mamin Dios, ach Vajalil, in Kolumal to syalnhej uuj, a ach ton tzin a col t'a skal owal, xin chi."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová, manh ak' snib'ej heb' sk'ulan chukal, manh ak' snib'ej spensar heb' yic max yik'chaanh sb'a heb'. Ha heb' tzoymajoch t'ayin, sna tastac heb', palta aokab' tas sna heb' chi' scot t'a yib'anh."
-        },
-        {
-            "number": "9",
-            "text": "Emokab' tzak'ak' chac xilinac t'a yib'anh heb', b'atokab' heb' t'a skal k'ak'. Yumjokab'b'at heb' t'a yol xab' olan, b'aj maxtzac yal-laj sk'eta heb'."
-        },
-        {
-            "number": "10",
-            "text": "Mocxob' kajnajek' heb' alum chukal lolonel t'a sat lu'um tik. Jawokab' yaelal t'a yib'anh heb' malaj yelk'och a k'ayb'ub'al t'ay, satokab'el heb'."
-        },
-        {
-            "number": "11",
-            "text": "Vojtak a in tik to a ach tza b'o yaj yowal heb' meb'a', tza colanel heb' t'a yol sk'ab' heb' tz'ik'ankanek' junok tas t'a heb'."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' anima wach' spensar, ol yal wach' lolonel heb' t'ayach. Ha heb' anima tojol sb'eyb'al, ol ajnhejek' heb' t'a ichanh."
-        }
-    ]
+  "chapter": "140",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, kolinel t'a yol sk'ab' heb' sk'ulan chukal, k'ub'ej in el t'a heb' b'aj malaj yelk'och a k'ayb'ub'al,"
+    },
+    {
+      "number": "2",
+      "text": "yet' t'a yol sk'ab' heb' naannhej chukal yuj, yujto anhej owal sna heb' t'a masanil tiempo."
+    },
+    {
+      "number": "3",
+      "text": "Ha sti' heb' icha wal sti' nok' chan, a tas syal heb' icha wal swenenoal sti' junok nok' chan smilan anima."
+    },
+    {
+      "number": "4",
+      "text": "Mamin Jehová, k'ub'ej in el t'a heb' sk'ulan chukal, heb' malaj yelk'och a k'ayb'ub'al t'ay, heb' naannhej yuj tas tz'aj in yak'an telwok."
+    },
+    {
+      "number": "5",
+      "text": "Ha juntzanh heb' anima syik'chaanh sb'a chi', ix yak'em yaal heb' t'a yol in b'e."
+    },
+    {
+      "number": "6",
+      "text": "Mamin Jehová, a t'ayach ix wala': In Diosal ach, ab' tas swala' ayik tzin awaji swalan in b'a t'ayach."
+    },
+    {
+      "number": "7",
+      "text": "Mamin Dios, ach Wajalil, in Kolumal to syalnhej uuj, a ach ton tzin a kol t'a skal owal, xin chi."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová, manh ak' snib'ej heb' sk'ulan chukal, manh ak' snib'ej spensar heb' yik max yik'chaanh sb'a heb'. Ha heb' tzoymajoch t'ayin, sna tastak heb', palta aokab' tas sna heb' chi' skot t'a yib'anh."
+    },
+    {
+      "number": "9",
+      "text": "Emokab' tzak'ak' chak xilinak t'a yib'anh heb', b'atokab' heb' t'a skal k'ak'. Yumjokab'b'at heb' t'a yol xab' olan, b'aj maxtzak yal-laj sk'eta heb'."
+    },
+    {
+      "number": "10",
+      "text": "Mokxob' kajnajek' heb' alum chukal lolonel t'a sat lu'um tik. Jawokab' yaelal t'a yib'anh heb' malaj yelk'och a k'ayb'ub'al t'ay, satokab'el heb'."
+    },
+    {
+      "number": "11",
+      "text": "Wojtak a in tik to a ach tza b'o yaj yowal heb' meb'a', tza kolanel heb' t'a yol sk'ab' heb' tz'ik'ankanek' junok tas t'a heb'."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' anima wach' spensar, ol yal wach' lolonel heb' t'ayach. Ha heb' anima tojol sb'eyb'al, ol ajnhejek' heb' t'a ichanh."
+    }
+  ]
 }

@@ -1,41 +1,45 @@
 {
-    "chapter": "149",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. Co b'itejec ak' b'it t'a Jehová. Co b'itejec b'it t'ay b'aj molan onh ek' a onh yic onhxo tik."
-        },
-        {
-            "number": "2",
-            "text": "Ex wetisraelal, conh tzalajec yet' ko Diosal chaannaquel yich ko nación tik. Conh tzalajec yet' ko Reyal a onh aj chonhab' Sion onh tik."
-        },
-        {
-            "number": "3",
-            "text": "Conh k'eec cheneljoc skalanec wach' lolonel t'a Jehová, yic skak'an ejmelal t'ay. Conh b'itanec t'ay yet' te' arpa yet' pandereta,"
-        },
-        {
-            "number": "4",
-            "text": "yujto stzalaj qued'oc a onh schonhab' onh tik. Ol yak' ko tzalajk'olal a onh emnaquil onh tik, yujto ol yak' ko colnab'il."
-        },
-        {
-            "number": "5",
-            "text": "Yuj sniwanil yelk'och Jehová, conh tzalajec a onh yic onhxo tik. Anhejtona' conh b'itanec t'ay yuj tzalajk'olal ayic tzonh waykan ochi."
-        },
-        {
-            "number": "6",
-            "text": "Q'ueokab' cav ko b'itan d'ha Dios, haxo jun k'een espada ay ye t'a schab'il pak'anh yamb'il cuuj,"
-        },
-        {
-            "number": "7",
-            "text": "yic skak'anek' ko pac t'a heb' ch'oc chonhab'il, skak'anoch yaelal t'a juntzanh nación,"
-        },
-        {
-            "number": "8",
-            "text": "yic wach' tz'och k'een cadena t'a sreyal heb' yet' t'a heb' anima ay yopisio t'a skal heb',"
-        },
-        {
-            "number": "9",
-            "text": "yic skotkan yaelal t'a yib'anh heb', aton tz'ib'yajkani. Ha jun niwan opisio tik syak' Dios t'a masanil heb' sk'anab'ajan t'ay. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "149",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. Ko b'itejek ak' b'it t'a Jehová. Ko b'itejek b'it t'ay b'aj molan onh ek' a onh yik onhxo tik."
+    },
+    {
+      "number": "2",
+      "text": "Ex wetisraelal, konh tzalajek yet' ko Diosal chaannakel yich ko nakión tik. Konh tzalajek yet' ko Reyal a onh aj chonhab' Sion onh tik."
+    },
+    {
+      "number": "3",
+      "text": "Konh k'eek cheneljok skalanek wach' lolonel t'a Jehová, yik skak'an ejmelal t'ay. Konh b'itanek t'ay yet' te' arpa yet' pandereta,"
+    },
+    {
+      "number": "4",
+      "text": "yujto stzalaj ket'ok a onh schonhab' onh tik. Ol yak' ko tzalajk'olal a onh emnakil onh tik, yujto ol yak' ko kolnab'il."
+    },
+    {
+      "number": "5",
+      "text": "Yuj sniwanil yelk'och Jehová, konh tzalajek a onh yik onhxo tik. Anhejtona' konh b'itanek t'ay yuj tzalajk'olal ayik tzonh waykan ochi."
+    },
+    {
+      "number": "6",
+      "text": "Q'ueokab' kaw ko b'itan t'a Dios, haxo jun k'een espada ay ye t'a schab'il pak'anh yamb'il kuuj,"
+    },
+    {
+      "number": "7",
+      "text": "yik skak'anek' ko pak t'a heb' ch'ok chonhab'il, skak'anoch yaelal t'a juntzanh nakión,"
+    },
+    {
+      "number": "8",
+      "text": "yik wach' tz'och k'een kadena t'a sreyal heb' yet' t'a heb' anima ay yopisio t'a skal heb',"
+    },
+    {
+      "number": "9",
+      "text": "yik skotkan yaelal t'a yib'anh heb', haton tz'ib'yajkani. Ha jun niwan opisio tik syak' Dios t'a masanil heb' sk'anab'ajan t'ay. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

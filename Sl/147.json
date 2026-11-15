@@ -1,85 +1,89 @@
 {
-    "chapter": "147",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. Manhxo jantacoc swach'il ko b'itan b'it t'a ko Diosal. Smojton wal ko b'itan t'ay yet' juntzanh b'it te wach'."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jehová sb'oanxi Jerusalén, ol smolb'ejxicot heb' quetisraelal sacleminac yajkanb'ati."
-        },
-        {
-            "number": "3",
-            "text": "Ha tz'ak'an sniwanil sk'ol heb' pitz'anoch cuselal t'a spixan. A' tz'anhtan syaelal heb' chi'."
-        },
-        {
-            "number": "4",
-            "text": "A' na'annac jantac sb'isul k'een k'anal sb'onac, yak'annacoch sb'i junjun k'een."
-        },
-        {
-            "number": "5",
-            "text": "Yelxo wal te niwan yelk'och ko Diosal tik, niwan spoder, malaj slajwub'al sjelanil."
-        },
-        {
-            "number": "6",
-            "text": "A' tz'ik'an k'e waan heb' anima emnaquil yeq'ui, palta a heb' sk'ulan chukal, tz'ik'chajkanem heb' sik'lab'il yuj."
-        },
-        {
-            "number": "7",
-            "text": "Co b'itejec Jehová yic skak'an yuj diosal yet' te' arpa sko b'itejec."
-        },
-        {
-            "number": "8",
-            "text": "A' tz'ak'anoch asun t'a satcha’anh, slajwi chi' syak'ancot nhab' t'a sat lu'um tik. A' tz'ak'an q'uib' anh ank'ultak t'a tzalquixtac."
-        },
-        {
-            "number": "9",
-            "text": "Anhejton pax ha' tz'ak'an swael nok' nok' yet' nok' yunetac joj ayic tz'el yav nok' yuj wejel."
-        },
-        {
-            "number": "10",
-            "text": "Ha Jehová, max tzalajlaj yet' heb' anima tz'ak'anoch yip nok' chej, ma yipal heb' soldado yipoc sk'ool."
-        },
-        {
-            "number": "11",
-            "text": "Palta stzalaj yet' heb' ay xivk'olal t'ay, aton heb' tz'ak'anoch swach'k'olal yipoc sk'ool."
-        },
-        {
-            "number": "12",
-            "text": "Ex aj Jerusalén, kalek wach' lolonel t'a Jehová. Ex aj Sion, ko b'itejec ko Diosal."
-        },
-        {
-            "number": "13",
-            "text": "A' tz'ak'anoch yip yijchuloc spuertail chonhab' Jerusalén, syak'anpax swach'k'olal t'a heb' cuninal."
-        },
-        {
-            "number": "14",
-            "text": "A' tz'ak'an junk'olal t'a yol smacb'en ko chonhab' tik, syak'anpax b'ud'joc yuj ixim trigo te wach'."
-        },
-        {
-            "number": "15",
-            "text": "A' tz'ak'ancot slolonel t'a sat lu'um tik, elanhchamel tz'elk'ochi."
-        },
-        {
-            "number": "16",
-            "text": "Ha ko Diosal tz'ak'ancot k'een sacb'akom icha yilji sac lana. A' tz'ak'anoch k'een cheev pokokal, icha k'een tik'aq'uil taanh tz'ajkan k'een."
-        },
-        {
-            "number": "17",
-            "text": "A' tz'ak'ancot k'een sacb'at icha k'een cotac k'een. Axo wal sical k'een, malaj junok mach stechaj yuj."
-        },
-        {
-            "number": "18",
-            "text": "Syalanpaxi to tz'ulaxb'at k'een, syak'ancot ik', yic sb'ey yalil k'een chi'."
-        },
-        {
-            "number": "19",
-            "text": "Ha slolonel yet' sk'ayb'ub'al, ix yak' cojtaquejel a onh israel yinhtilal onh winhaj Jacob tik."
-        },
-        {
-            "number": "20",
-            "text": "Manh ichocta' ix yutej t'a junocxo nación. Maj yojtaquejel-laj sk'ayb'ub'al ko Diosal juntzanhxo chonhab' chi'. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "147",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. Manhxo jantakok swach'il ko b'itan b'it t'a ko Diosal. Smojton wal ko b'itan t'ay yet' juntzanh b'it te wach'."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jehová sb'oanxi Jerusalén, ol smolb'ejxikot heb' ketisraelal sakleminak yajkanb'ati."
+    },
+    {
+      "number": "3",
+      "text": "Ha tz'ak'an sniwanil sk'ol heb' pitz'anoch kuselal t'a spixan. A' tz'anhtan syaelal heb' chi'."
+    },
+    {
+      "number": "4",
+      "text": "A' na'annak jantak sb'isul k'een k'anal sb'onak, yak'annakoch sb'i junjun k'een."
+    },
+    {
+      "number": "5",
+      "text": "Yelxo wal te niwan yelk'och ko Diosal tik, niwan spoder, malaj slajwub'al sjelanil."
+    },
+    {
+      "number": "6",
+      "text": "A' tz'ik'an k'e waan heb' anima emnakil yeq'ui, palta a heb' sk'ulan chukal, tz'ik'chajkanem heb' sik'lab'il yuj."
+    },
+    {
+      "number": "7",
+      "text": "Ko b'itejek Jehová yik skak'an yuj diosal yet' te' arpa sko b'itejek."
+    },
+    {
+      "number": "8",
+      "text": "A' tz'ak'anoch asun t'a satcha'anh, slajwi chi' syak'ankot nhab' t'a sat lu'um tik. A' tz'ak'an q'uib' anh ank'ultak t'a tzalkixtak."
+    },
+    {
+      "number": "9",
+      "text": "Anhejton pax ha' tz'ak'an swael nok' nok' yet' nok' yunetak joj ayik tz'el yaw nok' yuj wejel."
+    },
+    {
+      "number": "10",
+      "text": "Ha Jehová, max tzalajlaj yet' heb' anima tz'ak'anoch yip nok' chej, ma yipal heb' soldado yipok sk'ool."
+    },
+    {
+      "number": "11",
+      "text": "Palta stzalaj yet' heb' ay xiwk'olal t'ay, haton heb' tz'ak'anoch swach'k'olal yipok sk'ool."
+    },
+    {
+      "number": "12",
+      "text": "Ex aj Jerusalén, kalek wach' lolonel t'a Jehová. Ex aj Sion, ko b'itejek ko Diosal."
+    },
+    {
+      "number": "13",
+      "text": "A' tz'ak'anoch yip yijchulok spuertail chonhab' Jerusalén, syak'anpax swach'k'olal t'a heb' kuninal."
+    },
+    {
+      "number": "14",
+      "text": "A' tz'ak'an junk'olal t'a yol smakb'en ko chonhab' tik, syak'anpax b'ut'jok yuj ixim trigo te wach'."
+    },
+    {
+      "number": "15",
+      "text": "A' tz'ak'ankot slolonel t'a sat lu'um tik, elanhchamel tz'elk'ochi."
+    },
+    {
+      "number": "16",
+      "text": "Ha ko Diosal tz'ak'ankot k'een sakb'akom icha yilji sak lana. A' tz'ak'anoch k'een cheew pokokal, icha k'een tik'aq'uil taanh tz'ajkan k'een."
+    },
+    {
+      "number": "17",
+      "text": "A' tz'ak'ankot k'een sakb'at icha k'een kotak k'een. Axo wal sikal k'een, malaj junok mach stechaj yuj."
+    },
+    {
+      "number": "18",
+      "text": "Syalanpaxi to tz'ulaxb'at k'een, syak'ankot ik', yik sb'ey yalil k'een chi'."
+    },
+    {
+      "number": "19",
+      "text": "Ha slolonel yet' sk'ayb'ub'al, ix yak' kojtakejel a onh israel yinhtilal onh winhaj Jacob tik."
+    },
+    {
+      "number": "20",
+      "text": "Manh ichokta' ix yutej t'a junokxo nakión. Maj yojtakejel-laj sk'ayb'ub'al ko Diosal juntzanhxo chonhab' chi'. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

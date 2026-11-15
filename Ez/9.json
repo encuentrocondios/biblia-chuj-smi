@@ -1,49 +1,53 @@
 {
-    "chapter": "9",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi', te chaanh ix wab' yoch jun av: Cotokab' heb' ol ak'anoch yaelal t'a jun chonhab' tik, junjun heb' yet'nacokab' syamk'ab' yic owal yic satanel heb', xchi."
-        },
-        {
-            "number": "2",
-            "text": "Ix wilani to ay wacwanh heb' winh winak ix och t'a yol jun niwan puerta ay t'a stojolal norte, junjun heb' winh yet'nac syamk'ab' b'aj smak'cham anima. Ha t'a skal heb' winh chi', ix wilpax scot jun winh ayoch spichul nab'a lino. Ha t'a snanhal winh, ata' ayoch syamk'ab' yic tz'ib'. Ix wilan yoch heb' winh, ix ochk'och heb' winh t'a slak'anil altar nab'a bronce."
-        },
-        {
-            "number": "3",
-            "text": "Axo stziquiquial Jehová ko Diosal a onh israel onh tik ix k'e waan, ix el t'a yib'anh juntzanh yechel querubín, b'aj aytaxoneq'ui, ix kan t'a spuertail templo chi'. Ha Jehová chi' ix awtan jun winh ayoch pichul lino chi' yuj, aton jun winh ed'jinac yamk'ab' yic tz'ib' t'a snanhal."
-        },
-        {
-            "number": "4",
-            "text": "Ix yalan Jehová chi' t'a winh icha tik: Ek'anh t'a masanil yol chonhab' Jerusalén tik, tzak'anoch yechel t'a snanhal sat masanil anima tz'ok' yuj chukal yajb'entac sk'ulej heb' anima t'a chonhab' tik, xchi."
-        },
-        {
-            "number": "5",
-            "text": "Ixlajwi chi' ix wab'an yalanxi t'a heb' winh ed'jinac syamk'ab' yic owal chi': Ixiquec t'a spatictac winh chi', tzex ek' t'a kal chonhab' tik smasanil, mokab' ok' he k'ol t'a heb' anima, tze milcham"
-        },
-        {
-            "number": "6",
-            "text": "masanil heb' winh ichamtac winak, heb' winh kelemtac, heb' ix cob'estac, heb' ix ix yet' heb' unin, masanto manhxalaj junok heb' skani. Palta manh he milcham junok heb' ayoch yechel t'a snanhal chi'. Tze chael yich t'a in templo tik, xchi Jehová. Ix schaanel yich heb' winh smilancham heb' winh ichamtac winak ayek' t'a yamaq'uil templo chi'."
-        },
-        {
-            "number": "7",
-            "text": "Ixlajwi chi', ix yalan Jehová t'a heb' winh icha tik: Ixtejequel templo tik, tzeyak'an b'ud'joc yamaq'uil yuj sniwanil heb' scham chi', slajwi chi' tzex b'ati, xchi. Ix wilan sb'at lemnaj heb' winh b'ian, ix och ijan heb' winh smilancham heb' anima t'a masanil yol chonhab' chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ayic wan smilancham heb' anima chi' heb' winh, a inxonhej in kan t'a yichanh Jehová, ix in em nhojan t'a sat lu'um, ix te kus in k'ool, yuj chi' ix el wav: Mamin Jehová Vajalil, ¿tom ol a satel masanil heb' aytocan t'a Israel yuj yowal a k'ol t'a Jerusalén tik? xin chi."
-        },
-        {
-            "number": "9",
-            "text": "Ix tak'wi t'ayin icha tik: Ha wal smul heb' aj Israel yet' heb' aj Judá tik, yelxo wal te niwan. Yelxo wal b'ud'jinaquel yol juntzanh chonhab' chi' yuj sniwanil heb' anima smiljichamoc. Manhxa jab'oc tojolal sk'ulej heb'. Ha snaan heb' to toxo ix wactejkan jun nación tik, maxtzac wil tas sk'ulej heb' snaani."
-        },
-        {
-            "number": "10",
-            "text": "Ha ticnaik maxtzac ok' in k'ol t'a heb', ol wak'xonhejoch syaelal heb' yuj masanil tas tz'el sk'ulani, xchi Jehová."
-        },
-        {
-            "number": "11",
-            "text": "Ixlajwi chi', ix jax jun winh winak ayoch lino spichuloc chi', yet'nac pax yamk'ab' yic tz'ib' t'a snanhal, ix yalan winh icha tik: Mamin Vajalil, toxo ix in k'anab'ajej tas ix a chec in k'ulej, xchi winh."
-        }
-    ]
+  "chapter": "9",
+  "book": "EZEQUIEL",
+  "book_short": "Ez",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi', te chaanh ix wab' yoch jun aw: Kotokab' heb' ol ak'anoch yaelal t'a jun chonhab' tik, junjun heb' yet'nakokab' syamk'ab' yik owal yik satanel heb', xchi."
+    },
+    {
+      "number": "2",
+      "text": "Ix wilani to ay wakwanh heb' winh winak ix och t'a yol jun niwan puerta ay t'a stojolal norte, junjun heb' winh yet'nak syamk'ab' b'aj smak'cham anima. Ha t'a skal heb' winh chi', ix wilpax skot jun winh ayoch spichul nab'a lino. Ha t'a snanhal winh, ata' ayoch syamk'ab' yik tz'ib'. Ix wilan yoch heb' winh, ix ochk'och heb' winh t'a slak'anil altar nab'a bronke."
+    },
+    {
+      "number": "3",
+      "text": "Axo stzikikial Jehová ko Diosal a onh israel onh tik ix k'e waan, ix el t'a yib'anh juntzanh yechel querubín, b'aj aytaxoneq'ui, ix kan t'a spuertail templo chi'. Ha Jehová chi' ix awtan jun winh ayoch pichul lino chi' yuj, haton jun winh et'jinak yamk'ab' yik tz'ib' t'a snanhal."
+    },
+    {
+      "number": "4",
+      "text": "Ix yalan Jehová chi' t'a winh icha tik: Ek'anh t'a masanil yol chonhab' Jerusalén tik, tzak'anoch yechel t'a snanhal sat masanil anima tz'ok' yuj chukal yajb'entak sk'ulej heb' anima t'a chonhab' tik, xchi."
+    },
+    {
+      "number": "5",
+      "text": "Ixlajwi chi' ix wab'an yalanxi t'a heb' winh et'jinak syamk'ab' yik owal chi': Ixikek t'a spatiktak winh chi', tzex ek' t'a kal chonhab' tik smasanil, mokab' ok' he k'ol t'a heb' anima, tze milcham"
+    },
+    {
+      "number": "6",
+      "text": "masanil heb' winh ichamtak winak, heb' winh kelemtak, heb' ix kob'estak, heb' ix ix yet' heb' unin, masanto manhxalaj junok heb' skani. Palta manh he milcham junok heb' ayoch yechel t'a snanhal chi'. Tze chael yich t'a in templo tik, xchi Jehová. Ix schaanel yich heb' winh smilancham heb' winh ichamtak winak ayek' t'a yamaq'uil templo chi'."
+    },
+    {
+      "number": "7",
+      "text": "Ixlajwi chi', ix yalan Jehová t'a heb' winh icha tik: Ixtejekel templo tik, tzeyak'an b'ut'jok yamaq'uil yuj sniwanil heb' scham chi', slajwi chi' tzex b'ati, xchi. Ix wilan sb'at lemnaj heb' winh b'ian, ix och ijan heb' winh smilancham heb' anima t'a masanil yol chonhab' chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ayik wan smilancham heb' anima chi' heb' winh, a inxonhej in kan t'a yichanh Jehová, ix in em nhojan t'a sat lu'um, ix te kus in k'ool, yuj chi' ix el waw: Mamin Jehová Wajalil, ¿tom ol a satel masanil heb' aytokan t'a Israel yuj yowal a k'ol t'a Jerusalén tik? xin chi."
+    },
+    {
+      "number": "9",
+      "text": "Ix tak'wi t'ayin icha tik: Ha wal smul heb' aj Israel yet' heb' aj Judá tik, yelxo wal te niwan. Yelxo wal b'ut'jinakel yol juntzanh chonhab' chi' yuj sniwanil heb' anima smiljichamok. Manhxa jab'ok tojolal sk'ulej heb'. Ha snaan heb' to toxo ix waktejkan jun nakión tik, maxtzak wil tas sk'ulej heb' snaani."
+    },
+    {
+      "number": "10",
+      "text": "Ha tiknaik maxtzak ok' in k'ol t'a heb', ol wak'xonhejoch syaelal heb' yuj masanil tas tz'el sk'ulani, xchi Jehová."
+    },
+    {
+      "number": "11",
+      "text": "Ixlajwi chi', ix jax jun winh winak ayoch lino spichulok chi', yet'nak pax yamk'ab' yik tz'ib' t'a snanhal, ix yalan winh icha tik: Mamin Wajalil, toxo ix in k'anab'ajej tas ix a chek in k'ulej, xchi winh."
+    }
+  ]
 }

@@ -1,29 +1,33 @@
 {
-    "chapter": "20",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha winhaj Sargón sreyal Asiria, ix schecb'at heb' soldado winh yet' jun yajalil heb' t'a chonhab' Asdod, yic syak'an owal heb' t'ay. Ix yak' ganar jun chonhab' chi' heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a jun pekti’ chi', ix yal Jehová t'ayin Isaías in tik icha tik: Ik'el a pichul ya swa ayoch chi' uuj yet' a xanhab', xchi. Ix in k'anab'ajan in k'ulan icha ix yal chi', ix wik'anel in xanhab' yet' in pichul chi', axonhej yol in pichul ix kani."
-        },
-        {
-            "number": "3",
-            "text": "Ixlajwi chi', ix yalan Jehová icha tik: Ha winh in chekab' aj Isaías tik, oxe' ab'il ix b'eyek' winh t'a yoc. Malaj xanhab' winh ayochi, anhej pax yol spichul winh ayochi. Ha jun tik, ch'oxnab'il yaj t'a Egipto yet' t'a Etiopía."
-        },
-        {
-            "number": "4",
-            "text": "Yujto ol ik'jocb'at heb' aj Egipto yet' heb' aj Etiopía chi' yuj heb' aj Asiria. Ol ik'jocb'at heb' icham anima yet' heb' kelemtac. Ayic ol ik'jocb'at heb' chi', malaj xanhab' heb' ayochi, malaj pax spichul heb', b'eranelta syoop heb' yic tz'ak'ji q'uixwelal heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' anima ayoch Egipto yet' Etiopía yipoc sk'ool, ol xivk'e heb', ol q'uixwoc heb' yuj tas ol ujok chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ha t'a jun pekti’ chi', a heb' anima kajan t'a stitac ha' mar, ol yal heb' icha tik: Ilecnab' tas tz'aj heb' ayoch yipoc ko k'ool, aton heb' b'aj ix cala' to tzonh scol heb' t'a winh sreyal Asiria: ¿Machto wal ol onh colan ticnaik? xcham heb', xchi Jehová."
-        }
-    ]
+  "chapter": "20",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha winhaj Sargón sreyal Asiria, ix schekb'at heb' soldado winh yet' jun yajalil heb' t'a chonhab' Asdod, yik syak'an owal heb' t'ay. Ix yak' ganar jun chonhab' chi' heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a jun pekti' chi', ix yal Jehová t'ayin Isaías in tik icha tik: Ik'el a pichul ya swa ayoch chi' uuj yet' a xanhab', xchi. Ix in k'anab'ajan in k'ulan icha ix yal chi', ix wik'anel in xanhab' yet' in pichul chi', axonhej yol in pichul ix kani."
+    },
+    {
+      "number": "3",
+      "text": "Ixlajwi chi', ix yalan Jehová icha tik: Ha winh in chekab' aj Isaías tik, oxe' ab'il ix b'eyek' winh t'a yok. Malaj xanhab' winh ayochi, anhej pax yol spichul winh ayochi. Ha jun tik, ch'oxnab'il yaj t'a Egipto yet' t'a Etiopía."
+    },
+    {
+      "number": "4",
+      "text": "Yujto ol ik'jokb'at heb' aj Egipto yet' heb' aj Etiopía chi' yuj heb' aj Asiria. Ol ik'jokb'at heb' icham anima yet' heb' kelemtak. Ayik ol ik'jokb'at heb' chi', malaj xanhab' heb' ayochi, malaj pax spichul heb', b'eranelta syoop heb' yik tz'ak'ji q'uixwelal heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' anima ayoch Egipto yet' Etiopía yipok sk'ool, ol xiwk'e heb', ol q'uixwok heb' yuj tas ol ujok chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ha t'a jun pekti' chi', a heb' anima kajan t'a stitak ha' mar, ol yal heb' icha tik: Ileknab' tas tz'aj heb' ayoch yipok ko k'ool, haton heb' b'aj ix kala' to tzonh skol heb' t'a winh sreyal Asiria: ¿Machto wal ol onh kolan tiknaik? xcham heb', xchi Jehová."
+    }
+  ]
 }

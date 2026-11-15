@@ -1,85 +1,89 @@
 {
-    "chapter": "66",
-    "verses": [
-        {
-            "number": "1",
-            "text": "E masanil ex kajan ex t'a yol yib'anhk’inal tik, b'itananhec d'ha Dios t'a tzalajk'olal."
-        },
-        {
-            "number": "2",
-            "text": "B'itejec sb'inajnaquil. B'itananhec t'ay yet' juntzanh b'it manhxo jantacoc swach'il."
-        },
-        {
-            "number": "3",
-            "text": "Alec d'ha Dios icha tik: Mamin a tas tza b'o'o, te satub'tac. Ha wal t'a ichanh stelwikan heb' ayoch ajk'olal t'ayach, yujto te niwan a poder."
-        },
-        {
-            "number": "4",
-            "text": "Masanil heb' anima t'a yol yib'anhk’inal tik syak'em sb'a t'ayach, tzach sb'itan heb', xe chi t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Cotanhec, ilec wal tas sb'onac Dios. Satub'tac tas sk'ulej yuj ko wach'iloc a onh anima onh tik."
-        },
-        {
-            "number": "6",
-            "text": "Taquinh lu'um ajnac ha' mar yet' ha' niwac ha' yuj, haxo ta' ek'naccot heb' ko mam quicham. Tzalajokab' ko k'ool d'ha Dios."
-        },
-        {
-            "number": "7",
-            "text": "Ha yet' spoder syak' yajalil t'a masanil tiempo. Aynhejoch sat t'a junjun nación, yic wach' max och heb' syik'chaanh sb'a ajk'olal t'ay."
-        },
-        {
-            "number": "8",
-            "text": "Ex junjun nación, alec wach' lolonel t'a ko Diosal. Ab'chajokab' he b'itan t'ay t'a wach' lolonelal."
-        },
-        {
-            "number": "9",
-            "text": "Yujto ha' tz'ak'an ko k 'inal, max onh schalaj telwoc."
-        },
-        {
-            "number": "10",
-            "text": "Ach Dios, tik wal ix il ko pensar. Icha wal sacb'itaj k'een plata, icha wal chi' ix aj onh a sacb'itani."
-        },
-        {
-            "number": "11",
-            "text": "Ix onh ak'kan t'a te' yaal. Yelxo wal te al ikatz ix ak' ko cuchu'."
-        },
-        {
-            "number": "12",
-            "text": "Ha heb' comon anima ix ak'lab'ej onh stek'ani. Ix onh ak' ek' t'a skal te' k'ak' yet' t'a yol ha' niwac ha'. Ixlajwi chi' ix onh ik'anb'at b'aj junk'olal tzonh aji."
-        },
-        {
-            "number": "13",
-            "text": "Ol in och t'a yol a templo yuj wak'an in silab' t'ayach. Ichato wal chi' ol wak'anelk'och in ti' wak'nac t'ayach,"
-        },
-        {
-            "number": "14",
-            "text": "aton tas walnac ayic ay in och t'a ilk'olal."
-        },
-        {
-            "number": "15",
-            "text": "Ha nok' nok' b'ak'uech ol in nhustz'ha t'a altar. Ol wak' nok' wakax, nok' mam chiwa yet' pax nok' ch'ac kalnel in silab'oc t'ayach, aton tik scha a k'ool."
-        },
-        {
-            "number": "16",
-            "text": "Cotanhec he masanil, mach ex ay yelk'och Dios t'a he sat. Maclejec eyab' t'ayin, ol wal t'ayex jantac swach'k'olal t'ayin."
-        },
-        {
-            "number": "17",
-            "text": "Ix in k'an scolwal wed'oc, ix walan wach' lolonel t'ay."
-        },
-        {
-            "number": "18",
-            "text": "Q'uinaloc tato a chukal ix in nib'ej in k'ulej, maj am schalaj yab' Dios Yajal t'a Smasanil tas ix in k'an t'ay."
-        },
-        {
-            "number": "19",
-            "text": "Palta ix yab'i tas ix in k'an chi' t'ay, ix sk'anab'ajej in lesal."
-        },
-        {
-            "number": "20",
-            "text": "Alchajokab' wach' lolonel d'ha Dios, yujto max spatiquejel in lesal, manh puraloclaj ix yak' swach'k'olal t'ayin."
-        }
-    ]
+  "chapter": "66",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "E masanil ex kajan ex t'a yol yib'anhk'inal tik, b'itananhek t'a Dios t'a tzalajk'olal."
+    },
+    {
+      "number": "2",
+      "text": "B'itejek sb'inajnakil. B'itananhek t'ay yet' juntzanh b'it manhxo jantakok swach'il."
+    },
+    {
+      "number": "3",
+      "text": "Alek t'a Dios icha tik: Mamin a tas tza b'o'o, te satub'tak. Ha wal t'a ichanh stelwikan heb' ayoch ajk'olal t'ayach, yujto te niwan a poder."
+    },
+    {
+      "number": "4",
+      "text": "Masanil heb' anima t'a yol yib'anhk'inal tik syak'em sb'a t'ayach, tzach sb'itan heb', xe chi t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Kotanhek, ilek wal tas sb'onak Dios. Satub'tak tas sk'ulej yuj ko wach'ilok a onh anima onh tik."
+    },
+    {
+      "number": "6",
+      "text": "Takinh lu'um ajnak ha' mar yet' ha' niwak ha' yuj, haxo ta' ek'nakkot heb' ko mam kicham. Tzalajokab' ko k'ool t'a Dios."
+    },
+    {
+      "number": "7",
+      "text": "Ha yet' spoder syak' yajalil t'a masanil tiempo. Aynhejoch sat t'a junjun nakión, yik wach' max och heb' syik'chaanh sb'a ajk'olal t'ay."
+    },
+    {
+      "number": "8",
+      "text": "Ex junjun nakión, alek wach' lolonel t'a ko Diosal. Ab'chajokab' he b'itan t'ay t'a wach' lolonelal."
+    },
+    {
+      "number": "9",
+      "text": "Yujto ha' tz'ak'an ko k 'inal, max onh schalaj telwok."
+    },
+    {
+      "number": "10",
+      "text": "Ach Dios, tik wal ix il ko pensar. Icha wal sakb'itaj k'een plata, icha wal chi' ix aj onh a sakb'itani."
+    },
+    {
+      "number": "11",
+      "text": "Ix onh ak'kan t'a te' yaal. Yelxo wal te al ikatz ix ak' ko kuchu'."
+    },
+    {
+      "number": "12",
+      "text": "Ha heb' komon anima ix ak'lab'ej onh stek'ani. Ix onh ak' ek' t'a skal te' k'ak' yet' t'a yol ha' niwak ha'. Ixlajwi chi' ix onh ik'anb'at b'aj junk'olal tzonh aji."
+    },
+    {
+      "number": "13",
+      "text": "Ol in och t'a yol a templo yuj wak'an in silab' t'ayach. Ichato wal chi' ol wak'anelk'och in ti' wak'nak t'ayach,"
+    },
+    {
+      "number": "14",
+      "text": "haton tas walnak ayik ay in och t'a ilk'olal."
+    },
+    {
+      "number": "15",
+      "text": "Ha nok' nok' b'ak'uech ol in nhustz'a t'a altar. Ol wak' nok' wakax, nok' mam chiwa yet' pax nok' ch'ak kalnel in silab'ok t'ayach, haton tik scha a k'ool."
+    },
+    {
+      "number": "16",
+      "text": "Kotanhek he masanil, mach ex ay yelk'och Dios t'a he sat. Maklejek eyab' t'ayin, ol wal t'ayex jantak swach'k'olal t'ayin."
+    },
+    {
+      "number": "17",
+      "text": "Ix in k'an skolwal wet'ok, ix walan wach' lolonel t'ay."
+    },
+    {
+      "number": "18",
+      "text": "Q'uinalok tato a chukal ix in nib'ej in k'ulej, maj am schalaj yab' Dios Yajal t'a Smasanil tas ix in k'an t'ay."
+    },
+    {
+      "number": "19",
+      "text": "Palta ix yab'i tas ix in k'an chi' t'ay, ix sk'anab'ajej in lesal."
+    },
+    {
+      "number": "20",
+      "text": "Alchajokab' wach' lolonel t'a Dios, yujto max spatikejel in lesal, manh puraloklaj ix yak' swach'k'olal t'ayin."
+    }
+  ]
 }

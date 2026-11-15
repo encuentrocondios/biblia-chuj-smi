@@ -1,57 +1,61 @@
 {
-    "chapter": "79",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach ko Diosal, ix och heb' ch'oc chonhab'il t'a lum a macb'en. Ix yixtanb'at a templo heb'. Ix smak'em lanhnaj Jerusalén heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ha heb' a chekab' k'anab'ajum t'ayach, ix miljicham heb' yuj heb'. Ha nok' ostoc yet' nok' chium nok' ix chianb'at sniwanil heb' a chekab' chi'."
-        },
-        {
-            "number": "3",
-            "text": "Icha ha ha' ix aj stob'kan schiq'uil heb' a chekab' chi' t'a masanil Jerusalén. Malaj mach ix mukan sniwanil heb'."
-        },
-        {
-            "number": "4",
-            "text": "Tzonh b'uchji yuj heb' anima kajan t'a ko lak'anil. Tzheb'ajtac quilji t'a heb'."
-        },
-        {
-            "number": "5",
-            "text": "Mamin Jehová, ¿jantacto wal tiempo ol ak'cot owal t'ayonh? ¿Anhej ama yajcot a k'ak'alk'olal t'ayonh icha sk'e nhilnhon yoc te' k'ak'?"
-        },
-        {
-            "number": "6",
-            "text": "Ak'cot yowal a k'ol t'a heb' ch'oc chonhab'il manh ach ojtannacoc, aton heb' max yak'em sb'a t'ayach."
-        },
-        {
-            "number": "7",
-            "text": "Yujto a heb' ix onh satanel a onh yinhtilal onh winhaj Jacob tik, ix yixtanb'at ko chonhab' heb'."
-        },
-        {
-            "number": "8",
-            "text": "Manh ak' ko tupel smul heb' ko mam quicham. Ak'cot a wach'k'olal t'a quib'anh t'a elanhchamel, yujto manhxo animaoc kaj skab'i."
-        },
-        {
-            "number": "9",
-            "text": "Ach Dios, ko Kolumal ach. Ochanh qued'oc, colwajanh qued'oc. Sucsat ko mul yic max b'uchji a b'i yuj heb' anima."
-        },
-        {
-            "number": "10",
-            "text": "Tato maay, ol yal heb' ch'oc chonhab'il chi' icha tik: ¿Tocwal ay yelk'och jun sDiosal heb' chi? xcham heb'. Ak' quil a pactzitan t'a heb' yuj heb' a chekab' ix smilcham heb'. Yab'okab' jun chi' heb' ch'oc chonhab'il."
-        },
-        {
-            "number": "11",
-            "text": "Ha heb' ayoch preso, wan yalan sb'a heb' t'ayach, cotanh k'elan t'a heb'. Ha heb' yicxo chamel yaji, colel heb' yet' a poder."
-        },
-        {
-            "number": "12",
-            "text": "Mamin Jehová, ak'ek' uqueloc a pac t'a juntzanh nación ay t'a ko lak'anil, yujto b'uchumtac heb' t'ayach."
-        },
-        {
-            "number": "13",
-            "text": "Ha onhxo a chonhab' onh tik, icha a kalnel kaji. Ol kak'nhej yuj diosal t'ayach. Ol ko b'itej wach' lolonel t'ayach t'a masanil tiempo."
-        }
-    ]
+  "chapter": "79",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach ko Diosal, ix och heb' ch'ok chonhab'il t'a lum a makb'en. Ix yixtanb'at a templo heb'. Ix smak'em lanhnaj Jerusalén heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ha heb' a chekab' k'anab'ajum t'ayach, ix miljicham heb' yuj heb'. Ha nok' ostok yet' nok' chium nok' ix chianb'at sniwanil heb' a chekab' chi'."
+    },
+    {
+      "number": "3",
+      "text": "Icha ha ha' ix aj stob'kan schiq'uil heb' a chekab' chi' t'a masanil Jerusalén. Malaj mach ix mukan sniwanil heb'."
+    },
+    {
+      "number": "4",
+      "text": "Tzonh b'uchji yuj heb' anima kajan t'a ko lak'anil. Tzheb'ajtak kilji t'a heb'."
+    },
+    {
+      "number": "5",
+      "text": "Mamin Jehová, ¿jantakto wal tiempo ol ak'kot owal t'ayonh? ¿Anhej ama yajkot a k'ak'alk'olal t'ayonh icha sk'e nhilnhon yok te' k'ak'?"
+    },
+    {
+      "number": "6",
+      "text": "Ak'kot yowal a k'ol t'a heb' ch'ok chonhab'il manh ach ojtannakok, haton heb' max yak'em sb'a t'ayach."
+    },
+    {
+      "number": "7",
+      "text": "Yujto a heb' ix onh satanel a onh yinhtilal onh winhaj Jacob tik, ix yixtanb'at ko chonhab' heb'."
+    },
+    {
+      "number": "8",
+      "text": "Manh ak' ko tupel smul heb' ko mam kicham. Ak'kot a wach'k'olal t'a kib'anh t'a elanhchamel, yujto manhxo animaok kaj skab'i."
+    },
+    {
+      "number": "9",
+      "text": "Ach Dios, ko Kolumal ach. Ochanh ket'ok, kolwajanh ket'ok. Suksat ko mul yik max b'uchji a b'i yuj heb' anima."
+    },
+    {
+      "number": "10",
+      "text": "Tato maay, ol yal heb' ch'ok chonhab'il chi' icha tik: ¿Tokwal ay yelk'och jun sDiosal heb' chi? xcham heb'. Ak' kil a paktzitan t'a heb' yuj heb' a chekab' ix smilcham heb'. Yab'okab' jun chi' heb' ch'ok chonhab'il."
+    },
+    {
+      "number": "11",
+      "text": "Ha heb' ayoch preso, wan yalan sb'a heb' t'ayach, kotanh k'elan t'a heb'. Ha heb' yikxo chamel yaji, kolel heb' yet' a poder."
+    },
+    {
+      "number": "12",
+      "text": "Mamin Jehová, ak'ek' ukelok a pak t'a juntzanh nakión ay t'a ko lak'anil, yujto b'uchumtak heb' t'ayach."
+    },
+    {
+      "number": "13",
+      "text": "Ha onhxo a chonhab' onh tik, icha a kalnel kaji. Ol kak'nhej yuj diosal t'ayach. Ol ko b'itej wach' lolonel t'ayach t'a masanil tiempo."
+    }
+  ]
 }

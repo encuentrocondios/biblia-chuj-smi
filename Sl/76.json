@@ -1,53 +1,57 @@
 {
-    "chapter": "76",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ojtakab'il Dios t'a yol yic Judá. Te niwan pax yelk'och sb'i t'a yol yic Israel."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a tzalan Sion, ata' ay skajnub'. Ha t'a Jerusalén smacwaj icha nok' choj."
-        },
-        {
-            "number": "3",
-            "text": "Ata' ix satkanel syamk'ab' heb' ajk'ol yuj, aton jul-lab', k'een espada yet' maclab' jul-lab'."
-        },
-        {
-            "number": "4",
-            "text": "Ach ko Diosal, te niwan a poder. Yelxo wal te ek'b'al sniwanil elk'och t'a lum jolomtac witz aytaxon t'a peka'."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' soldado te jelan t'a owal, ix ik'chajek' syamk'ab' heb'. Ha heb' te ay yip, manhxa tas ix yal heb', ix wayb'at heb' t'a junelnhej."
-        },
-        {
-            "number": "6",
-            "text": "Ach sDioal winhaj Jacob, ayic ix el av yuj owal, majxo ib'xoclaj heb', majxo ib'xocpaxlaj skarruaje heb' yet' nok' schej."
-        },
-        {
-            "number": "7",
-            "text": "Te ay a may. ¿Mach wal ol yal yoch linhan t'a ichanh ayic aycot owal?"
-        },
-        {
-            "number": "8",
-            "text": "Ato t'a satcha’anh ix alel tas ol utej a ch'olb'itan heb' anima. Ix xivb'at heb' anima chi', ix emkan numan heb'"
-        },
-        {
-            "number": "9",
-            "text": "ayic ix ach k'e waan a ch'olb'itan chi' yic tza colcanel heb' te ilb'ajk'ool yaj t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "10",
-            "text": "Ha yowal sk'ol heb' anima, ol ak'kan meltzajoch t'a aloj wach' lolonel t'ayach. Ha jab'ocxo yowal sk'ol heb' chi', ol a kachoch waan."
-        },
-        {
-            "number": "11",
-            "text": "Caq'ek ko ti' t'a Jehová ko Diosal, sko k'anab'ajan tas skal chi' t'ay. Ha exxo nación ex ayex t'a slak'anil schonhab' Dios te niwan yelk'ochi, ik'eccot he silab' t'ay."
-        },
-        {
-            "number": "12",
-            "text": "Yujto ha' tz'ik'anel sk'inal heb' yajal. A' heb' rey t'a yol yib'anhk’inal tik, xivpax heb' t'ay."
-        }
-    ]
+  "chapter": "76",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ojtakab'il Dios t'a yol yik Judá. Te niwan pax yelk'och sb'i t'a yol yik Israel."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a tzalan Sion, ata' ay skajnub'. Ha t'a Jerusalén smakwaj icha nok' choj."
+    },
+    {
+      "number": "3",
+      "text": "Ata' ix satkanel syamk'ab' heb' ajk'ol yuj, haton jul-lab', k'een espada yet' maklab' jul-lab'."
+    },
+    {
+      "number": "4",
+      "text": "Ach ko Diosal, te niwan a poder. Yelxo wal te ek'b'al sniwanil elk'och t'a lum jolomtak witz aytaxon t'a peka'."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' soldado te jelan t'a owal, ix ik'chajek' syamk'ab' heb'. Ha heb' te ay yip, manhxa tas ix yal heb', ix wayb'at heb' t'a junelnhej."
+    },
+    {
+      "number": "6",
+      "text": "Ach sDioal winhaj Jacob, ayik ix el aw yuj owal, majxo ib'xoklaj heb', majxo ib'xokpaxlaj skarruaje heb' yet' nok' schej."
+    },
+    {
+      "number": "7",
+      "text": "Te ay a may. ¿Mach wal ol yal yoch linhan t'a ichanh ayik aykot owal?"
+    },
+    {
+      "number": "8",
+      "text": "Ato t'a satcha'anh ix alel tas ol utej a ch'olb'itan heb' anima. Ix xiwb'at heb' anima chi', ix emkan numan heb'"
+    },
+    {
+      "number": "9",
+      "text": "ayik ix ach k'e waan a ch'olb'itan chi' yik tza kolkanel heb' te ilb'ajk'ool yaj t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "10",
+      "text": "Ha yowal sk'ol heb' anima, ol ak'kan meltzajoch t'a aloj wach' lolonel t'ayach. Ha jab'okxo yowal sk'ol heb' chi', ol a kachoch waan."
+    },
+    {
+      "number": "11",
+      "text": "Kaq'ek ko ti' t'a Jehová ko Diosal, sko k'anab'ajan tas skal chi' t'ay. Ha exxo nakión ex ayex t'a slak'anil schonhab' Dios te niwan yelk'ochi, ik'ekkot he silab' t'ay."
+    },
+    {
+      "number": "12",
+      "text": "Yujto ha' tz'ik'anel sk'inal heb' yajal. A' heb' rey t'a yol yib'anhk'inal tik, xiwpax heb' t'ay."
+    }
+  ]
 }

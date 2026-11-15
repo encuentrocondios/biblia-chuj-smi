@@ -1,21 +1,25 @@
 {
-    "chapter": "123",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, Yajal ach t'a satcha’anh, tzin k'e k'elan t'ayach ayic ay tas snib'ej in k'ool."
-        },
-        {
-            "number": "2",
-            "text": "Mamin, a t'ayach tzonh och k'elan, icha wal yoch k'elan winh chekab' t'a spatrón, ma icha wal yoch k'elan ix criada t'a ix spatrona. Ach ko Diosal, wan ko maclan yok' a k'ool t'ayonh."
-        },
-        {
-            "number": "3",
-            "text": "Mamin Jehová, ok'oc wal a k'ool t'ayonh. Ok'okab' a k'ool t'ayonh, yujto maxtzac techajlaj cuuj b'aj tzonh paticajkaneli."
-        },
-        {
-            "number": "4",
-            "text": "Tzonh tzactzaj yuj sb'uchwal heb' b'eyum yet' b'aj tzonh spatiquejel heb' ak'umtac syutej sb'a."
-        }
-    ]
+  "chapter": "123",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 4,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, Yajal ach t'a satcha'anh, tzin k'e k'elan t'ayach ayik ay tas snib'ej in k'ool."
+    },
+    {
+      "number": "2",
+      "text": "Mamin, a t'ayach tzonh och k'elan, icha wal yoch k'elan winh chekab' t'a spatrón, ma icha wal yoch k'elan ix kriada t'a ix spatrona. Ach ko Diosal, wan ko maklan yok' a k'ool t'ayonh."
+    },
+    {
+      "number": "3",
+      "text": "Mamin Jehová, ok'ok wal a k'ool t'ayonh. Ok'okab' a k'ool t'ayonh, yujto maxtzak techajlaj kuuj b'aj tzonh patikajkaneli."
+    },
+    {
+      "number": "4",
+      "text": "Tzonh tzaktzaj yuj sb'uchwal heb' b'eyum yet' b'aj tzonh spatikejel heb' ak'umtak syutej sb'a."
+    }
+  ]
 }

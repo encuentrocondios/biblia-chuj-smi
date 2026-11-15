@@ -1,41 +1,45 @@
 {
-    "chapter": "122",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Manhxo jantacoc ix in tzalaj yet' heb' ix alan t'ayin icha tik: Conh t'a stemplo Jehová, xchi heb'."
-        },
-        {
-            "number": "2",
-            "text": "Axo ticnaik ay onhxo ek' t'a yol chonhab' Jerusalén tik."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jerusalén, junnhej chonhab'il yaj sb'oi."
-        },
-        {
-            "number": "4",
-            "text": "Ha t'a jun chonhab' tik sja junjun makanhil heb' schonhab' Jehová, yic wach' sb'itaj icha yutejnac yalankan t'a heb' ko mam quicham."
-        },
-        {
-            "number": "5",
-            "text": "Ha t'a jun chonhab' tik ay juntzanh despacho b'aj sch'olb'itaj heb' anima yuj yinhtilal winhaj Dawid t'a stojolal."
-        },
-        {
-            "number": "6",
-            "text": "k'anec to syak' junk'olal Dios t'a Jerusalén. Junk'olalokab' yaj heb' xajanan jun chonhab' tik."
-        },
-        {
-            "number": "7",
-            "text": "Ayokab' junk'olal t'a yol smuroal yet' t'a yol spat sreyal jun chonhab' tik, xe chi."
-        },
-        {
-            "number": "8",
-            "text": "Yuj swach'iloc heb' in k'ab' woc yet' heb' wetchonhab', yuj chi' swala': Ayokab' junk'olal, xin chi."
-        },
-        {
-            "number": "9",
-            "text": "Yujto xajan skajnub' Jehová ko Diosal wuuj, yuj chi' ol wak' wip in sayanek' tas tz'och swach'iloc Jerusalén tik."
-        }
-    ]
+  "chapter": "122",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Manhxo jantakok ix in tzalaj yet' heb' ix alan t'ayin icha tik: Konh t'a stemplo Jehová, xchi heb'."
+    },
+    {
+      "number": "2",
+      "text": "Axo tiknaik ay onhxo ek' t'a yol chonhab' Jerusalén tik."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jerusalén, junnhej chonhab'il yaj sb'oi."
+    },
+    {
+      "number": "4",
+      "text": "Ha t'a jun chonhab' tik sja junjun makanhil heb' schonhab' Jehová, yik wach' sb'itaj icha yutejnak yalankan t'a heb' ko mam kicham."
+    },
+    {
+      "number": "5",
+      "text": "Ha t'a jun chonhab' tik ay juntzanh despacho b'aj sch'olb'itaj heb' anima yuj yinhtilal winhaj David t'a stojolal."
+    },
+    {
+      "number": "6",
+      "text": "k'anek to syak' junk'olal Dios t'a Jerusalén. Junk'olalokab' yaj heb' xajanan jun chonhab' tik."
+    },
+    {
+      "number": "7",
+      "text": "Ayokab' junk'olal t'a yol smuroal yet' t'a yol spat sreyal jun chonhab' tik, xe chi."
+    },
+    {
+      "number": "8",
+      "text": "Yuj swach'ilok heb' in k'ab' wok yet' heb' wetchonhab', yuj chi' swala': Ayokab' junk'olal, xin chi."
+    },
+    {
+      "number": "9",
+      "text": "Yujto xajan skajnub' Jehová ko Diosal wuuj, yuj chi' ol wak' wip in sayanek' tas tz'och swach'ilok Jerusalén tik."
+    }
+  ]
 }

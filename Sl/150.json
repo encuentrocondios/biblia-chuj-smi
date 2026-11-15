@@ -1,29 +1,33 @@
 {
-    "chapter": "150",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aljokab' wach' lolonel t'a Jehová. B'itananhec d'ha Dios t'a skajnub'. B'itananhec t'ay yujto te niwan sb'inajnaquil t'a satcha’anh."
-        },
-        {
-            "number": "2",
-            "text": "B'itananhec d'ha Dios yuj tas satub'tac sb'o'o. B'itananhec t'ay yuj sb'inajnaquil, malaj junok mach lajan yet'oc."
-        },
-        {
-            "number": "3",
-            "text": "B'itananhec t'ay yet' k'een trompeta. B'itananhec t'ay yet' te' arpa yet' pax salterio."
-        },
-        {
-            "number": "4",
-            "text": "B'itananhec t'ay yet' pandereta, tzex k'epax cheneljoc yuj tzalajk'olal. B'itananhec t'ay yet' flauta yet' pax juntzanh yamk'ab' yic b'it ay sch'anhal."
-        },
-        {
-            "number": "5",
-            "text": "B'itananhec t'ay yet' k'een platillo tzinhinhi sk'anhi. B'itananhec t'ay yet' k'een platillo chaanh sk'anhi."
-        },
-        {
-            "number": "6",
-            "text": "Masanil tastac syik' yik', b'itanokab' t'a Jehová. Aljokab' wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "150",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Aljokab' wach' lolonel t'a Jehová. B'itananhek t'a Dios t'a skajnub'. B'itananhek t'ay yujto te niwan sb'inajnakil t'a satcha'anh."
+    },
+    {
+      "number": "2",
+      "text": "B'itananhek t'a Dios yuj tas satub'tak sb'o'o. B'itananhek t'ay yuj sb'inajnakil, malaj junok mach lajan yet'ok."
+    },
+    {
+      "number": "3",
+      "text": "B'itananhek t'ay yet' k'een trompeta. B'itananhek t'ay yet' te' arpa yet' pax salterio."
+    },
+    {
+      "number": "4",
+      "text": "B'itananhek t'ay yet' pandereta, tzex k'epax cheneljok yuj tzalajk'olal. B'itananhek t'ay yet' flauta yet' pax juntzanh yamk'ab' yik b'it ay sch'anhal."
+    },
+    {
+      "number": "5",
+      "text": "B'itananhek t'ay yet' k'een platillo tzinhinhi sk'anhi. B'itananhek t'ay yet' k'een platillo chaanh sk'anhi."
+    },
+    {
+      "number": "6",
+      "text": "Masanil tastak syik' yik', b'itanokab' t'a Jehová. Aljokab' wach' lolonel t'a Jehová."
+    }
+  ]
 }

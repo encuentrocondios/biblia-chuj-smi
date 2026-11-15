@@ -1,25 +1,29 @@
 {
-    "chapter": "125",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha heb' tz'ak'anoch Jehová yipoc sk'ool, lajan heb' icha lum tzalan Sion, max ib'xilaj jab'oc, aynhejek' t'a masanil tiempo, icha chi' yaj heb'."
-        },
-        {
-            "number": "2",
-            "text": "Icha wal yajoch oyan lum witz t'a spatic yichanh Jerusalén, icha chi' yaj Jehová t'a heb' schonhab' ticnaik yet' t'a masanil tiempo."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' chuk sb'eyb'al, manh ol yak'laj yajalil heb' t'a yib'anh heb' wach' sb'eyb'al. Tato maay, haxo talaj tz'aji, a heb' wach' sb'eyb'al chi', sk'ayb'ej sb'a heb' yak'an chukal."
-        },
-        {
-            "number": "4",
-            "text": "Mamin Jehová, ak' a wach'k'olal t'a heb' wach' sb'eyb'al, aton heb' syak' wal och sk'ol t'a tojolal."
-        },
-        {
-            "number": "5",
-            "text": "Axo heb' tz'elkan t'a a b'eyb'al, ak'kanb'at heb' b'aj ol scha syaelal heb' sk'ulan chukal. Ayokab' ko junk'olal a onh israel onh tik."
-        }
-    ]
+  "chapter": "125",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 5,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha heb' tz'ak'anoch Jehová yipok sk'ool, lajan heb' icha lum tzalan Sion, max ib'xilaj jab'ok, aynhejek' t'a masanil tiempo, icha chi' yaj heb'."
+    },
+    {
+      "number": "2",
+      "text": "Icha wal yajoch oyan lum witz t'a spatik yichanh Jerusalén, icha chi' yaj Jehová t'a heb' schonhab' tiknaik yet' t'a masanil tiempo."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' chuk sb'eyb'al, manh ol yak'laj yajalil heb' t'a yib'anh heb' wach' sb'eyb'al. Tato maay, haxo talaj tz'aji, a heb' wach' sb'eyb'al chi', sk'ayb'ej sb'a heb' yak'an chukal."
+    },
+    {
+      "number": "4",
+      "text": "Mamin Jehová, ak' a wach'k'olal t'a heb' wach' sb'eyb'al, haton heb' syak' wal och sk'ol t'a tojolal."
+    },
+    {
+      "number": "5",
+      "text": "Axo heb' tz'elkan t'a a b'eyb'al, ak'kanb'at heb' b'aj ol scha syaelal heb' sk'ulan chukal. Ayokab' ko junk'olal a onh israel onh tik."
+    }
+  ]
 }

@@ -1,117 +1,121 @@
 {
-    "chapter": "13",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Masanil juntzanh tik ix wil wal yet' in sat, ix wab' wal yet' in chiquin."
-        },
-        {
-            "number": "2",
-            "text": "Ha tas eyojtak a ex tik, wojtakpaxi, mantoc yelxo wal emnaquil waj t'ayex."
-        },
-        {
-            "number": "3",
-            "text": "Palta tzin nib'ej tzin lolon yet' Dios Syal Yuj Smasanil. Tzin nib'ej tzin telaj in b'a yet'oc."
-        },
-        {
-            "number": "4",
-            "text": "Ha ex tik, yuj eyesalwumal tze k'ub'anel tas yel. Lajan ex yet' heb' anhtum malaj wach' yochi."
-        },
-        {
-            "number": "5",
-            "text": "Comonoc numan tzex aji, yic icha chi' scheclaji to jelan ex."
-        },
-        {
-            "number": "6",
-            "text": "Maclejec eyab' tas ol wala', ol wal tas nab'il wuuj."
-        },
-        {
-            "number": "7",
-            "text": "¿Am he naani to ol ex kolwaj d'ha Dios yuj eyesalwumal chi'? ¿Am he naani to ay tas ol yik' t'a he ak'oj musansatil chi'?"
-        },
-        {
-            "number": "8",
-            "text": "Tze nib'ej tzeyak'och he b'a yet' Dios, tze colan he naani."
-        },
-        {
-            "number": "9",
-            "text": "Palta q'uinaloc tzex ch'olb'itaj yuj Dios chi', ¿tas tzex aj he naani? ¿Tzam yal eyak'an musansatil, icha tzeyutej junok anima?"
-        },
-        {
-            "number": "10",
-            "text": "Tato tze comon ak'ejoch he b'a yet' Dios he naani, ol ex stumej sik'lab'il."
-        },
-        {
-            "number": "11",
-            "text": "Ha wal smay ol ik'an he xiwi, mato syal he tek'b'an he b'ha t'a yichanh he naani."
-        },
-        {
-            "number": "12",
-            "text": "Ha juntzanh peka' k'ayb'ub'al tzeyala', malaj yelk'ochi, lajan icha junok muro nab'a lu'um skak'och yipoc ko k'ool."
-        },
-        {
-            "number": "13",
-            "text": "Axo ticnaik, tz'inec xe chi to ol in lolonoc, taxonhej scot t'a wib'anh yuj tas ol wal tik."
-        },
-        {
-            "number": "14",
-            "text": "Wach'chom scotxonhej t'a wib'anh, palta ol walnhej."
-        },
-        {
-            "number": "15",
-            "text": "Wach'chom yuj chi' tzin smilcham Dios, palta ol wak'nhejoch yipoc in k'ool. Ol in colnhej in b'ha t'a yichanh."
-        },
-        {
-            "number": "16",
-            "text": "Talaj ata' ay in colnab'il, yujto a junok mach chuk max stek'b'ej sb'a yoch t'a yichanh Dios."
-        },
-        {
-            "number": "17",
-            "text": "Maclejec wal eyab' tas ol aj walani."
-        },
-        {
-            "number": "18",
-            "text": "Toxo ix in na' tas ol wutej in colan in b'a, wojtak to wach' ol in elk'ochoc."
-        },
-        {
-            "number": "19",
-            "text": "Tato ay mach sch'oxaneli to ay in mul, syal woch waan walani masanto tzin chami."
-        },
-        {
-            "number": "20",
-            "text": "Ach in Diosal, chab'nhej wal tas tzin k'an t'ayach, icha chi' syal in k'och t'a ichanh."
-        },
-        {
-            "number": "21",
-            "text": "Actejxo ak'anoch in yaelal tik, manhxo in a xib'tej yet' tas ay smay."
-        },
-        {
-            "number": "22",
-            "text": "Avtej in, ol in tak'woc t'ayach, ma jun, tzin b'ab'laj loloni, tzach tak'wi t'ayin."
-        },
-        {
-            "number": "23",
-            "text": "Al t'ayin, ¿b'ajtil ix och in mul, ma in paltail? ¿B'ajtil ay b'aj ix in ek' t'a yib'anh chi'?"
-        },
-        {
-            "number": "24",
-            "text": "¿Tas yuj tza k'ub'ejel a b'a t'ayin? ¿Tas yuj icha junok ajk'ol tzin utej?"
-        },
-        {
-            "number": "25",
-            "text": "Lajan in icha junok xil te' tz'ik'jib'at yuj ik', ma icha anh taquinh ac. ¿Tas yuj tzak' owal wed'oc, tza nib'ej tzin a sateli?"
-        },
-        {
-            "number": "26",
-            "text": "Te ya tzal t'ayin swab'i. Tza k'anb'an t'ayin tastac in mul yictax in quelemal."
-        },
-        {
-            "number": "27",
-            "text": "Ichato ix ak'och k'een cadena t'a woc, k'elan achnhej ochi b'aj tz'em woc."
-        },
-        {
-            "number": "28",
-            "text": "Yuj chi' wanxo in k'ab'at icha junok tas sk'ai, ma icha junok pichul ijtacxo."
-        }
-    ]
+  "chapter": "13",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 28,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Masanil juntzanh tik ix wil wal yet' in sat, ix wab' wal yet' in chikin."
+    },
+    {
+      "number": "2",
+      "text": "Ha tas eyojtak a ex tik, wojtakpaxi, mantok yelxo wal emnakil waj t'ayex."
+    },
+    {
+      "number": "3",
+      "text": "Palta tzin nib'ej tzin lolon yet' Dios Syal Yuj Smasanil. Tzin nib'ej tzin telaj in b'a yet'ok."
+    },
+    {
+      "number": "4",
+      "text": "Ha ex tik, yuj eyesalwumal tze k'ub'anel tas yel. Lajan ex yet' heb' anhtum malaj wach' yochi."
+    },
+    {
+      "number": "5",
+      "text": "Komonok numan tzex aji, yik icha chi' scheklaji to jelan ex."
+    },
+    {
+      "number": "6",
+      "text": "Maklejek eyab' tas ol wala', ol wal tas nab'il wuuj."
+    },
+    {
+      "number": "7",
+      "text": "¿Am he naani to ol ex kolwaj t'a Dios yuj eyesalwumal chi'? ¿Am he naani to ay tas ol yik' t'a he ak'oj musansatil chi'?"
+    },
+    {
+      "number": "8",
+      "text": "Tze nib'ej tzeyak'och he b'a yet' Dios, tze kolan he naani."
+    },
+    {
+      "number": "9",
+      "text": "Palta q'uinalok tzex ch'olb'itaj yuj Dios chi', ¿tas tzex aj he naani? ¿Tzam yal eyak'an musansatil, icha tzeyutej junok anima?"
+    },
+    {
+      "number": "10",
+      "text": "Tato tze komon ak'ejoch he b'a yet' Dios he naani, ol ex stumej sik'lab'il."
+    },
+    {
+      "number": "11",
+      "text": "Ha wal smay ol ik'an he xiwi, mato syal he tek'b'an he b'a t'a yichanh he naani."
+    },
+    {
+      "number": "12",
+      "text": "Ha juntzanh peka' k'ayb'ub'al tzeyala', malaj yelk'ochi, lajan icha junok muro nab'a lu'um skak'och yipok ko k'ool."
+    },
+    {
+      "number": "13",
+      "text": "Axo tiknaik, tz'inek xe chi to ol in lolonok, taxonhej skot t'a wib'anh yuj tas ol wal tik."
+    },
+    {
+      "number": "14",
+      "text": "Wach'chom skotxonhej t'a wib'anh, palta ol walnhej."
+    },
+    {
+      "number": "15",
+      "text": "Wach'chom yuj chi' tzin smilcham Dios, palta ol wak'nhejoch yipok in k'ool. Ol in kolnhej in b'a t'a yichanh."
+    },
+    {
+      "number": "16",
+      "text": "Talaj ata' ay in kolnab'il, yujto a junok mach chuk max stek'b'ej sb'a yoch t'a yichanh Dios."
+    },
+    {
+      "number": "17",
+      "text": "Maklejek wal eyab' tas ol aj walani."
+    },
+    {
+      "number": "18",
+      "text": "Toxo ix in na' tas ol wutej in kolan in b'a, wojtak to wach' ol in elk'ochok."
+    },
+    {
+      "number": "19",
+      "text": "Tato ay mach sch'oxaneli to ay in mul, syal woch waan walani masanto tzin chami."
+    },
+    {
+      "number": "20",
+      "text": "Ach in Diosal, chab'nhej wal tas tzin k'an t'ayach, icha chi' syal in k'och t'a ichanh."
+    },
+    {
+      "number": "21",
+      "text": "Aktejxo ak'anoch in yaelal tik, manhxo in a xib'tej yet' tas ay smay."
+    },
+    {
+      "number": "22",
+      "text": "Awtej in, ol in tak'wok t'ayach, ma jun, tzin b'ab'laj loloni, tzach tak'wi t'ayin."
+    },
+    {
+      "number": "23",
+      "text": "Al t'ayin, ¿b'ajtil ix och in mul, ma in paltail? ¿B'ajtil ay b'aj ix in ek' t'a yib'anh chi'?"
+    },
+    {
+      "number": "24",
+      "text": "¿Tas yuj tza k'ub'ejel a b'a t'ayin? ¿Tas yuj icha junok ajk'ol tzin utej?"
+    },
+    {
+      "number": "25",
+      "text": "Lajan in icha junok xil te' tz'ik'jib'at yuj ik', ma icha anh takinh ak. ¿Tas yuj tzak' owal wet'ok, tza nib'ej tzin a sateli?"
+    },
+    {
+      "number": "26",
+      "text": "Te ya tzal t'ayin swab'i. Tza k'anb'an t'ayin tastak in mul yiktax in kelemal."
+    },
+    {
+      "number": "27",
+      "text": "Ichato ix ak'och k'een kadena t'a wok, k'elan achnhej ochi b'aj tz'em wok."
+    },
+    {
+      "number": "28",
+      "text": "Yuj chi' wanxo in k'ab'at icha junok tas sk'ai, ma icha junok pichul ijtakxo."
+    }
+  ]
 }

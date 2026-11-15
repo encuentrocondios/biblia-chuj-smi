@@ -1,45 +1,49 @@
 {
-    "chapter": "111",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. D'a wal smasanil in k'ool ol wal wach' lolonel t'a Jehová, b'aj molanek' heb' anima wach' sb'eyb'al."
-        },
-        {
-            "number": "2",
-            "text": "Yelxo wal te satub'tac tas sk'ulejnac Jehová. Ha mach xajanan tas sk'ulejnac chi', snaub'tanhej heb' t'a yib'anh."
-        },
-        {
-            "number": "3",
-            "text": "Te niwan yelk'och tas sk'ulejnac Jehová chi', te wach' pax yilji. Ha swach'k'olal aynhejek' t'a masanil tiempo."
-        },
-        {
-            "number": "4",
-            "text": "Malaj b'ak'uinh ol b'atkan satk'olal tas satub'tac sk'ulejnac. Ha Jehová chi' te niwan swach'k'olal, te ay pax yok'elk'olal."
-        },
-        {
-            "number": "5",
-            "text": "Syak' tas swaji t'a heb' ay xivk'olal t'ay. Naannhej strato yuj."
-        },
-        {
-            "number": "6",
-            "text": "Ha juntzanh tas te satub'tac ix sk'ulej swach'iloc heb' schonhab'. Ix yak' lum sluum heb' ch'oc chonhab'il yiquej heb'."
-        },
-        {
-            "number": "7",
-            "text": "Tz'elnhejk'och tas syala', tojol toni. Masanil juntzanh schecnab'il, yelnhej syala'."
-        },
-        {
-            "number": "8",
-            "text": "Malaj b'ak'uinh sk'exwi. Te tojol yaji, yelnhej pax syala'."
-        },
-        {
-            "number": "9",
-            "text": "Ha Jehová te niwan yelk'ochi, Axonhej Ochi, ix scolel schonhab', malaj b'ak'uinh ol sk'ex strato ix yak'kani."
-        },
-        {
-            "number": "10",
-            "text": "Tato sko nib'ej jelan tzonh aji, ayokab' yelk'och Jehová t'a ko sat. Ha heb' sb'eyb'alan schecnab'il, te aj pensar heb'. Alchajokab' wach' lolonel t'a Jehová t'a masanil k 'inal."
-        }
-    ]
+  "chapter": "111",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. T'a wal smasanil in k'ool ol wal wach' lolonel t'a Jehová, b'aj molanek' heb' anima wach' sb'eyb'al."
+    },
+    {
+      "number": "2",
+      "text": "Yelxo wal te satub'tak tas sk'ulejnak Jehová. Ha mach xajanan tas sk'ulejnak chi', snaub'tanhej heb' t'a yib'anh."
+    },
+    {
+      "number": "3",
+      "text": "Te niwan yelk'och tas sk'ulejnak Jehová chi', te wach' pax yilji. Ha swach'k'olal aynhejek' t'a masanil tiempo."
+    },
+    {
+      "number": "4",
+      "text": "Malaj b'ak'uinh ol b'atkan satk'olal tas satub'tak sk'ulejnak. Ha Jehová chi' te niwan swach'k'olal, te ay pax yok'elk'olal."
+    },
+    {
+      "number": "5",
+      "text": "Syak' tas swaji t'a heb' ay xiwk'olal t'ay. Naannhej strato yuj."
+    },
+    {
+      "number": "6",
+      "text": "Ha juntzanh tas te satub'tak ix sk'ulej swach'ilok heb' schonhab'. Ix yak' lum sluum heb' ch'ok chonhab'il yikej heb'."
+    },
+    {
+      "number": "7",
+      "text": "Tz'elnhejk'och tas syala', tojol toni. Masanil juntzanh scheknab'il, yelnhej syala'."
+    },
+    {
+      "number": "8",
+      "text": "Malaj b'ak'uinh sk'exwi. Te tojol yaji, yelnhej pax syala'."
+    },
+    {
+      "number": "9",
+      "text": "Ha Jehová te niwan yelk'ochi, Axonhej Ochi, ix skolel schonhab', malaj b'ak'uinh ol sk'ex strato ix yak'kani."
+    },
+    {
+      "number": "10",
+      "text": "Tato sko nib'ej jelan tzonh aji, ayokab' yelk'och Jehová t'a ko sat. Ha heb' sb'eyb'alan scheknab'il, te aj pensar heb'. Alchajokab' wach' lolonel t'a Jehová t'a masanil k 'inal."
+    }
+  ]
 }

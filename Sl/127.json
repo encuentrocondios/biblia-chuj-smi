@@ -1,25 +1,29 @@
 {
-    "chapter": "127",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Tato manhoc Jehová sb'oan junok pat, nab'anhej am smunlaj heb' munlajwum. Tato manhoc stanhwan junok chonhab', nab'anhej am stanhwaj yuj heb' stanhwumal."
-        },
-        {
-            "number": "2",
-            "text": "Nab'anhej syixtej sb'a heb' pilan jun k'u syak' smunlaji, ste och heb' t'a ilk'olal yic tz'ilchaj swael heb', palta haxo pax heb' xajan yuj Dios, junk'olal sway heb', ha Dios chi' tz'ak'an tas tz'och yuj heb'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' cuninal, silab' Jehová yaj heb'. Ha heb' cuninal yet' ix quetb'eyum, swach'k'olalton Dios yaj heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha heb' cuninal tz'alji ayic quelem anima onhto, icha wal juntzanh jul-lab' ay t'a yol sk'ab' junok ak'um owal yaj heb'."
-        },
-        {
-            "number": "5",
-            "text": "Te wach' yic mach manh jantacoc yuninal chi'. Manh ol q'uixwoquel-laj yuj heb' ayoch ajk'olal t'ay, ayic ol scolan sb'ha t'a yichanh heb' yajal."
-        }
-    ]
+  "chapter": "127",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 5,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Tato manhok Jehová sb'oan junok pat, nab'anhej am smunlaj heb' munlajwum. Tato manhok stanhwan junok chonhab', nab'anhej am stanhwaj yuj heb' stanhwumal."
+    },
+    {
+      "number": "2",
+      "text": "Nab'anhej syixtej sb'a heb' pilan jun k'u syak' smunlaji, ste och heb' t'a ilk'olal yik tz'ilchaj swael heb', palta haxo pax heb' xajan yuj Dios, junk'olal sway heb', ha Dios chi' tz'ak'an tas tz'och yuj heb'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' kuninal, silab' Jehová yaj heb'. Ha heb' kuninal yet' ix ketb'eyum, swach'k'olalton Dios yaj heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha heb' kuninal tz'alji ayik kelem anima onhto, icha wal juntzanh jul-lab' ay t'a yol sk'ab' junok ak'um owal yaj heb'."
+    },
+    {
+      "number": "5",
+      "text": "Te wach' yik mach manh jantakok yuninal chi'. Manh ol q'uixwokel-laj yuj heb' ayoch ajk'olal t'ay, ayik ol skolan sb'a t'a yichanh heb' yajal."
+    }
+  ]
 }

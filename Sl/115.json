@@ -1,77 +1,81 @@
 {
-    "chapter": "115",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, max yal-laj ko k'ol tzonh ik'jichaanh. Anhejokab' t'ayach tz'alchaj wach' lolonel yuj a wach'k'olal, yujto tzak'elk'och tas tzala'."
-        },
-        {
-            "number": "2",
-            "text": "¿Tas wal yuj ol sk'anb'ej heb' anima ch'oc chonhab'il t'ayonh, b'ajtil ay jun he Diosal?"
-        },
-        {
-            "number": "3",
-            "text": "Ach ko Diosal, ha t'a satcha’anh ay ach eq'ui. Masanil tas nab'il uuj, tza b'onhej."
-        },
-        {
-            "number": "4",
-            "text": "Axo sdiosal heb' ch'oc chonhab'il chi', nab'a oro, nab'a plata, a anima sb'oani."
-        },
-        {
-            "number": "5",
-            "text": "Ay sti' sdiosal heb' chi', palta max lolonlaj. Ay sat, palta max yil-laj."
-        },
-        {
-            "number": "6",
-            "text": "Ay schiquin, palta max yab'laj. Ay snhi' palta max yal-laj suk'lan junok tasi."
-        },
-        {
-            "number": "7",
-            "text": "Ay sk'ab', palta max yal-laj syaman junok tasi. Ay yoc, palta max b'eylaj, max yal-laj sekan sjaj."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' sb'oan juntzanh yechel chi' yet' heb' tz'ak'anoch sk'ool t'ay, lajan heb' yet'oc."
-        },
-        {
-            "number": "9",
-            "text": "Ex wetchonhab' Israel, ak'ecoch Jehová yipoc he k'ool, ha' tz'och qued'oc, ha' tzonh colani."
-        },
-        {
-            "number": "10",
-            "text": "Ex sacerdote, ak'ecoch Jehová yipoc he k'ool, ha' tz'och qued'oc, ha' tzonh colani."
-        },
-        {
-            "number": "11",
-            "text": "Mach onh ay yelk'och Jehová t'ayonh, kak'ecoch yipoc ko k'ool, ha' tz'och qued'oc, ha' tzonh colani."
-        },
-        {
-            "number": "12",
-            "text": "Ix onh snacot Jehová, ol yak' swach'k'olal t'a quib'anh. Ol yak' swach'k'olal t'ayonh a onh israel onh tik. Ol yak' swach'k'olal t'a yib'anh heb' sacerdote yinhtilal winhaj Aarón."
-        },
-        {
-            "number": "13",
-            "text": "Mach onh ay yelk'och Jehová t'ayonh, ol yak' swach'k'olal t'ayonh, wach'chom niwac copisio, wach'chom malaj quelk'ochi."
-        },
-        {
-            "number": "14",
-            "text": "Aokab' Jehová tz'ak'an q'uib' sb'isul heb' cuninal yet' heb' qui ko chiquin."
-        },
-        {
-            "number": "15",
-            "text": "Yak'okab' swach'k'olal Jehová ixb’o’an satcha’anh yet' lum lum tik t'ayonh."
-        },
-        {
-            "number": "16",
-            "text": "Aton Jehová ay yic satcha’anh, haxo lum lum tik, ix yak' lum t'ayonh a onh anima onh tik."
-        },
-        {
-            "number": "17",
-            "text": "Ha heb' toxo ix k'och b'aj ay heb' chamnac, maxtzac yal-laj yalan wach' lolonel heb' t'a Jehová."
-        },
-        {
-            "number": "18",
-            "text": "Ha onhxo pitzan onh to tik jun, ol kal wach' lolonel t'ay ticnaik yet' t'a masanil k 'inal. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "115",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 18,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, max yal-laj ko k'ol tzonh ik'jichaanh. Anhejokab' t'ayach tz'alchaj wach' lolonel yuj a wach'k'olal, yujto tzak'elk'och tas tzala'."
+    },
+    {
+      "number": "2",
+      "text": "¿Tas wal yuj ol sk'anb'ej heb' anima ch'ok chonhab'il t'ayonh, b'ajtil ay jun he Diosal?"
+    },
+    {
+      "number": "3",
+      "text": "Ach ko Diosal, ha t'a satcha'anh ay ach eq'ui. Masanil tas nab'il uuj, tza b'onhej."
+    },
+    {
+      "number": "4",
+      "text": "Axo sdiosal heb' ch'ok chonhab'il chi', nab'a oro, nab'a plata, a anima sb'oani."
+    },
+    {
+      "number": "5",
+      "text": "Ay sti' sdiosal heb' chi', palta max lolonlaj. Ay sat, palta max yil-laj."
+    },
+    {
+      "number": "6",
+      "text": "Ay schikin, palta max yab'laj. Ay snhi' palta max yal-laj suk'lan junok tasi."
+    },
+    {
+      "number": "7",
+      "text": "Ay sk'ab', palta max yal-laj syaman junok tasi. Ay yok, palta max b'eylaj, max yal-laj sekan sjaj."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' sb'oan juntzanh yechel chi' yet' heb' tz'ak'anoch sk'ool t'ay, lajan heb' yet'ok."
+    },
+    {
+      "number": "9",
+      "text": "Ex wetchonhab' Israel, ak'ekoch Jehová yipok he k'ool, ha' tz'och ket'ok, ha' tzonh kolani."
+    },
+    {
+      "number": "10",
+      "text": "Ex sakerdote, ak'ekoch Jehová yipok he k'ool, ha' tz'och ket'ok, ha' tzonh kolani."
+    },
+    {
+      "number": "11",
+      "text": "Mach onh ay yelk'och Jehová t'ayonh, kak'ekoch yipok ko k'ool, ha' tz'och ket'ok, ha' tzonh kolani."
+    },
+    {
+      "number": "12",
+      "text": "Ix onh snakot Jehová, ol yak' swach'k'olal t'a kib'anh. Ol yak' swach'k'olal t'ayonh a onh israel onh tik. Ol yak' swach'k'olal t'a yib'anh heb' sakerdote yinhtilal winhaj Aarón."
+    },
+    {
+      "number": "13",
+      "text": "Mach onh ay yelk'och Jehová t'ayonh, ol yak' swach'k'olal t'ayonh, wach'chom niwak kopisio, wach'chom malaj kelk'ochi."
+    },
+    {
+      "number": "14",
+      "text": "Aokab' Jehová tz'ak'an q'uib' sb'isul heb' kuninal yet' heb' ki ko chikin."
+    },
+    {
+      "number": "15",
+      "text": "Yak'okab' swach'k'olal Jehová ixb'o'an satcha'anh yet' lum lum tik t'ayonh."
+    },
+    {
+      "number": "16",
+      "text": "Haton Jehová ay yik satcha'anh, haxo lum lum tik, ix yak' lum t'ayonh a onh anima onh tik."
+    },
+    {
+      "number": "17",
+      "text": "Ha heb' toxo ix k'och b'aj ay heb' chamnak, maxtzak yal-laj yalan wach' lolonel heb' t'a Jehová."
+    },
+    {
+      "number": "18",
+      "text": "Ha onhxo pitzan onh to tik jun, ol kal wach' lolonel t'ay tiknaik yet' t'a masanil k 'inal. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

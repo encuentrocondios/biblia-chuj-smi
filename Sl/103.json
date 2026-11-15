@@ -1,93 +1,97 @@
 {
-    "chapter": "103",
-    "verses": [
-        {
-            "number": "1",
-            "text": "D'a smasanil in k'ool yet' smasanil in pixan, swal wach' lolonel t'a Jehová."
-        },
-        {
-            "number": "2",
-            "text": "D'a smasanil in k'ool swal wach' lolonel t'ay. Manh ol sat in k'ol t'a masanil swach'k'olal."
-        },
-        {
-            "number": "3",
-            "text": "A' wal sukan sat masanil in mul. A' tz'ak'an b'oxoc in k'ool t'a masanil ilya."
-        },
-        {
-            "number": "4",
-            "text": "A' tzin colanel t'a yol sk'ab' chamel. Syak'nhej swach'k'olal t'ayin, tz'ok' pax sk'ool t'ayin."
-        },
-        {
-            "number": "5",
-            "text": "A' tz'ak'an masanil tas wach' t'ayin yacb'an pitzan into, yuj chi' ichato tzin ochxi quelemal icha nok' niwac ch'acb'a."
-        },
-        {
-            "number": "6",
-            "text": "Ha Jehová sb'oan yaj t'a stojolal t'a heb' tz'ixtaj yuj heb' ixtum anima."
-        },
-        {
-            "number": "7",
-            "text": "Ix sch'ox sb'eyb'al yet' tas sk'ulej t'a winhaj Moisés yet' t'ayonh a onh israel onh tik."
-        },
-        {
-            "number": "8",
-            "text": "Ha Jehová, xajan onh yuj, te k'un yok' sk'ol t'ayonh. Manh k'unoc scot yowal, te ay pax swach'k'olal."
-        },
-        {
-            "number": "9",
-            "text": "Manh cotacoc skal tzonh stumani. Max chichonochlaj sk'ol t'ayonh t'a masanil tiempo."
-        },
-        {
-            "number": "10",
-            "text": "Max yak'laj ko yaelal icha t'a smojal yuj ko chukal. Max spactzitejlaj t'ayonh icha smojal yuj ko mul chi'."
-        },
-        {
-            "number": "11",
-            "text": "Te niwan swach'k'olal t'a heb' ay xivk'olal t'ay. Icha wal schaanhil satcha’anh t'a yib'anh lum lum tik, icha chi' swach'k'olal chi' t'a heb'."
-        },
-        {
-            "number": "12",
-            "text": "Najat ix yak'kanb'at ko chukal t'ayonh, icha snajatil skal b'aj sjawi k'u yet' b'aj tz'emxi."
-        },
-        {
-            "number": "13",
-            "text": "Icha junok mamab'il tz'ok' sk'ol t'a yuninal, icha chi' yok' sk'ol Jehová t'a heb' ay xivk'olal t'ay,"
-        },
-        {
-            "number": "14",
-            "text": "yujto yojtak tas ix aj ko b'oi, yojtak sik'lab'il to pokok onh."
-        },
-        {
-            "number": "15",
-            "text": "Icha yaj sk'inal anh ank'ultak, icha chi' yaj ko k 'inal a onh anima onh tik. Sk'eul anh, xumakan anh,"
-        },
-        {
-            "number": "16",
-            "text": "ayic sjawi junok ik' te ov t'a anh, stacji anh yuj. Malaj mach tz'ab'an spekal tas ix aj anh."
-        },
-        {
-            "number": "17",
-            "text": "Palta haxo swach'k'olal Jehová, malaj slajwub', aytaxonek' t'a heb' ay xivk'olal t'ay. Tz'elk'och sti' t'a yinhtilal heb' anima sk'anab'ajan strato,"
-        },
-        {
-            "number": "18",
-            "text": "aton heb' max yaktejkan sk'anab'ajan schecnab'il."
-        },
-        {
-            "number": "19",
-            "text": "Ha t'a satcha’anh ix sb'o sdespacho Jehová. Ata' ayoch Yajalil t'a yib'anh smasanil."
-        },
-        {
-            "number": "20",
-            "text": "Ex yángel Jehová, ex tek'an ex t'a he poder, alec wach' lolonel t'a Jehová, a ex ton k'anab'ajum ex t'a slolonel."
-        },
-        {
-            "number": "21",
-            "text": "Masanil ex satchanhil chekab', alequel wach' lolonel t'a Jehová, a ex ton tze k'anab'ajej tas snib'ej tze k'ulej."
-        },
-        {
-            "number": "22",
-            "text": "Masanil tas b'ob'il yuj Jehová t'a yol smacb'en, yalokab' wach' lolonel t'a Jehová chi'. D'a smasanil in k'ool ol wal wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "103",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 22,
+  "verses": [
+    {
+      "number": "1",
+      "text": "T'a smasanil in k'ool yet' smasanil in pixan, swal wach' lolonel t'a Jehová."
+    },
+    {
+      "number": "2",
+      "text": "T'a smasanil in k'ool swal wach' lolonel t'ay. Manh ol sat in k'ol t'a masanil swach'k'olal."
+    },
+    {
+      "number": "3",
+      "text": "A' wal sukan sat masanil in mul. A' tz'ak'an b'oxok in k'ool t'a masanil ilya."
+    },
+    {
+      "number": "4",
+      "text": "A' tzin kolanel t'a yol sk'ab' chamel. Syak'nhej swach'k'olal t'ayin, tz'ok' pax sk'ool t'ayin."
+    },
+    {
+      "number": "5",
+      "text": "A' tz'ak'an masanil tas wach' t'ayin yakb'an pitzan into, yuj chi' ichato tzin ochxi kelemal icha nok' niwak ch'akb'a."
+    },
+    {
+      "number": "6",
+      "text": "Ha Jehová sb'oan yaj t'a stojolal t'a heb' tz'ixtaj yuj heb' ixtum anima."
+    },
+    {
+      "number": "7",
+      "text": "Ix sch'ox sb'eyb'al yet' tas sk'ulej t'a winhaj Moisés yet' t'ayonh a onh israel onh tik."
+    },
+    {
+      "number": "8",
+      "text": "Ha Jehová, xajan onh yuj, te k'un yok' sk'ol t'ayonh. Manh k'unok skot yowal, te ay pax swach'k'olal."
+    },
+    {
+      "number": "9",
+      "text": "Manh kotakok skal tzonh stumani. Max chichonochlaj sk'ol t'ayonh t'a masanil tiempo."
+    },
+    {
+      "number": "10",
+      "text": "Max yak'laj ko yaelal icha t'a smojal yuj ko chukal. Max spaktzitejlaj t'ayonh icha smojal yuj ko mul chi'."
+    },
+    {
+      "number": "11",
+      "text": "Te niwan swach'k'olal t'a heb' ay xiwk'olal t'ay. Icha wal schaanhil satcha'anh t'a yib'anh lum lum tik, icha chi' swach'k'olal chi' t'a heb'."
+    },
+    {
+      "number": "12",
+      "text": "Najat ix yak'kanb'at ko chukal t'ayonh, icha snajatil skal b'aj sjawi k'u yet' b'aj tz'emxi."
+    },
+    {
+      "number": "13",
+      "text": "Icha junok mamab'il tz'ok' sk'ol t'a yuninal, icha chi' yok' sk'ol Jehová t'a heb' ay xiwk'olal t'ay,"
+    },
+    {
+      "number": "14",
+      "text": "yujto yojtak tas ix aj ko b'oi, yojtak sik'lab'il to pokok onh."
+    },
+    {
+      "number": "15",
+      "text": "Icha yaj sk'inal anh ank'ultak, icha chi' yaj ko k 'inal a onh anima onh tik. Sk'eul anh, xumakan anh,"
+    },
+    {
+      "number": "16",
+      "text": "ayik sjawi junok ik' te ow t'a anh, stakji anh yuj. Malaj mach tz'ab'an spekal tas ix aj anh."
+    },
+    {
+      "number": "17",
+      "text": "Palta haxo swach'k'olal Jehová, malaj slajwub', aytaxonek' t'a heb' ay xiwk'olal t'ay. Tz'elk'och sti' t'a yinhtilal heb' anima sk'anab'ajan strato,"
+    },
+    {
+      "number": "18",
+      "text": "haton heb' max yaktejkan sk'anab'ajan scheknab'il."
+    },
+    {
+      "number": "19",
+      "text": "Ha t'a satcha'anh ix sb'o sdespacho Jehová. Ata' ayoch Yajalil t'a yib'anh smasanil."
+    },
+    {
+      "number": "20",
+      "text": "Ex yángel Jehová, ex tek'an ex t'a he poder, alek wach' lolonel t'a Jehová, a ex ton k'anab'ajum ex t'a slolonel."
+    },
+    {
+      "number": "21",
+      "text": "Masanil ex satchanhil chekab', alekel wach' lolonel t'a Jehová, a ex ton tze k'anab'ajej tas snib'ej tze k'ulej."
+    },
+    {
+      "number": "22",
+      "text": "Masanil tas b'ob'il yuj Jehová t'a yol smakb'en, yalokab' wach' lolonel t'a Jehová chi'. T'a smasanil in k'ool ol wal wach' lolonel t'a Jehová."
+    }
+  ]
 }

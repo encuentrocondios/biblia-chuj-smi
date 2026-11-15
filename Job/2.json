@@ -1,57 +1,61 @@
 {
-    "chapter": "2",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix k'och sk'ual smolb'anxi sb'a heb' ángel tz'ak'an serwil Jehová t'a yichanh, ix k'och pax winh Satanás t'a skal heb'."
-        },
-        {
-            "number": "2",
-            "text": "Ix sk'anb'an Jehová chi' t'a winh: --¿B'ajtil ach koti? xchi. Ix yalan winh icha tik: --Ix in cot t'a yol yib'anhk’inal, yujto tzek' woymitej lum smasanil, xchi winh."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi' ix yalan Jehová chi' t'a winh: --¿Tzam il tas yaj winh in chekab' aj Job? Malaj wal junocxo mach t'a yol yib'anhk’inal chi' lajan yet' winh. Te tojol spensar winh, te wach' sb'eyb'al winh. Ay wal welk'och t'a yol sat winh, sya'ilej wal sb'a winh, max yak'och sb'a winh t'a skal chukal. Uuj wal ix in satel masanil tastac ay t'a winh, palta tocwal yuj chi' ix juwiel spensar winh, xchi."
-        },
-        {
-            "number": "4",
-            "text": "Ix tak'wi winh Satanás chi' icha tik: --Tato malaj tz'ik'an sniwanil junok mach, ¿toc ay tas sna'a? B'ekan sk'ol slajwiel masanil tastac ay t'ay yic scolan sk'inal."
-        },
-        {
-            "number": "5",
-            "text": "Palta tato a ticnaik ha t'a sniwanil winh chi' tzak'och junok yaelal, ol ilani tato manh ol yal chuk winh t'ayach, xchi winh."
-        },
-        {
-            "number": "6",
-            "text": "Ix tak'wi Jehová chi' t'a winh: --Ichokab' ta'. Olxo ila' tas tza k'ulej yet' sniwanil winh chi', anhej b'ian to malaj alan ic ik'anel sk'inal winh, xchi."
-        },
-        {
-            "number": "7",
-            "text": "Ix el winh Satanás chi' t'a yichanh Jehová. Ix b'at yak'ank'e juntzanh yab'il winh te niwan t'a sniwanil winhaj Job chi', schacot t'a yoc winh masanto t'a sjolom winh."
-        },
-        {
-            "number": "8",
-            "text": "Yuj chi' ix b'at em k'ojan winhaj Job chi' t'a skal k'een tik'aq'uil taanh. Ix yik'ancot jab' sti' lum chen winh, sjotz'anek' lum winh t'ay."
-        },
-        {
-            "number": "9",
-            "text": "Palta haxo ix yetb'eyum winh ix alan t'ay icha tik: --¿Tom anheja' wach'nhej tzutej a pensar? Al chuk d'ha Dios, tzach cham b'ian, xchi ix."
-        },
-        {
-            "number": "10",
-            "text": "Ix tak'wi winh icha tik: --Ach ix, lajan wal a lolon icha heb' ix ix malaj jab'oc spensar. Toxo ix ko cha swach'k'olal Dios, ¿tom manh ol ko chapax ko yaelal syak'a'? xchi winhaj Job chi'. Yuj chi', wach'chom ayoch syaelal winh, palta maj ochlaj smul winh yujto malaj chuk ix yal winh t'a spatic Dios."
-        },
-        {
-            "number": "11",
-            "text": "Ay oxwanh heb' winh yamigo winhaj Job chi': Aton winhaj Elifaz aj Temán, winhaj Bildad aj Súa yet' winhaj Zofar aj Naamat. Ayic ix yab'an spekal masanil juntzanh yaelal ix jawi t'a yib'anh winhaj Job chi' heb' winh, ix yak'anoch heb' winh t'a sk'ol scot yak' sniwanil sk'ol winh, yic tzul mol kus pax heb' winh yuj syaelal winh chi'."
-        },
-        {
-            "number": "12",
-            "text": "Najatto wan scot heb' winh, ix yilancot winhaj Job chi' heb' winh. Pural ix och sat heb' winh t'a winh, yuj chi' ix syamanoch heb' winh yok' yuj winh. Ix te kus heb' winh, ix snhik'chitanb'at spichul heb' winh. Ix stzipanchaanh pokok heb' winh t'a chaanh, haxo t'a sjolom heb' winh tz'em lu'um."
-        },
-        {
-            "number": "13",
-            "text": "Ix em k'ojan heb' winh t'a sat lum yet' winh, uque' k'ual, uque' ak'wal ix ek' heb' winh yet' winh ta', malaj junok b'elanh lolonel ix yal heb' winh, yujto te ov yak'an syaelal winhaj Job chi' ix yil heb' winh."
-        }
-    ]
+  "chapter": "2",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix k'och sk'ual smolb'anxi sb'a heb' ángel tz'ak'an serwil Jehová t'a yichanh, ix k'och pax winh Satanás t'a skal heb'."
+    },
+    {
+      "number": "2",
+      "text": "Ix sk'anb'an Jehová chi' t'a winh: --¿B'ajtil ach koti? xchi. Ix yalan winh icha tik: --Ix in kot t'a yol yib'anhk'inal, yujto tzek' woymitej lum smasanil, xchi winh."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi' ix yalan Jehová chi' t'a winh: --¿Tzam il tas yaj winh in chekab' aj Job? Malaj wal junokxo mach t'a yol yib'anhk'inal chi' lajan yet' winh. Te tojol spensar winh, te wach' sb'eyb'al winh. Ay wal welk'och t'a yol sat winh, sya'ilej wal sb'a winh, max yak'och sb'a winh t'a skal chukal. Uuj wal ix in satel masanil tastak ay t'a winh, palta tokwal yuj chi' ix juwiel spensar winh, xchi."
+    },
+    {
+      "number": "4",
+      "text": "Ix tak'wi winh Satanás chi' icha tik: --Tato malaj tz'ik'an sniwanil junok mach, ¿tok ay tas sna'a? B'ekan sk'ol slajwiel masanil tastak ay t'ay yik skolan sk'inal."
+    },
+    {
+      "number": "5",
+      "text": "Palta tato a tiknaik ha t'a sniwanil winh chi' tzak'och junok yaelal, ol ilani tato manh ol yal chuk winh t'ayach, xchi winh."
+    },
+    {
+      "number": "6",
+      "text": "Ix tak'wi Jehová chi' t'a winh: --Ichokab' ta'. Olxo ila' tas tza k'ulej yet' sniwanil winh chi', anhej b'ian to malaj alan ik ik'anel sk'inal winh, xchi."
+    },
+    {
+      "number": "7",
+      "text": "Ix el winh Satanás chi' t'a yichanh Jehová. Ix b'at yak'ank'e juntzanh yab'il winh te niwan t'a sniwanil winhaj Job chi', schakot t'a yok winh masanto t'a sjolom winh."
+    },
+    {
+      "number": "8",
+      "text": "Yuj chi' ix b'at em k'ojan winhaj Job chi' t'a skal k'een tik'aq'uil taanh. Ix yik'ankot jab' sti' lum chen winh, sjotz'anek' lum winh t'ay."
+    },
+    {
+      "number": "9",
+      "text": "Palta haxo ix yetb'eyum winh ix alan t'ay icha tik: --¿Tom anheja' wach'nhej tzutej a pensar? Al chuk t'a Dios, tzach cham b'ian, xchi ix."
+    },
+    {
+      "number": "10",
+      "text": "Ix tak'wi winh icha tik: --Ach ix, lajan wal a lolon icha heb' ix ix malaj jab'ok spensar. Toxo ix ko cha swach'k'olal Dios, ¿tom manh ol ko chapax ko yaelal syak'a'? xchi winhaj Job chi'. Yuj chi', wach'chom ayoch syaelal winh, palta maj ochlaj smul winh yujto malaj chuk ix yal winh t'a spatik Dios."
+    },
+    {
+      "number": "11",
+      "text": "Ay oxwanh heb' winh yamigo winhaj Job chi': Haton winhaj Elifaz aj Temán, winhaj Bildad aj Súa yet' winhaj Zofar aj Naamat. Ayik ix yab'an spekal masanil juntzanh yaelal ix jawi t'a yib'anh winhaj Job chi' heb' winh, ix yak'anoch heb' winh t'a sk'ol skot yak' sniwanil sk'ol winh, yik tzul mol kus pax heb' winh yuj syaelal winh chi'."
+    },
+    {
+      "number": "12",
+      "text": "Najatto wan skot heb' winh, ix yilankot winhaj Job chi' heb' winh. Pural ix och sat heb' winh t'a winh, yuj chi' ix syamanoch heb' winh yok' yuj winh. Ix te kus heb' winh, ix snhik'chitanb'at spichul heb' winh. Ix stzipanchaanh pokok heb' winh t'a chaanh, haxo t'a sjolom heb' winh tz'em lu'um."
+    },
+    {
+      "number": "13",
+      "text": "Ix em k'ojan heb' winh t'a sat lum yet' winh, uke' k'ual, uke' ak'wal ix ek' heb' winh yet' winh ta', malaj junok b'elanh lolonel ix yal heb' winh, yujto te ow yak'an syaelal winhaj Job chi' ix yil heb' winh."
+    }
+  ]
 }

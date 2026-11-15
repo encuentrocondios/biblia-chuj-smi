@@ -1,73 +1,77 @@
 {
-    "chapter": "21",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Alb'ilkan juntzanh lolonel tik yuj lum tzinan lu'um t'a sti' ha' mar: Icha junok chacxuxum ik' tzek' t'a lum Neguev, icha chi' ol aj scot heb' milwajum t'a lum tzinan lu'um te ay smay."
-        },
-        {
-            "number": "2",
-            "text": "Ayxo smay jun tas sch'ox Dios wil tik: Ay heb' smeltzajoch yak' chukal t'a yetanimail. Ha heb' milwajum, smilwajnhej heb'. Ex aj Elam yet' ex aj Media, b'at ochanhec oyan t'a spatic chonhab' Babilonia, tzeyak'an owal yet'oc. Ha Jehová ix ak'an sti' to ol yak' lajwoc yaelal ix yak'och jun nación chi'."
-        },
-        {
-            "number": "3",
-            "text": "Yuj tas ix wil chi' tzin ek' b'akb'on yuj wab'an syail icha tz'aj junok ix ix tz'alji yune'. Ha yuj tas swab' chi' tzin somchajchaanh, yuj tas swil chi' manhxo in animaoc swab'i."
-        },
-        {
-            "number": "4",
-            "text": "Toxonhej somson yol in jolom, tzin ib'xi yuj xiwelal. Te chucxonhej in k'ool swab' yuj tas ay smay. Junjun k'u, ayic numnonxo sq'uik'b'i, tzin te tzalaj wal, palta haxo ticnaik, toxonhej tzin te xiv yuj tas swil tik."
-        },
-        {
-            "number": "5",
-            "text": "Ix wilani, toxo ix b'o juntzanh mexa, wach'xopax yaj b'aj tz'em k'ojan heb' avtab'il. Van swa heb', syuk'an ha' heb', haxo t'a jun rato chi', ix och jun av icha tik: Ex yajalil heb' soldado, aq'ek lista he b'a yet' he maclab' jul-lab', xchi ix wab'i."
-        },
-        {
-            "number": "6",
-            "text": "Ha Jehová ix alan t'ayin icha tik: Ixic, ak'och junok macwajum, yic wach' syal masanil tas syila'."
-        },
-        {
-            "number": "7",
-            "text": "Ayic syilan winh scot junok carruaje tok'b'il yuj chawanhoc nok' chej, mato ay anima ayk'e t'a yib'anh nok' b'uru, ma t'a yib'anh nok' camello, scham wal yilan winh tas yaji, xchi Jehová chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ha jun winh macwajum chi', ix el yav winh ix yalan winh: Ha b'aj tzin maclej tik Mamin, ayinnhej ek' t'a junjun k'u yet' t'a junjun ak'wal, tzin macwaji."
-        },
-        {
-            "number": "9",
-            "text": "Axo ticnaik, swil scot jun carruaje tok'b'il yuj chawanh nok' chej, a jun mach ayk'e t'a yol carruaje chi', a tz'alan icha tik: Ix ak'ji ganar Babilonia. Ix sateli. Masanil scomon diosal heb' ix pojb'ati, chok' ix ajkanem t'a sat lu'um, xchi, xchi winh macwajum chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ab'ec ex wetchonhab', a ex ix ex tek'jiem icha ixim trigo yuj heb' aj Babilonia chi', a tas ix wal tik t'ayex, aton tas ix wab' yuj Jehová Yajal t'a Smasanil, aton ko Diosal a onh israel onh tik."
-        },
-        {
-            "number": "11",
-            "text": "Aton lolonel tik alb'ilkan t'a yib'anh Edom: Ay junok heb' aj Edom chi' ix awajcot t'ayin: ¿Jantacto sk'an sakb'i ach macwajum? ¿Jayeto hora k'ik'to? xchi."
-        },
-        {
-            "number": "12",
-            "text": "Ix in tak'wi icha tik: Vanxo sakb'i, palta elanhchamel ol k'ik'b'ocxi. Tato tza nib'ej tza k'anb'ejxi, ixic ol xo ul a k'anb'ejxi, xin chi t'ay."
-        },
-        {
-            "number": "13",
-            "text": "Aton juntzanh tik alb'ilkan t'a yib'anh Arabia: Ex chonhwajum aj Dedán, a ex tzex waykan t'a kaltac te' t'a Arabia,"
-        },
-        {
-            "number": "14",
-            "text": "elanhec he cha heb' ay staquinhtial, tzeyak'an ha' yuk'ej heb'. Ha ex kajan ex t'a chonhab' Tema, elanhec b'aj tzek' heb' sb'at elelal, tzeyaltan wael t'a heb'."
-        },
-        {
-            "number": "15",
-            "text": "Yujto wan yel heb' elelal t'a k'een espada te jay ye yet' jul-lab' wan sjuljieli, aton b'aj ov yak'an owal."
-        },
-        {
-            "number": "16",
-            "text": "Ix yalan Jehová t'ayin icha tik: Yic wal jun ab'il ticnaik, icha tz'aj sb'isan stiempo junok munlajwum, a wal ta' ol satel sniwanil yelk'och chonhab' Cedar."
-        },
-        {
-            "number": "17",
-            "text": "Ha heb' aj Cedar jelan sjulwaji, jaywanhxonhej heb' ol kanok. Ha in Jehová he Diosal in a ex israel ex tik, a in swala', xchi."
-        }
-    ]
+  "chapter": "21",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Alb'ilkan juntzanh lolonel tik yuj lum tzinan lu'um t'a sti' ha' mar: Icha junok chakxuxum ik' tzek' t'a lum Neguev, icha chi' ol aj skot heb' milwajum t'a lum tzinan lu'um te ay smay."
+    },
+    {
+      "number": "2",
+      "text": "Ayxo smay jun tas sch'ox Dios wil tik: Ay heb' smeltzajoch yak' chukal t'a yetanimail. Ha heb' milwajum, smilwajnhej heb'. Ex aj Elam yet' ex aj Media, b'at ochanhek oyan t'a spatik chonhab' Babilonia, tzeyak'an owal yet'ok. Ha Jehová ix ak'an sti' to ol yak' lajwok yaelal ix yak'och jun nakión chi'."
+    },
+    {
+      "number": "3",
+      "text": "Yuj tas ix wil chi' tzin ek' b'akb'on yuj wab'an syail icha tz'aj junok ix ix tz'alji yune'. Ha yuj tas swab' chi' tzin somchajchaanh, yuj tas swil chi' manhxo in animaok swab'i."
+    },
+    {
+      "number": "4",
+      "text": "Toxonhej somson yol in jolom, tzin ib'xi yuj xiwelal. Te chukxonhej in k'ool swab' yuj tas ay smay. Junjun k'u, ayik numnonxo sq'uik'b'i, tzin te tzalaj wal, palta haxo tiknaik, toxonhej tzin te xiw yuj tas swil tik."
+    },
+    {
+      "number": "5",
+      "text": "Ix wilani, toxo ix b'o juntzanh mexa, wach'xopax yaj b'aj tz'em k'ojan heb' awtab'il. Wan swa heb', syuk'an ha' heb', haxo t'a jun rato chi', ix och jun aw icha tik: Ex yajalil heb' soldado, aq'ek lista he b'a yet' he maklab' jul-lab', xchi ix wab'i."
+    },
+    {
+      "number": "6",
+      "text": "Ha Jehová ix alan t'ayin icha tik: Ixik, ak'och junok makwajum, yik wach' syal masanil tas syila'."
+    },
+    {
+      "number": "7",
+      "text": "Ayik syilan winh skot junok karruaje tok'b'il yuj chawanhok nok' chej, mato ay anima ayk'e t'a yib'anh nok' b'uru, ma t'a yib'anh nok' kamello, scham wal yilan winh tas yaji, xchi Jehová chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ha jun winh makwajum chi', ix el yaw winh ix yalan winh: Ha b'aj tzin maklej tik Mamin, ayinnhej ek' t'a junjun k'u yet' t'a junjun ak'wal, tzin makwaji."
+    },
+    {
+      "number": "9",
+      "text": "Axo tiknaik, swil skot jun karruaje tok'b'il yuj chawanh nok' chej, a jun mach ayk'e t'a yol karruaje chi', a tz'alan icha tik: Ix ak'ji ganar Babilonia. Ix sateli. Masanil skomon diosal heb' ix pojb'ati, chok' ix ajkanem t'a sat lu'um, xchi, xchi winh makwajum chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ab'ek ex wetchonhab', a ex ix ex tek'jiem icha ixim trigo yuj heb' aj Babilonia chi', a tas ix wal tik t'ayex, haton tas ix wab' yuj Jehová Yajal t'a Smasanil, haton ko Diosal a onh israel onh tik."
+    },
+    {
+      "number": "11",
+      "text": "Haton lolonel tik alb'ilkan t'a yib'anh Edom: Ay junok heb' aj Edom chi' ix awajkot t'ayin: ¿Jantakto sk'an sakb'i ach makwajum? ¿Jayeto hora k'ik'to? xchi."
+    },
+    {
+      "number": "12",
+      "text": "Ix in tak'wi icha tik: Wanxo sakb'i, palta elanhchamel ol k'ik'b'okxi. Tato tza nib'ej tza k'anb'ejxi, ixik ol xo ul a k'anb'ejxi, xin chi t'ay."
+    },
+    {
+      "number": "13",
+      "text": "Haton juntzanh tik alb'ilkan t'a yib'anh Arabia: Ex chonhwajum aj Dedán, a ex tzex waykan t'a kaltak te' t'a Arabia,"
+    },
+    {
+      "number": "14",
+      "text": "elanhek he cha heb' ay stakinhtial, tzeyak'an ha' yuk'ej heb'. Ha ex kajan ex t'a chonhab' Tema, elanhek b'aj tzek' heb' sb'at elelal, tzeyaltan wael t'a heb'."
+    },
+    {
+      "number": "15",
+      "text": "Yujto wan yel heb' elelal t'a k'een espada te jay ye yet' jul-lab' wan sjuljieli, haton b'aj ow yak'an owal."
+    },
+    {
+      "number": "16",
+      "text": "Ix yalan Jehová t'ayin icha tik: Yik wal jun ab'il tiknaik, icha tz'aj sb'isan stiempo junok munlajwum, a wal ta' ol satel sniwanil yelk'och chonhab' Cedar."
+    },
+    {
+      "number": "17",
+      "text": "Ha heb' aj Cedar jelan sjulwaji, jaywanhxonhej heb' ol kanok. Ha in Jehová he Diosal in a ex israel ex tik, a in swala', xchi."
+    }
+  ]
 }

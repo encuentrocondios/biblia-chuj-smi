@@ -1,65 +1,69 @@
 {
-    "chapter": "5",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Masanil heb' winh sreyal heb' amorreo ay t'a sk'axepal ek'ta ha' Jordán t'a stojolal b'aj tz'em k'u yet' heb' winh sreyal heb' cananeo t'a sti' ha' mar Mediterráneo, ix yab' spekal heb' tas ix aj stacji ha' Jordán yuj Jehová ayic ix ek'ta heb' israel t'a yol ha'. Yuj chi' ix xivb'at heb', manhxalaj junok heb' stek'b'ej sb'a sb'at yak' owal yet' heb' israel chi'."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a jun pekti’ chi' ix yal Jehová t'a winhaj Josué chi' icha tik: B'oec jayeoc k'een cuchilub' t'a k'een pachab', tzalani to tz'ak'ji circuncidar heb' etchonhab' tik, xchi t'a winh."
-        },
-        {
-            "number": "3",
-            "text": "Ix yalan winhaj Josué chi' to sb'o k'een cuchilub' chi', yic tz'ak'ji circuncidar masanil heb' winh israel ayic ayek' heb' winh t'a tzalan Aralot."
-        },
-        {
-            "number": "4",
-            "text": "Ix ak'ji circuncidar heb' winh smasanil, yujto a masanil heb' winh stiempo yoch soldadoal ayic yelnac heb' t'a Egipto, chamnakkan heb' winh t'a tzinan lu'um."
-        },
-        {
-            "number": "5",
-            "text": "Yujto a heb' winh elnaccot t'a Egipto chi', ak'b'il circuncidar heb' winh smasanil, haxo heb' winh ix alji t'a tzinan lu'um chi', manto ak'b'iloclaj circuncidar heb' winh."
-        },
-        {
-            "number": "6",
-            "text": "Ay 40 ab'il ix ek' heb' israel chi' t'a tzinan lu'um chi', yuj chi' a heb' winh stiempoal yoch soldadoal ayic yelnac heb' t'a Egipto, toxo ix laj cham heb' winh, yujto maj sk'anab'ajej heb' winh tas ix yal Jehová. Yuj chi' yalnac to malaj junok heb' ol ilan lum yak'nac sti' yak'an t'a heb' smam yicham heb', aton lum te yax sat."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi', ix schec winhaj Josué chi' ak'chaj circuncidar heb' winh yuninal heb' winh ix alji, aton heb' winh ix kan sk'exuloc smam, manto ak'jilaj circuncidar heb' winh yujto t'a yol b'e ix laj alji heb' winh."
-        },
-        {
-            "number": "8",
-            "text": "Axo ix lajwi yak'ji circuncidar heb' winh, ix kan heb' winh t'a yol skampamento, masanto ix laj b'oxi heb' winh."
-        },
-        {
-            "number": "9",
-            "text": "Ix yalan Jehová t'a winhaj Josué chi' icha tik: Ha t'a jun k'u tik swik'kanel sb'uchwal lolonel heb' aj Egipto t'ayex, xchi t'a winh. Yuj chi' Gilgal ix sb'iejkan jun lugar chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ayic aytoek' heb' israel t'a yol skampamento t'a Gilgal t'a ak'lic t'a yichanhcot Jericó, t'a 14 yoch uj t'a yemk'ualil, ix yak'anoch q'uinh heb' yic snaancot heb' ayic yelnac heb' libre t'a Egipto."
-        },
-        {
-            "number": "11",
-            "text": "Axo t'a yewial slajwi q'uinh chi', a tastac tz'el t'a sat lu'um chi', a ix swa heb', aton ixim pan malaj yich yet' ixim trigo mayb'il t'a kal k'ak'."
-        },
-        {
-            "number": "12",
-            "text": "Atax ta' ochnakkan waan sjawi maná, yuj chi' majxo swalaj maná chi' heb' israel chi'. Ha t'a jun ab'il chi' axonhej tas tz'el t'a sat lum Canaán chi' ix swa heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ayic ayek' winhaj Josué t'a slak'anil Jericó, ix yil jun icha soldado winh yet'nack'e yespada t'a yol sk'ab', ix snitzanb'at sb'a winhaj Josué chi' t'a stz'ey, ix sk'anb'an winh t'ay icha tik: --¿Tom quetb'eyum ach, mato etb'eyum a b'a yet' heb' ayoch ajk'olal t'ayonh? xchi winh t'ay."
-        },
-        {
-            "number": "14",
-            "text": "--Maay, wal yel a in tik Yajal waj t'a heb' soldado Jehová, xchi. Ayic ix yalan jun chi', ix emk'och nhojnaj winhaj Josué chi' t'a sat lu'um t'a yichanh, ix yalan winh t'ay icha tik: --Ha chekab' in Mamin. ¿Tas a gana tzin k'ulej tiknaik? xchi winh."
-        },
-        {
-            "number": "15",
-            "text": "Ix tak'wi icha tik: --Ik'el a xanhab', yujto a jun lugar b'aj ayach ek' tik yic Jehová yaji, xchi. Yuj chi' ix sk'anab'ajej winhaj Josué chi' t'ay."
-        }
-    ]
+  "chapter": "5",
+  "book": "JOSUÉ",
+  "book_short": "Jos",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Masanil heb' winh sreyal heb' amorreo ay t'a sk'axepal ek'ta ha' Jordán t'a stojolal b'aj tz'em k'u yet' heb' winh sreyal heb' kananeo t'a sti' ha' mar Mediterráneo, ix yab' spekal heb' tas ix aj stakji ha' Jordán yuj Jehová ayik ix ek'ta heb' israel t'a yol ha'. Yuj chi' ix xiwb'at heb', manhxalaj junok heb' stek'b'ej sb'a sb'at yak' owal yet' heb' israel chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a jun pekti' chi' ix yal Jehová t'a winhaj Josué chi' icha tik: B'oek jayeok k'een kuchilub' t'a k'een pachab', tzalani to tz'ak'ji kirkunkidar heb' etchonhab' tik, xchi t'a winh."
+    },
+    {
+      "number": "3",
+      "text": "Ix yalan winhaj Josué chi' to sb'o k'een kuchilub' chi', yik tz'ak'ji kirkunkidar masanil heb' winh israel ayik ayek' heb' winh t'a tzalan Aralot."
+    },
+    {
+      "number": "4",
+      "text": "Ix ak'ji kirkunkidar heb' winh smasanil, yujto a masanil heb' winh stiempo yoch soldadoal ayik yelnak heb' t'a Egipto, chamnakkan heb' winh t'a tzinan lu'um."
+    },
+    {
+      "number": "5",
+      "text": "Yujto a heb' winh elnakkot t'a Egipto chi', ak'b'il kirkunkidar heb' winh smasanil, haxo heb' winh ix alji t'a tzinan lu'um chi', manto ak'b'iloklaj kirkunkidar heb' winh."
+    },
+    {
+      "number": "6",
+      "text": "Ay 40 ab'il ix ek' heb' israel chi' t'a tzinan lu'um chi', yuj chi' a heb' winh stiempoal yoch soldadoal ayik yelnak heb' t'a Egipto, toxo ix laj cham heb' winh, yujto maj sk'anab'ajej heb' winh tas ix yal Jehová. Yuj chi' yalnak to malaj junok heb' ol ilan lum yak'nak sti' yak'an t'a heb' smam yicham heb', haton lum te yax sat."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi', ix schek winhaj Josué chi' ak'chaj kirkunkidar heb' winh yuninal heb' winh ix alji, haton heb' winh ix kan sk'exulok smam, manto ak'jilaj kirkunkidar heb' winh yujto t'a yol b'e ix laj alji heb' winh."
+    },
+    {
+      "number": "8",
+      "text": "Axo ix lajwi yak'ji kirkunkidar heb' winh, ix kan heb' winh t'a yol skampamento, masanto ix laj b'oxi heb' winh."
+    },
+    {
+      "number": "9",
+      "text": "Ix yalan Jehová t'a winhaj Josué chi' icha tik: Ha t'a jun k'u tik swik'kanel sb'uchwal lolonel heb' aj Egipto t'ayex, xchi t'a winh. Yuj chi' Gilgal ix sb'iejkan jun lugar chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ayik aytoek' heb' israel t'a yol skampamento t'a Gilgal t'a ak'lik t'a yichanhkot Jericó, t'a 14 yoch uj t'a yemk'ualil, ix yak'anoch q'uinh heb' yik snaankot heb' ayik yelnak heb' libre t'a Egipto."
+    },
+    {
+      "number": "11",
+      "text": "Axo t'a yewial slajwi q'uinh chi', a tastak tz'el t'a sat lu'um chi', a ix swa heb', haton ixim pan malaj yich yet' ixim trigo mayb'il t'a kal k'ak'."
+    },
+    {
+      "number": "12",
+      "text": "Atax ta' ochnakkan waan sjawi maná, yuj chi' majxo swalaj maná chi' heb' israel chi'. Ha t'a jun ab'il chi' axonhej tas tz'el t'a sat lum Canaán chi' ix swa heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ayik ayek' winhaj Josué t'a slak'anil Jericó, ix yil jun icha soldado winh yet'nakk'e yespada t'a yol sk'ab', ix snitzanb'at sb'a winhaj Josué chi' t'a stz'ey, ix sk'anb'an winh t'ay icha tik: --¿Tom ketb'eyum ach, mato etb'eyum a b'a yet' heb' ayoch ajk'olal t'ayonh? xchi winh t'ay."
+    },
+    {
+      "number": "14",
+      "text": "--Maay, wal yel a in tik Yajal waj t'a heb' soldado Jehová, xchi. Ayik ix yalan jun chi', ix emk'och nhojnaj winhaj Josué chi' t'a sat lu'um t'a yichanh, ix yalan winh t'ay icha tik: --Ha chekab' in Mamin. ¿Tas a gana tzin k'ulej tiknaik? xchi winh."
+    },
+    {
+      "number": "15",
+      "text": "Ix tak'wi icha tik: --Ik'el a xanhab', yujto a jun lugar b'aj ayach ek' tik yik Jehová yaji, xchi. Yuj chi' ix sk'anab'ajej winhaj Josué chi' t'ay."
+    }
+  ]
 }

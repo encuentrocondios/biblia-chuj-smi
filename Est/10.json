@@ -1,17 +1,21 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yak'och k'een tumin winhaj rey Asuero t'a yib'anh masanil heb' anima, aton heb' ay t'a yol smacb'en winh masanto heb' kajan t'a stitac ha' mar, yic syak' k'een heb' t'a winh."
-        },
-        {
-            "number": "2",
-            "text": "Masanil sjelanil winh rey chi' yet' yopisio yet' yab'ixal tas wal yutejnac winh yak'an niwac opisio t'a winhaj Mardoqueo, tz'ib'ab'ilkan b'aj aykan yab'ixal tastac ujinac t'a yol smacb'en Media yet' Persia."
-        },
-        {
-            "number": "3",
-            "text": "Ha winhaj Mardoqueo chi', ix ochkan winh schab'il yajalil t'a winhaj rey Asuero chi'. Te niwan ix aj yelk'och winh t'a skal heb' yetisraelal. Te xajan ix ilji winh yuj heb' yetchonhab' chi', yujto ix sayjiek' swach'il heb' yuj winh, ix yak'an wal yip winh yic wach' tzalajk'olal yet' junk'olal tz'aj heb'."
-        }
-    ]
+  "chapter": "10",
+  "book": "ESTER",
+  "book_short": "Est",
+  "aligned": true,
+  "es_verses": 3,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yak'och k'een tumin winhaj rey Asuero t'a yib'anh masanil heb' anima, haton heb' ay t'a yol smakb'en winh masanto heb' kajan t'a stitak ha' mar, yik syak' k'een heb' t'a winh."
+    },
+    {
+      "number": "2",
+      "text": "Masanil sjelanil winh rey chi' yet' yopisio yet' yab'ixal tas wal yutejnak winh yak'an niwak opisio t'a winhaj Mardoqueo, tz'ib'ab'ilkan b'aj aykan yab'ixal tastak ujinak t'a yol smakb'en Media yet' Persia."
+    },
+    {
+      "number": "3",
+      "text": "Ha winhaj Mardoqueo chi', ix ochkan winh schab'il yajalil t'a winhaj rey Asuero chi'. Te niwan ix aj yelk'och winh t'a skal heb' yetisraelal. Te xajan ix ilji winh yuj heb' yetchonhab' chi', yujto ix sayjiek' swach'il heb' yuj winh, ix yak'an wal yip winh yik wach' tzalajk'olal yet' junk'olal tz'aj heb'."
+    }
+  ]
 }

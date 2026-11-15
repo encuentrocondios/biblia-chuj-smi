@@ -1,29 +1,33 @@
 {
-    "chapter": "25",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi winhaj Bildad aj Súa icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ha Dios ay spoder, xiwub'tac, a tz'ak'anoch junk'olal t'a skal heb' ay t'a satcha’anh."
-        },
-        {
-            "number": "3",
-            "text": "Manhxo b'ischajb'enoc jantac k'een k'anal b'ob'il yuj, ¿tom ay junok mach b'aj max k'och sakil k'inal yuj?"
-        },
-        {
-            "number": "4",
-            "text": "¿Tocwal ay junok anima malaj smul t'a yichanh Dios? ¿Tocwal ay junok mach te wach'?"
-        },
-        {
-            "number": "5",
-            "text": "Ha k'een uj malaj yoc k'een t'a yichanh. Axo k'een k'anal manh wach'oc k'een t'a yol sat."
-        },
-        {
-            "number": "6",
-            "text": "Ocxo wal onh anima onh tik, lajan onh icha nok' ha'ay, xchi winhaj Bildad chi'."
-        }
-    ]
+  "chapter": "25",
+  "book": "JOB",
+  "book_short": "Job",
+  "aligned": true,
+  "es_verses": 6,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi winhaj Bildad aj Súa icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ha Dios ay spoder, xiwub'tak, a tz'ak'anoch junk'olal t'a skal heb' ay t'a satcha'anh."
+    },
+    {
+      "number": "3",
+      "text": "Manhxo b'ischajb'enok jantak k'een k'anal b'ob'il yuj, ¿tom ay junok mach b'aj max k'och sakil k'inal yuj?"
+    },
+    {
+      "number": "4",
+      "text": "¿Tokwal ay junok anima malaj smul t'a yichanh Dios? ¿Tokwal ay junok mach te wach'?"
+    },
+    {
+      "number": "5",
+      "text": "Ha k'een uj malaj yok k'een t'a yichanh. Axo k'een k'anal manh wach'ok k'een t'a yol sat."
+    },
+    {
+      "number": "6",
+      "text": "Okxo wal onh anima onh tik, lajan onh icha nok' ha'ay, xchi winhaj Bildad chi'."
+    }
+  ]
 }

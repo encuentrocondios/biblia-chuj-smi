@@ -1,69 +1,73 @@
 {
-    "chapter": "81",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Conh b'itanec t'a tzalajk'olal d'ha Dios tz'ak'an quip. Conh awajec t'a tzalajk'olal sko b'itan ko Diosal a onh yinhtilal onh winhaj Jacob tik."
-        },
-        {
-            "number": "2",
-            "text": "Conh b'itanec yet' pandereta yet' te' arpa wach' sk'anhi yet' pax salterio."
-        },
-        {
-            "number": "3",
-            "text": "Co puec k'een trompeta ayic tz'alji k'een uj. Co puec pax k'een ayic sk'ojnaj k'een uj chi', yujto niwan q'uinh jun chi' t'ayonh."
-        },
-        {
-            "number": "4",
-            "text": "Aton jun checnab'il ix yak' Dios t'ayonh a onh israel onh tik, a onh yinhtilal onh winhaj Jacob."
-        },
-        {
-            "number": "5",
-            "text": "Ix alchaj t'ayonh yinhtilal onh winhaj José tik, ayic ix b'at Dios owal t'a Egipto. Ata' ix kab' jun lolonel, palta manh cojtakoc mach ix lolon chi'."
-        },
-        {
-            "number": "6",
-            "text": "Ix yalan t'ayonh: Toxo ix wik'kanel eyikatz t'a yich he patic. Toxo ix wik'kanel jun munlajel te ya t'a eyib'anh."
-        },
-        {
-            "number": "7",
-            "text": "Ix in eyavtejcoti ayic ayex och t'a syaelal, a inxo ix ex in colo'. Ix ex in tak'wej t'a skal asun ayic sk'anh k'u. Ix ex wak' prowal t'ha ha' yic Meriba."
-        },
-        {
-            "number": "8",
-            "text": "Ex in chonhab', ab'ec tas swala', a in wan in lolon t'ayex. Ex israel, octom tzin he k'anab'ajej."
-        },
-        {
-            "number": "9",
-            "text": "Malajokab' sdiosal heb' ch'oc chonhab'il ayek' t'ayex. Manh eyak'em he b'ha t'a juntzanh comon Dios chi'."
-        },
-        {
-            "number": "10",
-            "text": "Ha in Jehová he Diosal in, a in ix ex wik'elta t'a yol yic Egipto. Jaquec he ti', ol ex in watzitej."
-        },
-        {
-            "number": "11",
-            "text": "Palta maj yal he k'ol ix in he k'anab'ajej a ex in chonhab' Israel ex tik."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' ix ex wactejkan yuj he pital, ix eyak'an he gana icha snib'ej he k'ool."
-        },
-        {
-            "number": "13",
-            "text": "Ex in chonhab' Israel, octom ix eyab' tas ix wala'. Octom ix he b'eyb'alej in checnab'il."
-        },
-        {
-            "number": "14",
-            "text": "Ix am wak'och yaelal t'a yib'anh heb' ayoch ajk'olal t'ayex. Junnhej am mutz'satil ix aj in satanel heb'."
-        },
-        {
-            "number": "15",
-            "text": "Ha heb' tzin yajaneli, toxonhej am nhojoji yek' heb' yuj xiwelal t'ayin. Axo syaelal heb', skan t'a yib'anh heb' t'a junelnhej."
-        },
-        {
-            "number": "16",
-            "text": "Palta a exxo tik, ix am ex in watzitej. Ha am wal ixim trigo te wach' ix wak' t'ayex. Ix am wak' nok' yalchab' tz'elta t'a sattac k'een k'een eyuk'ej yic tzex tzalaji, xchi Jehová."
-        }
-    ]
+  "chapter": "81",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Konh b'itanek t'a tzalajk'olal t'a Dios tz'ak'an kip. Konh awajek t'a tzalajk'olal sko b'itan ko Diosal a onh yinhtilal onh winhaj Jacob tik."
+    },
+    {
+      "number": "2",
+      "text": "Konh b'itanek yet' pandereta yet' te' arpa wach' sk'anhi yet' pax salterio."
+    },
+    {
+      "number": "3",
+      "text": "Ko puek k'een trompeta ayik tz'alji k'een uj. Ko puek pax k'een ayik sk'ojnaj k'een uj chi', yujto niwan q'uinh jun chi' t'ayonh."
+    },
+    {
+      "number": "4",
+      "text": "Haton jun cheknab'il ix yak' Dios t'ayonh a onh israel onh tik, a onh yinhtilal onh winhaj Jacob."
+    },
+    {
+      "number": "5",
+      "text": "Ix alchaj t'ayonh yinhtilal onh winhaj José tik, ayik ix b'at Dios owal t'a Egipto. Ata' ix kab' jun lolonel, palta manh kojtakok mach ix lolon chi'."
+    },
+    {
+      "number": "6",
+      "text": "Ix yalan t'ayonh: Toxo ix wik'kanel eyikatz t'a yich he patik. Toxo ix wik'kanel jun munlajel te ya t'a eyib'anh."
+    },
+    {
+      "number": "7",
+      "text": "Ix in eyawtejkoti ayik ayex och t'a syaelal, a inxo ix ex in kolo'. Ix ex in tak'wej t'a skal asun ayik sk'anh k'u. Ix ex wak' prowal t'a ha' yik Meriba."
+    },
+    {
+      "number": "8",
+      "text": "Ex in chonhab', ab'ek tas swala', a in wan in lolon t'ayex. Ex israel, oktom tzin he k'anab'ajej."
+    },
+    {
+      "number": "9",
+      "text": "Malajokab' sdiosal heb' ch'ok chonhab'il ayek' t'ayex. Manh eyak'em he b'a t'a juntzanh komon Dios chi'."
+    },
+    {
+      "number": "10",
+      "text": "Ha in Jehová he Diosal in, a in ix ex wik'elta t'a yol yik Egipto. Jakek he ti', ol ex in watzitej."
+    },
+    {
+      "number": "11",
+      "text": "Palta maj yal he k'ol ix in he k'anab'ajej a ex in chonhab' Israel ex tik."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' ix ex waktejkan yuj he pital, ix eyak'an he gana icha snib'ej he k'ool."
+    },
+    {
+      "number": "13",
+      "text": "Ex in chonhab' Israel, oktom ix eyab' tas ix wala'. Oktom ix he b'eyb'alej in cheknab'il."
+    },
+    {
+      "number": "14",
+      "text": "Ix am wak'och yaelal t'a yib'anh heb' ayoch ajk'olal t'ayex. Junnhej am mutz'satil ix aj in satanel heb'."
+    },
+    {
+      "number": "15",
+      "text": "Ha heb' tzin yajaneli, toxonhej am nhojoji yek' heb' yuj xiwelal t'ayin. Axo syaelal heb', skan t'a yib'anh heb' t'a junelnhej."
+    },
+    {
+      "number": "16",
+      "text": "Palta a exxo tik, ix am ex in watzitej. Ha am wal ixim trigo te wach' ix wak' t'ayex. Ix am wak' nok' yalchab' tz'elta t'a sattak k'een k'een eyuk'ej yik tzex tzalaji, xchi Jehová."
+    }
+  ]
 }

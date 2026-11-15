@@ -1,45 +1,49 @@
 {
-    "chapter": "146",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. D'a wal smasanil in k'ool ol wal wach' lolonel t'a Jehová."
-        },
-        {
-            "number": "2",
-            "text": "Yacb'an pitzan into ol wal wach' lolonel t'ay. Yacb'an ayinto eq'ui, ol in b'itan t'a in Diosal."
-        },
-        {
-            "number": "3",
-            "text": "Manh eyak'och anima niwan yelk'och yipoc he k'ool, yujto animanhej heb', yuj chi' max yal-laj skolwaj heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ayic scham heb', tz'ochkan heb' pokokal. Ha t'a jun k'u chi' slajwikanel tastac sna heb' sk'ulej."
-        },
-        {
-            "number": "5",
-            "text": "Te wach' yic mach schaan scolwal sDiosal winhaj Jacob. Anhej Jehová Dios chi' ayoch yipoc sk'ool."
-        },
-        {
-            "number": "6",
-            "text": "Ha Jehová b'oannac satcha’anh, lum lum, ha' mar yet' masanil tastac ay t'a junjun makan chi'. Tz'elnhejk'och tas syala'."
-        },
-        {
-            "number": "7",
-            "text": "A' sb'oan yaj b'aj tz'ixtaj heb' anima, syak'anpax swael heb' ay swejel. A' scolanel heb' ayoch t'a preso."
-        },
-        {
-            "number": "8",
-            "text": "Ha Jehová sjakan sat heb' max ujilaj yilani, squetzan k'e waan heb' stelwi. Xajan heb' anima wach' spensar yuj."
-        },
-        {
-            "number": "9",
-            "text": "Ha Jehová scolan heb' anima ch'oc chonhab'il. Anhejton pax ha' tz'ilan heb' unin chamnac smam yet' heb' ix ix chamnac yetb'eyum. Palta tz'ak'ji somchaj heb' sk'ulan chukal yuj."
-        },
-        {
-            "number": "10",
-            "text": "Ex aj Sion, a Jehová ol ak'an Yajalil t'a masanil tiempo. Ha ko Diosal ol och Reyal t'a junelnhej. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "146",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. T'a wal smasanil in k'ool ol wal wach' lolonel t'a Jehová."
+    },
+    {
+      "number": "2",
+      "text": "Yakb'an pitzan into ol wal wach' lolonel t'ay. Yakb'an ayinto eq'ui, ol in b'itan t'a in Diosal."
+    },
+    {
+      "number": "3",
+      "text": "Manh eyak'och anima niwan yelk'och yipok he k'ool, yujto animanhej heb', yuj chi' max yal-laj skolwaj heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ayik scham heb', tz'ochkan heb' pokokal. Ha t'a jun k'u chi' slajwikanel tastak sna heb' sk'ulej."
+    },
+    {
+      "number": "5",
+      "text": "Te wach' yik mach schaan skolwal sDiosal winhaj Jacob. Anhej Jehová Dios chi' ayoch yipok sk'ool."
+    },
+    {
+      "number": "6",
+      "text": "Ha Jehová b'oannak satcha'anh, lum lum, ha' mar yet' masanil tastak ay t'a junjun makan chi'. Tz'elnhejk'och tas syala'."
+    },
+    {
+      "number": "7",
+      "text": "A' sb'oan yaj b'aj tz'ixtaj heb' anima, syak'anpax swael heb' ay swejel. A' skolanel heb' ayoch t'a preso."
+    },
+    {
+      "number": "8",
+      "text": "Ha Jehová sjakan sat heb' max ujilaj yilani, sketzan k'e waan heb' stelwi. Xajan heb' anima wach' spensar yuj."
+    },
+    {
+      "number": "9",
+      "text": "Ha Jehová skolan heb' anima ch'ok chonhab'il. Anhejton pax ha' tz'ilan heb' unin chamnak smam yet' heb' ix ix chamnak yetb'eyum. Palta tz'ak'ji somchaj heb' sk'ulan chukal yuj."
+    },
+    {
+      "number": "10",
+      "text": "Ex aj Sion, a Jehová ol ak'an Yajalil t'a masanil tiempo. Ha ko Diosal ol och Reyal t'a junelnhej. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

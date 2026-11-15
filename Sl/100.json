@@ -1,25 +1,29 @@
 {
-    "chapter": "100",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Co masanil kajan onh t'a yol yib'anhk’inal tik, conh b'itanec t'a Jehová t'a tzalajk'olal."
-        },
-        {
-            "number": "2",
-            "text": "Cak'equem ko b'a t'ay t'a tzalajk'olal. Cotanhec t'a yichanh yet' av yic tzalajk'olal."
-        },
-        {
-            "number": "3",
-            "text": "Cham wal cojtakaneli to a Jehová Dios toni. A' ix onh b'oani, yuj chi' yiconh. Ha onh schonhab' onh tik, icha wal skalnel kaji."
-        },
-        {
-            "number": "4",
-            "text": "Conh ochec t'a puerta yic tzonh och t'a yol yamaq'uil skajnub' yic skalec wach' lolonel t'ay. Caq'ek yuj diosal t'ay, skalanec wach' lolonel t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Yujto a Jehová wach' toni. Ha swach'k'olal aynhejek' t'a junelnhej, malaj b'aj max yak'elk'och tas syala'."
-        }
-    ]
+  "chapter": "100",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 5,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ko masanil kajan onh t'a yol yib'anhk'inal tik, konh b'itanek t'a Jehová t'a tzalajk'olal."
+    },
+    {
+      "number": "2",
+      "text": "Kak'ekem ko b'a t'ay t'a tzalajk'olal. Kotanhek t'a yichanh yet' aw yik tzalajk'olal."
+    },
+    {
+      "number": "3",
+      "text": "Cham wal kojtakaneli to a Jehová Dios toni. A' ix onh b'oani, yuj chi' yikonh. Ha onh schonhab' onh tik, icha wal skalnel kaji."
+    },
+    {
+      "number": "4",
+      "text": "Konh ochek t'a puerta yik tzonh och t'a yol yamaq'uil skajnub' yik skalek wach' lolonel t'ay. Kaq'ek yuj diosal t'ay, skalanek wach' lolonel t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Yujto a Jehová wach' toni. Ha swach'k'olal aynhejek' t'a junelnhej, malaj b'aj max yak'elk'och tas syala'."
+    }
+  ]
 }

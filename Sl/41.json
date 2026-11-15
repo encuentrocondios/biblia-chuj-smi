@@ -1,57 +1,61 @@
 {
-    "chapter": "41",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Wach' yic heb' skolwaj t'a heb' meb'a', a Jehová ol colanel heb' t'a skal syaelal."
-        },
-        {
-            "number": "2",
-            "text": "A' ol tanhwan heb', ol ak'joc sk'inal heb' yet' stzalajk'olal yuj t'a sat lu'um tik. Manh ol ak'joc ochlaj heb' t'a yol sk'ab' heb' ajk'ool yuj."
-        },
-        {
-            "number": "3",
-            "text": "Ol ak'joc yip heb' t'a skal syaelal yuj Jehová, ol b'oxoc sk'ool heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha in ix wala': Mamin Jehová, ok'oc a k'ool t'ayin. Anhtej in, yel toni ay in mul t'ayach, xin chi."
-        },
-        {
-            "number": "5",
-            "text": "Ha heb' ayoch ajk'olal t'ayin, syal chuk heb' t'ayin: Comonoc spet chami yic manhxo ol nachajcotoc, xchi heb'."
-        },
-        {
-            "number": "6",
-            "text": "Sja heb' yak' in paxyal, palta manhoc t'a swach'il sk'ol heb' tzul in yila'. Masanil tas syilb'at heb' t'ayin, sik'kan heb' t'a spensar, haxo t'a yoltac b'e syal in pecal heb'."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' tzin chakaneli, smolb'ej sb'a heb', syalan in pecal heb'. Chuc tas sna heb' t'a in patic."
-        },
-        {
-            "number": "8",
-            "text": "Syalan heb': Ha syaelal jun tik, manhxa yanhal. Toxo ix b'atkan t'a sat sch'at, manhxo ol b'oxlaj sk'ool, xchi heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ha jun wamigo junnhej tzin wa yet'oc, yip in k'ool walani, ha' ix och ajk'olal t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Ha achxo Mamin Jehová, ok'oc wal a k'ool t'ayin. Ik' in k'e waan yic ol wak'anek' in pac t'a heb'."
-        },
-        {
-            "number": "11",
-            "text": "Tato manh ol tzalaj sk'ool heb' ayoch ajk'olal t'ayin, ichato chi' ol nachajel wuuj to tzach tzalaj wed'oc."
-        },
-        {
-            "number": "12",
-            "text": "Ha inxo pax jun, malaj in mul t'a ichanh, yuj chi' ix in a quetz yet' a k'ab'. Ayinnhejokab' ek' t'a ichanh t'a masanil tiempo."
-        },
-        {
-            "number": "13",
-            "text": "Alchajokab' wach' lolonel t'a Jehová ko Diosal a onh israel onh tik, ticnaik yet' t'a masanil tiempo. Ujokab'i."
-        }
-    ]
+  "chapter": "41",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Wach' yik heb' skolwaj t'a heb' meb'a', a Jehová ol kolanel heb' t'a skal syaelal."
+    },
+    {
+      "number": "2",
+      "text": "A' ol tanhwan heb', ol ak'jok sk'inal heb' yet' stzalajk'olal yuj t'a sat lu'um tik. Manh ol ak'jok ochlaj heb' t'a yol sk'ab' heb' ajk'ool yuj."
+    },
+    {
+      "number": "3",
+      "text": "Ol ak'jok yip heb' t'a skal syaelal yuj Jehová, ol b'oxok sk'ool heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha in ix wala': Mamin Jehová, ok'ok a k'ool t'ayin. Anhtej in, yel toni ay in mul t'ayach, xin chi."
+    },
+    {
+      "number": "5",
+      "text": "Ha heb' ayoch ajk'olal t'ayin, syal chuk heb' t'ayin: Komonok spet chami yik manhxo ol nachajkotok, xchi heb'."
+    },
+    {
+      "number": "6",
+      "text": "Sja heb' yak' in paxyal, palta manhok t'a swach'il sk'ol heb' tzul in yila'. Masanil tas syilb'at heb' t'ayin, sik'kan heb' t'a spensar, haxo t'a yoltak b'e syal in pekal heb'."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' tzin chakaneli, smolb'ej sb'a heb', syalan in pekal heb'. Chuk tas sna heb' t'a in patik."
+    },
+    {
+      "number": "8",
+      "text": "Syalan heb': Ha syaelal jun tik, manhxa yanhal. Toxo ix b'atkan t'a sat sch'at, manhxo ol b'oxlaj sk'ool, xchi heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ha jun wamigo junnhej tzin wa yet'ok, yip in k'ool walani, ha' ix och ajk'olal t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Ha achxo Mamin Jehová, ok'ok wal a k'ool t'ayin. Ik' in k'e waan yik ol wak'anek' in pak t'a heb'."
+    },
+    {
+      "number": "11",
+      "text": "Tato manh ol tzalaj sk'ool heb' ayoch ajk'olal t'ayin, ichato chi' ol nachajel wuuj to tzach tzalaj wet'ok."
+    },
+    {
+      "number": "12",
+      "text": "Ha inxo pax jun, malaj in mul t'a ichanh, yuj chi' ix in a ketz yet' a k'ab'. Ayinnhejokab' ek' t'a ichanh t'a masanil tiempo."
+    },
+    {
+      "number": "13",
+      "text": "Alchajokab' wach' lolonel t'a Jehová ko Diosal a onh israel onh tik, tiknaik yet' t'a masanil tiempo. Ujokab'i."
+    }
+  ]
 }

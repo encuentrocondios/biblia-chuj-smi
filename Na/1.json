@@ -1,65 +1,69 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha in Nahum in tik, aj chonhab' Elcos in, ix sch'ox Jehová t'ayin schekab' in tik tas ol jawok t'a yib'anh chonhab' Níniwe."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jehová Dios toni, spactzitej yet' yowal sk'ol t'a heb' tz'ik'an ek' yichanh. Spactzitej t'a heb' chuk syutej sb'a t'ay, ste cotwal yowal t'a heb' ajk'ool yajoch t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ha Jehová, manh k'unoc scot yowal, palta te ay spoder, yowalil syak'och yaelal t'a yib'anh heb' tz'och smul. Ha t'a skal chacxuxum ik' sb'eyeq'ui, haxo asun, spokokal yoc yaji."
-        },
-        {
-            "number": "4",
-            "text": "Ha tz'alani stupem ha' mar. Anheja' tz'ak'anpax tup masanil ha ha'. Stacjikanb'at masanil lum lum t'a Basán yet' pax t'a witzal Carmelo yuj. Tz'ixtaxpaxb'at yilji te' xumaac t'a Líbano yuj."
-        },
-        {
-            "number": "5",
-            "text": "Tz'ib'xik'e lum witz, tz'ulaxpaxb'at lum tzalquixtac t'a yichanh. Tz'ib'xik'e lum lum tik smasanil ayic sch'oxan sb'a. Stzicub'tanhaj yol yib'anhk’inal tik yet' masanil anima yuj."
-        },
-        {
-            "number": "6",
-            "text": "¿Mach syal stek'b'an sb'ha t'a yichanh yowal sk'ool, ma syal skachanoch waan yowal sk'ool chi'? Ha yowal sk'ool chi', tz'em copnaj icha te' k'ak', spojb'at k'een niwac k'een yuj."
-        },
-        {
-            "number": "7",
-            "text": "Te wach' sk'ol Jehová, a skolwaj t'ayonh t'a skal ko yaelal. Ha heb' syak'och sk'ol t'ay, scolji heb' yuj."
-        },
-        {
-            "number": "8",
-            "text": "Axo pax heb' chuk syutej sb'a t'ay jun, satjiel heb' yuj icha tz'aj scuchjib'at masanil tas yuj ha' eluma'. Syak'kanb'at k’ik’ k’inal t'a yib'anh heb' ajk'ol yajoch t'ay."
-        },
-        {
-            "number": "9",
-            "text": "Ex aj Níniwe, ¿toc wal ay yelk'och jab'oc tas tze na t'a spatic Jehová? A' ol ex satanel t'a junelnhej. Malaj mach syal stek'b'an sb'a chaeloc t'a yichanh."
-        },
-        {
-            "number": "10",
-            "text": "Wach'chom te tek'an ex eyab'an icha heb' uk'um anh, ma ichato lajan ex icha te' q'uiix jeljumb'a yaji, palta ol ex satel icha tz'aj stz'ab'at anh taquinh ac."
-        },
-        {
-            "number": "11",
-            "text": "Ha t'a he chonhab' Níniwe chi', ata' ay jun mach snaan chukal t'a spatic Jehová, aton jun ak'um k'ool t'a chukal."
-        },
-        {
-            "number": "12",
-            "text": "Yuj chi' syal Jehová t'a schonhab' Jerusalén icha tik: Wach'chom manhxo jantacoc sb'isul heb' aj Asiria, ma te ay yip heb' yalani, palta ol satjoquel heb'. Ha in ix wak'och yaelal t'a eyib'anh, palta manhxa b'ak'uinh ol wak'xioch eyaelal chi'."
-        },
-        {
-            "number": "13",
-            "text": "Ol ex in colel t'a yol skab' heb' aj Asiria tz'ak'anoch yaelal t'a eyib'anh, ol in cotac d'inhchitanb'at k'een cadena ayoch t'ayex yuj heb', xchi Jehová."
-        },
-        {
-            "number": "14",
-            "text": "Ha Jehová tz'alan t'a winh sreyal Asiria icha tik: Malaj inhtilal ol ach ak'ankan b'inajoc. Ol in satel juntzanh a diosal ayek' t'a yol a templo. Chequelxo yaj b'aj ol ach mucchajoc, yujto malaj elk'ochi, xchi Jehová."
-        },
-        {
-            "number": "15",
-            "text": "Ilecnab'i, wan sjawi jun mach tz'alanel wach' ab'ix yic junk'olal t'a jolomtac witz. Ex aj Judá ak'ecoch he q'uinh, k'anab'ajejec b'aj ix eyak' he ti'. Manhxalaj b'ak'uinh ol ex ixtaj yuj heb' chuk chi', toxo ix satel heb' t'a junelnhej."
-        }
-    ]
+  "chapter": "1",
+  "book": "NAHUM",
+  "book_short": "Na",
+  "aligned": true,
+  "es_verses": 15,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha in Nahum in tik, aj chonhab' Elcos in, ix sch'ox Jehová t'ayin schekab' in tik tas ol jawok t'a yib'anh chonhab' Nínive."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jehová Dios toni, spaktzitej yet' yowal sk'ol t'a heb' tz'ik'an ek' yichanh. Spaktzitej t'a heb' chuk syutej sb'a t'ay, ste kotwal yowal t'a heb' ajk'ool yajoch t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ha Jehová, manh k'unok skot yowal, palta te ay spoder, yowalil syak'och yaelal t'a yib'anh heb' tz'och smul. Ha t'a skal chakxuxum ik' sb'eyeq'ui, haxo asun, spokokal yok yaji."
+    },
+    {
+      "number": "4",
+      "text": "Ha tz'alani stupem ha' mar. Anheja' tz'ak'anpax tup masanil ha ha'. Stakjikanb'at masanil lum lum t'a Basán yet' pax t'a witzal Carmelo yuj. Tz'ixtaxpaxb'at yilji te' xumaak t'a Líbano yuj."
+    },
+    {
+      "number": "5",
+      "text": "Tz'ib'xik'e lum witz, tz'ulaxpaxb'at lum tzalkixtak t'a yichanh. Tz'ib'xik'e lum lum tik smasanil ayik sch'oxan sb'a. Stzikub'tanhaj yol yib'anhk'inal tik yet' masanil anima yuj."
+    },
+    {
+      "number": "6",
+      "text": "¿Mach syal stek'b'an sb'a t'a yichanh yowal sk'ool, ma syal skachanoch waan yowal sk'ool chi'? Ha yowal sk'ool chi', tz'em kopnaj icha te' k'ak', spojb'at k'een niwak k'een yuj."
+    },
+    {
+      "number": "7",
+      "text": "Te wach' sk'ol Jehová, a skolwaj t'ayonh t'a skal ko yaelal. Ha heb' syak'och sk'ol t'ay, skolji heb' yuj."
+    },
+    {
+      "number": "8",
+      "text": "Axo pax heb' chuk syutej sb'a t'ay jun, satjiel heb' yuj icha tz'aj skuchjib'at masanil tas yuj ha' eluma'. Syak'kanb'at k'ik' k'inal t'a yib'anh heb' ajk'ol yajoch t'ay."
+    },
+    {
+      "number": "9",
+      "text": "Ex aj Nínive, ¿tok wal ay yelk'och jab'ok tas tze na t'a spatik Jehová? A' ol ex satanel t'a junelnhej. Malaj mach syal stek'b'an sb'a chaelok t'a yichanh."
+    },
+    {
+      "number": "10",
+      "text": "Wach'chom te tek'an ex eyab'an icha heb' uk'um anh, ma ichato lajan ex icha te' q'uiix jeljumb'a yaji, palta ol ex satel icha tz'aj stz'ab'at anh takinh ak."
+    },
+    {
+      "number": "11",
+      "text": "Ha t'a he chonhab' Nínive chi', ata' ay jun mach snaan chukal t'a spatik Jehová, haton jun ak'um k'ool t'a chukal."
+    },
+    {
+      "number": "12",
+      "text": "Yuj chi' syal Jehová t'a schonhab' Jerusalén icha tik: Wach'chom manhxo jantakok sb'isul heb' aj Asiria, ma te ay yip heb' yalani, palta ol satjokel heb'. Ha in ix wak'och yaelal t'a eyib'anh, palta manhxa b'ak'uinh ol wak'xioch eyaelal chi'."
+    },
+    {
+      "number": "13",
+      "text": "Ol ex in kolel t'a yol skab' heb' aj Asiria tz'ak'anoch yaelal t'a eyib'anh, ol in kotak t'inhchitanb'at k'een kadena ayoch t'ayex yuj heb', xchi Jehová."
+    },
+    {
+      "number": "14",
+      "text": "Ha Jehová tz'alan t'a winh sreyal Asiria icha tik: Malaj inhtilal ol ach ak'ankan b'inajok. Ol in satel juntzanh a diosal ayek' t'a yol a templo. Chekelxo yaj b'aj ol ach mukchajok, yujto malaj elk'ochi, xchi Jehová."
+    },
+    {
+      "number": "15",
+      "text": "Ileknab'i, wan sjawi jun mach tz'alanel wach' ab'ix yik junk'olal t'a jolomtak witz. Ex aj Judá ak'ekoch he q'uinh, k'anab'ajejek b'aj ix eyak' he ti'. Manhxalaj b'ak'uinh ol ex ixtaj yuj heb' chuk chi', toxo ix satel heb' t'a junelnhej."
+    }
+  ]
 }

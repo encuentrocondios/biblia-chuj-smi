@@ -1,41 +1,45 @@
 {
-    "chapter": "137",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a sti' ha ha' t'a yol yic Babilonia, onh em k'ojan ayic ix ko naancot Sion, ix onh ok' b'ian."
-        },
-        {
-            "number": "2",
-            "text": "Ix kak'k'e lokan te' arpa t'a sk'ab' te' tak'u ay t'a sti' ha ha' chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' ix onh ik'anb'at icha t'a preso, ix b'uchwaj heb' t'ayonh, ix yalan heb' icha tik: B'itananhec t'a tzalajk'olal, a sb'ital Sion tze b'itej t'ayonh, xchi heb'."
-        },
-        {
-            "number": "4",
-            "text": "¿Tom ol ko b'itej b'it yic Jehová t'a lum ch'oc chonhab'il? xco chi."
-        },
-        {
-            "number": "5",
-            "text": "Tato sb'at satk'olal Jerusalén wuuj, satokab' sjelanil in wach' k'ab' tik in chalan te' warpa."
-        },
-        {
-            "number": "6",
-            "text": "Tato manhxo naanoc Jerusalén wuuj, tato manhxa pax in gana t'ay t'a yichanh pax tas snib'ej in k'ool, kanokab' lotznaj wak' t'a in joom, yic wach' manhxo ol yal-laj in b'itani."
-        },
-        {
-            "number": "7",
-            "text": "Mamin Jehová, nacot heb' aj Edom, yujto ayic ix yamchaj chonhab' Jerusalén, ix yal heb' icha tik: Pojequemi, pojequemi, masanto scheclaj cimientoal yich, xchi heb'."
-        },
-        {
-            "number": "8",
-            "text": "Ex aj Babilonia, ol ex satpaxeloc. Te wach' yic mach ol ak'anek' spak chukal tas ix onh eyutej."
-        },
-        {
-            "number": "9",
-            "text": "Te wach' yic mach ol yaman heb' eyuninal, ol smak'anpoj sjolom heb' t'a spatictac k'een k'een."
-        }
-    ]
+  "chapter": "137",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 9,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a sti' ha ha' t'a yol yik Babilonia, onh em k'ojan ayik ix ko naankot Sion, ix onh ok' b'ian."
+    },
+    {
+      "number": "2",
+      "text": "Ix kak'k'e lokan te' arpa t'a sk'ab' te' tak'u ay t'a sti' ha ha' chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' ix onh ik'anb'at icha t'a preso, ix b'uchwaj heb' t'ayonh, ix yalan heb' icha tik: B'itananhek t'a tzalajk'olal, a sb'ital Sion tze b'itej t'ayonh, xchi heb'."
+    },
+    {
+      "number": "4",
+      "text": "¿Tom ol ko b'itej b'it yik Jehová t'a lum ch'ok chonhab'il? xko chi."
+    },
+    {
+      "number": "5",
+      "text": "Tato sb'at satk'olal Jerusalén wuuj, satokab' sjelanil in wach' k'ab' tik in chalan te' warpa."
+    },
+    {
+      "number": "6",
+      "text": "Tato manhxo naanok Jerusalén wuuj, tato manhxa pax in gana t'ay t'a yichanh pax tas snib'ej in k'ool, kanokab' lotznaj wak' t'a in joom, yik wach' manhxo ol yal-laj in b'itani."
+    },
+    {
+      "number": "7",
+      "text": "Mamin Jehová, nakot heb' aj Edom, yujto ayik ix yamchaj chonhab' Jerusalén, ix yal heb' icha tik: Pojekemi, pojekemi, masanto scheklaj kimientoal yich, xchi heb'."
+    },
+    {
+      "number": "8",
+      "text": "Ex aj Babilonia, ol ex satpaxelok. Te wach' yik mach ol ak'anek' spak chukal tas ix onh eyutej."
+    },
+    {
+      "number": "9",
+      "text": "Te wach' yik mach ol yaman heb' eyuninal, ol smak'anpoj sjolom heb' t'a spatiktak k'een k'een."
+    }
+  ]
 }

@@ -1,85 +1,89 @@
 {
-    "chapter": "77",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te chaanh swal in b'a d'ha Dios, yic wach' syab' tas swala'."
-        },
-        {
-            "number": "2",
-            "text": "Ix in lesalwi t'a Kajal ayic ay in cusk'olal. Maj wactejkan in mojb'an in k'ab' t'ay t'a junjun ak'wal, palta malaj tas syal yak'an sniwanil in k'ool."
-        },
-        {
-            "number": "3",
-            "text": "Ayic tzin naancot Dios, tzin oq'ui. Ayic tzin te ak'an pensar, schab'axk'e in k'ool."
-        },
-        {
-            "number": "4",
-            "text": "Mamin, maj in a cha wayb'atoc. Manhxo animaoc waj swab'i, maxtzac yal-laj in loloni."
-        },
-        {
-            "number": "5",
-            "text": "Tzin nacot juntzanh k'ual yet' juntzanh ab'il ek'nac t'a peka'."
-        },
-        {
-            "number": "6",
-            "text": "Tzin nacot ticnaik atax yic tzin b'itan t'ak'walil. Tzin naub'tanhej, tzin k'anb'an t'ayin:"
-        },
-        {
-            "number": "7",
-            "text": "¿Tocwal aynhejcot yowal sk'ol Dios Kajal t'ayonh? ¿Tom manhxo ol onh xajanej?"
-        },
-        {
-            "number": "8",
-            "text": "¿Tom ix lajwiel swach'k'olal? ¿Tom junelnhej ix lajwi b'aj yak'nakkan sti'?"
-        },
-        {
-            "number": "9",
-            "text": "¿Tom ix sat sk'ol Dios t'a swach'k'olal? ¿Yel am wal te aycot yowal sk'ool, manhxo am ol ok' sk'ol t'ayonh?"
-        },
-        {
-            "number": "10",
-            "text": "Ay tas yelxo wal ya swab' ticnaik, swalan t'a yol wico': Ha Dios Ek'to t'a yib'anh smasanil, mantzac colwajlaj t'ayonh, icha ix aj skolwaj t'a yalanhtaxo, xin chi."
-        },
-        {
-            "number": "11",
-            "text": "Ach in Diosal, a ticnaik ol in nacot juntzanh tas satub'tac a b'onac t'a peka'."
-        },
-        {
-            "number": "12",
-            "text": "Ol in nacot masanil tas a b'onac."
-        },
-        {
-            "number": "13",
-            "text": "Ach in Diosal, te wach'nhej masanil tastac tza b'o'o. Malaj junocxo Dios niwan yelk'och icha ach tik ach ko Diosal."
-        },
-        {
-            "number": "14",
-            "text": "Ha ach tik, Dios ach, sb'oumal ach tastac satub'tac. Ix a ch'oxel a poder t'a masanil nación."
-        },
-        {
-            "number": "15",
-            "text": "Ha yet' a poder a colnakkanel a chonhab', aton heb' yinhtilal winhaj Jacob yet' winhaj José."
-        },
-        {
-            "number": "16",
-            "text": "Ach ko Diosal, ayic ix ach yilan ha' mar, ix xivk'e ha'. Ix ib'xik'e ha' masanto t'a sjulal yich."
-        },
-        {
-            "number": "17",
-            "text": "Ha asun ix yak'emta snhab'il. Ix k'anh k'u t'a satcha’anh, tzijtum b'aj ix checlaj lheb'lon t'a sat lu'um tik."
-        },
-        {
-            "number": "18",
-            "text": "Ix ib'xi lum lum tik yuj. Ix ab'chaj sk'anh k'u t'a skal chacxuxum ik'. Ha a lheb'lon, ix yak' sakil k'inal t'a yol yib'anhk’inal tik."
-        },
-        {
-            "number": "19",
-            "text": "Ha t'a yol ha' mar ix a jac a b'e, tzijtum ha ha' b'aj ix ach k'axpaji, palta malaj mach ix ilan yechel oclem."
-        },
-        {
-            "number": "20",
-            "text": "Ix ik' b'ey a chonhab' icha nok' kalnel. Ix a yamk'ab'ej winhaj Moisés yet' winhaj Aarón yic scuchb'an a chonhab' heb' winh."
-        }
-    ]
+  "chapter": "77",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te chaanh swal in b'a t'a Dios, yik wach' syab' tas swala'."
+    },
+    {
+      "number": "2",
+      "text": "Ix in lesalwi t'a Kajal ayik ay in kusk'olal. Maj waktejkan in mojb'an in k'ab' t'ay t'a junjun ak'wal, palta malaj tas syal yak'an sniwanil in k'ool."
+    },
+    {
+      "number": "3",
+      "text": "Ayik tzin naankot Dios, tzin oq'ui. Ayik tzin te ak'an pensar, schab'axk'e in k'ool."
+    },
+    {
+      "number": "4",
+      "text": "Mamin, maj in a cha wayb'atok. Manhxo animaok waj swab'i, maxtzak yal-laj in loloni."
+    },
+    {
+      "number": "5",
+      "text": "Tzin nakot juntzanh k'ual yet' juntzanh ab'il ek'nak t'a peka'."
+    },
+    {
+      "number": "6",
+      "text": "Tzin nakot tiknaik atax yik tzin b'itan t'ak'walil. Tzin naub'tanhej, tzin k'anb'an t'ayin:"
+    },
+    {
+      "number": "7",
+      "text": "¿Tokwal aynhejkot yowal sk'ol Dios Kajal t'ayonh? ¿Tom manhxo ol onh xajanej?"
+    },
+    {
+      "number": "8",
+      "text": "¿Tom ix lajwiel swach'k'olal? ¿Tom junelnhej ix lajwi b'aj yak'nakkan sti'?"
+    },
+    {
+      "number": "9",
+      "text": "¿Tom ix sat sk'ol Dios t'a swach'k'olal? ¿Yel am wal te aykot yowal sk'ool, manhxo am ol ok' sk'ol t'ayonh?"
+    },
+    {
+      "number": "10",
+      "text": "Ay tas yelxo wal ya swab' tiknaik, swalan t'a yol wiko': Ha Dios Ek'to t'a yib'anh smasanil, mantzak kolwajlaj t'ayonh, icha ix aj skolwaj t'a yalanhtaxo, xin chi."
+    },
+    {
+      "number": "11",
+      "text": "Ach in Diosal, a tiknaik ol in nakot juntzanh tas satub'tak a b'onak t'a peka'."
+    },
+    {
+      "number": "12",
+      "text": "Ol in nakot masanil tas a b'onak."
+    },
+    {
+      "number": "13",
+      "text": "Ach in Diosal, te wach'nhej masanil tastak tza b'o'o. Malaj junokxo Dios niwan yelk'och icha ach tik ach ko Diosal."
+    },
+    {
+      "number": "14",
+      "text": "Ha ach tik, Dios ach, sb'oumal ach tastak satub'tak. Ix a ch'oxel a poder t'a masanil nakión."
+    },
+    {
+      "number": "15",
+      "text": "Ha yet' a poder a kolnakkanel a chonhab', haton heb' yinhtilal winhaj Jacob yet' winhaj José."
+    },
+    {
+      "number": "16",
+      "text": "Ach ko Diosal, ayik ix ach yilan ha' mar, ix xiwk'e ha'. Ix ib'xik'e ha' masanto t'a sjulal yich."
+    },
+    {
+      "number": "17",
+      "text": "Ha asun ix yak'emta snhab'il. Ix k'anh k'u t'a satcha'anh, tzijtum b'aj ix cheklaj lheb'lon t'a sat lu'um tik."
+    },
+    {
+      "number": "18",
+      "text": "Ix ib'xi lum lum tik yuj. Ix ab'chaj sk'anh k'u t'a skal chakxuxum ik'. Ha a lheb'lon, ix yak' sakil k'inal t'a yol yib'anhk'inal tik."
+    },
+    {
+      "number": "19",
+      "text": "Ha t'a yol ha' mar ix a jak a b'e, tzijtum ha ha' b'aj ix ach k'axpaji, palta malaj mach ix ilan yechel oklem."
+    },
+    {
+      "number": "20",
+      "text": "Ix ik' b'ey a chonhab' icha nok' kalnel. Ix a yamk'ab'ej winhaj Moisés yet' winhaj Aarón yik skuchb'an a chonhab' heb' winh."
+    }
+  ]
 }

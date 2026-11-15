@@ -1,45 +1,49 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha in Pablo in tik, winhaj Silwano yet' winhaj Timoteo, sko tz'ib'ejb'at jun carta tik t'ayex ex iglesia ex t'a Tesalónica. Yic exxo ko Mam Dios yet' Cajalil Jesucristo. Ayokab' wach'k'olal yet' junk'olal t'a he kal ta'."
-        },
-        {
-            "number": "2",
-            "text": "Skak' wal yuj diosal d'ha Dios eyuuj he masanil. Juntac el tzonh lesalwi, tzex ko nacoti."
-        },
-        {
-            "number": "3",
-            "text": "Ha t'a yichanh ko Mam Dios sko nacoti to niwan tzex munlaj t'ay, yujto ix eyak' wal och t'a he k'ool. Sco nacoti to tzeyak' serwil Dios chi', yujto te xajan eyuuj. Anhejtona', tek'an tzeyutej he b'a, yujto anhej Kajal Jesucristo tzeyak'och yipoc he k'ool."
-        },
-        {
-            "number": "4",
-            "text": "Xajanab'il ex yuj Dios, yujto a sik'jinac exxo caneli."
-        },
-        {
-            "number": "5",
-            "text": "Ayic quek'nac kalel wach' ab'ix yic colnab'il t'ayex, manh tonhejoc comon lolonnac onh. Yujto a Yespíritu Dios ochnac qued'oc. Cojtak wal sik'lab'il to te yel jun ab'ix tik. Eyojtak paxi chajtil cutejnac ko b'eyb'al t'a he kal yuj he wach'il."
-        },
-        {
-            "number": "6",
-            "text": "Ha exxo, ochnac ex ijan he b'eyb'alan ko b'eyb'al chi'. Ix he b'eyb'alan pax sb'eyb'al Kajal Jesús. Wach'chom niwan syaelal ix eyab'i ayic ix he chaan slolonel Dios, palta te tzalajk'olal ix he cha'a, yujto a Yespíritu Dios ix ak'an he tzalajk'olal chi'."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi', ix he ch'oxel jun wach' b'eyb'al t'a masanil heb' quetcreyenteal t'a yol yic Macedonia chi' yet' t'a yol yic Acaya tik."
-        },
-        {
-            "number": "8",
-            "text": "Eyuuj ix pukaxb'at yab'ixal Kajal Jesús t'a junjun lugar. Ix laj yab' heb' aj Macedonia chi' yet' heb' aj Acaya to tzeyak' wal och Dios t'a he k'ool. Manhoknhej heb' ix ab'ani, ix laj yab' pax heb' ay t'a junjun lugar. Yuj chi', manhxo yowaliloc a onh skalel eyab'ixal t'a skal heb' anima."
-        },
-        {
-            "number": "9",
-            "text": "Yujto masanil mach wan yalan eyab'ixal to wach' ajnac onh he chaani ayic quek'nac t'ayex. Van laj yalanpax heb' chajtil eyutejnac eyactankan juntzanh eyak'nacoch he diosaloc, ix ex och pax ijan eyak'an serwil Dios pitzan, aton jun Dios te yel."
-        },
-        {
-            "number": "10",
-            "text": "Anhejtona' syalanpax heb' to wan he tanhwan yemxul Yuninal Dios t'a satcha’anh, aton Jesús. Ha Dios ak'jinacxi pitzwoc t'a skal heb' chamnac. Aton tzonh colankanel t'a yol sk'ab' jun niwan yaelal ol jawok yuj yowal sk'ool Dios."
-        }
-    ]
+  "chapter": "1",
+  "book": "1 TESALONICENSES",
+  "book_short": "1Te",
+  "aligned": true,
+  "es_verses": 10,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha in Pablo in tik, winhaj Silvano yet' winhaj Timoteo, sko tz'ib'ejb'at jun karta tik t'ayex ex iglesia ex t'a Tesalónica. Yik exxo ko Mam Dios yet' Kajalil Jesucristo. Ayokab' wach'k'olal yet' junk'olal t'a he kal ta'."
+    },
+    {
+      "number": "2",
+      "text": "Skak' wal yuj diosal t'a Dios eyuuj he masanil. Juntak el tzonh lesalwi, tzex ko nakoti."
+    },
+    {
+      "number": "3",
+      "text": "Ha t'a yichanh ko Mam Dios sko nakoti to niwan tzex munlaj t'ay, yujto ix eyak' wal och t'a he k'ool. Sko nakoti to tzeyak' serwil Dios chi', yujto te xajan eyuuj. Anhejtona', tek'an tzeyutej he b'a, yujto anhej Kajal Jesucristo tzeyak'och yipok he k'ool."
+    },
+    {
+      "number": "4",
+      "text": "Xajanab'il ex yuj Dios, yujto a sik'jinak exxo kaneli."
+    },
+    {
+      "number": "5",
+      "text": "Ayik kek'nak kalel wach' ab'ix yik kolnab'il t'ayex, manh tonhejok komon lolonnak onh. Yujto a Yespíritu Dios ochnak ket'ok. Kojtak wal sik'lab'il to te yel jun ab'ix tik. Eyojtak paxi chajtil kutejnak ko b'eyb'al t'a he kal yuj he wach'il."
+    },
+    {
+      "number": "6",
+      "text": "Ha exxo, ochnak ex ijan he b'eyb'alan ko b'eyb'al chi'. Ix he b'eyb'alan pax sb'eyb'al Kajal Jesús. Wach'chom niwan syaelal ix eyab'i ayik ix he chaan slolonel Dios, palta te tzalajk'olal ix he cha'a, yujto a Yespíritu Dios ix ak'an he tzalajk'olal chi'."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi', ix he ch'oxel jun wach' b'eyb'al t'a masanil heb' ketkreyenteal t'a yol yik Macedonia chi' yet' t'a yol yik Acaya tik."
+    },
+    {
+      "number": "8",
+      "text": "Eyuuj ix pukaxb'at yab'ixal Kajal Jesús t'a junjun lugar. Ix laj yab' heb' aj Macedonia chi' yet' heb' aj Acaya to tzeyak' wal och Dios t'a he k'ool. Manhoknhej heb' ix ab'ani, ix laj yab' pax heb' ay t'a junjun lugar. Yuj chi', manhxo yowalilok a onh skalel eyab'ixal t'a skal heb' anima."
+    },
+    {
+      "number": "9",
+      "text": "Yujto masanil mach wan yalan eyab'ixal to wach' ajnak onh he chaani ayik kek'nak t'ayex. Wan laj yalanpax heb' chajtil eyutejnak eyaktankan juntzanh eyak'nakoch he diosalok, ix ex och pax ijan eyak'an serwil Dios pitzan, haton jun Dios te yel."
+    },
+    {
+      "number": "10",
+      "text": "Anhejtona' syalanpax heb' to wan he tanhwan yemxul Yuninal Dios t'a satcha'anh, haton Jesús. Ha Dios ak'jinakxi pitzwok t'a skal heb' chamnak. Haton tzonh kolankanel t'a yol sk'ab' jun niwan yaelal ol jawok yuj yowal sk'ool Dios."
+    }
+  ]
 }

@@ -1,109 +1,113 @@
 {
-    "chapter": "7",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ach wuninal, cha ab' in lolonel tik. Ha juntzanh in checnab'il swak' tik t'ayach, yowalil tza sik'kan t'a a pensar."
-        },
-        {
-            "number": "2",
-            "text": "k'anab'ajej in checnab'il tik yet' in k'ayb'ub'al yic wach' ol ach ek'oc. Icha scutej ko ya'ilan snenal yol ko sat, icha chi' tzutej a ya'ilan a kachnab'il swak' tik."
-        },
-        {
-            "number": "3",
-            "text": "Naannhejokab' uuj, tza sik'ankan t'a a pensar."
-        },
-        {
-            "number": "4",
-            "text": "Xajanej a jelanil yujto icha anab' yaji, ma icha a wach'k'ool."
-        },
-        {
-            "number": "5",
-            "text": "Icha chi' ol aj a colchajel t'a yol sk'ab' ix ajmul ix, aton ix ayxo yetb'eyum, ix te wach' smontan yet' slolonel."
-        },
-        {
-            "number": "6",
-            "text": "Ay junel ix wilelta t'a swentenail in pat,"
-        },
-        {
-            "number": "7",
-            "text": "ay juntzanh heb' winh kelemtac malaj jab'oc sjelanil ayeq'ui. Axo ix wilani, ay jun winh malaj jab'oc spensar t'a skal heb' winh chi'."
-        },
-        {
-            "number": "8",
-            "text": "Ayic wanxo yem k'u, wanxo sq'uik'b'i, ix eq'uixk'och winh t'a jun esquina, ix sk'axpitanek' calle winh, t'a stojolal b'aj ay spat jun ix ix ay yetb'eyum."
-        },
-        {
-            "number": "9",
-            "text": "Ix elta lemnaj ix scha winh. Icha spichul heb' ix ajmul ix spichul ix ayochi, icha pax spensar heb' ix chi' spensar ix."
-        },
-        {
-            "number": "10",
-            "text": "Comonnhej slolon ix, max q'uixwilaj jab'oc ix, max emlaj k'ojan ix t'a spat."
-        },
-        {
-            "number": "11",
-            "text": "Anhej t'a yoltac calle tzek' ix, t'a mercado yet' t'a yesquinailtac calle, ata' smaclej ix yek' junok winak."
-        },
-        {
-            "number": "12",
-            "text": "Ha jun ix chi', ix och lak'naj ix t'a winh quelem chi', ix och tz'ub'naj ix t'a sti' winh, maj q'uixwoclaj jab'oc ix, ix yalan ix icha tik:"
-        },
-        {
-            "number": "13",
-            "text": "Ha ticnaik ix wak' in silab' yic in junk'olal alb'ilxo wuuj, yuj chi' ayto nok' chib'ej t'a in pat ticnaik."
-        },
-        {
-            "number": "14",
-            "text": "Yuj chi' ix in elta ach in maclej, yujto in gana tzach wila''. Tik ach ilchaj wuuj."
-        },
-        {
-            "number": "15",
-            "text": "Ha t'a sat in ch'at toxo ix in lich'em jun sábana nab'a lino, cotnac t'a Egipto."
-        },
-        {
-            "number": "16",
-            "text": "Toxo ix wak'och perfume t'ay, toxonhej suk'uq'ui sjab', aton mirra, áloes yet' te' canela."
-        },
-        {
-            "number": "17",
-            "text": "Cotanh wed'oc, ol kak' wal ko gana masanto ol sacb'oc. Ol kak' wal tzalajb'oc ko k'ool ko xajanan ko b'a."
-        },
-        {
-            "number": "18",
-            "text": "Ha winh wetb'eyum, malaj winh ayek' t'a in pat tik, yujto ay b'aj te najat ix b'at winh."
-        },
-        {
-            "number": "19",
-            "text": "Ix yik'b'at jun mucuc k'een tumin winh, yuj chi' manto ol jalaj winh masanto ol k'och sk'ual sk'ojnaj k'een uj, xchi ix ix chi'."
-        },
-        {
-            "number": "20",
-            "text": "Ha tas te wach' ix yal ix chi', elanhchamel ix montaj winh quelem chi' yuj."
-        },
-        {
-            "number": "21",
-            "text": "Yuj chi' ix och tzak'an winh yuj ix, icha yik'jib'at junok nok' wakax b'aj ol chamoc, ma icha junok nok' k'ultaquil chej skan t'a ch'anh yaal,"
-        },
-        {
-            "number": "22",
-            "text": "masanto ol ek' junok jul-lab' t'a spixan nok'. Icha pax junok nok' much skan t'a te' yaal, icha chi' yaj winh, max snalaj jab'oc winh tato ha t'a spat ix chi' ol cham winh."
-        },
-        {
-            "number": "23",
-            "text": "Yuj chi' ach wuninal, maclej ab' tas swala'. Tanhwej wal ab' in lolonel tik."
-        },
-        {
-            "number": "24",
-            "text": "Manh a juel a wach' b'eyb'al t'a junok ix ix icha chi' spensar, yic wach' manh ol ach sateloc."
-        },
-        {
-            "number": "25",
-            "text": "Yujto tzijtumxo mach toxo ix cham yuj heb' ix ix icha chi' sk'ulej. Manhxo b'ischajb'enoc mach scham yuj heb' ix."
-        },
-        {
-            "number": "26",
-            "text": "Tato tzach b'at t'a sb'eal spat heb' ix ix icha chi', wan a b'atkan t'a sb'eal chamel."
-        }
-    ]
+  "chapter": "7",
+  "book": "PROVERBIOS",
+  "book_short": "Pr",
+  "aligned": false,
+  "es_verses": 27,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ach wuninal, cha ab' in lolonel tik. Ha juntzanh in cheknab'il swak' tik t'ayach, yowalil tza sik'kan t'a a pensar."
+    },
+    {
+      "number": "2",
+      "text": "k'anab'ajej in cheknab'il tik yet' in k'ayb'ub'al yik wach' ol ach ek'ok. Icha skutej ko ya'ilan snenal yol ko sat, icha chi' tzutej a ya'ilan a kachnab'il swak' tik."
+    },
+    {
+      "number": "3",
+      "text": "Naannhejokab' uuj, tza sik'ankan t'a a pensar."
+    },
+    {
+      "number": "4",
+      "text": "Xajanej a jelanil yujto icha anab' yaji, ma icha a wach'k'ool."
+    },
+    {
+      "number": "5",
+      "text": "Icha chi' ol aj a kolchajel t'a yol sk'ab' ix ajmul ix, haton ix ayxo yetb'eyum, ix te wach' smontan yet' slolonel."
+    },
+    {
+      "number": "6",
+      "text": "Ay junel ix wilelta t'a swentenail in pat,"
+    },
+    {
+      "number": "7",
+      "text": "ay juntzanh heb' winh kelemtak malaj jab'ok sjelanil ayeq'ui. Axo ix wilani, ay jun winh malaj jab'ok spensar t'a skal heb' winh chi'."
+    },
+    {
+      "number": "8",
+      "text": "Ayik wanxo yem k'u, wanxo sq'uik'b'i, ix eq'uixk'och winh t'a jun esquina, ix sk'axpitanek' kalle winh, t'a stojolal b'aj ay spat jun ix ix ay yetb'eyum."
+    },
+    {
+      "number": "9",
+      "text": "Ix elta lemnaj ix scha winh. Icha spichul heb' ix ajmul ix spichul ix ayochi, icha pax spensar heb' ix chi' spensar ix."
+    },
+    {
+      "number": "10",
+      "text": "Komonnhej slolon ix, max q'uixwilaj jab'ok ix, max emlaj k'ojan ix t'a spat."
+    },
+    {
+      "number": "11",
+      "text": "Anhej t'a yoltak kalle tzek' ix, t'a merkado yet' t'a yeskinailtak kalle, ata' smaklej ix yek' junok winak."
+    },
+    {
+      "number": "12",
+      "text": "Ha jun ix chi', ix och lak'naj ix t'a winh kelem chi', ix och tz'ub'naj ix t'a sti' winh, maj q'uixwoklaj jab'ok ix, ix yalan ix icha tik:"
+    },
+    {
+      "number": "13",
+      "text": "Ha tiknaik ix wak' in silab' yik in junk'olal alb'ilxo wuuj, yuj chi' ayto nok' chib'ej t'a in pat tiknaik."
+    },
+    {
+      "number": "14",
+      "text": "Yuj chi' ix in elta ach in maklej, yujto in gana tzach wila''. Tik ach ilchaj wuuj."
+    },
+    {
+      "number": "15",
+      "text": "Ha t'a sat in ch'at toxo ix in lich'em jun sábana nab'a lino, kotnak t'a Egipto."
+    },
+    {
+      "number": "16",
+      "text": "Toxo ix wak'och perfume t'ay, toxonhej suk'uq'ui sjab', haton mirra, áloes yet' te' kanela."
+    },
+    {
+      "number": "17",
+      "text": "Kotanh wet'ok, ol kak' wal ko gana masanto ol sakb'ok. Ol kak' wal tzalajb'ok ko k'ool ko xajanan ko b'a."
+    },
+    {
+      "number": "18",
+      "text": "Ha winh wetb'eyum, malaj winh ayek' t'a in pat tik, yujto ay b'aj te najat ix b'at winh."
+    },
+    {
+      "number": "19",
+      "text": "Ix yik'b'at jun mukuk k'een tumin winh, yuj chi' manto ol jalaj winh masanto ol k'och sk'ual sk'ojnaj k'een uj, xchi ix ix chi'."
+    },
+    {
+      "number": "20",
+      "text": "Ha tas te wach' ix yal ix chi', elanhchamel ix montaj winh kelem chi' yuj."
+    },
+    {
+      "number": "21",
+      "text": "Yuj chi' ix och tzak'an winh yuj ix, icha yik'jib'at junok nok' wakax b'aj ol chamok, ma icha junok nok' k'ultakil chej skan t'a ch'anh yaal,"
+    },
+    {
+      "number": "22",
+      "text": "masanto ol ek' junok jul-lab' t'a spixan nok'. Icha pax junok nok' much skan t'a te' yaal, icha chi' yaj winh, max snalaj jab'ok winh tato ha t'a spat ix chi' ol cham winh."
+    },
+    {
+      "number": "23",
+      "text": "Yuj chi' ach wuninal, maklej ab' tas swala'. Tanhwej wal ab' in lolonel tik."
+    },
+    {
+      "number": "24",
+      "text": "Manh a juel a wach' b'eyb'al t'a junok ix ix icha chi' spensar, yik wach' manh ol ach satelok."
+    },
+    {
+      "number": "25",
+      "text": "Yujto tzijtumxo mach toxo ix cham yuj heb' ix ix icha chi' sk'ulej. Manhxo b'ischajb'enok mach scham yuj heb' ix."
+    },
+    {
+      "number": "26",
+      "text": "Tato tzach b'at t'a sb'eal spat heb' ix ix icha chi', wan a b'atkan t'a sb'eal chamel."
+    }
+  ]
 }

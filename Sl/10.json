@@ -1,73 +1,77 @@
 {
-    "chapter": "10",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, ¿tas yuj najat tzach elkani? ¿Tas yuj ichato tza k'ub'ejel a b'a ayic ay in och t'a syaelal?"
-        },
-        {
-            "number": "2",
-            "text": "Syik'chaanh sb'a heb' sk'ulan chukal, tz'och heb' ajk'olal t'a heb' meb'a', palta munil a heb' ol kan t'a yol ch'anh yaal ix sb'oem chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' sk'ulan chukal, syik'chaanh sb'a heb' yet' tas snib'ejochi. Syal wach' lolonel heb' t'a heb' snib'anoch smasanil tastac, haxo t'ayach Mamin, tonhej sb'uchwaj heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha heb' chuk chi', max ach snalaj jab'oc heb' yuj yak'umtaquil. Ha snaan heb' to max il-laj tas wan sk'ulan heb' chi'."
-        },
-        {
-            "number": "5",
-            "text": "Wach'nhej tz'elk'och masanil tas sk'ulej heb' chi'. Malaj yelk'och jab'oc a k'ayb'ub'al t'a heb'. Malaj tz'och heb' yajk'ol heb' chi' t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Snaan heb' t'a yol yico' to malaj b'ak'uinh ol telwoc heb'. Malaj b'ak'uinh ol somchajel heb' yalannaji."
-        },
-        {
-            "number": "7",
-            "text": "Anhej katab' lolonel syal heb', slaj yalan es heb' yet' tas syutej xib'tan heb' anima. Elanhchamel slolon heb' yet' yowal sk'ool yet' chukal."
-        },
-        {
-            "number": "8",
-            "text": "D'a stitac chonhab' tz'em k'ojan heb' smaclan yila' mach tzek'ta. D'a elk'altac smilcham heb' malaj smul heb'. Aynhejoch sat heb' t'a heb' max uji scolan sb'a."
-        },
-        {
-            "number": "9",
-            "text": "Icha nok' choj ayoch t'a yol snhak'een, icha chi' syutej sb'a heb'. Sk'ub'ejel sb'a heb', smaclan heb' ilb'ajk'ool heb'. Stanhwej wal heb' janik' wal ol yak' ganar heb'. Ayic syamchaj heb', tz'ik'jib'at heb' yuj heb'."
-        },
-        {
-            "number": "10",
-            "text": "Tz'em wotz'an heb', sk'e jucnaj heb' icha nok' choj chi'. Ha heb' max yal-laj scolan sb'ha t'a yol sk'ab' heb', syamchaj heb' yuj heb'."
-        },
-        {
-            "number": "11",
-            "text": "Ha snaan heb' sk'ulan chukal chi' to sb'atkan satk'olal uuj. Macan a sat yalan heb', max ujilaj ilan snaan heb'."
-        },
-        {
-            "number": "12",
-            "text": "Mamin Jehová, cotanh, ak' ip ak'an syaelal heb' sk'ulan chukal chi'. Mokab' sat a k'ool t'a heb' ayoch t'a cusk'olal."
-        },
-        {
-            "number": "13",
-            "text": "¿Tas yuj tza cha ach spatiquejel heb' sk'ulan chukal chi'? Ha snaan heb' to manh ol a ch'olb'itejlaj yaj heb'."
-        },
-        {
-            "number": "14",
-            "text": "Ha ach wal tzil schukal heb'. Ha ach ix ila', yuj chi' ol ak' syaelal heb' icha wal smojal, icha tas sk'ulej heb'. Ha t'ayach syal sb'a heb' max yal-laj scolan sb'a. Ha ach tzach kolwaj t'a heb' unin manhxalaj smam."
-        },
-        {
-            "number": "15",
-            "text": "Mak' q'uichaj sk'ab' heb' sk'ulan chukal chi'. Ak' yowalil chukal sk'ulej heb' chi'. Tz'akanokab' tz'aj stupan smul heb' chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ach Jehová, Yajal ach t'a masanil tiempo. Ha heb' ch'oc chonhab'il, ol ik'el heb' t'a sat lum a lu'um."
-        },
-        {
-            "number": "17",
-            "text": "Mamin Jehová, a ach ton wal tzab' slesal heb' anima emnaquil, a ach ton wal tzak' yip heb'. Ha ach ton wal tzab' yalan sb'a heb' tz'ixtaji yet' heb' unin manhxalaj smam. Ha achton ol il tas ol ajkan heb' chuk chamelb'a yaji, yic wach' manhxo ol xib'tejlaj heb' emnaquil heb'."
-        }
-    ]
+  "chapter": "10",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 18,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, ¿tas yuj najat tzach elkani? ¿Tas yuj ichato tza k'ub'ejel a b'a ayik ay in och t'a syaelal?"
+    },
+    {
+      "number": "2",
+      "text": "Syik'chaanh sb'a heb' sk'ulan chukal, tz'och heb' ajk'olal t'a heb' meb'a', palta munil a heb' ol kan t'a yol ch'anh yaal ix sb'oem chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' sk'ulan chukal, syik'chaanh sb'a heb' yet' tas snib'ejochi. Syal wach' lolonel heb' t'a heb' snib'anoch smasanil tastak, haxo t'ayach Mamin, tonhej sb'uchwaj heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha heb' chuk chi', max ach snalaj jab'ok heb' yuj yak'umtakil. Ha snaan heb' to max il-laj tas wan sk'ulan heb' chi'."
+    },
+    {
+      "number": "5",
+      "text": "Wach'nhej tz'elk'och masanil tas sk'ulej heb' chi'. Malaj yelk'och jab'ok a k'ayb'ub'al t'a heb'. Malaj tz'och heb' yajk'ol heb' chi' t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Snaan heb' t'a yol yiko' to malaj b'ak'uinh ol telwok heb'. Malaj b'ak'uinh ol somchajel heb' yalannaji."
+    },
+    {
+      "number": "7",
+      "text": "Anhej katab' lolonel syal heb', slaj yalan es heb' yet' tas syutej xib'tan heb' anima. Elanhchamel slolon heb' yet' yowal sk'ool yet' chukal."
+    },
+    {
+      "number": "8",
+      "text": "T'a stitak chonhab' tz'em k'ojan heb' smaklan yila' mach tzek'ta. T'a elk'altak smilcham heb' malaj smul heb'. Aynhejoch sat heb' t'a heb' max uji skolan sb'a."
+    },
+    {
+      "number": "9",
+      "text": "Icha nok' choj ayoch t'a yol snhak'een, icha chi' syutej sb'a heb'. Sk'ub'ejel sb'a heb', smaklan heb' ilb'ajk'ool heb'. Stanhwej wal heb' janik' wal ol yak' ganar heb'. Ayik syamchaj heb', tz'ik'jib'at heb' yuj heb'."
+    },
+    {
+      "number": "10",
+      "text": "Tz'em wotz'an heb', sk'e juknaj heb' icha nok' choj chi'. Ha heb' max yal-laj skolan sb'a t'a yol sk'ab' heb', syamchaj heb' yuj heb'."
+    },
+    {
+      "number": "11",
+      "text": "Ha snaan heb' sk'ulan chukal chi' to sb'atkan satk'olal uuj. Makan a sat yalan heb', max ujilaj ilan snaan heb'."
+    },
+    {
+      "number": "12",
+      "text": "Mamin Jehová, kotanh, ak' ip ak'an syaelal heb' sk'ulan chukal chi'. Mokab' sat a k'ool t'a heb' ayoch t'a kusk'olal."
+    },
+    {
+      "number": "13",
+      "text": "¿Tas yuj tza cha ach spatikejel heb' sk'ulan chukal chi'? Ha snaan heb' to manh ol a ch'olb'itejlaj yaj heb'."
+    },
+    {
+      "number": "14",
+      "text": "Ha ach wal tzil schukal heb'. Ha ach ix ila', yuj chi' ol ak' syaelal heb' icha wal smojal, icha tas sk'ulej heb'. Ha t'ayach syal sb'a heb' max yal-laj skolan sb'a. Ha ach tzach kolwaj t'a heb' unin manhxalaj smam."
+    },
+    {
+      "number": "15",
+      "text": "Mak' q'uichaj sk'ab' heb' sk'ulan chukal chi'. Ak' yowalil chukal sk'ulej heb' chi'. Tz'akanokab' tz'aj stupan smul heb' chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ach Jehová, Yajal ach t'a masanil tiempo. Ha heb' ch'ok chonhab'il, ol ik'el heb' t'a sat lum a lu'um."
+    },
+    {
+      "number": "17",
+      "text": "Mamin Jehová, a ach ton wal tzab' slesal heb' anima emnakil, a ach ton wal tzak' yip heb'. Ha ach ton wal tzab' yalan sb'a heb' tz'ixtaji yet' heb' unin manhxalaj smam. Ha achton ol il tas ol ajkan heb' chuk chamelb'a yaji, yik wach' manhxo ol xib'tejlaj heb' emnakil heb'."
+    }
+  ]
 }

@@ -1,69 +1,73 @@
 {
-    "chapter": "7",
-    "verses": [
-        {
-            "number": "1",
-            "text": "palta ayic wan wanhtan in chonhab' Efraín yet' Samaria walani, ata' snachajel smul heb' yet' schukal heb' wuuj. Yujto junlajanxonhej tz'aj sb'eyb'alan es heb'. Elk'um heb' smasanil, tz'och heb' elk'al t'a yoltac pat yet' t'a yoltac calle."
-        },
-        {
-            "number": "2",
-            "text": "Tocwal sna heb' tato naan schukal heb' chi' wuuj. Ha ticnaik a tas sk'ulej heb' a oyanoch t'a spatic yichanh heb', yuj chi' anhej schukal heb' chi' swila'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' rey yet' heb' yajal ste tzalaj heb' yuj chukal yet' yuj yixtum animail heb'."
-        },
-        {
-            "number": "4",
-            "text": "Anhej ajmulal sb'o heb' smasanil. Ha tas snib'ej heb' chi', lajan icha junok horno jab'nhej sk'ak'al tz'ochi yacb'an spajb'i ixim harina, haxo yic toxo ix pajb'i ixim, tz'och sk'ak'al sik'lab'il."
-        },
-        {
-            "number": "5",
-            "text": "Ayic tz'och q'uinh yuj winh rey, a heb' ayoch t'a yopisio yet' winh, syuk' anh heb', syak'an anh heb' yuk' winh masanto sk'e anh t'a sjolom winh yet' heb'. Tonhej scomon tzalaj winh yet' heb' sb'uchwaj t'ay."
-        },
-        {
-            "number": "6",
-            "text": "Aynhejoch chuk pensaril t'a spensar heb'. Lajan yowal heb' icha sk'ak'al junok horno pilan ak'wal ayoch sk'ak'al, haxo sq'uinhib'i t'a junxo k'u, spukhajxi chacb'oc."
-        },
-        {
-            "number": "7",
-            "text": "Lajan heb' smasanil icha sk'ak'al horno chi', ix satel winh yajalil heb' yuj yowal chi'. Lajan syutej sb'a heb' t'a smasanil heb' sreyal, palta malaj junok heb' sk'anb'an t'ayin tas smoj sk'ulej."
-        },
-        {
-            "number": "8",
-            "text": "Ha chonhab' Efraín toxo ix skalej sb'a yet' juntzanh ch'oc chonhab'il. Lajan heb' icha junok ixim wa''il max sutchaji."
-        },
-        {
-            "number": "9",
-            "text": "Ha heb' ch'oc chonhab'il ix ak'an lajwoc yip, palta max yil-laj tas wan yutaji. Ha xil sjolom toxo ix sacb'ieli, tocwal syilochi."
-        },
-        {
-            "number": "10",
-            "text": "Ha in Jehová sDiosal in heb' israel. Wach'chom jantac tas ix ja t'a yib'anh heb' yuj schukal, palta yuj yak'umtaquil heb' maxtzac sna sb'a sk'ol heb' smeltzajcot t'ayin."
-        },
-        {
-            "number": "11",
-            "text": "Ha chonhab' Efraín malaj jab'oc spensar, jun rato sb'at sk'an colwal t'a Egipto, haxo t'a junxo rato sb'atxi sk'an colwal t'a Asiria. Lajan icha junok nok' uch tonhej sat b'eyek'oc."
-        },
-        {
-            "number": "12",
-            "text": "Palta ayic ol b'at heb' ta', ol in yumb'at in ch'anh yaal t'a yib'anh heb'. Ol telwoc heb' icha junok nok' much. Ol wak'och yaelal t'a yib'anh heb', icha ix aj yalchaj b'aj smolb'ej sb'a heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ob'iltac heb', yujto ix in spatiquejel heb'. Ol satel heb' yuj yaelal ol jawok, yujto ix och spitalil heb' t'ayin. Tzin nib'ej tzin col heb', palta manh yeloc tas syal heb' t'ayin."
-        },
-        {
-            "number": "14",
-            "text": "Manh smasaniloc sk'ol heb' tzin yavtej ayic tz'el yav heb' t'a sat sch'at. Spol sb'a heb' yic sk'anan heb' t'a Baal yic wach' tz'aj strigo heb', yet' yuwa heb'. Yuj chi' tz'och heb' ajk'olal t'ayin."
-        },
-        {
-            "number": "15",
-            "text": "Ix in k'ayb'ej heb', ix wak'anpax yip heb', palta haxo heb', a chukal sna heb' t'a in patic."
-        },
-        {
-            "number": "16",
-            "text": "Smeltzaj heb' palta manhoclaj t'ayin, a in to Ha inxonhej Ochi. Icha junok jul-lab' coxo, max yamchajlaj tas sjulchaj chi' yet'oc, icha chi' heb'. Yuj yak'umtaquil slolon heb' yajalil, yuj chi' ol cham heb' yuj k'een espada. Axo heb' aj Egipto, toxonhej ol b'uchwaj heb' t'a heb'."
-        }
-    ]
+  "chapter": "7",
+  "book": "OSEAS",
+  "book_short": "Os",
+  "aligned": true,
+  "es_verses": 16,
+  "verses": [
+    {
+      "number": "1",
+      "text": "palta ayik wan wanhtan in chonhab' Efraín yet' Samaria walani, ata' snachajel smul heb' yet' schukal heb' wuuj. Yujto junlajanxonhej tz'aj sb'eyb'alan es heb'. Elk'um heb' smasanil, tz'och heb' elk'al t'a yoltak pat yet' t'a yoltak kalle."
+    },
+    {
+      "number": "2",
+      "text": "Tokwal sna heb' tato naan schukal heb' chi' wuuj. Ha tiknaik a tas sk'ulej heb' a oyanoch t'a spatik yichanh heb', yuj chi' anhej schukal heb' chi' swila'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' rey yet' heb' yajal ste tzalaj heb' yuj chukal yet' yuj yixtum animail heb'."
+    },
+    {
+      "number": "4",
+      "text": "Anhej ajmulal sb'o heb' smasanil. Ha tas snib'ej heb' chi', lajan icha junok horno jab'nhej sk'ak'al tz'ochi yakb'an spajb'i ixim harina, haxo yik toxo ix pajb'i ixim, tz'och sk'ak'al sik'lab'il."
+    },
+    {
+      "number": "5",
+      "text": "Ayik tz'och q'uinh yuj winh rey, a heb' ayoch t'a yopisio yet' winh, syuk' anh heb', syak'an anh heb' yuk' winh masanto sk'e anh t'a sjolom winh yet' heb'. Tonhej skomon tzalaj winh yet' heb' sb'uchwaj t'ay."
+    },
+    {
+      "number": "6",
+      "text": "Aynhejoch chuk pensaril t'a spensar heb'. Lajan yowal heb' icha sk'ak'al junok horno pilan ak'wal ayoch sk'ak'al, haxo sq'uinhib'i t'a junxo k'u, spukhajxi chakb'ok."
+    },
+    {
+      "number": "7",
+      "text": "Lajan heb' smasanil icha sk'ak'al horno chi', ix satel winh yajalil heb' yuj yowal chi'. Lajan syutej sb'a heb' t'a smasanil heb' sreyal, palta malaj junok heb' sk'anb'an t'ayin tas smoj sk'ulej."
+    },
+    {
+      "number": "8",
+      "text": "Ha chonhab' Efraín toxo ix skalej sb'a yet' juntzanh ch'ok chonhab'il. Lajan heb' icha junok ixim wa''il max sutchaji."
+    },
+    {
+      "number": "9",
+      "text": "Ha heb' ch'ok chonhab'il ix ak'an lajwok yip, palta max yil-laj tas wan yutaji. Ha xil sjolom toxo ix sakb'ieli, tokwal syilochi."
+    },
+    {
+      "number": "10",
+      "text": "Ha in Jehová sDiosal in heb' israel. Wach'chom jantak tas ix ja t'a yib'anh heb' yuj schukal, palta yuj yak'umtakil heb' maxtzak sna sb'a sk'ol heb' smeltzajkot t'ayin."
+    },
+    {
+      "number": "11",
+      "text": "Ha chonhab' Efraín malaj jab'ok spensar, jun rato sb'at sk'an kolwal t'a Egipto, haxo t'a junxo rato sb'atxi sk'an kolwal t'a Asiria. Lajan icha junok nok' uch tonhej sat b'eyek'ok."
+    },
+    {
+      "number": "12",
+      "text": "Palta ayik ol b'at heb' ta', ol in yumb'at in ch'anh yaal t'a yib'anh heb'. Ol telwok heb' icha junok nok' much. Ol wak'och yaelal t'a yib'anh heb', icha ix aj yalchaj b'aj smolb'ej sb'a heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ob'iltak heb', yujto ix in spatikejel heb'. Ol satel heb' yuj yaelal ol jawok, yujto ix och spitalil heb' t'ayin. Tzin nib'ej tzin kol heb', palta manh yelok tas syal heb' t'ayin."
+    },
+    {
+      "number": "14",
+      "text": "Manh smasanilok sk'ol heb' tzin yawtej ayik tz'el yaw heb' t'a sat sch'at. Spol sb'a heb' yik sk'anan heb' t'a Baal yik wach' tz'aj strigo heb', yet' yuwa heb'. Yuj chi' tz'och heb' ajk'olal t'ayin."
+    },
+    {
+      "number": "15",
+      "text": "Ix in k'ayb'ej heb', ix wak'anpax yip heb', palta haxo heb', a chukal sna heb' t'a in patik."
+    },
+    {
+      "number": "16",
+      "text": "Smeltzaj heb' palta manhoklaj t'ayin, a in to Ha inxonhej Ochi. Icha junok jul-lab' koxo, max yamchajlaj tas sjulchaj chi' yet'ok, icha chi' heb'. Yuj yak'umtakil slolon heb' yajalil, yuj chi' ol cham heb' yuj k'een espada. Axo heb' aj Egipto, toxonhej ol b'uchwaj heb' t'a heb'."
+    }
+  ]
 }

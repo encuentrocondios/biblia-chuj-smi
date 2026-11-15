@@ -1,61 +1,65 @@
 {
-    "chapter": "148",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Calec wach' lolonel t'a Jehová. Aljokab' wach' lolonel t'a Jehová masanto t'a schaanhil satcha’anh."
-        },
-        {
-            "number": "2",
-            "text": "Alec wach' lolonel t'ay masanil ex yángel. Alec wach' lolonel masanil ex soldadoal satcha’anh."
-        },
-        {
-            "number": "3",
-            "text": "Ik'chajokab' chaanh Jehová yuj k'u yet' k'een uj. Ik'chajokab' chaanh yuj k'een nitk'anal te wach' yilji yoc."
-        },
-        {
-            "number": "4",
-            "text": "Ik'chajokab' chaanh yuj satcha’anh, to chaanh ay yet' pax yuj ha ha' ayek' t'a yib'anh satcha’anh chi'."
-        },
-        {
-            "number": "5",
-            "text": "Alchajokab' wach' lolonel t'a Jehová, yujto tonhej ix yala' ix b'okan smasanil."
-        },
-        {
-            "number": "6",
-            "text": "A' ix b'oankan masanil juntzanh chi' t'a yet'tal yic wach' ayek' ta' t'a masanil tiempo, ix yak'ankanoch t'a sleyal to malaj b'ak'uinh ol k'exchajoc."
-        },
-        {
-            "number": "7",
-            "text": "Yalokab' wach' lolonel t'a Jehová masanil tastac ay t'a sat lu'um tik, nok' niwac nok' ay t'a yol ha' mar yet' pax nok' ay t'a sjulal yich ha',"
-        },
-        {
-            "number": "8",
-            "text": "yet' lheb'lon, k'een sacb'at, k'een sacb'akom, k'ik'al asun yet' chacxuxum ik', k'anab'ajumokab' syutej sb'ha t'a slolonel Jehová chi'."
-        },
-        {
-            "number": "9",
-            "text": "Yalokab' wach' lolonel lum niwac witz t'a Jehová, lum tzalquixtac, te te' syak' sat, te' k'ute',"
-        },
-        {
-            "number": "10",
-            "text": "yet' nok' k'ultaquil nok', nok' molb'etzal nok', nok' snherwi, ma sjachwi yet' pax nok' much."
-        },
-        {
-            "number": "11",
-            "text": "Ex sreyal yol yib'anhk’inal tik, ex anima t'a junjun chonhab', ex yajal yet' ex tze b'o yaj heb' chonhab',"
-        },
-        {
-            "number": "12",
-            "text": "ex winak, ex ix, ex ichamtac anima yet' pax ex unin, alec wach' lolonel t'a Jehová he masanil."
-        },
-        {
-            "number": "13",
-            "text": "Alec wach' lolonel t'a Jehová he masanil yujto anhej te b'inajnac. Ha stziquiquial ay masanto t'a yib'anh satcha’anh yet' t'a yib'anh lum lum tik."
-        },
-        {
-            "number": "14",
-            "text": "A' ix ak'an quipal a onh schonhab' onh tik. Calec wach' lolonel t'ay a onh israel onh tik, a onhton te xajanab'il onh yuj. Calec wach' lolonel t'a Jehová."
-        }
-    ]
+  "chapter": "148",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Kalek wach' lolonel t'a Jehová. Aljokab' wach' lolonel t'a Jehová masanto t'a schaanhil satcha'anh."
+    },
+    {
+      "number": "2",
+      "text": "Alek wach' lolonel t'ay masanil ex yángel. Alek wach' lolonel masanil ex soldadoal satcha'anh."
+    },
+    {
+      "number": "3",
+      "text": "Ik'chajokab' chaanh Jehová yuj k'u yet' k'een uj. Ik'chajokab' chaanh yuj k'een nitk'anal te wach' yilji yok."
+    },
+    {
+      "number": "4",
+      "text": "Ik'chajokab' chaanh yuj satcha'anh, to chaanh ay yet' pax yuj ha ha' ayek' t'a yib'anh satcha'anh chi'."
+    },
+    {
+      "number": "5",
+      "text": "Alchajokab' wach' lolonel t'a Jehová, yujto tonhej ix yala' ix b'okan smasanil."
+    },
+    {
+      "number": "6",
+      "text": "A' ix b'oankan masanil juntzanh chi' t'a yet'tal yik wach' ayek' ta' t'a masanil tiempo, ix yak'ankanoch t'a sleyal to malaj b'ak'uinh ol k'exchajok."
+    },
+    {
+      "number": "7",
+      "text": "Yalokab' wach' lolonel t'a Jehová masanil tastak ay t'a sat lu'um tik, nok' niwak nok' ay t'a yol ha' mar yet' pax nok' ay t'a sjulal yich ha',"
+    },
+    {
+      "number": "8",
+      "text": "yet' lheb'lon, k'een sakb'at, k'een sakb'akom, k'ik'al asun yet' chakxuxum ik', k'anab'ajumokab' syutej sb'a t'a slolonel Jehová chi'."
+    },
+    {
+      "number": "9",
+      "text": "Yalokab' wach' lolonel lum niwak witz t'a Jehová, lum tzalkixtak, te te' syak' sat, te' k'ute',"
+    },
+    {
+      "number": "10",
+      "text": "yet' nok' k'ultakil nok', nok' molb'etzal nok', nok' snherwi, ma sjachwi yet' pax nok' much."
+    },
+    {
+      "number": "11",
+      "text": "Ex sreyal yol yib'anhk'inal tik, ex anima t'a junjun chonhab', ex yajal yet' ex tze b'o yaj heb' chonhab',"
+    },
+    {
+      "number": "12",
+      "text": "ex winak, ex ix, ex ichamtak anima yet' pax ex unin, alek wach' lolonel t'a Jehová he masanil."
+    },
+    {
+      "number": "13",
+      "text": "Alek wach' lolonel t'a Jehová he masanil yujto anhej te b'inajnak. Ha stzikikial ay masanto t'a yib'anh satcha'anh yet' t'a yib'anh lum lum tik."
+    },
+    {
+      "number": "14",
+      "text": "A' ix ak'an kipal a onh schonhab' onh tik. Kalek wach' lolonel t'ay a onh israel onh tik, a onhton te xajanab'il onh yuj. Kalek wach' lolonel t'a Jehová."
+    }
+  ]
 }

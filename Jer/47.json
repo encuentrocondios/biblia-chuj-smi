@@ -1,33 +1,37 @@
 {
-    "chapter": "47",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix lolon Jehová t'ayin Jeremías in tik yuj heb' filisteo, ayic manto k'och winh sreyal Egipto yak' owal t'a chonhab' Gaza:"
-        },
-        {
-            "number": "2",
-            "text": "Ix yalan Jehová chi' icha tik: Ha t'a stojolal norte ol cot wal nhililoc heb' soldado, icha wal yel ponholjoc ha' eluma' tz'el t'a stitac smelemal. Pilan ol satel jun nación chi' heb' yet' masanil tastac ay t'ay yet' juntzanhxo chonhab'. Masanil heb' kajan t'a schonhab' heb' filisteo chi', ol el yav heb' yab'an syail."
-        },
-        {
-            "number": "3",
-            "text": "Ha wal yic ol yab'an heb' sk'anh yem yoc nok' chej yet' sk'anh scot carruaje, a heb' winh mamab'il yet' heb' ix nunab'il ol te el yip heb', ol yaktejkan yal yuninal heb'."
-        },
-        {
-            "number": "4",
-            "text": "Toxo ix k'och sk'ual satel heb' filisteo yet' heb' skolwaj yet' heb', aton heb' aj Tiro yet' heb' aj Sidón, xchi Jehová. Ha Jehová ol satanel heb' filisteo chi', aton masanil heb' cotnac t'a Creta t'a snanhal ha' mar."
-        },
-        {
-            "number": "5",
-            "text": "Masanil heb' aj Gaza ol sjoxel xil sjolom heb' yuj cusk'olal. Axo heb' ay t'a Askalón manhxo ol yal-laj slolon heb' yuj satkank'e sk'ool. Ha exxo kajan ex t'a yak'likal sti' ha' mar, ¿b'aq'uinh ol eyactej eyak'an echnaj he niwanil yuj he ch'oxanel he cusk'olal?"
-        },
-        {
-            "number": "6",
-            "text": "Ay, a yespada Jehová. ¿B'aq'uinh wal ol och waan? Comonoc tz'ak'jixiem t'a yol yatut yic tz'och waan, manhxa tas sk'ulej."
-        },
-        {
-            "number": "7",
-            "text": "Palta ¿tas wal ol aj yoch waan? Ha Jehová ix alani to icha chi' tzuji. Anheja' ix alani to tz'och owal t'a chonhab' Askalón yet' t'a masanil heb' kajan t'a stitac ha' mar."
-        }
-    ]
+  "chapter": "47",
+  "book": "JEREMÍAS",
+  "book_short": "Jer",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix lolon Jehová t'ayin Jeremías in tik yuj heb' filisteo, ayik manto k'och winh sreyal Egipto yak' owal t'a chonhab' Gaza:"
+    },
+    {
+      "number": "2",
+      "text": "Ix yalan Jehová chi' icha tik: Ha t'a stojolal norte ol kot wal nhililok heb' soldado, icha wal yel ponholjok ha' eluma' tz'el t'a stitak smelemal. Pilan ol satel jun nakión chi' heb' yet' masanil tastak ay t'ay yet' juntzanhxo chonhab'. Masanil heb' kajan t'a schonhab' heb' filisteo chi', ol el yaw heb' yab'an syail."
+    },
+    {
+      "number": "3",
+      "text": "Ha wal yik ol yab'an heb' sk'anh yem yok nok' chej yet' sk'anh skot karruaje, a heb' winh mamab'il yet' heb' ix nunab'il ol te el yip heb', ol yaktejkan yal yuninal heb'."
+    },
+    {
+      "number": "4",
+      "text": "Toxo ix k'och sk'ual satel heb' filisteo yet' heb' skolwaj yet' heb', haton heb' aj Tiro yet' heb' aj Sidón, xchi Jehová. Ha Jehová ol satanel heb' filisteo chi', haton masanil heb' kotnak t'a Creta t'a snanhal ha' mar."
+    },
+    {
+      "number": "5",
+      "text": "Masanil heb' aj Gaza ol sjoxel xil sjolom heb' yuj kusk'olal. Axo heb' ay t'a Ascalón manhxo ol yal-laj slolon heb' yuj satkank'e sk'ool. Ha exxo kajan ex t'a yak'likal sti' ha' mar, ¿b'aq'uinh ol eyaktej eyak'an echnaj he niwanil yuj he ch'oxanel he kusk'olal?"
+    },
+    {
+      "number": "6",
+      "text": "Ay, a yespada Jehová. ¿B'aq'uinh wal ol och waan? Komonok tz'ak'jixiem t'a yol yatut yik tz'och waan, manhxa tas sk'ulej."
+    },
+    {
+      "number": "7",
+      "text": "Palta ¿tas wal ol aj yoch waan? Ha Jehová ix alani to icha chi' tzuji. Anheja' ix alani to tz'och owal t'a chonhab' Ascalón yet' t'a masanil heb' kajan t'a stitak ha' mar."
+    }
+  ]
 }

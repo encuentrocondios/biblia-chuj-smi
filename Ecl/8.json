@@ -1,69 +1,73 @@
 {
-    "chapter": "8",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te wach' yic junok mach jelan spensar, yujto syojtaquejel tas yaj yol yib'anhk’inal tik. Ha sjelanil chi' a tz'ak'an checlaj t'a sat, wach'chom to ovtaxon yilji, haxo yuj sjelanil chi' scheclaj swach'il sk'ol t'a sat chi'."
-        },
-        {
-            "number": "2",
-            "text": "Co k'anab'ajejec tas syal winh rey, yujto icha chi' ix cutej kak'an ko ti' d'ha Dios."
-        },
-        {
-            "number": "3",
-            "text": "Manh elanhchameloc tzonh el t'a yichanh winh rey chi', mokab' ko tek'b'ejec ko b'a kalan quik t'a tas manh wach'oc t'a sat winh, yujto syalnhej sk'ulan winh tas snib'ej."
-        },
-        {
-            "number": "4",
-            "text": "Anhej winh rey chi' syal yalan slajwub' junok lolonel, malaj mach syal sk'anb'an yab'i tas sk'ulej winh."
-        },
-        {
-            "number": "5",
-            "text": "Tato sko k'anab'ajej junok checnab'il, malaj tas scot t'a quib'anh. Tato ay ko pensar, snachajel cuuj tas tiempoal ayonh eq'ui, tas pax scutej ko k'anab'ajani."
-        },
-        {
-            "number": "6",
-            "text": "Ay wal stzolal yet' sk'ual tas tz'aj ko k'anab'ajan juntzanh chi', palta ay wal jun tas tzonh ixtaneli, yujto manh cojtakoc tas tzuji, malaj junok mach syal yalan t'ayonh."
-        },
-        {
-            "number": "7",
-            "text": "Malaj mach syal snitzan sk'inal, malaj pax mach syal syamanoch waan schamel. Ha heb' soldado syal sk'ananel sb'a heb' t'a skal owal, palta ha t'a chamel chi', malaj mach syal yeli. Ha junok mach chuk, max yal-laj scoljiel t'a yol sk'ab' chamel yuj schukal."
-        },
-        {
-            "number": "8",
-            "text": "Ayic ix wak'anoch t'a in k'ol wojtakaneli tastac tzuji t'a yol yib'anhk’inal tik, masanil juntzanh tik ix wila''. Ay b'aj ay heb' ayoch yajalil t'a skal heb' yetanimail, haxo tz'aji a heb' tz'ixtanpax heb' anima chi'."
-        },
-        {
-            "number": "9",
-            "text": "Ay b'aj ix wilpaxi to ayic smucchaj junok winak chuk spensar, wach'chom chuk ix yutej sb'a winh t'a schonhab', palta tz'ik'jichaanh winh yuj heb' yetchonhab' chi'. Axo pax heb' anima sk'anab'ajan Dios, manhxalaj mach snaancot heb' t'a yol schonhab' b'aj tzijtum tas wach' sk'ulejnakkani. Ha juntzanh tik, malaj sjolomal yaji."
-        },
-        {
-            "number": "10",
-            "text": "Yujto manh elanhchameloc tz'ak'jioch syaelal heb' sk'ulan chukal, yuj chi' anhej chukal sk'ulej heb' anima."
-        },
-        {
-            "number": "11",
-            "text": "Wach'chom syalkan jun lolonel icha tik: Ha heb' sk'ulan wach'il ay yelk'och Dios t'a heb', wach'nhej tz'elk'och heb'."
-        },
-        {
-            "number": "12",
-            "text": "Axo pax heb' chuk malaj yelk'och Dios t'ay, chuk tz'elk'och heb', quennhej tiempo syil heb', xchi jun lolonel chi'. Palta ix wila'' to ay heb' ste k'ulan chukal, niwan tiempo syil heb'."
-        },
-        {
-            "number": "13",
-            "text": "Ha tas manh wach'oc swil t'a yol yib'anhk’inal tik, ay heb' anima wach' syutej sb'a, haxo tz'aji, syab' wal syail heb', ichato te chuk heb'. Axo pax heb' te chuk jun, tz'ik'jichaanh heb', ichato wach' heb'. Ha jun tik malaj sjolomal yet'nac."
-        },
-        {
-            "number": "14",
-            "text": "Yuj chi' swala' yacb'an ayonhek' t'a yol yib'anhk’inal tik, smoj wal tzonh wa'i, scuk'an ha', skak'an tzalajb'oc ko k'ool. Icha chi' junk'olal tzonh eq'ui wach'chom ya tz'aj ko sayan wa ko b'ha t'a ko k 'inal syak' Dios."
-        },
-        {
-            "number": "15",
-            "text": "Yacb'an swak' wal och t'a in k'ol wojtakaneli yet' wilan pax tastac tzuji t'a yol yib'anhk’inal tik, ay b'aj max och in wayanh t'ak'walil in naan yuj."
-        },
-        {
-            "number": "16",
-            "text": "Axo ix nachajel wuuj jun to a masanil tas sk'ulej Dios yet' tastac tzuji, max nachajel cuuj. Wach'chom skak' quip cojtakaneli, palta malaj b'ak'uinh snachajel cuuj. Wach'chom a junok mach jelan tz'alani to snachajel yuj, palta wal yel, malaj tas snachaji."
-        }
-    ]
+  "chapter": "8",
+  "book": "ECLESIASTÉS",
+  "book_short": "Ecl",
+  "aligned": false,
+  "es_verses": 17,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te wach' yik junok mach jelan spensar, yujto syojtakejel tas yaj yol yib'anhk'inal tik. Ha sjelanil chi' a tz'ak'an cheklaj t'a sat, wach'chom to owtaxon yilji, haxo yuj sjelanil chi' scheklaj swach'il sk'ol t'a sat chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ko k'anab'ajejek tas syal winh rey, yujto icha chi' ix kutej kak'an ko ti' t'a Dios."
+    },
+    {
+      "number": "3",
+      "text": "Manh elanhchamelok tzonh el t'a yichanh winh rey chi', mokab' ko tek'b'ejek ko b'a kalan kik t'a tas manh wach'ok t'a sat winh, yujto syalnhej sk'ulan winh tas snib'ej."
+    },
+    {
+      "number": "4",
+      "text": "Anhej winh rey chi' syal yalan slajwub' junok lolonel, malaj mach syal sk'anb'an yab'i tas sk'ulej winh."
+    },
+    {
+      "number": "5",
+      "text": "Tato sko k'anab'ajej junok cheknab'il, malaj tas skot t'a kib'anh. Tato ay ko pensar, snachajel kuuj tas tiempoal ayonh eq'ui, tas pax skutej ko k'anab'ajani."
+    },
+    {
+      "number": "6",
+      "text": "Ay wal stzolal yet' sk'ual tas tz'aj ko k'anab'ajan juntzanh chi', palta ay wal jun tas tzonh ixtaneli, yujto manh kojtakok tas tzuji, malaj junok mach syal yalan t'ayonh."
+    },
+    {
+      "number": "7",
+      "text": "Malaj mach syal snitzan sk'inal, malaj pax mach syal syamanoch waan schamel. Ha heb' soldado syal sk'ananel sb'a heb' t'a skal owal, palta ha t'a chamel chi', malaj mach syal yeli. Ha junok mach chuk, max yal-laj skoljiel t'a yol sk'ab' chamel yuj schukal."
+    },
+    {
+      "number": "8",
+      "text": "Ayik ix wak'anoch t'a in k'ol wojtakaneli tastak tzuji t'a yol yib'anhk'inal tik, masanil juntzanh tik ix wila''. Ay b'aj ay heb' ayoch yajalil t'a skal heb' yetanimail, haxo tz'aji a heb' tz'ixtanpax heb' anima chi'."
+    },
+    {
+      "number": "9",
+      "text": "Ay b'aj ix wilpaxi to ayik smukchaj junok winak chuk spensar, wach'chom chuk ix yutej sb'a winh t'a schonhab', palta tz'ik'jichaanh winh yuj heb' yetchonhab' chi'. Axo pax heb' anima sk'anab'ajan Dios, manhxalaj mach snaankot heb' t'a yol schonhab' b'aj tzijtum tas wach' sk'ulejnakkani. Ha juntzanh tik, malaj sjolomal yaji."
+    },
+    {
+      "number": "10",
+      "text": "Yujto manh elanhchamelok tz'ak'jioch syaelal heb' sk'ulan chukal, yuj chi' anhej chukal sk'ulej heb' anima."
+    },
+    {
+      "number": "11",
+      "text": "Wach'chom syalkan jun lolonel icha tik: Ha heb' sk'ulan wach'il ay yelk'och Dios t'a heb', wach'nhej tz'elk'och heb'."
+    },
+    {
+      "number": "12",
+      "text": "Axo pax heb' chuk malaj yelk'och Dios t'ay, chuk tz'elk'och heb', kennhej tiempo syil heb', xchi jun lolonel chi'. Palta ix wila'' to ay heb' ste k'ulan chukal, niwan tiempo syil heb'."
+    },
+    {
+      "number": "13",
+      "text": "Ha tas manh wach'ok swil t'a yol yib'anhk'inal tik, ay heb' anima wach' syutej sb'a, haxo tz'aji, syab' wal syail heb', ichato te chuk heb'. Axo pax heb' te chuk jun, tz'ik'jichaanh heb', ichato wach' heb'. Ha jun tik malaj sjolomal yet'nak."
+    },
+    {
+      "number": "14",
+      "text": "Yuj chi' swala' yakb'an ayonhek' t'a yol yib'anhk'inal tik, smoj wal tzonh wa'i, skuk'an ha', skak'an tzalajb'ok ko k'ool. Icha chi' junk'olal tzonh eq'ui wach'chom ya tz'aj ko sayan wa ko b'a t'a ko k 'inal syak' Dios."
+    },
+    {
+      "number": "15",
+      "text": "Yakb'an swak' wal och t'a in k'ol wojtakaneli yet' wilan pax tastak tzuji t'a yol yib'anhk'inal tik, ay b'aj max och in wayanh t'ak'walil in naan yuj."
+    },
+    {
+      "number": "16",
+      "text": "Axo ix nachajel wuuj jun to a masanil tas sk'ulej Dios yet' tastak tzuji, max nachajel kuuj. Wach'chom skak' kip kojtakaneli, palta malaj b'ak'uinh snachajel kuuj. Wach'chom a junok mach jelan tz'alani to snachajel yuj, palta wal yel, malaj tas snachaji."
+    }
+  ]
 }

@@ -1,117 +1,121 @@
 {
-    "chapter": "34",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Al juntzanh checnab'il tik t'a heb' etisraelal. Toxo wal ol ex och t'a lum Canaán chi', eyic ol aj lu'um. Aton smojonal lu'um tik:"
-        },
-        {
-            "number": "3",
-            "text": "Ha smojonal lum t'a sur tzek' t'a tzinan lu'um Zin t'a stitac lum yic Edom. Schael yich t'a stojolal sur t'ha ha' mar Muerto."
-        },
-        {
-            "number": "4",
-            "text": "Sk'enhej t'a sur chi' masanto t'a yich lum witz Acrabim, tzek'nhejk'och t'a Zin masanto sk'och t'a Cades-barnea. Slajwi chi', sb'atnhejpax t'a Hasar-adar, masanto sk'och t'a Asmón."
-        },
-        {
-            "number": "5",
-            "text": "Sb'atxi t'a Asmón chi' masanto sk'och t'ha ha' eluma' yic Egipto, slajwikank'och t'ha ha' mar Mediterráneo."
-        },
-        {
-            "number": "6",
-            "text": "Ha smojonal t'a stojolal b'aj sb'at k'u, aton ha' mar Mediterráneo chi'."
-        },
-        {
-            "number": "7",
-            "text": "Axo smojonal t'a norte, schael t'ha ha' mar Mediterráneo chi' masanto sk'och t'a jolom witz Hor."
-        },
-        {
-            "number": "8",
-            "text": "Tz'elxi t'a jolom witz Hor chi' masanto b'aj tz'ochk'och sb'eal chonhab' Hamat, masanto t'a Zedad."
-        },
-        {
-            "number": "9",
-            "text": "Sb'at t'a Zedad chi', tzek' t'a Zifrón masanto sk'och t'a Hazar-enán."
-        },
-        {
-            "number": "10",
-            "text": "Axo smojonal t'a stojolal b'aj sjawi k'u, schael t'a Hazar-enán masanto sk'och t'a Sefam."
-        },
-        {
-            "number": "11",
-            "text": "Tz'elxi t'a Sefam chi', masanto sk'och t'a Ribla t'a stojolal b'aj sjawi k'u t'a Aín. Slajwi chi' tz'emnhej jun mojon chi' t'a stojolal b'aj sjawi k'u t'ha ha' nhajab' Cineret,"
-        },
-        {
-            "number": "12",
-            "text": "sb'atnhej t'ha ha' Jordán masanto sk'och t'ha ha' mar Muerto. Ha masanil juntzanh chi', aton smojonal lum he lu'um chi', xchi Jehová, xa chi t'a heb', xchi t'a winh."
-        },
-        {
-            "number": "13",
-            "text": "Ix yal juntzanh checnab'il tik winhaj Moisés t'a heb' israel: Aton jun lu'um tik ol he pojek' t'a he patic, aton lum ix yal Jehová to ol pojchajek' t'a skal heb' nanhal slajunhil eyinhtilal, yujto toxo ix schacan smacb'en nanhal yoxil inhtilal,"
-        },
-        {
-            "number": "14",
-            "text": "aton heb' yinhtilal Rubén yet' heb' yic Gad yet' nanhalxo heb' yic Manasés. Toxo ix scha lum yic heb', aton lum ay t'a stojolal b'aj sjawi k'u t'ha ha' Jordán t'a yichanh Jericó, xchi winhaj Moisés chi'."
-        },
-        {
-            "number": "15",
-            "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
-        },
-        {
-            "number": "16",
-            "text": "Ha heb' ol pojanek' lum lum chi' t'a he kal, aton winh sacerdote Eleazar yet' winhaj Josué yuninal winhaj Nun."
-        },
-        {
-            "number": "17",
-            "text": "Palta yowalil tzeyavtej junjunoc heb' yajal yaj t'a junjun eyinhtilal ayic spojchajek' lu'um chi'."
-        },
-        {
-            "number": "18",
-            "text": "Aton heb' winh tik yowalil ol avtajoc: Ha t'a yinhtilal Judá, a winhaj Caleb yuninal winhaj Jefone."
-        },
-        {
-            "number": "19",
-            "text": "Axo t'a yinhtilal Simeón, a winhaj Semuel yuninal winhaj Amiud."
-        },
-        {
-            "number": "20",
-            "text": "Axo t'a yinhtilal Benjamín, a winhaj Elidad yuninal winhaj Quislón."
-        },
-        {
-            "number": "21",
-            "text": "Axo t'a yinhtilal Dan, a winhaj Buqui yuninal winhaj Jogli, aton winh yajal yaji."
-        },
-        {
-            "number": "22",
-            "text": "Axo t'a yinhtilal Manasés yuninal winhaj José, a winhaj Haniel yuninal winhaj Efod, aton winh yajal yaji."
-        },
-        {
-            "number": "23",
-            "text": "Axo t'a yinhtilal Efraín yuninal pax winhaj José chi', a winhaj Kemuel yuninal winhaj Siftán, aton winh yajal yaji."
-        },
-        {
-            "number": "24",
-            "text": "Axo t'a yinhtilal Zabulón, a winhaj Elizafán yuninal winhaj Parnac, aton winh yajal yaji."
-        },
-        {
-            "number": "25",
-            "text": "Axo t'a yinhtilal Isacar, a winhaj Paltiel yuninal winhaj Azán, aton winh yajal yaji."
-        },
-        {
-            "number": "26",
-            "text": "Axo t'a yinhtilal Aser, a winhaj Ahiud yuninal winhaj Selomi, aton winh yajal yaji."
-        },
-        {
-            "number": "27",
-            "text": "Axo t'a yinhtilal Neftalí, a winhaj Pedael yuninal winhaj Amiud, aton winh yajal yaji, xchi t'a winh."
-        },
-        {
-            "number": "28",
-            "text": "Aton juntzanh heb' winh tik ix schec Jehová spojek' lum Canaán t'a skal heb' yinhtilalkan Israel."
-        }
-    ]
+  "chapter": "34",
+  "book": "NÚMEROS",
+  "book_short": "Nm",
+  "aligned": false,
+  "es_verses": 29,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Al juntzanh cheknab'il tik t'a heb' etisraelal. Toxo wal ol ex och t'a lum Canaán chi', eyik ol aj lu'um. Haton smojonal lu'um tik:"
+    },
+    {
+      "number": "3",
+      "text": "Ha smojonal lum t'a sur tzek' t'a tzinan lu'um Zin t'a stitak lum yik Edom. Schael yich t'a stojolal sur t'a ha' mar Muerto."
+    },
+    {
+      "number": "4",
+      "text": "Sk'enhej t'a sur chi' masanto t'a yich lum witz Acrabim, tzek'nhejk'och t'a Zin masanto sk'och t'a Cades-barnea. Slajwi chi', sb'atnhejpax t'a Hasar-adar, masanto sk'och t'a Asmón."
+    },
+    {
+      "number": "5",
+      "text": "Sb'atxi t'a Asmón chi' masanto sk'och t'a ha' eluma' yik Egipto, slajwikank'och t'a ha' mar Mediterráneo."
+    },
+    {
+      "number": "6",
+      "text": "Ha smojonal t'a stojolal b'aj sb'at k'u, haton ha' mar Mediterráneo chi'."
+    },
+    {
+      "number": "7",
+      "text": "Axo smojonal t'a norte, schael t'a ha' mar Mediterráneo chi' masanto sk'och t'a jolom witz Hor."
+    },
+    {
+      "number": "8",
+      "text": "Tz'elxi t'a jolom witz Hor chi' masanto b'aj tz'ochk'och sb'eal chonhab' Hamat, masanto t'a Zedad."
+    },
+    {
+      "number": "9",
+      "text": "Sb'at t'a Zedad chi', tzek' t'a Zifrón masanto sk'och t'a Hazar-enán."
+    },
+    {
+      "number": "10",
+      "text": "Axo smojonal t'a stojolal b'aj sjawi k'u, schael t'a Hazar-enán masanto sk'och t'a Sefam."
+    },
+    {
+      "number": "11",
+      "text": "Tz'elxi t'a Sefam chi', masanto sk'och t'a Ribla t'a stojolal b'aj sjawi k'u t'a Aín. Slajwi chi' tz'emnhej jun mojon chi' t'a stojolal b'aj sjawi k'u t'a ha' nhajab' Cineret,"
+    },
+    {
+      "number": "12",
+      "text": "sb'atnhej t'a ha' Jordán masanto sk'och t'a ha' mar Muerto. Ha masanil juntzanh chi', haton smojonal lum he lu'um chi', xchi Jehová, xa chi t'a heb', xchi t'a winh."
+    },
+    {
+      "number": "13",
+      "text": "Ix yal juntzanh cheknab'il tik winhaj Moisés t'a heb' israel: Haton jun lu'um tik ol he pojek' t'a he patik, haton lum ix yal Jehová to ol pojchajek' t'a skal heb' nanhal slajunhil eyinhtilal, yujto toxo ix schakan smakb'en nanhal yoxil inhtilal,"
+    },
+    {
+      "number": "14",
+      "text": "haton heb' yinhtilal Rubén yet' heb' yik Gad yet' nanhalxo heb' yik Manasés. Toxo ix scha lum yik heb', haton lum ay t'a stojolal b'aj sjawi k'u t'a ha' Jordán t'a yichanh Jericó, xchi winhaj Moisés chi'."
+    },
+    {
+      "number": "15",
+      "text": "Ix yalanxi Jehová t'a winhaj Moisés chi' icha tik:"
+    },
+    {
+      "number": "16",
+      "text": "Ha heb' ol pojanek' lum lum chi' t'a he kal, haton winh sakerdote Eleazar yet' winhaj Josué yuninal winhaj Nun."
+    },
+    {
+      "number": "17",
+      "text": "Palta yowalil tzeyawtej junjunok heb' yajal yaj t'a junjun eyinhtilal ayik spojchajek' lu'um chi'."
+    },
+    {
+      "number": "18",
+      "text": "Haton heb' winh tik yowalil ol awtajok: Ha t'a yinhtilal Judá, a winhaj Caleb yuninal winhaj Jefone."
+    },
+    {
+      "number": "19",
+      "text": "Axo t'a yinhtilal Simeón, a winhaj Semuel yuninal winhaj Amiud."
+    },
+    {
+      "number": "20",
+      "text": "Axo t'a yinhtilal Benjamín, a winhaj Elidad yuninal winhaj Kislón."
+    },
+    {
+      "number": "21",
+      "text": "Axo t'a yinhtilal Dan, a winhaj Buki yuninal winhaj Jogli, haton winh yajal yaji."
+    },
+    {
+      "number": "22",
+      "text": "Axo t'a yinhtilal Manasés yuninal winhaj José, a winhaj Haniel yuninal winhaj Efod, haton winh yajal yaji."
+    },
+    {
+      "number": "23",
+      "text": "Axo t'a yinhtilal Efraín yuninal pax winhaj José chi', a winhaj Kemuel yuninal winhaj Siftán, haton winh yajal yaji."
+    },
+    {
+      "number": "24",
+      "text": "Axo t'a yinhtilal Zabulón, a winhaj Elizafán yuninal winhaj Parnak, haton winh yajal yaji."
+    },
+    {
+      "number": "25",
+      "text": "Axo t'a yinhtilal Isacar, a winhaj Paltiel yuninal winhaj Azán, haton winh yajal yaji."
+    },
+    {
+      "number": "26",
+      "text": "Axo t'a yinhtilal Aser, a winhaj Ahiud yuninal winhaj Selomi, haton winh yajal yaji."
+    },
+    {
+      "number": "27",
+      "text": "Axo t'a yinhtilal Neftalí, a winhaj Pedael yuninal winhaj Amiud, haton winh yajal yaji, xchi t'a winh."
+    },
+    {
+      "number": "28",
+      "text": "Haton juntzanh heb' winh tik ix schek Jehová spojek' lum Canaán t'a skal heb' yinhtilalkan Israel."
+    }
+  ]
 }

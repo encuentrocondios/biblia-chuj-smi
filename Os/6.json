@@ -1,49 +1,53 @@
 {
-    "chapter": "6",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ol yal heb' chonhab' icha tik: Cotanhec he masanil, conh meltzajec t'a Jehová. Ha ix onh chok'tzilanb'ati, anheja' ol onh anhtanpaxoc. Ix onh yak' echnajoc, anheja' a ol anhtanpax quechen chi'."
-        },
-        {
-            "number": "2",
-            "text": "Ha wal yek'b'at chab' k'ual, ichato chi' ol yak'an ko k 'inal. Axo t'a yoxil k'ual, ol onh yak'anpax pitzwoc, ol onh kajnaj t'a yichanh."
-        },
-        {
-            "number": "3",
-            "text": "Caq'ek quip cojtakanel Jehová. Icha cojtakaneli to ol sacb'oc, cojtak to ol jax t'ayonh tato sko na ko b'a. Ol yak'cot swach'k'olal t'a quib'anh, icha tz'aj syaxb'i sat lum lum yuj b'ab'el nhab' yet' slajwub' nhab'ilq'uinal, xcham heb'."
-        },
-        {
-            "number": "4",
-            "text": "Icha tik yalan Jehová: ¿Tas wach' ol ex wutoc ex aj Efraín? ¿Tas wach' ol ex wutoc ex aj Judá? Ha b'aj tzin he xajanej, lajan icha asun t'a q'uinhib'alil, lajan icha yal ak'wal t'a ayto sq'uinhib'i, haxo sq'uinhib'i, satemi."
-        },
-        {
-            "number": "5",
-            "text": "Yuj in lolonel ix wak' yal heb' in chekab', ol ex in sateli. Niwan chequel ol aj eyaelal chi' icha wal yoc k'u."
-        },
-        {
-            "number": "6",
-            "text": "Ha wal tas in gana tze k'ulej to tz'ok' he k'ol t'a eyetanimail yet' in eyojtakaneli to he Diosal in, manhocnhej he nhusantz'a silab' t'ayin in gana."
-        },
-        {
-            "number": "7",
-            "text": "Ha ex in chonhab' ex tik, maj he k'anab'ajej in trato eyed'oc, icha yutejnac sb'a winhaj Adán. Chuc ix eyutej he b'a t'ayin."
-        },
-        {
-            "number": "8",
-            "text": "Ha heb' anima t'a chonhab' Galaad, anhej chukal sk'ulej heb', masanil b'aj ay chik' yuj b'aj smilwaj heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ha heb' sacerdote, icha junok molanh elk'um yek' heb'. Smac anima heb' yic smak'anchamoc. D'a sb'eal Siquem smak'wicham anima heb', sk'ulanpax masanil chukal heb'."
-        },
-        {
-            "number": "10",
-            "text": "Ha heb' aj Efraín ix och heb' ajmulal. Ix yixtejb'at sb'a heb' yet' heb' yetisraelal. Yuj chi' te yajb'entac yilji heb' swila'."
-        },
-        {
-            "number": "11",
-            "text": "Yed' ex pax ex aj Judá, wan sjawi sk'ual eyaelal. Tzin nib'ej tzin k'ex tas ayoch t'a yib'anh in chonhab' Israel,"
-        }
-    ]
+  "chapter": "6",
+  "book": "OSEAS",
+  "book_short": "Os",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ol yal heb' chonhab' icha tik: Kotanhek he masanil, konh meltzajek t'a Jehová. Ha ix onh chok'tzilanb'ati, anheja' ol onh anhtanpaxok. Ix onh yak' echnajok, anheja' a ol anhtanpax kechen chi'."
+    },
+    {
+      "number": "2",
+      "text": "Ha wal yek'b'at chab' k'ual, ichato chi' ol yak'an ko k 'inal. Axo t'a yoxil k'ual, ol onh yak'anpax pitzwok, ol onh kajnaj t'a yichanh."
+    },
+    {
+      "number": "3",
+      "text": "Kaq'ek kip kojtakanel Jehová. Icha kojtakaneli to ol sakb'ok, kojtak to ol jax t'ayonh tato sko na ko b'a. Ol yak'kot swach'k'olal t'a kib'anh, icha tz'aj syaxb'i sat lum lum yuj b'ab'el nhab' yet' slajwub' nhab'ilq'uinal, xcham heb'."
+    },
+    {
+      "number": "4",
+      "text": "Icha tik yalan Jehová: ¿Tas wach' ol ex wutok ex aj Efraín? ¿Tas wach' ol ex wutok ex aj Judá? Ha b'aj tzin he xajanej, lajan icha asun t'a q'uinhib'alil, lajan icha yal ak'wal t'a ayto sq'uinhib'i, haxo sq'uinhib'i, satemi."
+    },
+    {
+      "number": "5",
+      "text": "Yuj in lolonel ix wak' yal heb' in chekab', ol ex in sateli. Niwan chekel ol aj eyaelal chi' icha wal yok k'u."
+    },
+    {
+      "number": "6",
+      "text": "Ha wal tas in gana tze k'ulej to tz'ok' he k'ol t'a eyetanimail yet' in eyojtakaneli to he Diosal in, manhoknhej he nhusantz'a silab' t'ayin in gana."
+    },
+    {
+      "number": "7",
+      "text": "Ha ex in chonhab' ex tik, maj he k'anab'ajej in trato eyet'ok, icha yutejnak sb'a winhaj Adán. Chuk ix eyutej he b'a t'ayin."
+    },
+    {
+      "number": "8",
+      "text": "Ha heb' anima t'a chonhab' Galaad, anhej chukal sk'ulej heb', masanil b'aj ay chik' yuj b'aj smilwaj heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ha heb' sakerdote, icha junok molanh elk'um yek' heb'. Smak anima heb' yik smak'anchamok. T'a sb'eal Siquem smak'wicham anima heb', sk'ulanpax masanil chukal heb'."
+    },
+    {
+      "number": "10",
+      "text": "Ha heb' aj Efraín ix och heb' ajmulal. Ix yixtejb'at sb'a heb' yet' heb' yetisraelal. Yuj chi' te yajb'entak yilji heb' swila'."
+    },
+    {
+      "number": "11",
+      "text": "Yet' ex pax ex aj Judá, wan sjawi sk'ual eyaelal. Tzin nib'ej tzin k'ex tas ayoch t'a yib'anh in chonhab' Israel,"
+    }
+  ]
 }

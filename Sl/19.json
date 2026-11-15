@@ -1,61 +1,65 @@
 {
-    "chapter": "19",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha satcha’anh yet' masanil tas ay t'ay, a sch'oxanel sb'inajnaquil Dios, sch'oxanel swach'il smunlajel."
-        },
-        {
-            "number": "2",
-            "text": "Junjun k'u, junjun ak'wal sch'oxjiel sjelanil yuj tastac ay t'a satcha’anh."
-        },
-        {
-            "number": "3",
-            "text": "Wach'chom malaj junok lolonel tz'ab'chaji, malaj pax junok jaj tz'ab'chaj yochi,"
-        },
-        {
-            "number": "4",
-            "text": "palta sb'eyb'at yab'ixal Dios t'a masanil sat lu'um tik, masanto b'aj slajwik'och masanil yol yib'anhk’inal tik. Ha t'a satcha’anh, ata' ay k'u yuj Dios."
-        },
-        {
-            "number": "5",
-            "text": "Icha wal junok winh quelem ato wal snupnaji, stzalaji tz'elta t'a yol scuarto, icha chi' sjawi k'u. Ma icha junok winak te ay yip stzalaj sk'ool ayic sb'at t'a smunlajel."
-        },
-        {
-            "number": "6",
-            "text": "Sk'eul yoc k'u t'a yichchaanh, sb'atxikan t'a b'aj tz'emxikani, malaj junok tas syal scolan sb'ha t'a sk'ak'al."
-        },
-        {
-            "number": "7",
-            "text": "Ha wal sk'ayb'ub'al Jehová malaj jab'oc spaltail, tz'ak'ji quip yuj. Ha schecnab'il te yel, syak'an sjelanil heb' mantalaj spensar."
-        },
-        {
-            "number": "8",
-            "text": "Ha tas syal Jehová, te wach'nhej yaji, stzalajb'i ko k'ool yuj. Ha sley Jehová, tojol toni, sjacwi ko pensar yuj."
-        },
-        {
-            "number": "9",
-            "text": "Ha emnaquilal t'a Jehová te wach'nhej, aynhejek' t'a junelnhej. Ha tas nab'il yuj Jehová te yel, tojol toni."
-        },
-        {
-            "number": "10",
-            "text": "Yelxo wal te nib'ab'il t'a yichanh k'een oro te wach'. Yelxo wal te chi' t'a yichanh nok' yal chab' ayoch t'a yet'tal."
-        },
-        {
-            "number": "11",
-            "text": "Cachnab'il pax yaj t'ayin a in a chekab' in tik. Tato tzin k'anab'ajej a lolonel chi', wach' ol in elk'och yuj."
-        },
-        {
-            "number": "12",
-            "text": "¿Tom ay junok mach syal yilan sb'ha t'a spaltail? Mamin Jehová, ak' in niwank'olal yuj juntzanhxo in paltail max wil in k'ulani."
-        },
-        {
-            "number": "13",
-            "text": "Manh a cha wak'och in b'ha t'a skal chukal. Manh a cha yak' yajalil chukal chi' t'ayin. Icha chi' max och in mul, malaj junok in chukal t'a yol a sat."
-        },
-        {
-            "number": "14",
-            "text": "Mamin Jehová in Kolumal ach, in Tanhwumal ach, chab'ilokab' uuj tas swala' yet' tas tzin na'a."
-        }
-    ]
+  "chapter": "19",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha satcha'anh yet' masanil tas ay t'ay, a sch'oxanel sb'inajnakil Dios, sch'oxanel swach'il smunlajel."
+    },
+    {
+      "number": "2",
+      "text": "Junjun k'u, junjun ak'wal sch'oxjiel sjelanil yuj tastak ay t'a satcha'anh."
+    },
+    {
+      "number": "3",
+      "text": "Wach'chom malaj junok lolonel tz'ab'chaji, malaj pax junok jaj tz'ab'chaj yochi,"
+    },
+    {
+      "number": "4",
+      "text": "palta sb'eyb'at yab'ixal Dios t'a masanil sat lu'um tik, masanto b'aj slajwik'och masanil yol yib'anhk'inal tik. Ha t'a satcha'anh, ata' ay k'u yuj Dios."
+    },
+    {
+      "number": "5",
+      "text": "Icha wal junok winh kelem ato wal snupnaji, stzalaji tz'elta t'a yol skuarto, icha chi' sjawi k'u. Ma icha junok winak te ay yip stzalaj sk'ool ayik sb'at t'a smunlajel."
+    },
+    {
+      "number": "6",
+      "text": "Sk'eul yok k'u t'a yichchaanh, sb'atxikan t'a b'aj tz'emxikani, malaj junok tas syal skolan sb'a t'a sk'ak'al."
+    },
+    {
+      "number": "7",
+      "text": "Ha wal sk'ayb'ub'al Jehová malaj jab'ok spaltail, tz'ak'ji kip yuj. Ha scheknab'il te yel, syak'an sjelanil heb' mantalaj spensar."
+    },
+    {
+      "number": "8",
+      "text": "Ha tas syal Jehová, te wach'nhej yaji, stzalajb'i ko k'ool yuj. Ha sley Jehová, tojol toni, sjakwi ko pensar yuj."
+    },
+    {
+      "number": "9",
+      "text": "Ha emnakilal t'a Jehová te wach'nhej, aynhejek' t'a junelnhej. Ha tas nab'il yuj Jehová te yel, tojol toni."
+    },
+    {
+      "number": "10",
+      "text": "Yelxo wal te nib'ab'il t'a yichanh k'een oro te wach'. Yelxo wal te chi' t'a yichanh nok' yal chab' ayoch t'a yet'tal."
+    },
+    {
+      "number": "11",
+      "text": "Kachnab'il pax yaj t'ayin a in a chekab' in tik. Tato tzin k'anab'ajej a lolonel chi', wach' ol in elk'och yuj."
+    },
+    {
+      "number": "12",
+      "text": "¿Tom ay junok mach syal yilan sb'a t'a spaltail? Mamin Jehová, ak' in niwank'olal yuj juntzanhxo in paltail max wil in k'ulani."
+    },
+    {
+      "number": "13",
+      "text": "Manh a cha wak'och in b'a t'a skal chukal. Manh a cha yak' yajalil chukal chi' t'ayin. Icha chi' max och in mul, malaj junok in chukal t'a yol a sat."
+    },
+    {
+      "number": "14",
+      "text": "Mamin Jehová in Kolumal ach, in Tanhwumal ach, chab'ilokab' uuj tas swala' yet' tas tzin na'a."
+    }
+  ]
 }

@@ -1,37 +1,41 @@
 {
-    "chapter": "114",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic ix elta heb' israel yinhtilal winhaj Jacob t'a Egipto, aton jun chonhab' ch'oc sti',"
-        },
-        {
-            "number": "2",
-            "text": "a Judá yet' Israel ix ochkan schonhab'oc Jehová. A' ix ak'an Yajalil t'a yib'anh."
-        },
-        {
-            "number": "3",
-            "text": "Ayic ix sch'oxan sb'a Jehová t'ha ha' mar, ix b'at ha' elelal. Axo ha' niwan Jordán, ix meltzaj ha' t'a spatic."
-        },
-        {
-            "number": "4",
-            "text": "Axo lum witz yet' lum tzalquixtac ix k'e cheneljoc lu'um icha nok' chiwa, ma icha nok' yunetac kalnel."
-        },
-        {
-            "number": "5",
-            "text": "¿Tas ix ik'an ha' mar chi', yuj chi' ix el ha'? ¿Tas ix ik'an ha' Jordán chi', yuj chi' ix meltzaj ha'?"
-        },
-        {
-            "number": "6",
-            "text": "¿Tas ix ik'an lum witz yet' lum tzalquixtac, yuj chi' ix k'e cheneljoc lu'um icha nok' chiwa, ma icha nok' yunetac kalnel?"
-        },
-        {
-            "number": "7",
-            "text": "Ib'xokab'k'e lum lum t'a yichanh Jehová sDiosal winhaj Jacob."
-        },
-        {
-            "number": "8",
-            "text": "Aton ix ik'anelta ha ha' t'a sat jun k'een tenam, ha t'a yol k'een ix elta sjaj ha ha' chi' yuj, ix smolb'ankan sb'ha ha'."
-        }
-    ]
+  "chapter": "114",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 8,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik ix elta heb' israel yinhtilal winhaj Jacob t'a Egipto, haton jun chonhab' ch'ok sti',"
+    },
+    {
+      "number": "2",
+      "text": "a Judá yet' Israel ix ochkan schonhab'ok Jehová. A' ix ak'an Yajalil t'a yib'anh."
+    },
+    {
+      "number": "3",
+      "text": "Ayik ix sch'oxan sb'a Jehová t'a ha' mar, ix b'at ha' elelal. Axo ha' niwan Jordán, ix meltzaj ha' t'a spatik."
+    },
+    {
+      "number": "4",
+      "text": "Axo lum witz yet' lum tzalkixtak ix k'e cheneljok lu'um icha nok' chiwa, ma icha nok' yunetak kalnel."
+    },
+    {
+      "number": "5",
+      "text": "¿Tas ix ik'an ha' mar chi', yuj chi' ix el ha'? ¿Tas ix ik'an ha' Jordán chi', yuj chi' ix meltzaj ha'?"
+    },
+    {
+      "number": "6",
+      "text": "¿Tas ix ik'an lum witz yet' lum tzalkixtak, yuj chi' ix k'e cheneljok lu'um icha nok' chiwa, ma icha nok' yunetak kalnel?"
+    },
+    {
+      "number": "7",
+      "text": "Ib'xokab'k'e lum lum t'a yichanh Jehová sDiosal winhaj Jacob."
+    },
+    {
+      "number": "8",
+      "text": "Haton ix ik'anelta ha ha' t'a sat jun k'een tenam, ha t'a yol k'een ix elta sjaj ha ha' chi' yuj, ix smolb'ankan sb'a ha'."
+    }
+  ]
 }

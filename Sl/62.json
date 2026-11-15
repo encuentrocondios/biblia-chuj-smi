@@ -1,49 +1,53 @@
 {
-    "chapter": "62",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Anhejton d'ha Dios tz'ilchaj junk'olal wuuj. Ha t'ay scot in colnab'il."
-        },
-        {
-            "number": "2",
-            "text": "Anhej tzin colaneli, a tz'ochpax wenhuloc. Malaj b'ak'uinh ol in ak'joc ganar yujto ha' ayoch in colnab'iloc."
-        },
-        {
-            "number": "3",
-            "text": "¿B'aq'uinh ol eyactej eyoch b'ulan t'ayin yic ol in he tek'ankanem eyalani? Ichato toxo wal tzin telwi icha junok pat k'haxo, ma icha junok macte' toxo tzek' lecnajoc."
-        },
-        {
-            "number": "4",
-            "text": "Axonhej tas tz'aj yixtaxel in b'inajnaquil tze naub'tanhej. E q'uinalxonhej he naank'e es. Tze tz'ac eyal wach' lolonel t'ayin, palta haxo t'a he pensar, tzin he katab'ej."
-        },
-        {
-            "number": "5",
-            "text": "Anhej d'ha Dios tz'ilchaj junk'olal wuuj. Anhej ayoch yipoc in k'ool."
-        },
-        {
-            "number": "6",
-            "text": "Anhej tzin colaneli, tz'ochpax wenhuloc. Manh ol in telwoclaj. A' ayoch in colnab'iloc."
-        },
-        {
-            "number": "7",
-            "text": "Ha d'ha Dios scot in colnab'il, yuj chi' ay welk'ochi. A' ayoch wenhuloc yet' in colnab'iloc."
-        },
-        {
-            "number": "8",
-            "text": "Ex wetchonhab', anhej Dios tzeyak'och yipoc he k'ool. D'a smasanil he k'ool, tzex lesalwi t'ay, yujto a ko colnab'il yaji."
-        },
-        {
-            "number": "9",
-            "text": "Ha heb' anima, junelnhej malaj jab'oc yelk'och heb', wach'chom meb'a' heb', ma b'eyum heb'. Q'uinaloc tz'echtaj yalil heb' t'a junok echlab' smasanil, toton max checlajlaj jab'oc yalil heb' chi', yuj chi' manh caq'ek ochlaj ko pensar t'a heb'."
-        },
-        {
-            "number": "10",
-            "text": "Manh eyak'och ixtoj anima, ma elk'al yipoc he k'ool. Tato tzex och b'eyumal, manh eyak'och he b'eyumal chi' yipoc he k'ool."
-        },
-        {
-            "number": "11",
-            "text": "Manh jantacoc wab'an yalchaji to ha Dios aljinakkan icha tik: Ha in Dios Yajal in tik, masanil syal wuuj, aynhej pax in wach'k'olal. Tzin pactzitej t'a junjun anima icha syal tas tz'el sk'ulani, xchi Dios."
-        }
-    ]
+  "chapter": "62",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": false,
+  "es_verses": 12,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Anhejton t'a Dios tz'ilchaj junk'olal wuuj. Ha t'ay skot in kolnab'il."
+    },
+    {
+      "number": "2",
+      "text": "Anhej tzin kolaneli, a tz'ochpax wenhulok. Malaj b'ak'uinh ol in ak'jok ganar yujto ha' ayoch in kolnab'ilok."
+    },
+    {
+      "number": "3",
+      "text": "¿B'aq'uinh ol eyaktej eyoch b'ulan t'ayin yik ol in he tek'ankanem eyalani? Ichato toxo wal tzin telwi icha junok pat k'axo, ma icha junok makte' toxo tzek' leknajok."
+    },
+    {
+      "number": "4",
+      "text": "Axonhej tas tz'aj yixtaxel in b'inajnakil tze naub'tanhej. E q'uinalxonhej he naank'e es. Tze tz'ak eyal wach' lolonel t'ayin, palta haxo t'a he pensar, tzin he katab'ej."
+    },
+    {
+      "number": "5",
+      "text": "Anhej t'a Dios tz'ilchaj junk'olal wuuj. Anhej ayoch yipok in k'ool."
+    },
+    {
+      "number": "6",
+      "text": "Anhej tzin kolaneli, tz'ochpax wenhulok. Manh ol in telwoklaj. A' ayoch in kolnab'ilok."
+    },
+    {
+      "number": "7",
+      "text": "Ha t'a Dios skot in kolnab'il, yuj chi' ay welk'ochi. A' ayoch wenhulok yet' in kolnab'ilok."
+    },
+    {
+      "number": "8",
+      "text": "Ex wetchonhab', anhej Dios tzeyak'och yipok he k'ool. T'a smasanil he k'ool, tzex lesalwi t'ay, yujto a ko kolnab'il yaji."
+    },
+    {
+      "number": "9",
+      "text": "Ha heb' anima, junelnhej malaj jab'ok yelk'och heb', wach'chom meb'a' heb', ma b'eyum heb'. Q'uinalok tz'echtaj yalil heb' t'a junok echlab' smasanil, toton max cheklajlaj jab'ok yalil heb' chi', yuj chi' manh kaq'ek ochlaj ko pensar t'a heb'."
+    },
+    {
+      "number": "10",
+      "text": "Manh eyak'och ixtoj anima, ma elk'al yipok he k'ool. Tato tzex och b'eyumal, manh eyak'och he b'eyumal chi' yipok he k'ool."
+    },
+    {
+      "number": "11",
+      "text": "Manh jantakok wab'an yalchaji to ha Dios aljinakkan icha tik: Ha in Dios Yajal in tik, masanil syal wuuj, aynhej pax in wach'k'olal. Tzin paktzitej t'a junjun anima icha syal tas tz'el sk'ulani, xchi Dios."
+    }
+  ]
 }

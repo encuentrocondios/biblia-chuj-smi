@@ -1,81 +1,85 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ex wuk'tac ex wanab', yic exxo Dios wed'oc, yujto A' avtannac onh och yicoc. Yuj chi' ko wach' ak'ejecoch ko pensar t'a Cristo Jesús, yujto schekab' Dios yaj t'ayonh. Sat Sacerdote pax yaji, icha syal ko k'ayb'ub'al chab'il cuuj."
-        },
-        {
-            "number": "2",
-            "text": "Ha Jesús k'anab'ajum ix yutej sb'ha t'a jun ix ak'an yopisio, icha yutejnac winhaj Moisés sk'anab'ajan t'a skal heb' yuninal Dios smasanil yet'oc."
-        },
-        {
-            "number": "3",
-            "text": "Ha junok b'oum pat, más ek'al t'a jun pat sb'o chi'. Ichaton chi' Jesús, más ek'al t'a yichanh winhaj Moisés chi'."
-        },
-        {
-            "number": "4",
-            "text": "Junjun te' pat, ay mach sb'oan te'. Palta a masanil tasi, ha Dios b'ojinac."
-        },
-        {
-            "number": "5",
-            "text": "Ha winhaj Moisés chi', sk'anab'ajejnac winh yak'an serwil t'a skal masanil heb' yuninal Dios yet'oc, yujto yak'umal serwil Dios yaj winh. Ayocto yak'annac testigoal sb'a winh yuj juntzanh tas d'inhan yalan Dios."
-        },
-        {
-            "number": "6",
-            "text": "Palta a Cristo ix sk'anab'ajej, yujto Yuninal Dios. A' ayoch Yajalil t'a yib'anh heb' yico', aton heb' yuninalxo Dios yet'oc. Tato tek'an scutej kak'anoch t'a ko k'ool, tzonh tzalaj pax yuj jun ayoch yipoc ko k'ool, yuninal onh ton Dios syal chi'."
-        },
-        {
-            "number": "7",
-            "text": "Yuj chi', icha syalkan Yespíritu Dios t'a Slolonel Tz'ib'ab'ilkani: Ha t'a jun k'u tik, tato tzeyab' tas syal Dios,"
-        },
-        {
-            "number": "8",
-            "text": "manh he pitej he b'a icha yutejnac sb'a heb' he mam eyicham, a heb' chi', spitejnac sb'a heb' t'ayin t'a tzinan lu'um, yak'annac in prowal heb' ta'."
-        },
-        {
-            "number": "9",
-            "text": "Wach'chom 40 ab'il yilnac juntzanh milagro heb' in b'onac, palta anheja' yak'lejnac in prowal heb'."
-        },
-        {
-            "number": "10",
-            "text": "Yuj chi' cotnac wowal, walannac yuj heb': Masanil tiempo ch'ocnhej b'aj ayoch spensar heb'. Toxonton malaj snib'ej heb' yojtakanel in k'olb'al, xin chi."
-        },
-        {
-            "number": "11",
-            "text": "Yuj chi', cotnac wowal t'a heb'. Vak'annac in ti' to manh ol och heb' t'a jun lum lum b'aj junk'olalnhej ol aj heb', xchi Dios t'a slolonel chi'."
-        },
-        {
-            "number": "12",
-            "text": "Ex wuk'tac ex wanab', tzeya'ilej wal he b'a, yic malaj junok ex tze pitej he b'a yuj he chab'k'olal, yuj chi' tze patiquejel Dios pitzan."
-        },
-        {
-            "number": "13",
-            "text": "Yacb'an tzato yala', slaj eyak'laj he tek'anil junjun ex t'a junjun k'u, yic wach' malaj ex tzex juwiel yuj chukal, malaj ex tzex pitb'iel yuj."
-        },
-        {
-            "number": "14",
-            "text": "Yujto atax t'a sb'ab'elal kak'nacoch Cristo yipoc ko k'ool. Tato anheja' tek'an scutej ko b'a kak'anoch yipoc ko k'ool masanto t'a slajwub', ay kalan quik yet'oc syal chi'."
-        },
-        {
-            "number": "15",
-            "text": "Yujto icha chi' yaj stz'ib'ajkani: Ha t'a jun k'u tik, tato tzeyab' tas syal Dios, manh he pitej he b'a, icha yutejnac sb'a heb' he mam eyicham, ayic spitannac sb'a heb' t'ayin, xchikani."
-        },
-        {
-            "number": "16",
-            "text": "¿Mach heb' ab'annac slolonel Dios tze na'a, slajwi chi' spitannac sb'a heb' t'ay? Aton masanil heb' coljinac elta yuj winhaj Moisés t'a Egipto."
-        },
-        {
-            "number": "17",
-            "text": "¿Mach heb' b'aj 40 ab'il cotnac yowal Dios tze na'a? Aton heb' ochnac smul t'ay, yuj chi' chamnac heb' t'a tzinan lu'um chi'."
-        },
-        {
-            "number": "18",
-            "text": "¿Mach heb' b'aj yak'nac sti' Dios to manh ol k'och heb' b'aj junk'olalnhej ol aj tze na'a? Aton heb' manh k'anab'ajannacoc t'ay."
-        },
-        {
-            "number": "19",
-            "text": "Yuj chi' snachajel cuuj to maj ochlaj heb' b'aj junk'olalnhej tz'aj chi', yujto maj sk'anab'ajej heb'."
-        }
-    ]
+  "chapter": "3",
+  "book": "HEBREOS",
+  "book_short": "Heb",
+  "aligned": true,
+  "es_verses": 19,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ex wuk'tak ex wanab', yik exxo Dios wet'ok, yujto A' awtannak onh och yikok. Yuj chi' ko wach' ak'ejekoch ko pensar t'a Cristo Jesús, yujto schekab' Dios yaj t'ayonh. Sat Sacerdote pax yaji, icha syal ko k'ayb'ub'al chab'il kuuj."
+    },
+    {
+      "number": "2",
+      "text": "Ha Jesús k'anab'ajum ix yutej sb'a t'a jun ix ak'an yopisio, icha yutejnak winhaj Moisés sk'anab'ajan t'a skal heb' yuninal Dios smasanil yet'ok."
+    },
+    {
+      "number": "3",
+      "text": "Ha junok b'oum pat, más ek'al t'a jun pat sb'o chi'. Ichaton chi' Jesús, más ek'al t'a yichanh winhaj Moisés chi'."
+    },
+    {
+      "number": "4",
+      "text": "Junjun te' pat, ay mach sb'oan te'. Palta a masanil tasi, ha Dios b'ojinak."
+    },
+    {
+      "number": "5",
+      "text": "Ha winhaj Moisés chi', sk'anab'ajejnak winh yak'an serwil t'a skal masanil heb' yuninal Dios yet'ok, yujto yak'umal serwil Dios yaj winh. Ayokto yak'annak testigoal sb'a winh yuj juntzanh tas t'inhan yalan Dios."
+    },
+    {
+      "number": "6",
+      "text": "Palta a Cristo ix sk'anab'ajej, yujto Yuninal Dios. A' ayoch Yajalil t'a yib'anh heb' yiko', haton heb' yuninalxo Dios yet'ok. Tato tek'an skutej kak'anoch t'a ko k'ool, tzonh tzalaj pax yuj jun ayoch yipok ko k'ool, yuninal onh ton Dios syal chi'."
+    },
+    {
+      "number": "7",
+      "text": "Yuj chi', icha syalkan Yespíritu Dios t'a Slolonel Tz'ib'ab'ilkani: Ha t'a jun k'u tik, tato tzeyab' tas syal Dios,"
+    },
+    {
+      "number": "8",
+      "text": "manh he pitej he b'a icha yutejnak sb'a heb' he mam eyicham, a heb' chi', spitejnak sb'a heb' t'ayin t'a tzinan lu'um, yak'annak in prowal heb' ta'."
+    },
+    {
+      "number": "9",
+      "text": "Wach'chom 40 ab'il yilnak juntzanh milagro heb' in b'onak, palta anheja' yak'lejnak in prowal heb'."
+    },
+    {
+      "number": "10",
+      "text": "Yuj chi' kotnak wowal, walannak yuj heb': Masanil tiempo ch'oknhej b'aj ayoch spensar heb'. Toxonton malaj snib'ej heb' yojtakanel in k'olb'al, xin chi."
+    },
+    {
+      "number": "11",
+      "text": "Yuj chi', kotnak wowal t'a heb'. Wak'annak in ti' to manh ol och heb' t'a jun lum lum b'aj junk'olalnhej ol aj heb', xchi Dios t'a slolonel chi'."
+    },
+    {
+      "number": "12",
+      "text": "Ex wuk'tak ex wanab', tzeya'ilej wal he b'a, yik malaj junok ex tze pitej he b'a yuj he chab'k'olal, yuj chi' tze patikejel Dios pitzan."
+    },
+    {
+      "number": "13",
+      "text": "Yakb'an tzato yala', slaj eyak'laj he tek'anil junjun ex t'a junjun k'u, yik wach' malaj ex tzex juwiel yuj chukal, malaj ex tzex pitb'iel yuj."
+    },
+    {
+      "number": "14",
+      "text": "Yujto atax t'a sb'ab'elal kak'nakoch Cristo yipok ko k'ool. Tato anheja' tek'an skutej ko b'a kak'anoch yipok ko k'ool masanto t'a slajwub', ay kalan kik yet'ok syal chi'."
+    },
+    {
+      "number": "15",
+      "text": "Yujto icha chi' yaj stz'ib'ajkani: Ha t'a jun k'u tik, tato tzeyab' tas syal Dios, manh he pitej he b'a, icha yutejnak sb'a heb' he mam eyicham, ayik spitannak sb'a heb' t'ayin, xchikani."
+    },
+    {
+      "number": "16",
+      "text": "¿Mach heb' ab'annak slolonel Dios tze na'a, slajwi chi' spitannak sb'a heb' t'ay? Haton masanil heb' koljinak elta yuj winhaj Moisés t'a Egipto."
+    },
+    {
+      "number": "17",
+      "text": "¿Mach heb' b'aj 40 ab'il kotnak yowal Dios tze na'a? Haton heb' ochnak smul t'ay, yuj chi' chamnak heb' t'a tzinan lu'um chi'."
+    },
+    {
+      "number": "18",
+      "text": "¿Mach heb' b'aj yak'nak sti' Dios to manh ol k'och heb' b'aj junk'olalnhej ol aj tze na'a? Haton heb' manh k'anab'ajannakok t'ay."
+    },
+    {
+      "number": "19",
+      "text": "Yuj chi' snachajel kuuj to maj ochlaj heb' b'aj junk'olalnhej tz'aj chi', yujto maj sk'anab'ajej heb'."
+    }
+  ]
 }

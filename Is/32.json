@@ -1,81 +1,85 @@
 {
-    "chapter": "32",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ay wal jun winh rey ol ak'an yajalil t'a stojolal, ay pax heb' yajal t'a yalanh smandar winh te wach' ol yutej yak'an yajalil."
-        },
-        {
-            "number": "2",
-            "text": "Junjun heb', ichato ko kolumal ol aj heb' t'a jun owal ik' yet' t'a jun owal ik' nhab'. Icha ha ha' t'a lum taquinh sat, ma icha yenhul junok k'een niwan tenam t'a tzinan lu'um, icha chi' ol aj heb'."
-        },
-        {
-            "number": "3",
-            "text": "Ha heb' anima ichato max uji yilani, ol yil heb'. Axo heb' ichato max uji yab'ani, ol scha yab' heb'."
-        },
-        {
-            "number": "4",
-            "text": "Ha heb' manh chamoc snaan tas syala', ol tojolb'oc spensar heb'. Axo heb' tz'el squeec sloloni, ol b'o slolon heb'."
-        },
-        {
-            "number": "5",
-            "text": "Ha junok anima amancotan, manhxo ol alchaj wach'il. Axo junok mach jelan smusan sat heb' anima, manhxa jab'oc ol aj yelk'ochi."
-        },
-        {
-            "number": "6",
-            "text": "Yujto a heb' anima amancotan chi', anhej pensar malaj yelk'och syal heb'. Anhej chukal sna' sk'ulej heb' t'a spensar chi', snib'ej heb' smak'waji, syalan chukal lolonel heb' t'a spatic Jehová. Max siej jab'oc tas heb' t'a heb' tz'och swejel yet' t'a heb' ay staquinhtial."
-        },
-        {
-            "number": "7",
-            "text": "Ha heb' ixtum anima chi', syik' yip heb' yuj tas sk'ayb'ej t'a chukal, snaank'e chukal heb'. Tz'ixtaj heb' meb'a' snib'ej sb'o yaj yowal yuj yes heb'."
-        },
-        {
-            "number": "8",
-            "text": "Axo heb' wach' sk'ool elb'ennhej yuj, yuj swach'il heb' chi', wach'nhej tz'elk'och heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ha exxo ix ex tik, a ex te junk'olalnhej eyajeq'ui, malaj tas tze na'a, ab'ec wal tas ol wal t'ayex."
-        },
-        {
-            "number": "10",
-            "text": "Ha ticnaik malaj tas tze na'a, palta jun, yab' wal icha tik junab', tzex xivk'ei, yujto manhxalaj sat avb'en ol yak'a', manhxa sat te' uwa ol molchajoc."
-        },
-        {
-            "number": "11",
-            "text": "Ha ex wal malaj jab'oc tas tze na' tik, xiwanhec, ik'equel he pichul wach' ayoch eyuuj. Hak'uecoch pichul ya swa'i, yic tze ch'oxaneli to ayex och t'a syaelal."
-        },
-        {
-            "number": "12",
-            "text": "Ch'oxequel he cusk'olal chi', yujto ix ixtaxel lum he lu'um yax sat b'aj te wach' tz'aj avb'en."
-        },
-        {
-            "number": "13",
-            "text": "Yujto axonhej te' q'uiix yet' anh ank'ultak ol q'uib'kank'e t'a yol ko chonhab' yet' t'a yoltac juntzanh pat b'aj tz'och q'uinh yic tzalajk'olal."
-        },
-        {
-            "number": "14",
-            "text": "Ha spalacio heb' winh niwac yajal, cuseltac ol ajkanoc, ol kan tzinan schonhab' heb' winh. Ha chonhab' wach' yajoch smuroal, ol ochkan swaynub'oc nok' nok'. Ata' ol yik' yip nok' kaltacte'al b'uru t'a tzalajk'olal, ol laj wa nok' wakax ta'."
-        },
-        {
-            "number": "15",
-            "text": "Palta ayic ol jawok Yespíritu Jehová t'a quib'anh junelxo, a lum taquinh lu'um, ol yaxb'ocxi sat lu'um. Jantac sat avb'en ol yak'xi t'a lu'um."
-        },
-        {
-            "number": "16",
-            "text": "Axo t'a masanil lugar, ol b'eyb'alaj tojolal yet' wach'ilal."
-        },
-        {
-            "number": "17",
-            "text": "Yujto sb'eyb'alaj tojolal chi', yuj chi' ay junk'olal, tzalajk'olal yet' wach' pensaril t'a masanil tiempo."
-        },
-        {
-            "number": "18",
-            "text": "Wach'chom ol laj lanhchaj te te' yuj k'een sacb'at, wach'chom ol satel juntzanh nación, palta ex wetchonhab', junk'olal ol ex ajoc, ol eyak' tzalajb'oc he k'ool b'aj ol ex kajnajoc."
-        },
-        {
-            "number": "19",
-            "text": "Wach' eyiko' yujto manh jantacoc ha ha' b'aj wach' ol och yalil eyavb'en, te ay pax b'aj ol yal swa nok' he wakax yet' nok' he b'uru."
-        }
-    ]
+  "chapter": "32",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": false,
+  "es_verses": 20,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ay wal jun winh rey ol ak'an yajalil t'a stojolal, ay pax heb' yajal t'a yalanh smandar winh te wach' ol yutej yak'an yajalil."
+    },
+    {
+      "number": "2",
+      "text": "Junjun heb', ichato ko kolumal ol aj heb' t'a jun owal ik' yet' t'a jun owal ik' nhab'. Icha ha ha' t'a lum takinh sat, ma icha yenhul junok k'een niwan tenam t'a tzinan lu'um, icha chi' ol aj heb'."
+    },
+    {
+      "number": "3",
+      "text": "Ha heb' anima ichato max uji yilani, ol yil heb'. Axo heb' ichato max uji yab'ani, ol scha yab' heb'."
+    },
+    {
+      "number": "4",
+      "text": "Ha heb' manh chamok snaan tas syala', ol tojolb'ok spensar heb'. Axo heb' tz'el skeek sloloni, ol b'o slolon heb'."
+    },
+    {
+      "number": "5",
+      "text": "Ha junok anima amankotan, manhxo ol alchaj wach'il. Axo junok mach jelan smusan sat heb' anima, manhxa jab'ok ol aj yelk'ochi."
+    },
+    {
+      "number": "6",
+      "text": "Yujto a heb' anima amankotan chi', anhej pensar malaj yelk'och syal heb'. Anhej chukal sna' sk'ulej heb' t'a spensar chi', snib'ej heb' smak'waji, syalan chukal lolonel heb' t'a spatik Jehová. Max siej jab'ok tas heb' t'a heb' tz'och swejel yet' t'a heb' ay stakinhtial."
+    },
+    {
+      "number": "7",
+      "text": "Ha heb' ixtum anima chi', syik' yip heb' yuj tas sk'ayb'ej t'a chukal, snaank'e chukal heb'. Tz'ixtaj heb' meb'a' snib'ej sb'o yaj yowal yuj yes heb'."
+    },
+    {
+      "number": "8",
+      "text": "Axo heb' wach' sk'ool elb'ennhej yuj, yuj swach'il heb' chi', wach'nhej tz'elk'och heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ha exxo ix ex tik, a ex te junk'olalnhej eyajeq'ui, malaj tas tze na'a, ab'ek wal tas ol wal t'ayex."
+    },
+    {
+      "number": "10",
+      "text": "Ha tiknaik malaj tas tze na'a, palta jun, yab' wal icha tik junab', tzex xiwk'ei, yujto manhxalaj sat awb'en ol yak'a', manhxa sat te' uwa ol molchajok."
+    },
+    {
+      "number": "11",
+      "text": "Ha ex wal malaj jab'ok tas tze na' tik, xiwanhek, ik'ekel he pichul wach' ayoch eyuuj. Hak'uekoch pichul ya swa'i, yik tze ch'oxaneli to ayex och t'a syaelal."
+    },
+    {
+      "number": "12",
+      "text": "Ch'oxekel he kusk'olal chi', yujto ix ixtaxel lum he lu'um yax sat b'aj te wach' tz'aj awb'en."
+    },
+    {
+      "number": "13",
+      "text": "Yujto axonhej te' q'uiix yet' anh ank'ultak ol q'uib'kank'e t'a yol ko chonhab' yet' t'a yoltak juntzanh pat b'aj tz'och q'uinh yik tzalajk'olal."
+    },
+    {
+      "number": "14",
+      "text": "Ha spalakio heb' winh niwak yajal, kuseltak ol ajkanok, ol kan tzinan schonhab' heb' winh. Ha chonhab' wach' yajoch smuroal, ol ochkan swaynub'ok nok' nok'. Ata' ol yik' yip nok' kaltakte'al b'uru t'a tzalajk'olal, ol laj wa nok' wakax ta'."
+    },
+    {
+      "number": "15",
+      "text": "Palta ayik ol jawok Yespíritu Jehová t'a kib'anh junelxo, a lum takinh lu'um, ol yaxb'okxi sat lu'um. Jantak sat awb'en ol yak'xi t'a lu'um."
+    },
+    {
+      "number": "16",
+      "text": "Axo t'a masanil lugar, ol b'eyb'alaj tojolal yet' wach'ilal."
+    },
+    {
+      "number": "17",
+      "text": "Yujto sb'eyb'alaj tojolal chi', yuj chi' ay junk'olal, tzalajk'olal yet' wach' pensaril t'a masanil tiempo."
+    },
+    {
+      "number": "18",
+      "text": "Wach'chom ol laj lanhchaj te te' yuj k'een sakb'at, wach'chom ol satel juntzanh nakión, palta ex wetchonhab', junk'olal ol ex ajok, ol eyak' tzalajb'ok he k'ool b'aj ol ex kajnajok."
+    },
+    {
+      "number": "19",
+      "text": "Wach' eyiko' yujto manh jantakok ha ha' b'aj wach' ol och yalil eyawb'en, te ay pax b'aj ol yal swa nok' he wakax yet' nok' he b'uru."
+    }
+  ]
 }

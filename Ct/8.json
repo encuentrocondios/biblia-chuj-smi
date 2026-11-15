@@ -1,61 +1,65 @@
 {
-    "chapter": "8",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Comonoc in nulej ach, junnhej am im ix ko tz'ub'u'. Tato icha chi', ayic tzach in chaan t'a yoltac b'e, tzam yal in tz'ub'anelta a ti', malaj am mach tz'alan in pecal."
-        },
-        {
-            "number": "2",
-            "text": "Tzam yal ach wik'anb'at t'a spat ix in nun, tzam ach wik'och t'a yol pat chi'. Ha ach am wal tzach och in k'ayb'umaloc. Ha in am swak' wino manh jantacoc swach'il uk'ej yet' yal sat te' in granado."
-        },
-        {
-            "number": "3",
-            "text": "Ha a k'ab' t'a a k'exanh tzak'och t'a yalanh in jolom, haxo a wach' tzin lak'ank'ei, xchi ix. Syalan winh quelem:"
-        },
-        {
-            "number": "4",
-            "text": "Ex cob'estac aj Jerusalén, aq'ek he ti' t'ayin to manh ol he pitzel swayanh ix xajanab'il wuuj, munil ol el swayanh ix, xchi winh. Syalan heb' amigo:"
-        },
-        {
-            "number": "5",
-            "text": "¿Mach jun ix ix scot t'a tzinan lu'um chi', jichanem ix t'a yib'anh winh xajanab'il yuj? xchi heb'. Syalan winh quelem: Ha t'a yich jun te' mansan ix in xib'tejel a wayanh. Ata' cotnac syail ix a nun ayic aljinac. Syalan ix cob'es:"
-        },
-        {
-            "number": "6",
-            "text": "Mokab' a xajanej junocxo ix ix, palta ainnhejokab'i. Mokab'a junocxo mach tza lak'k'ei, palta ainnhejokab'i. Ha ko xajanb'ail ay yip icha chamel. Icha b'aj smucchaj chamnac to max yactejel tas yamb'il yuj, icha chi' yaj b'aj sko xajanej ko b'a. Ha b'aj sko xajanej ko b'a, te' k'ak' icha junok k'ak' te ov."
-        },
-        {
-            "number": "7",
-            "text": "Ha masanil ha' mar max tzak'wan ha' yak'an tup jun k'ak' chi'. Max yalpaxlaj yak'an tup yowal ha' niwac ha'. Tato ay mach syaltej masanil tas ay t'a spat yic smanan jun xajanb'ail tik, tonhej am spaticajkaneli, xchi ix. Syalan heb' winh snulej ix cob'es:"
-        },
-        {
-            "number": "8",
-            "text": "Ay jun ix kanab' tzak'an uninto, mantalaj yim ix. ¿Tas sko k'ulej yet' ix tato sjawi sk'anumal ix?"
-        },
-        {
-            "number": "9",
-            "text": "Tato lajan ix yet' junok muro, tzam ko b'ok'e chab'oc torre plata t'ay. Tato lajan ix icha junok puerta, tzam ko b'o yet' te' chemte' nab'a k'ute', xchi heb' winh. Syalan ix cob'es:"
-        },
-        {
-            "number": "10",
-            "text": "Ha in tik, lajan in icha junok muro. Axo wim, lajan icha juntzanh torre, yuj chi' stzalaj wal sk'ol winh xajanab'il wuuj wed'oc."
-        },
-        {
-            "number": "11",
-            "text": "Ha winhaj Salomón, ay jun yavb'en uwa winh t'a Baal-hamón. Syak'kan winh t'a yol sk'ab' juntzanh heb' stanhwumal chi'. Ayic ol molchaj sat te' uwa chi', ol yak' mil k'een plata junjun heb' t'a winh."
-        },
-        {
-            "number": "12",
-            "text": "Emokab' jun mil k'een splata winhaj Salomón yet' 200 yic heb' stanhwan chi'. Ha inxo jun, ay wavb'en uwa t'a yol wico', a inxonhej tzin na' tas swutej, xchi ix. Syalan winh quelem:"
-        },
-        {
-            "number": "13",
-            "text": "Ach xajanab'il wuuj, ayach ek' t'a skal avb'en, tzin nib'ej swab' yoch a jaj. Yed' heb' camigo, snib'ej pax heb' syab' yoch a jaj, xchi winh. Syalan ix cob'es:"
-        },
-        {
-            "number": "14",
-            "text": "Ach xajanab'il wuuj, yelk'olal a koti. Q'ueanh urnaj icha junok nok' ch'ucul, icha wal junok yune' ch'ucul t'a tzalquixtac b'aj tz'avchaj incienso, xchi ix."
-        }
-    ]
+  "chapter": "8",
+  "book": "CANTARES",
+  "book_short": "Ct",
+  "aligned": true,
+  "es_verses": 14,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Komonok in nulej ach, junnhej am im ix ko tz'ub'u'. Tato icha chi', ayik tzach in chaan t'a yoltak b'e, tzam yal in tz'ub'anelta a ti', malaj am mach tz'alan in pekal."
+    },
+    {
+      "number": "2",
+      "text": "Tzam yal ach wik'anb'at t'a spat ix in nun, tzam ach wik'och t'a yol pat chi'. Ha ach am wal tzach och in k'ayb'umalok. Ha in am swak' wino manh jantakok swach'il uk'ej yet' yal sat te' in granado."
+    },
+    {
+      "number": "3",
+      "text": "Ha a k'ab' t'a a k'exanh tzak'och t'a yalanh in jolom, haxo a wach' tzin lak'ank'ei, xchi ix. Syalan winh kelem:"
+    },
+    {
+      "number": "4",
+      "text": "Ex kob'estak aj Jerusalén, aq'ek he ti' t'ayin to manh ol he pitzel swayanh ix xajanab'il wuuj, munil ol el swayanh ix, xchi winh. Syalan heb' amigo:"
+    },
+    {
+      "number": "5",
+      "text": "¿Mach jun ix ix skot t'a tzinan lu'um chi', jichanem ix t'a yib'anh winh xajanab'il yuj? xchi heb'. Syalan winh kelem: Ha t'a yich jun te' mansan ix in xib'tejel a wayanh. Ata' kotnak syail ix a nun ayik aljinak. Syalan ix kob'es:"
+    },
+    {
+      "number": "6",
+      "text": "Mokab' a xajanej junokxo ix ix, palta ainnhejokab'i. Mokab'a junokxo mach tza lak'k'ei, palta ainnhejokab'i. Ha ko xajanb'ail ay yip icha chamel. Icha b'aj smukchaj chamnak to max yaktejel tas yamb'il yuj, icha chi' yaj b'aj sko xajanej ko b'a. Ha b'aj sko xajanej ko b'a, te' k'ak' icha junok k'ak' te ow."
+    },
+    {
+      "number": "7",
+      "text": "Ha masanil ha' mar max tzak'wan ha' yak'an tup jun k'ak' chi'. Max yalpaxlaj yak'an tup yowal ha' niwak ha'. Tato ay mach syaltej masanil tas ay t'a spat yik smanan jun xajanb'ail tik, tonhej am spatikajkaneli, xchi ix. Syalan heb' winh snulej ix kob'es:"
+    },
+    {
+      "number": "8",
+      "text": "Ay jun ix kanab' tzak'an uninto, mantalaj yim ix. ¿Tas sko k'ulej yet' ix tato sjawi sk'anumal ix?"
+    },
+    {
+      "number": "9",
+      "text": "Tato lajan ix yet' junok muro, tzam ko b'ok'e chab'ok torre plata t'ay. Tato lajan ix icha junok puerta, tzam ko b'o yet' te' chemte' nab'a k'ute', xchi heb' winh. Syalan ix kob'es:"
+    },
+    {
+      "number": "10",
+      "text": "Ha in tik, lajan in icha junok muro. Axo wim, lajan icha juntzanh torre, yuj chi' stzalaj wal sk'ol winh xajanab'il wuuj wet'ok."
+    },
+    {
+      "number": "11",
+      "text": "Ha winhaj Salomón, ay jun yawb'en uwa winh t'a Baal-hamón. Syak'kan winh t'a yol sk'ab' juntzanh heb' stanhwumal chi'. Ayik ol molchaj sat te' uwa chi', ol yak' mil k'een plata junjun heb' t'a winh."
+    },
+    {
+      "number": "12",
+      "text": "Emokab' jun mil k'een splata winhaj Salomón yet' 200 yik heb' stanhwan chi'. Ha inxo jun, ay wawb'en uwa t'a yol wiko', a inxonhej tzin na' tas swutej, xchi ix. Syalan winh kelem:"
+    },
+    {
+      "number": "13",
+      "text": "Ach xajanab'il wuuj, ayach ek' t'a skal awb'en, tzin nib'ej swab' yoch a jaj. Yet' heb' kamigo, snib'ej pax heb' syab' yoch a jaj, xchi winh. Syalan ix kob'es:"
+    },
+    {
+      "number": "14",
+      "text": "Ach xajanab'il wuuj, yelk'olal a koti. Q'ueanh urnaj icha junok nok' ch'ukul, icha wal junok yune' ch'ukul t'a tzalkixtak b'aj tz'awchaj inkienso, xchi ix."
+    }
+  ]
 }

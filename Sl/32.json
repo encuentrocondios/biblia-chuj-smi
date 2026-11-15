@@ -1,49 +1,53 @@
 {
-    "chapter": "32",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Te wach' yic heb' tz'ak'chaj lajwoc smul, succhaj sat schukal heb'."
-        },
-        {
-            "number": "2",
-            "text": "Te wach' yic heb' syal Jehová to manhxalaj smul heb' t'a yichanh, aton heb' maxtzac k'ub'anel smul t'a heb' yetanimail."
-        },
-        {
-            "number": "3",
-            "text": "Ayic manto walk'etalaj in mul, yelxo wal ijan ix lajwiel in niwanil ix wab'i, yujto ix in te k'acwi."
-        },
-        {
-            "number": "4",
-            "text": "Ach in Diosal, k'ual t'ak'wal yelk'olal ix ak'och in yaelal. Icha wal anh taquinh ank'ultak stacjiel yuj waresma, ichinta ix wab'i."
-        },
-        {
-            "number": "5",
-            "text": "Ichato chi' ix walank'eta in mul chi' t'ayach, malaj tas ix in k'ub'ejeli. Ix el wal t'a in k'ool walan in b'a t'ayach. Ha achxo Mamin Jehová ix in ak' niwank'olal."
-        },
-        {
-            "number": "6",
-            "text": "Yuj wal chi' jun, yalokab' sb'a heb' tzach k'anab'ajani yacb'an tzato yala'. Wach'chom sja yaelal icha ha' eluma', palta max yamchajlaj heb' yuj."
-        },
-        {
-            "number": "7",
-            "text": "Ha ach ay ach och wenhuloc, a ach ol in a colel t'a yaelal. Tzach in b'itej yujto ix in a coleli."
-        },
-        {
-            "number": "8",
-            "text": "Ix yal Jehová t'ayin: Ol ach in k'ayb'ej t'a tas ol a k'ulej. Ol in ch'ox t'ayach b'ajtil ol ach b'atoc, ol ach in tanhwej."
-        },
-        {
-            "number": "9",
-            "text": "Manh utej a b'a icha nok' chej ma icha junok nok' mula, a juntzanh nok' chi' max nachajel-laj yuj nok'. Yowalil syamchajoch waan nok' yet' k'een freno. Tato manh ichocta tz'utaj nok', max sk'anab'ajejlaj nok', xchi Jehová t'ayin."
-        },
-        {
-            "number": "10",
-            "text": "Ha heb' chuk sb'eyb'al, manh jantacoc yaelal ol cot t'a yib'anh heb'. Axo heb' ayoch Dios yipoc sk'ool, a swach'k'olal Dios chi' ol moyank'e heb'."
-        },
-        {
-            "number": "11",
-            "text": "Hak'ek tzalajb'oc he k'ool t'a Jehová ex anima wach' he pensar. B'itananhec t'a tzalajk'olal he masanil ex ayex och t'a stojolal."
-        }
-    ]
+  "chapter": "32",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Te wach' yik heb' tz'ak'chaj lajwok smul, sukchaj sat schukal heb'."
+    },
+    {
+      "number": "2",
+      "text": "Te wach' yik heb' syal Jehová to manhxalaj smul heb' t'a yichanh, haton heb' maxtzak k'ub'anel smul t'a heb' yetanimail."
+    },
+    {
+      "number": "3",
+      "text": "Ayik manto walk'etalaj in mul, yelxo wal ijan ix lajwiel in niwanil ix wab'i, yujto ix in te k'akwi."
+    },
+    {
+      "number": "4",
+      "text": "Ach in Diosal, k'ual t'ak'wal yelk'olal ix ak'och in yaelal. Icha wal anh takinh ank'ultak stakjiel yuj waresma, ichinta ix wab'i."
+    },
+    {
+      "number": "5",
+      "text": "Ichato chi' ix walank'eta in mul chi' t'ayach, malaj tas ix in k'ub'ejeli. Ix el wal t'a in k'ool walan in b'a t'ayach. Ha achxo Mamin Jehová ix in ak' niwank'olal."
+    },
+    {
+      "number": "6",
+      "text": "Yuj wal chi' jun, yalokab' sb'a heb' tzach k'anab'ajani yakb'an tzato yala'. Wach'chom sja yaelal icha ha' eluma', palta max yamchajlaj heb' yuj."
+    },
+    {
+      "number": "7",
+      "text": "Ha ach ay ach och wenhulok, a ach ol in a kolel t'a yaelal. Tzach in b'itej yujto ix in a koleli."
+    },
+    {
+      "number": "8",
+      "text": "Ix yal Jehová t'ayin: Ol ach in k'ayb'ej t'a tas ol a k'ulej. Ol in ch'ox t'ayach b'ajtil ol ach b'atok, ol ach in tanhwej."
+    },
+    {
+      "number": "9",
+      "text": "Manh utej a b'a icha nok' chej ma icha junok nok' mula, a juntzanh nok' chi' max nachajel-laj yuj nok'. Yowalil syamchajoch waan nok' yet' k'een freno. Tato manh ichokta tz'utaj nok', max sk'anab'ajejlaj nok', xchi Jehová t'ayin."
+    },
+    {
+      "number": "10",
+      "text": "Ha heb' chuk sb'eyb'al, manh jantakok yaelal ol kot t'a yib'anh heb'. Axo heb' ayoch Dios yipok sk'ool, a swach'k'olal Dios chi' ol moyank'e heb'."
+    },
+    {
+      "number": "11",
+      "text": "Hak'ek tzalajb'ok he k'ool t'a Jehová ex anima wach' he pensar. B'itananhek t'a tzalajk'olal he masanil ex ayex och t'a stojolal."
+    }
+  ]
 }

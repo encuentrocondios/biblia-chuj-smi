@@ -1,49 +1,53 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ayic b'ab'el ab'il yoch winhaj Ciro reyal t'a Persia, ix elk'och slolonel Jehová yalnakkanel winhaj Jeremías schekab'. Ha Jehová ix ak'an sna winhaj rey Ciro chi', yuj chi' ix yak'elta jun checnab'il winh. Ix schekan winh alchajel t'a masanil yol smacb'en, ix schekanpax winh pucchajel ab'ix, syalan icha tik:"
-        },
-        {
-            "number": "2",
-            "text": "Ha in Ciro in tik sreyal in Persia, a in swal icha tik: Ha Jehová sDiosal satcha’anh, ha' ix ak'anoch masanil nación t'a sat lum tik t'a yol in k'ab'. A' ix alan t'ayin to tzin b'ok'e skajnub' t'a Jerusalén t'a yol yic Judá."
-        },
-        {
-            "number": "3",
-            "text": "Yuj chi', yalnhej mach ex schonhab' ex Jehová, colwajokab' Jehová he Diosal chi' eyed'oc. Ha ticnaik ixiquec t'a Jerusalén t'a yol yic Judá, tze b'oanxik'e skajnub' Jehová he Diosal chi' ta'."
-        },
-        {
-            "number": "4",
-            "text": "Yalnhej mach ex ix to ex kan t'a tik, tato he gana tzex pax t'a Jerusalén, colwajokab' heb' kajan t'a he lak'anil chi', yak'okab' k'een oro heb', k'een plata yet' pax tastac yet' nok' molb'etzal nok' t'ayex. Yak'okab' pax yofrenda heb' yuj skajnub' Dios t'a Jerusalén chi', xchi jun checnab'il chi'."
-        },
-        {
-            "number": "5",
-            "text": "Yuj chi' ix yak' lista sb'a heb' yajalil t'a skal heb' yinhtilal Judá, t'a skal heb' yinhtilal Benjamín yet' masanil heb' sacerdote yet' heb' lewita, aton heb' b'aj ix lolon Jehová t'a spensar to sb'at heb' t'a Jerusalén yic b'at sb'oanxik'e skajnub' Jehová heb'."
-        },
-        {
-            "number": "6",
-            "text": "Axo masanil heb' anima kajan t'a slak'anil heb', ix yak' k'een oro heb', k'een plata, nok' molb'etzal nok', tastac te caro stojol yet' pax juntzanhxo ofrenda to tz'el wal t'a sk'ol heb' yak'ani."
-        },
-        {
-            "number": "7",
-            "text": "Ay pax juntzanh yamk'ab' yic skajnub' Jehová ik'b'ilcot t'a Jerusalén yuj winhaj Nabucodonosor, aykanoch t'a yol stemplo sdiosal winh."
-        },
-        {
-            "number": "8",
-            "text": "Axo winhaj Ciro chi' ix alan t'a winhaj Mitrídates, winh sik'um tumin to syik'elta juntzanh tastac chi' winh, sb'isan winh, syak'an winh t'a winhaj Sesbasar, winh ol och yajalil t'a Judá."
-        },
-        {
-            "number": "9",
-            "text": "Aton sb'isul tastac tik: 30 k'een niwac uk'ab' nab'a oro, mil k'een niwac uk'ab' nab'a plata, 29 k'een cuchilub',"
-        },
-        {
-            "number": "10",
-            "text": "30 k'een yunetac uk'ab' nab'a oro, 410 k'een yunetac uk'ab' nab'a plata, haxo juntzanhxo tastac, mil sb'isul."
-        },
-        {
-            "number": "11",
-            "text": "Ha sb'isul juntzanh tas nab'a oro yet' nab'a plata t'a smasanil, 5 mil 400. Masanil juntzanh chi' ix yik' meltzaj winhaj Sesbasar yet' juntzanhxo heb' ayic ix paxta heb' t'a Babilonia chi', ix jaxcan heb' t'a Jerusalén."
-        }
-    ]
+  "chapter": "1",
+  "book": "ESDRAS",
+  "book_short": "Esd",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ayik b'ab'el ab'il yoch winhaj Ciro reyal t'a Persia, ix elk'och slolonel Jehová yalnakkanel winhaj Jeremías schekab'. Ha Jehová ix ak'an sna winhaj rey Ciro chi', yuj chi' ix yak'elta jun cheknab'il winh. Ix schekan winh alchajel t'a masanil yol smakb'en, ix schekanpax winh pukchajel ab'ix, syalan icha tik:"
+    },
+    {
+      "number": "2",
+      "text": "Ha in Ciro in tik sreyal in Persia, a in swal icha tik: Ha Jehová sDiosal satcha'anh, ha' ix ak'anoch masanil nakión t'a sat lum tik t'a yol in k'ab'. A' ix alan t'ayin to tzin b'ok'e skajnub' t'a Jerusalén t'a yol yik Judá."
+    },
+    {
+      "number": "3",
+      "text": "Yuj chi', yalnhej mach ex schonhab' ex Jehová, kolwajokab' Jehová he Diosal chi' eyet'ok. Ha tiknaik ixikek t'a Jerusalén t'a yol yik Judá, tze b'oanxik'e skajnub' Jehová he Diosal chi' ta'."
+    },
+    {
+      "number": "4",
+      "text": "Yalnhej mach ex ix to ex kan t'a tik, tato he gana tzex pax t'a Jerusalén, kolwajokab' heb' kajan t'a he lak'anil chi', yak'okab' k'een oro heb', k'een plata yet' pax tastak yet' nok' molb'etzal nok' t'ayex. Yak'okab' pax yofrenda heb' yuj skajnub' Dios t'a Jerusalén chi', xchi jun cheknab'il chi'."
+    },
+    {
+      "number": "5",
+      "text": "Yuj chi' ix yak' lista sb'a heb' yajalil t'a skal heb' yinhtilal Judá, t'a skal heb' yinhtilal Benjamín yet' masanil heb' sakerdote yet' heb' lewita, haton heb' b'aj ix lolon Jehová t'a spensar to sb'at heb' t'a Jerusalén yik b'at sb'oanxik'e skajnub' Jehová heb'."
+    },
+    {
+      "number": "6",
+      "text": "Axo masanil heb' anima kajan t'a slak'anil heb', ix yak' k'een oro heb', k'een plata, nok' molb'etzal nok', tastak te karo stojol yet' pax juntzanhxo ofrenda to tz'el wal t'a sk'ol heb' yak'ani."
+    },
+    {
+      "number": "7",
+      "text": "Ay pax juntzanh yamk'ab' yik skajnub' Jehová ik'b'ilkot t'a Jerusalén yuj winhaj Nabucodonosor, aykanoch t'a yol stemplo sdiosal winh."
+    },
+    {
+      "number": "8",
+      "text": "Axo winhaj Ciro chi' ix alan t'a winhaj Mitrídates, winh sik'um tumin to syik'elta juntzanh tastak chi' winh, sb'isan winh, syak'an winh t'a winhaj Sesbasar, winh ol och yajalil t'a Judá."
+    },
+    {
+      "number": "9",
+      "text": "Haton sb'isul tastak tik: 30 k'een niwak uk'ab' nab'a oro, mil k'een niwak uk'ab' nab'a plata, 29 k'een kuchilub',"
+    },
+    {
+      "number": "10",
+      "text": "30 k'een yunetak uk'ab' nab'a oro, 410 k'een yunetak uk'ab' nab'a plata, haxo juntzanhxo tastak, mil sb'isul."
+    },
+    {
+      "number": "11",
+      "text": "Ha sb'isul juntzanh tas nab'a oro yet' nab'a plata t'a smasanil, 5 mil 400. Masanil juntzanh chi' ix yik' meltzaj winhaj Sesbasar yet' juntzanhxo heb' ayik ix paxta heb' t'a Babilonia chi', ix jaxkan heb' t'a Jerusalén."
+    }
+  ]
 }

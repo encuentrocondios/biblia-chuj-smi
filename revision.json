@@ -1,0 +1,3793 @@
+[
+ {
+  "book": "Gn",
+  "chapter": 1,
+  "chuj": 29,
+  "es": 31,
+  "missing": [
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 2,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 7,
+  "chuj": 23,
+  "es": 24,
+  "missing": [
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 11,
+  "chuj": 31,
+  "es": 32,
+  "missing": [
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 12,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 14,
+  "chuj": 22,
+  "es": 24,
+  "missing": [
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 15,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 17,
+  "chuj": 25,
+  "es": 27,
+  "missing": [
+   26,
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 21,
+  "chuj": 33,
+  "es": 34,
+  "missing": [
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 24,
+  "chuj": 66,
+  "es": 67,
+  "missing": [
+   67
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 30,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 31,
+  "chuj": 54,
+  "es": 55,
+  "missing": [
+   55
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 32,
+  "chuj": 31,
+  "es": 32,
+  "missing": [
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 34,
+  "chuj": 28,
+  "es": 31,
+  "missing": [
+   29,
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 36,
+  "chuj": 39,
+  "es": 43,
+  "missing": [
+   40,
+   41,
+   42,
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 37,
+  "chuj": 33,
+  "es": 36,
+  "missing": [
+   34,
+   35,
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 41,
+  "chuj": 56,
+  "es": 57,
+  "missing": [
+   57
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 42,
+  "chuj": 37,
+  "es": 38,
+  "missing": [
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 46,
+  "chuj": 20,
+  "es": 34,
+  "missing": [
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Gn",
+  "chapter": 47,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 12,
+  "chuj": 48,
+  "es": 51,
+  "missing": [
+   49,
+   50,
+   51
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 22,
+  "chuj": 29,
+  "es": 31,
+  "missing": [
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 28,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 29,
+  "chuj": 45,
+  "es": 46,
+  "missing": [
+   46
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 30,
+  "chuj": 36,
+  "es": 38,
+  "missing": [
+   37,
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ex",
+  "chapter": 31,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 3,
+  "chuj": 16,
+  "es": 17,
+  "missing": [
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 6,
+  "chuj": 27,
+  "es": 30,
+  "missing": [
+   28,
+   29,
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 7,
+  "chuj": 36,
+  "es": 38,
+  "missing": [
+   37,
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 11,
+  "chuj": 42,
+  "es": 47,
+  "missing": [
+   43,
+   44,
+   45,
+   46,
+   47
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 13,
+  "chuj": 55,
+  "es": 59,
+  "missing": [
+   56,
+   57,
+   58,
+   59
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 14,
+  "chuj": 52,
+  "es": 57,
+  "missing": [
+   53,
+   54,
+   55,
+   56,
+   57
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 15,
+  "chuj": 31,
+  "es": 33,
+  "missing": [
+   32,
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 18,
+  "chuj": 28,
+  "es": 30,
+  "missing": [
+   29,
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 21,
+  "chuj": 22,
+  "es": 24,
+  "missing": [
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 24,
+  "chuj": 21,
+  "es": 23,
+  "missing": [
+   22,
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 26,
+  "chuj": 44,
+  "es": 46,
+  "missing": [
+   45,
+   46
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lv",
+  "chapter": 27,
+  "chuj": 33,
+  "es": 34,
+  "missing": [
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 1,
+  "chuj": 30,
+  "es": 54,
+  "missing": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 3,
+  "chuj": 49,
+  "es": 51,
+  "missing": [
+   50,
+   51
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 4,
+  "chuj": 35,
+  "es": 49,
+  "missing": [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 5,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 7,
+  "chuj": 18,
+  "es": 89,
+  "missing": [
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 11,
+  "chuj": 34,
+  "es": 35,
+  "missing": [
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 13,
+  "chuj": 23,
+  "es": 33,
+  "missing": [
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 14,
+  "chuj": 44,
+  "es": 45,
+  "missing": [
+   45
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 15,
+  "chuj": 40,
+  "es": 41,
+  "missing": [
+   41
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 16,
+  "chuj": 48,
+  "es": 50,
+  "missing": [
+   49,
+   50
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 25,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 26,
+  "chuj": 33,
+  "es": 65,
+  "missing": [
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 27,
+  "chuj": 22,
+  "es": 23,
+  "missing": [
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 28,
+  "chuj": 26,
+  "es": 31,
+  "missing": [
+   27,
+   28,
+   29,
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 29,
+  "chuj": 19,
+  "es": 40,
+  "missing": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 31,
+  "chuj": 46,
+  "es": 54,
+  "missing": [
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 32,
+  "chuj": 41,
+  "es": 42,
+  "missing": [
+   42
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 33,
+  "chuj": 26,
+  "es": 56,
+  "missing": [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 34,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 35,
+  "chuj": 32,
+  "es": 34,
+  "missing": [
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Nm",
+  "chapter": 36,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 1,
+  "chuj": 42,
+  "es": 46,
+  "missing": [
+   43,
+   44,
+   45,
+   46
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 4,
+  "chuj": 47,
+  "es": 49,
+  "missing": [
+   48,
+   49
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 13,
+  "chuj": 12,
+  "es": 18,
+  "missing": [
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 17,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 19,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 24,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 25,
+  "chuj": 18,
+  "es": 19,
+  "missing": [
+   19
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 27,
+  "chuj": 23,
+  "es": 26,
+  "missing": [
+   24,
+   25,
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 28,
+  "chuj": 65,
+  "es": 68,
+  "missing": [
+   66,
+   67,
+   68
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 30,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dt",
+  "chapter": 31,
+  "chuj": 29,
+  "es": 30,
+  "missing": [
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 2,
+  "chuj": 22,
+  "es": 24,
+  "missing": [
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 4,
+  "chuj": 21,
+  "es": 24,
+  "missing": [
+   22,
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 6,
+  "chuj": 25,
+  "es": 27,
+  "missing": [
+   26,
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 8,
+  "chuj": 34,
+  "es": 35,
+  "missing": [
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 9,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 10,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 12,
+  "chuj": 9,
+  "es": 24,
+  "missing": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 13,
+  "chuj": 32,
+  "es": 33,
+  "missing": [
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 14,
+  "chuj": 13,
+  "es": 15,
+  "missing": [
+   14,
+   15
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 15,
+  "chuj": 32,
+  "es": 63,
+  "missing": [
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 17,
+  "chuj": 16,
+  "es": 18,
+  "missing": [
+   17,
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 18,
+  "chuj": 22,
+  "es": 28,
+  "missing": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 19,
+  "chuj": 18,
+  "es": 51,
+  "missing": [
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 21,
+  "chuj": 20,
+  "es": 45,
+  "missing": [
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 22,
+  "chuj": 32,
+  "es": 34,
+  "missing": [
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jos",
+  "chapter": 23,
+  "chuj": 15,
+  "es": 16,
+  "missing": [
+   16
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 1,
+  "chuj": 33,
+  "es": 36,
+  "missing": [
+   34,
+   35,
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 3,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 6,
+  "chuj": 39,
+  "es": 40,
+  "missing": [
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 13,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 20,
+  "chuj": 45,
+  "es": 48,
+  "missing": [
+   46,
+   47,
+   48
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jue",
+  "chapter": 21,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Rut",
+  "chapter": 1,
+  "chuj": 20,
+  "es": 22,
+  "missing": [
+   21,
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Rut",
+  "chapter": 4,
+  "chuj": 18,
+  "es": 22,
+  "missing": [
+   19,
+   20,
+   21,
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 4,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 6,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 14,
+  "chuj": 51,
+  "es": 52,
+  "missing": [
+   52
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 17,
+  "chuj": 57,
+  "es": 58,
+  "missing": [
+   58
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 20,
+  "chuj": 41,
+  "es": 42,
+  "missing": [
+   42
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 25,
+  "chuj": 43,
+  "es": 44,
+  "missing": [
+   44
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Sam",
+  "chapter": 30,
+  "chuj": 27,
+  "es": 31,
+  "missing": [
+   28,
+   29,
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 1,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 3,
+  "chuj": 34,
+  "es": 39,
+  "missing": [
+   35,
+   36,
+   37,
+   38,
+   39
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 5,
+  "chuj": 23,
+  "es": 25,
+  "missing": [
+   24,
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 6,
+  "chuj": 22,
+  "es": 23,
+  "missing": [
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 9,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 13,
+  "chuj": 37,
+  "es": 39,
+  "missing": [
+   38,
+   39
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 17,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 18,
+  "chuj": 32,
+  "es": 33,
+  "missing": [
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Sam",
+  "chapter": 19,
+  "chuj": 40,
+  "es": 43,
+  "missing": [
+   41,
+   42,
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 4,
+  "chuj": 30,
+  "es": 34,
+  "missing": [
+   31,
+   32,
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 5,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 6,
+  "chuj": 36,
+  "es": 38,
+  "missing": [
+   37,
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 8,
+  "chuj": 59,
+  "es": 66,
+  "missing": [
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 9,
+  "chuj": 19,
+  "es": 28,
+  "missing": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 10,
+  "chuj": 24,
+  "es": 29,
+  "missing": [
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 11,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 12,
+  "chuj": 29,
+  "es": 33,
+  "missing": [
+   30,
+   31,
+   32,
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 15,
+  "chuj": 32,
+  "es": 34,
+  "missing": [
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 18,
+  "chuj": 43,
+  "es": 46,
+  "missing": [
+   44,
+   45,
+   46
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 20,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 21,
+  "chuj": 26,
+  "es": 29,
+  "missing": [
+   27,
+   28,
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Re",
+  "chapter": 22,
+  "chuj": 53,
+  "es": 52,
+  "missing": [],
+  "extra": [
+   43
+  ]
+ },
+ {
+  "book": "2Re",
+  "chapter": 10,
+  "chuj": 34,
+  "es": 36,
+  "missing": [
+   35,
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 12,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 13,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 15,
+  "chuj": 36,
+  "es": 38,
+  "missing": [
+   37,
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 17,
+  "chuj": 40,
+  "es": 41,
+  "missing": [
+   41
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 21,
+  "chuj": 24,
+  "es": 26,
+  "missing": [
+   25,
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 23,
+  "chuj": 35,
+  "es": 37,
+  "missing": [
+   36,
+   37
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Re",
+  "chapter": 25,
+  "chuj": 29,
+  "es": 30,
+  "missing": [
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 2,
+  "chuj": 47,
+  "es": 55,
+  "missing": [
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 3,
+  "chuj": 14,
+  "es": 24,
+  "missing": [
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 4,
+  "chuj": 33,
+  "es": 43,
+  "missing": [
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 5,
+  "chuj": 24,
+  "es": 26,
+  "missing": [
+   25,
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 6,
+  "chuj": 38,
+  "es": 81,
+  "missing": [
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 7,
+  "chuj": 37,
+  "es": 40,
+  "missing": [
+   38,
+   39,
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 8,
+  "chuj": 25,
+  "es": 40,
+  "missing": [
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 9,
+  "chuj": 35,
+  "es": 44,
+  "missing": [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 12,
+  "chuj": 36,
+  "es": 40,
+  "missing": [
+   37,
+   38,
+   39,
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 15,
+  "chuj": 24,
+  "es": 29,
+  "missing": [
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 16,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 22,
+  "chuj": 17,
+  "es": 19,
+  "missing": [
+   18,
+   19
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 23,
+  "chuj": 31,
+  "es": 32,
+  "missing": [
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 24,
+  "chuj": 19,
+  "es": 31,
+  "missing": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 25,
+  "chuj": 9,
+  "es": 31,
+  "missing": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 26,
+  "chuj": 30,
+  "es": 32,
+  "missing": [
+   31,
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 27,
+  "chuj": 27,
+  "es": 34,
+  "missing": [
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cr",
+  "chapter": 29,
+  "chuj": 29,
+  "es": 30,
+  "missing": [
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 3,
+  "chuj": 15,
+  "es": 17,
+  "missing": [
+   16,
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 5,
+  "chuj": 12,
+  "es": 14,
+  "missing": [
+   13,
+   14
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 6,
+  "chuj": 40,
+  "es": 42,
+  "missing": [
+   41,
+   42
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 8,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 10,
+  "chuj": 17,
+  "es": 19,
+  "missing": [
+   18,
+   19
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 11,
+  "chuj": 18,
+  "es": 23,
+  "missing": [
+   19,
+   20,
+   21,
+   22,
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 21,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 22,
+  "chuj": 11,
+  "es": 12,
+  "missing": [
+   12
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 26,
+  "chuj": 21,
+  "es": 23,
+  "missing": [
+   22,
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 28,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 30,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cr",
+  "chapter": 34,
+  "chuj": 32,
+  "es": 33,
+  "missing": [
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Esd",
+  "chapter": 2,
+  "chuj": 15,
+  "es": 70,
+  "missing": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "extra": []
+ },
+ {
+  "book": "Esd",
+  "chapter": 7,
+  "chuj": 23,
+  "es": 28,
+  "missing": [
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "extra": []
+ },
+ {
+  "book": "Esd",
+  "chapter": 8,
+  "chuj": 22,
+  "es": 36,
+  "missing": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Esd",
+  "chapter": 10,
+  "chuj": 36,
+  "es": 44,
+  "missing": [
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ne",
+  "chapter": 7,
+  "chuj": 23,
+  "es": 73,
+  "missing": [
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ne",
+  "chapter": 8,
+  "chuj": 15,
+  "es": 18,
+  "missing": [
+   16,
+   17,
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ne",
+  "chapter": 10,
+  "chuj": 15,
+  "es": 39,
+  "missing": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ne",
+  "chapter": 11,
+  "chuj": 24,
+  "es": 36,
+  "missing": [
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ne",
+  "chapter": 12,
+  "chuj": 31,
+  "es": 47,
+  "missing": [
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47
+  ],
+  "extra": []
+ },
+ {
+  "book": "Est",
+  "chapter": 1,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Est",
+  "chapter": 9,
+  "chuj": 27,
+  "es": 32,
+  "missing": [
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 3,
+  "chuj": 25,
+  "es": 26,
+  "missing": [
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 7,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 10,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 20,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 21,
+  "chuj": 33,
+  "es": 34,
+  "missing": [
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 22,
+  "chuj": 28,
+  "es": 30,
+  "missing": [
+   29,
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Job",
+  "chapter": 27,
+  "chuj": 22,
+  "es": 23,
+  "missing": [
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 10,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 17,
+  "chuj": 14,
+  "es": 15,
+  "missing": [
+   15
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 22,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 47,
+  "chuj": 10,
+  "es": 9,
+  "missing": [],
+  "extra": [
+   10
+  ]
+ },
+ {
+  "book": "Sl",
+  "chapter": 49,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 59,
+  "chuj": 16,
+  "es": 17,
+  "missing": [
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 62,
+  "chuj": 11,
+  "es": 12,
+  "missing": [
+   12
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 69,
+  "chuj": 35,
+  "es": 36,
+  "missing": [
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 105,
+  "chuj": 44,
+  "es": 45,
+  "missing": [
+   45
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 118,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 124,
+  "chuj": 7,
+  "es": 8,
+  "missing": [
+   8
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 132,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sl",
+  "chapter": 140,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "Pr",
+  "chapter": 1,
+  "chuj": 31,
+  "es": 33,
+  "missing": [
+   32,
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Pr",
+  "chapter": 3,
+  "chuj": 34,
+  "es": 35,
+  "missing": [
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Pr",
+  "chapter": 6,
+  "chuj": 32,
+  "es": 35,
+  "missing": [
+   33,
+   34,
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Pr",
+  "chapter": 7,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Pr",
+  "chapter": 23,
+  "chuj": 33,
+  "es": 35,
+  "missing": [
+   34,
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ecl",
+  "chapter": 1,
+  "chuj": 16,
+  "es": 18,
+  "missing": [
+   17,
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ecl",
+  "chapter": 4,
+  "chuj": 15,
+  "es": 16,
+  "missing": [
+   16
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ecl",
+  "chapter": 7,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ecl",
+  "chapter": 8,
+  "chuj": 16,
+  "es": 17,
+  "missing": [
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 7,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 8,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 22,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 25,
+  "chuj": 11,
+  "es": 12,
+  "missing": [
+   12
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 29,
+  "chuj": 23,
+  "es": 24,
+  "missing": [
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 32,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "Is",
+  "chapter": 33,
+  "chuj": 23,
+  "es": 24,
+  "missing": [
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 5,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 7,
+  "chuj": 33,
+  "es": 34,
+  "missing": [
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 9,
+  "chuj": 25,
+  "es": 26,
+  "missing": [
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 11,
+  "chuj": 22,
+  "es": 23,
+  "missing": [
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 21,
+  "chuj": 13,
+  "es": 14,
+  "missing": [
+   14
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 22,
+  "chuj": 29,
+  "es": 30,
+  "missing": [
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 23,
+  "chuj": 38,
+  "es": 40,
+  "missing": [
+   39,
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 27,
+  "chuj": 20,
+  "es": 22,
+  "missing": [
+   21,
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 29,
+  "chuj": 24,
+  "es": 32,
+  "missing": [
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 33,
+  "chuj": 25,
+  "es": 26,
+  "missing": [
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 34,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 39,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 41,
+  "chuj": 17,
+  "es": 18,
+  "missing": [
+   18
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 45,
+  "chuj": 4,
+  "es": 5,
+  "missing": [
+   5
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 48,
+  "chuj": 44,
+  "es": 47,
+  "missing": [
+   45,
+   46,
+   47
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 51,
+  "chuj": 63,
+  "es": 64,
+  "missing": [
+   64
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jer",
+  "chapter": 52,
+  "chuj": 33,
+  "es": 34,
+  "missing": [
+   34
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 1,
+  "chuj": 25,
+  "es": 28,
+  "missing": [
+   26,
+   27,
+   28
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 7,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 10,
+  "chuj": 21,
+  "es": 22,
+  "missing": [
+   22
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 13,
+  "chuj": 22,
+  "es": 23,
+  "missing": [
+   23
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 16,
+  "chuj": 62,
+  "es": 63,
+  "missing": [
+   63
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 17,
+  "chuj": 23,
+  "es": 24,
+  "missing": [
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 20,
+  "chuj": 48,
+  "es": 49,
+  "missing": [
+   49
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 22,
+  "chuj": 29,
+  "es": 31,
+  "missing": [
+   30,
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 32,
+  "chuj": 31,
+  "es": 32,
+  "missing": [
+   32
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 36,
+  "chuj": 37,
+  "es": 38,
+  "missing": [
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 40,
+  "chuj": 47,
+  "es": 49,
+  "missing": [
+   48,
+   49
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 41,
+  "chuj": 23,
+  "es": 26,
+  "missing": [
+   24,
+   25,
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 45,
+  "chuj": 23,
+  "es": 25,
+  "missing": [
+   24,
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 46,
+  "chuj": 22,
+  "es": 24,
+  "missing": [
+   23,
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ez",
+  "chapter": 48,
+  "chuj": 15,
+  "es": 35,
+  "missing": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dn",
+  "chapter": 3,
+  "chuj": 29,
+  "es": 30,
+  "missing": [
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dn",
+  "chapter": 5,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dn",
+  "chapter": 9,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Dn",
+  "chapter": 10,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "Os",
+  "chapter": 10,
+  "chuj": 14,
+  "es": 15,
+  "missing": [
+   15
+  ],
+  "extra": []
+ },
+ {
+  "book": "Am",
+  "chapter": 1,
+  "chuj": 14,
+  "es": 15,
+  "missing": [
+   15
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jon",
+  "chapter": 1,
+  "chuj": 16,
+  "es": 17,
+  "missing": [
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mi",
+  "chapter": 4,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "Na",
+  "chapter": 2,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "Hab",
+  "chapter": 3,
+  "chuj": 18,
+  "es": 19,
+  "missing": [
+   19
+  ],
+  "extra": []
+ },
+ {
+  "book": "Hag",
+  "chapter": 1,
+  "chuj": 13,
+  "es": 15,
+  "missing": [
+   14,
+   15
+  ],
+  "extra": []
+ },
+ {
+  "book": "Zac",
+  "chapter": 1,
+  "chuj": 18,
+  "es": 21,
+  "missing": [
+   19,
+   20,
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "Zac",
+  "chapter": 2,
+  "chuj": 11,
+  "es": 13,
+  "missing": [
+   12,
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "Zac",
+  "chapter": 12,
+  "chuj": 12,
+  "es": 14,
+  "missing": [
+   13,
+   14
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mt",
+  "chapter": 10,
+  "chuj": 41,
+  "es": 42,
+  "missing": [
+   42
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mt",
+  "chapter": 14,
+  "chuj": 35,
+  "es": 36,
+  "missing": [
+   36
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mt",
+  "chapter": 17,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mt",
+  "chapter": 18,
+  "chuj": 34,
+  "es": 35,
+  "missing": [
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mt",
+  "chapter": 23,
+  "chuj": 38,
+  "es": 39,
+  "missing": [
+   39
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 5,
+  "chuj": 42,
+  "es": 43,
+  "missing": [
+   43
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 6,
+  "chuj": 54,
+  "es": 56,
+  "missing": [
+   55,
+   56
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 7,
+  "chuj": 36,
+  "es": 37,
+  "missing": [
+   37
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 9,
+  "chuj": 48,
+  "es": 50,
+  "missing": [
+   49,
+   50
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 11,
+  "chuj": 32,
+  "es": 33,
+  "missing": [
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Mc",
+  "chapter": 15,
+  "chuj": 46,
+  "es": 47,
+  "missing": [
+   47
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 1,
+  "chuj": 78,
+  "es": 80,
+  "missing": [
+   79,
+   80
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 3,
+  "chuj": 37,
+  "es": 38,
+  "missing": [
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 8,
+  "chuj": 55,
+  "es": 56,
+  "missing": [
+   56
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 9,
+  "chuj": 61,
+  "es": 62,
+  "missing": [
+   62
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 17,
+  "chuj": 36,
+  "es": 37,
+  "missing": [
+   37
+  ],
+  "extra": []
+ },
+ {
+  "book": "Lc",
+  "chapter": 23,
+  "chuj": 55,
+  "es": 56,
+  "missing": [
+   56
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jn",
+  "chapter": 4,
+  "chuj": 53,
+  "es": 54,
+  "missing": [
+   54
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jn",
+  "chapter": 5,
+  "chuj": 46,
+  "es": 47,
+  "missing": [
+   47
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jn",
+  "chapter": 10,
+  "chuj": 41,
+  "es": 42,
+  "missing": [
+   42
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jn",
+  "chapter": 12,
+  "chuj": 49,
+  "es": 50,
+  "missing": [
+   50
+  ],
+  "extra": []
+ },
+ {
+  "book": "Jn",
+  "chapter": 13,
+  "chuj": 36,
+  "es": 38,
+  "missing": [
+   37,
+   38
+  ],
+  "extra": []
+ },
+ {
+  "book": "He",
+  "chapter": 1,
+  "chuj": 25,
+  "es": 26,
+  "missing": [
+   26
+  ],
+  "extra": []
+ },
+ {
+  "book": "He",
+  "chapter": 8,
+  "chuj": 39,
+  "es": 40,
+  "missing": [
+   40
+  ],
+  "extra": []
+ },
+ {
+  "book": "He",
+  "chapter": 15,
+  "chuj": 40,
+  "es": 41,
+  "missing": [
+   41
+  ],
+  "extra": []
+ },
+ {
+  "book": "He",
+  "chapter": 23,
+  "chuj": 34,
+  "es": 35,
+  "missing": [
+   35
+  ],
+  "extra": []
+ },
+ {
+  "book": "He",
+  "chapter": 28,
+  "chuj": 30,
+  "es": 31,
+  "missing": [
+   31
+  ],
+  "extra": []
+ },
+ {
+  "book": "Rom",
+  "chapter": 8,
+  "chuj": 38,
+  "es": 39,
+  "missing": [
+   39
+  ],
+  "extra": []
+ },
+ {
+  "book": "Rom",
+  "chapter": 9,
+  "chuj": 31,
+  "es": 33,
+  "missing": [
+   32,
+   33
+  ],
+  "extra": []
+ },
+ {
+  "book": "Rom",
+  "chapter": 16,
+  "chuj": 26,
+  "es": 27,
+  "missing": [
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cor",
+  "chapter": 5,
+  "chuj": 12,
+  "es": 13,
+  "missing": [
+   13
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Cor",
+  "chapter": 6,
+  "chuj": 19,
+  "es": 20,
+  "missing": [
+   20
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cor",
+  "chapter": 1,
+  "chuj": 23,
+  "es": 24,
+  "missing": [
+   24
+  ],
+  "extra": []
+ },
+ {
+  "book": "2Cor",
+  "chapter": 13,
+  "chuj": 13,
+  "es": 14,
+  "missing": [
+   14
+  ],
+  "extra": []
+ },
+ {
+  "book": "Flp",
+  "chapter": 1,
+  "chuj": 28,
+  "es": 30,
+  "missing": [
+   29,
+   30
+  ],
+  "extra": []
+ },
+ {
+  "book": "Sant",
+  "chapter": 1,
+  "chuj": 25,
+  "es": 27,
+  "missing": [
+   26,
+   27
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Pe",
+  "chapter": 2,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "1Jn",
+  "chapter": 5,
+  "chuj": 20,
+  "es": 21,
+  "missing": [
+   21
+  ],
+  "extra": []
+ },
+ {
+  "book": "3Jn",
+  "chapter": 1,
+  "chuj": 15,
+  "es": 14,
+  "missing": [],
+  "extra": [
+   15
+  ]
+ },
+ {
+  "book": "Jds",
+  "chapter": 1,
+  "chuj": 24,
+  "es": 25,
+  "missing": [
+   25
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ap",
+  "chapter": 2,
+  "chuj": 28,
+  "es": 29,
+  "missing": [
+   29
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ap",
+  "chapter": 7,
+  "chuj": 14,
+  "es": 17,
+  "missing": [
+   15,
+   16,
+   17
+  ],
+  "extra": []
+ },
+ {
+  "book": "Ap",
+  "chapter": 12,
+  "chuj": 18,
+  "es": 17,
+  "missing": [],
+  "extra": [
+   18
+  ]
+ }
+]

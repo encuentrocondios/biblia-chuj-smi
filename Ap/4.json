@@ -1,49 +1,53 @@
 {
-    "chapter": "4",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ixlajwi chi' ix wilani ay jun puerta jakan t'a satcha’anh. Axo jun lajan yoch sjaj icha k'een trompeta, aton jun ix b'ab'laj alan t'ayin t'a sb'ab'elal, ha' ix alanxiemta t'ayin icha tik: --Q'ueanhcot t'a tik. Ol in ch'ox t'ayach juntzanh tastac yowalil ol ujok ayic ol lajwoc juntzanh tik, xchi t'ayin."
-        },
-        {
-            "number": "2",
-            "text": "Ix jawi spoder Yespíritu Dios t'a wib'anh, ix wilan jun despacho t'a satcha’anh, ay jun mach k'ojanem t'ay."
-        },
-        {
-            "number": "3",
-            "text": "Ha jun k'ojanem chi', lajan yilji icha k'een jaspe, ma k'een cornalina, weei yilji. Axo t'a jun k'ojnub' chi' oyanoch jun chacpan toxonhej stziquiqui, icha k'een esmeralda."
-        },
-        {
-            "number": "4",
-            "text": "Axo t'a spatic yichanh, oyanoch 24 xila icha yic heb' yajal. Ata' k'ojjab'em 24 heb' ichamtac winak, te sac spichul heb'. Ayk'e junjun corona oro t'a sjolom junjun heb'."
-        },
-        {
-            "number": "5",
-            "text": "Tz'el copoljoc k'ak' t'a jun k'ojnub' chi' yet' juntzanhxo tas ix laj nhilili, nhilili sk'anh pax k'u. Ay uque' niwac candil ayoch sk'ak'al t'a yichanh k'ojnub' chi', aton Yespíritu Dios yucwanhil."
-        },
-        {
-            "number": "6",
-            "text": "Aypaxek' junxo tas t'a yichanh, yaxd'ujinac icha junok nhajab', ma icha k'een nen. Axo t'a snanhal jun despacho chi' yet' t'a stz'ey, ay chanhwanh querubín, aynhej yol sat heb' t'a spatic yichanh."
-        },
-        {
-            "number": "7",
-            "text": "Ha jun b'ab'el querubín lajan icha nok' choj. Ha schab'il, lajan icha nok' quelem wakax. Ha yoxil, lajan yilji sat yet' sat anima. Axo schanhil, lajan icha nok' d'iv sjenhwi."
-        },
-        {
-            "number": "8",
-            "text": "Ha chanhwanh heb' chi', wactac sk'axil junjun heb'. Aynhej yol sat heb' t'a spatic yet' t'a yool. k'ual t'ak'wal yalan heb' icha tik: Ha Kajal ko Diosal, Axonhej wal, masanil tas syal yuj. Aynhejtaxon ek' t'a yichb’anel, aypaxek' ticnaik, toto pax ol jawok, xchi heb'."
-        },
-        {
-            "number": "9",
-            "text": "Ha heb' querubín chi' schanhwanhil syal heb' to ha Dios k'ojanem t'a yol jun despacho aynhej ek' t'a masanil k 'inal, te niwan spoder, te niwan pax yelk'ochi, syak'anpax yuj diosalil heb' t'ay."
-        },
-        {
-            "number": "10",
-            "text": "Juntac el syal heb' icha chi', tz'em nhojjab' heb' 24 ichamtac winak chi' t'a yichanh Dios aynhej ek' t'a masanil k 'inal, syak'anpaxem sb'a heb' t'ay. Syak'anem scorona heb' t'a yichanh sdespacho chi', syalan heb' icha tik t'ay:"
-        },
-        {
-            "number": "11",
-            "text": "Ach Kajal, ko Diosal, smoj tz'alji t'ayach to niwan a wach'il, niwan elk'ochi, niwan pax a poder. Yujto a ach a b'onac masanil tas. Aynhejek' masanil tastac yujto icha chi' a gana, yuj chi' b'ob'il uuj, xchi heb'."
-        }
-    ]
+  "chapter": "4",
+  "book": "APOCALIPSIS",
+  "book_short": "Ap",
+  "aligned": true,
+  "es_verses": 11,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ixlajwi chi' ix wilani ay jun puerta jakan t'a satcha'anh. Axo jun lajan yoch sjaj icha k'een trompeta, haton jun ix b'ab'laj alan t'ayin t'a sb'ab'elal, ha' ix alanxiemta t'ayin icha tik: --Q'ueanhkot t'a tik. Ol in ch'ox t'ayach juntzanh tastak yowalil ol ujok ayik ol lajwok juntzanh tik, xchi t'ayin."
+    },
+    {
+      "number": "2",
+      "text": "Ix jawi spoder Yespíritu Dios t'a wib'anh, ix wilan jun despacho t'a satcha'anh, ay jun mach k'ojanem t'ay."
+    },
+    {
+      "number": "3",
+      "text": "Ha jun k'ojanem chi', lajan yilji icha k'een jaspe, ma k'een kornalina, weei yilji. Axo t'a jun k'ojnub' chi' oyanoch jun chakpan toxonhej stzikiki, icha k'een esmeralda."
+    },
+    {
+      "number": "4",
+      "text": "Axo t'a spatik yichanh, oyanoch 24 xila icha yik heb' yajal. Ata' k'ojjab'em 24 heb' ichamtak winak, te sak spichul heb'. Ayk'e junjun korona oro t'a sjolom junjun heb'."
+    },
+    {
+      "number": "5",
+      "text": "Tz'el kopoljok k'ak' t'a jun k'ojnub' chi' yet' juntzanhxo tas ix laj nhilili, nhilili sk'anh pax k'u. Ay uke' niwak kandil ayoch sk'ak'al t'a yichanh k'ojnub' chi', haton Yespíritu Dios yukwanhil."
+    },
+    {
+      "number": "6",
+      "text": "Aypaxek' junxo tas t'a yichanh, yaxt'ujinak icha junok nhajab', ma icha k'een nen. Axo t'a snanhal jun despacho chi' yet' t'a stz'ey, ay chanhwanh querubín, aynhej yol sat heb' t'a spatik yichanh."
+    },
+    {
+      "number": "7",
+      "text": "Ha jun b'ab'el querubín lajan icha nok' choj. Ha schab'il, lajan icha nok' kelem wakax. Ha yoxil, lajan yilji sat yet' sat anima. Axo schanhil, lajan icha nok' t'iw sjenhwi."
+    },
+    {
+      "number": "8",
+      "text": "Ha chanhwanh heb' chi', waktak sk'axil junjun heb'. Aynhej yol sat heb' t'a spatik yet' t'a yool. k'ual t'ak'wal yalan heb' icha tik: Ha Kajal ko Diosal, Axonhej wal, masanil tas syal yuj. Aynhejtaxon ek' t'a yichb'anel, aypaxek' tiknaik, toto pax ol jawok, xchi heb'."
+    },
+    {
+      "number": "9",
+      "text": "Ha heb' querubín chi' schanhwanhil syal heb' to ha Dios k'ojanem t'a yol jun despacho aynhej ek' t'a masanil k 'inal, te niwan spoder, te niwan pax yelk'ochi, syak'anpax yuj diosalil heb' t'ay."
+    },
+    {
+      "number": "10",
+      "text": "Juntak el syal heb' icha chi', tz'em nhojjab' heb' 24 ichamtak winak chi' t'a yichanh Dios aynhej ek' t'a masanil k 'inal, syak'anpaxem sb'a heb' t'ay. Syak'anem skorona heb' t'a yichanh sdespacho chi', syalan heb' icha tik t'ay:"
+    },
+    {
+      "number": "11",
+      "text": "Ach Kajal, ko Diosal, smoj tz'alji t'ayach to niwan a wach'il, niwan elk'ochi, niwan pax a poder. Yujto a ach a b'onak masanil tas. Aynhejek' masanil tastak yujto icha chi' a gana, yuj chi' b'ob'il uuj, xchi heb'."
+    }
+  ]
 }

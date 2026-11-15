@@ -1,57 +1,61 @@
 {
-    "chapter": "55",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ix yalan Jehová icha tik: Masanil ex stacji he ti', cotanhec, ul uq'ek ha ha'. Ha ex malaj he tumin, cotanhec ul chaec tas tze wa t'a nab'anhej, ul chaec yal uwa yet' lech manh tupb'iloc."
-        },
-        {
-            "number": "2",
-            "text": "¿Tas yuj tze comon lajej he tumin t'a tas manh waeloc? ¿Tas yuj tze comon lajej he tojol tze cha t'a tas to max b'ud'ji he k'ol yuj? Ab'ec wal sik'lab'il tas ol wala': Tato tze k'anab'ajej tas swala', ol he wa wael te wach', ol ex b'ud'joc wal sik'lab'il."
-        },
-        {
-            "number": "3",
-            "text": "Cotanhec t'ayin, maclejec wal eyab' tas swala', ol ex ajnhejek'oc. Ol in b'o junok in trato eyed'oc t'a junelnhej yujto tzex in xajanej, yic tz'elk'och in ti' wak'nac t'a winhaj rey Dawid."
-        },
-        {
-            "number": "4",
-            "text": "Ha in wak'nacoch winhaj Dawid chi' testigoal t'a juntzanhxo nación, yic scuchb'an winh, ma yic syak'an yajalil winh t'ay."
-        },
-        {
-            "number": "5",
-            "text": "Ol eyavtejcot heb' anima manh eyojtakoc. Ha heb' anima chi' elanhchamel ol ja lemnaj heb' t'ayex, yujto a in Jehová he Diosal in, Ha inxonhej Ochi, a in ol ex wak' ik'jocchaanh, xchi Jehová."
-        },
-        {
-            "number": "6",
-            "text": "Hak'uecoch he b'ha t'a yol sk'ab' Jehová, yacb'an tzato yal eyawaj t'ay. Awajanhec t'ay, yacb'an lak'anto ayeq'ui."
-        },
-        {
-            "number": "7",
-            "text": "Ha ex chuk he b'eyb'al yet' ex chuk he pensar, actejekkan juntzanh he chukal chi'. Meltzajanhec t'a Jehová. Ol ok'xoc sk'ol t'ayex, ol ex yak' niwank'olal ko Diosal."
-        },
-        {
-            "number": "8",
-            "text": "Ix yalan Jehová icha tik: Ha tas nab'il wuuj, manh lajanoc yet' tas tze na'a. Ha tas tzin k'ulej, manh lajanoc yet' tas tze k'ulej."
-        },
-        {
-            "number": "9",
-            "text": "Ha in pensar yet' tas tzin k'ulej chi' manh lajanoc icha eyiko', yujto yel wal te ek'b'alxo tas tzin na' chi' t'a yichanh schaanhil yajk'e satcha’anh t'a yib'anh lum lum tik."
-        },
-        {
-            "number": "10",
-            "text": "Ha yaxnhab' yet' k'een sacb'akom tz'emta t'a satcha’anh, max meltzajlaj t'a ichnhej ta', palta to sch'ayxikan lum lum yuj yic wach' sk'eul masanil tas tz'avchaj t'a lu'um. Syak'an sat, tz'elta yinhatil yic syal yavchajxi, syak'anpax swael heb' anima."
-        },
-        {
-            "number": "11",
-            "text": "Icha yaxnhab' chi', icha chi' yaj in lolonel, max meltzajlaj t'ayin t'a ichnhej ta', palta to sb'okan tas nab'il wuuj, tz'elpaxk'och tas tzin nib'ej."
-        },
-        {
-            "number": "12",
-            "text": "Tzalajk'olal ol aj eyelta b'aj ayex ek' presoal, junk'olal ol aj he meltzaj t'a he chonhab'. Masanil lum witz, lum tzalquixtac, ichato ol k'e wal sjaj lum t'a chaanh yuj tzalajk'olal. Ha te' niwac te', icha wal to ol stz'it sk'ab' te' stzalaji."
-        },
-        {
-            "number": "13",
-            "text": "Ha lum b'aj ay te' q'uiix, a te' k'ub'taj ol q'uib'oc. Ha lum b'aj ay te' sac q'uiix, a te' arrayán ol q'uib' sk'exuloc te'. Ol in k'ulej juntzanh tik yic sb'inaj in b'i a in Jehová in tik, yic tzin nachajnhejcot t'a junelnhej, xchi Jehová."
-        }
-    ]
+  "chapter": "55",
+  "book": "ISAÍAS",
+  "book_short": "Is",
+  "aligned": true,
+  "es_verses": 13,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ix yalan Jehová icha tik: Masanil ex stakji he ti', kotanhek, ul uq'ek ha ha'. Ha ex malaj he tumin, kotanhek ul chaek tas tze wa t'a nab'anhej, ul chaek yal uwa yet' lech manh tupb'ilok."
+    },
+    {
+      "number": "2",
+      "text": "¿Tas yuj tze komon lajej he tumin t'a tas manh waelok? ¿Tas yuj tze komon lajej he tojol tze cha t'a tas to max b'ut'ji he k'ol yuj? Ab'ek wal sik'lab'il tas ol wala': Tato tze k'anab'ajej tas swala', ol he wa wael te wach', ol ex b'ut'jok wal sik'lab'il."
+    },
+    {
+      "number": "3",
+      "text": "Kotanhek t'ayin, maklejek wal eyab' tas swala', ol ex ajnhejek'ok. Ol in b'o junok in trato eyet'ok t'a junelnhej yujto tzex in xajanej, yik tz'elk'och in ti' wak'nak t'a winhaj rey David."
+    },
+    {
+      "number": "4",
+      "text": "Ha in wak'nakoch winhaj David chi' testigoal t'a juntzanhxo nakión, yik skuchb'an winh, ma yik syak'an yajalil winh t'ay."
+    },
+    {
+      "number": "5",
+      "text": "Ol eyawtejkot heb' anima manh eyojtakok. Ha heb' anima chi' elanhchamel ol ja lemnaj heb' t'ayex, yujto a in Jehová he Diosal in, Ha inxonhej Ochi, a in ol ex wak' ik'jokchaanh, xchi Jehová."
+    },
+    {
+      "number": "6",
+      "text": "Hak'uekoch he b'a t'a yol sk'ab' Jehová, yakb'an tzato yal eyawaj t'ay. Awajanhek t'ay, yakb'an lak'anto ayeq'ui."
+    },
+    {
+      "number": "7",
+      "text": "Ha ex chuk he b'eyb'al yet' ex chuk he pensar, aktejekkan juntzanh he chukal chi'. Meltzajanhek t'a Jehová. Ol ok'xok sk'ol t'ayex, ol ex yak' niwank'olal ko Diosal."
+    },
+    {
+      "number": "8",
+      "text": "Ix yalan Jehová icha tik: Ha tas nab'il wuuj, manh lajanok yet' tas tze na'a. Ha tas tzin k'ulej, manh lajanok yet' tas tze k'ulej."
+    },
+    {
+      "number": "9",
+      "text": "Ha in pensar yet' tas tzin k'ulej chi' manh lajanok icha eyiko', yujto yel wal te ek'b'alxo tas tzin na' chi' t'a yichanh schaanhil yajk'e satcha'anh t'a yib'anh lum lum tik."
+    },
+    {
+      "number": "10",
+      "text": "Ha yaxnhab' yet' k'een sakb'akom tz'emta t'a satcha'anh, max meltzajlaj t'a ichnhej ta', palta to sch'ayxikan lum lum yuj yik wach' sk'eul masanil tas tz'awchaj t'a lu'um. Syak'an sat, tz'elta yinhatil yik syal yawchajxi, syak'anpax swael heb' anima."
+    },
+    {
+      "number": "11",
+      "text": "Icha yaxnhab' chi', icha chi' yaj in lolonel, max meltzajlaj t'ayin t'a ichnhej ta', palta to sb'okan tas nab'il wuuj, tz'elpaxk'och tas tzin nib'ej."
+    },
+    {
+      "number": "12",
+      "text": "Tzalajk'olal ol aj eyelta b'aj ayex ek' presoal, junk'olal ol aj he meltzaj t'a he chonhab'. Masanil lum witz, lum tzalkixtak, ichato ol k'e wal sjaj lum t'a chaanh yuj tzalajk'olal. Ha te' niwak te', icha wal to ol stz'it sk'ab' te' stzalaji."
+    },
+    {
+      "number": "13",
+      "text": "Ha lum b'aj ay te' q'uiix, a te' k'ub'taj ol q'uib'ok. Ha lum b'aj ay te' sak q'uiix, a te' arrayán ol q'uib' sk'exulok te'. Ol in k'ulej juntzanh tik yik sb'inaj in b'i a in Jehová in tik, yik tzin nachajnhejkot t'a junelnhej, xchi Jehová."
+    }
+  ]
 }

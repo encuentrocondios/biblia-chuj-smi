@@ -1,121 +1,125 @@
 {
-    "chapter": "1",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Ha t'a yichb’anel, ha Dios ixb’o’an satcha’anh yet' lum lum."
-        },
-        {
-            "number": "2",
-            "text": "Ha t'a jun pekti’ chi' malaj stzolal yaj jun yol yib'anhk’inal tik, tzinan yilji. Tonhej panhan ek' ha ha' t'a yib'anh lu'um. K'ik'olinak yilji masanil t'a yib'anh ha', haxo Yespíritu Dios tzek' t'a yib'anh ha' chi'."
-        },
-        {
-            "number": "3",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' sakil k'inal, xchi. Icha chi' b'ian ix sakb'i k'inal."
-        },
-        {
-            "number": "4",
-            "text": "Ix yilan Dios to wach' jun sakil k'inal chi', ix spojanel sakil k'inal chi' t'a skal k’ik’ k’inal."
-        },
-        {
-            "number": "5",
-            "text": "Ha sakil k'inal chi', k'ualil ix sb'iejkan yuj, haxo k’ik’ k’inal chi', t'ak'walil ix sb'iejkani. Ix k'ik'b'iemi, ix sakb'i, ix ek'el jun b'ab'el k'u."
-        },
-        {
-            "number": "6",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' junok tas skan t'a yib'anh sat lu'um tik yic spojan snanhal ha ha', xchi."
-        },
-        {
-            "number": "7",
-            "text": "Icha chi' b'ian, ha Dios ixb’o’an jun chi'. Cha makan ix ajkanel ha ha' chi' yuj: Jun makan ha' ix kan t'a sat lum tik, junxo makan ha' ix k'ekan t'a yib'anh. Ichaton chi' ix aji."
-        },
-        {
-            "number": "8",
-            "text": "Ha jun ix kan chi' “satcha’anh” ix sb'iejkani. Ix k'ik'b'ixiemi, ix sacb'ixi, ix ek' schab'il k'ual."
-        },
-        {
-            "number": "9",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Junxonhejokab' tz'aj ha ha' ay t'a yalanh satcha’anh yic scheklajkan lum lum t'a taquinhal, xchi. Ichaton chi' ix aji."
-        },
-        {
-            "number": "10",
-            "text": "Ha b'aj ix cheklajkan stak'inhal chi', “luum” ix sb'iejkani, haxo ha ha' junnhej ix aj chi', “mar” ix sb'iejkan ha'. Axo ix yilan Dios chi', te wach' ix aji."
-        },
-        {
-            "number": "11",
-            "text": "Ixlajwi chi' ix yalan icha tik: Pak'okab' anh ank'ultak t'a sat lum lum yet' te te' syak' sat. Ha t'a sat te' chi' yet' anh ank'ultak chi', ata' ay yinhatil ato syala' tas makanhil, xchi. Ichaton chi' ix aji."
-        },
-        {
-            "number": "12",
-            "text": "Ichaton chi' ix aj spak' anh ank'ultak t'a sat lum lum tik, aton anh ank'ultak yet' te te' syak' sat ato syala' tas inhatil. Axo ix yilan Dios te wach' ix aji."
-        },
-        {
-            "number": "13",
-            "text": "Ix k'ik'b'ixiemi ix sacb'ixi, ix ek' yoxil k'ual."
-        },
-        {
-            "number": "14",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' juntzanh sakil k'inal t'a satcha’anh yic syak' sakil k'inal t'a sat lu'um tik, yic sch'oxanel k'ualil yet' t'ak'walil, yic scheclaj junjun k'u, junjun ab'il yet' juntzanh tiempoal, xchi. Ichaton chi' ix aji."
-        },
-        {
-            "number": "15",
-            "text": "Ha Dios ixb’o’an chab' niwac sakil k'inal. Ha jun niwan sk'ak'al ix och yopisio t'a k'ualil, haxo jun quennhej sk'ak'al ix och yopisio t'ak'walil, aton k'u yet' k'een uj. Ix sb'oanpax masanil k'een k'anal."
-        },
-        {
-            "number": "16",
-            "text": "Ix yak'anoch juntzanh sakil k'inal chi' t'a satcha’anh yic syak' yoc t'a sat lu'um tik"
-        },
-        {
-            "number": "17",
-            "text": "t'a k'ualil yet' t'ak'walil yuj spojanpaxel sakil k'inal t'a k’ik’ k’inal. Ix yilan Dios chi' te wach' ix aji."
-        },
-        {
-            "number": "18",
-            "text": "Ix k'ik'b'ixiemi, ix sacb'ixi, ix ek' schanhil k'ual."
-        },
-        {
-            "number": "19",
-            "text": "Ixlajwi chi' ix yalanxi Dios icha tik: Pitzwokab' nok' nok', nok' ay t'a yol ha ha' yet' masanil makanhil nok' much tzek' jenhenhoc, xchi."
-        },
-        {
-            "number": "20",
-            "text": "Ix sb'oan nok' niwac nok' Dios chi', nok' ay t'a yol ha' mar yet' masanil makanhil nok' nok' ay t'a yol ha' chi' yet' masanil makanhil nok' much. Axo ix yilani te wach' ix aji."
-        },
-        {
-            "number": "21",
-            "text": "Ix yak'an swach'k'olal t'a yib'anh nok' nok' chi', ix yalan icha tik: Yune'ejokab' sb'a nok', q'uib'okab' sb'isul nok', b'ud'jokab'el yol ha' mar yuj nok'. Anhejtona' nok' much, q'uib'okab' sb'isul nok' t'a yol yib'anhk’inal tik, xchi."
-        },
-        {
-            "number": "22",
-            "text": "Ix k'ik'b'ixiemi, ix sacb'ixi, ix ek' yoil k'ual."
-        },
-        {
-            "number": "23",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Pitzwokab' chaanh masanil makan nok' nok' t'a sat lu'um tik, nok' molb'etzal nok', nok' k'ultaquil nok' yet' nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um, xchi. Ichaton chi' ix aji, ix sb'oan masanil makanhil nok' nok' ay t'a sat lu'um tik. Ix yilani, te wach' ix aji."
-        },
-        {
-            "number": "24",
-            "text": "Ixlajwi chi' ix yalan Dios icha tik: Ha tiknaik ko b'oec anima icha onh tik yic wach' tz'och heb' yajalil t'a yib'anh nok' chay ay t'a yol ha' mar, t'a yib'anh masanil nok' much, t'a yib'anh nok' molb'etzal nok', t'a yib'anh nok' k'ultaquil nok' yet' pax t'a yib'anh nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um tik, xchi."
-        },
-        {
-            "number": "25",
-            "text": "Ichato chi' ix b'oji heb' anima chi' yuj Dios, icha wal Dios chi' ix aj heb'. Ix b'ojikan winh winak yet' ix ix yuj."
-        },
-        {
-            "number": "26",
-            "text": "Ixlajwi chi' ix yak'an swach'k'olal Dios t'a yib'anh heb'. Ix yalan t'a heb' icha tik: Aljokab' eyuninal, q'uib'okab' he b'isul, b'ud'jokab'el sat lum lum tik eyuuj, ochanhec yajalil t'a yol yib'anhk’inal tik. Ochanhec yajalil t'a yib'anh nok' chay ay t'a yoltac ha ha', t'a yib'anh nok' much sjenhwi yet' t'a yib'anh masanil nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lum tik, xchi."
-        },
-        {
-            "number": "27",
-            "text": "Ixlajwi chi', ix yalanxi t'a heb' anima chi' icha tik: Ha in swak' masanil makanhil anh ank'ultak ay yinhatil yet' masanil te te' syak' sat he lo'o yic syak' yip t'a he niwanil."
-        },
-        {
-            "number": "28",
-            "text": "Masanil nok' molb'etzal nok', nok' k'ultaquil nok', nok' tzek' nhernhonoc ma tzek' jachjon t'a sat lu'um yet' nok' much, a in swak' anh ank'ultak yet' xiltac te te' swaeloc nok', xchi. Icha chi' ix aji."
-        },
-        {
-            "number": "29",
-            "text": "Ix yilanoch Dios, te wach' ix aj masanil tas ix sb'o'o. Ix k'ik'b'ixiemi, ix sacb'ixi, ix ek' swaquil k'ual."
-        }
-    ]
+  "chapter": "1",
+  "book": "GÉNESIS",
+  "book_short": "Gn",
+  "aligned": false,
+  "es_verses": 31,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Ha t'a yichb'anel, ha Dios ixb'o'an satcha'anh yet' lum lum."
+    },
+    {
+      "number": "2",
+      "text": "Ha t'a jun pekti' chi' malaj stzolal yaj jun yol yib'anhk'inal tik, tzinan yilji. Tonhej panhan ek' ha ha' t'a yib'anh lu'um. K'ik'olinak yilji masanil t'a yib'anh ha', haxo Yespíritu Dios tzek' t'a yib'anh ha' chi'."
+    },
+    {
+      "number": "3",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' sakil k'inal, xchi. Icha chi' b'ian ix sakb'i k'inal."
+    },
+    {
+      "number": "4",
+      "text": "Ix yilan Dios to wach' jun sakil k'inal chi', ix spojanel sakil k'inal chi' t'a skal k'ik' k'inal."
+    },
+    {
+      "number": "5",
+      "text": "Ha sakil k'inal chi', k'ualil ix sb'iejkan yuj, haxo k'ik' k'inal chi', t'ak'walil ix sb'iejkani. Ix k'ik'b'iemi, ix sakb'i, ix ek'el jun b'ab'el k'u."
+    },
+    {
+      "number": "6",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' junok tas skan t'a yib'anh sat lu'um tik yik spojan snanhal ha ha', xchi."
+    },
+    {
+      "number": "7",
+      "text": "Icha chi' b'ian, ha Dios ixb'o'an jun chi'. Cha makan ix ajkanel ha ha' chi' yuj: Jun makan ha' ix kan t'a sat lum tik, junxo makan ha' ix k'ekan t'a yib'anh. Ichaton chi' ix aji."
+    },
+    {
+      "number": "8",
+      "text": "Ha jun ix kan chi' “satcha'anh” ix sb'iejkani. Ix k'ik'b'ixiemi, ix sakb'ixi, ix ek' schab'il k'ual."
+    },
+    {
+      "number": "9",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Junxonhejokab' tz'aj ha ha' ay t'a yalanh satcha'anh yik scheklajkan lum lum t'a takinhal, xchi. Ichaton chi' ix aji."
+    },
+    {
+      "number": "10",
+      "text": "Ha b'aj ix cheklajkan stak'inhal chi', “luum” ix sb'iejkani, haxo ha ha' junnhej ix aj chi', “mar” ix sb'iejkan ha'. Axo ix yilan Dios chi', te wach' ix aji."
+    },
+    {
+      "number": "11",
+      "text": "Ixlajwi chi' ix yalan icha tik: Pak'okab' anh ank'ultak t'a sat lum lum yet' te te' syak' sat. Ha t'a sat te' chi' yet' anh ank'ultak chi', ata' ay yinhatil ato syala' tas makanhil, xchi. Ichaton chi' ix aji."
+    },
+    {
+      "number": "12",
+      "text": "Ichaton chi' ix aj spak' anh ank'ultak t'a sat lum lum tik, haton anh ank'ultak yet' te te' syak' sat ato syala' tas inhatil. Axo ix yilan Dios te wach' ix aji."
+    },
+    {
+      "number": "13",
+      "text": "Ix k'ik'b'ixiemi ix sakb'ixi, ix ek' yoxil k'ual."
+    },
+    {
+      "number": "14",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Ayokab' juntzanh sakil k'inal t'a satcha'anh yik syak' sakil k'inal t'a sat lu'um tik, yik sch'oxanel k'ualil yet' t'ak'walil, yik scheklaj junjun k'u, junjun ab'il yet' juntzanh tiempoal, xchi. Ichaton chi' ix aji."
+    },
+    {
+      "number": "15",
+      "text": "Ha Dios ixb'o'an chab' niwak sakil k'inal. Ha jun niwan sk'ak'al ix och yopisio t'a k'ualil, haxo jun kennhej sk'ak'al ix och yopisio t'ak'walil, haton k'u yet' k'een uj. Ix sb'oanpax masanil k'een k'anal."
+    },
+    {
+      "number": "16",
+      "text": "Ix yak'anoch juntzanh sakil k'inal chi' t'a satcha'anh yik syak' yok t'a sat lu'um tik"
+    },
+    {
+      "number": "17",
+      "text": "t'a k'ualil yet' t'ak'walil yuj spojanpaxel sakil k'inal t'a k'ik' k'inal. Ix yilan Dios chi' te wach' ix aji."
+    },
+    {
+      "number": "18",
+      "text": "Ix k'ik'b'ixiemi, ix sakb'ixi, ix ek' schanhil k'ual."
+    },
+    {
+      "number": "19",
+      "text": "Ixlajwi chi' ix yalanxi Dios icha tik: Pitzwokab' nok' nok', nok' ay t'a yol ha ha' yet' masanil makanhil nok' much tzek' jenhenhok, xchi."
+    },
+    {
+      "number": "20",
+      "text": "Ix sb'oan nok' niwak nok' Dios chi', nok' ay t'a yol ha' mar yet' masanil makanhil nok' nok' ay t'a yol ha' chi' yet' masanil makanhil nok' much. Axo ix yilani te wach' ix aji."
+    },
+    {
+      "number": "21",
+      "text": "Ix yak'an swach'k'olal t'a yib'anh nok' nok' chi', ix yalan icha tik: Yune'ejokab' sb'a nok', q'uib'okab' sb'isul nok', b'ut'jokab'el yol ha' mar yuj nok'. Anhejtona' nok' much, q'uib'okab' sb'isul nok' t'a yol yib'anhk'inal tik, xchi."
+    },
+    {
+      "number": "22",
+      "text": "Ix k'ik'b'ixiemi, ix sakb'ixi, ix ek' yoil k'ual."
+    },
+    {
+      "number": "23",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Pitzwokab' chaanh masanil makan nok' nok' t'a sat lu'um tik, nok' molb'etzal nok', nok' k'ultakil nok' yet' nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um, xchi. Ichaton chi' ix aji, ix sb'oan masanil makanhil nok' nok' ay t'a sat lu'um tik. Ix yilani, te wach' ix aji."
+    },
+    {
+      "number": "24",
+      "text": "Ixlajwi chi' ix yalan Dios icha tik: Ha tiknaik ko b'oek anima icha onh tik yik wach' tz'och heb' yajalil t'a yib'anh nok' chay ay t'a yol ha' mar, t'a yib'anh masanil nok' much, t'a yib'anh nok' molb'etzal nok', t'a yib'anh nok' k'ultakil nok' yet' pax t'a yib'anh nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um tik, xchi."
+    },
+    {
+      "number": "25",
+      "text": "Ichato chi' ix b'oji heb' anima chi' yuj Dios, icha wal Dios chi' ix aj heb'. Ix b'ojikan winh winak yet' ix ix yuj."
+    },
+    {
+      "number": "26",
+      "text": "Ixlajwi chi' ix yak'an swach'k'olal Dios t'a yib'anh heb'. Ix yalan t'a heb' icha tik: Aljokab' eyuninal, q'uib'okab' he b'isul, b'ut'jokab'el sat lum lum tik eyuuj, ochanhek yajalil t'a yol yib'anhk'inal tik. Ochanhek yajalil t'a yib'anh nok' chay ay t'a yoltak ha ha', t'a yib'anh nok' much sjenhwi yet' t'a yib'anh masanil nok' tzek' nhernhonok ma tzek' jachjon t'a sat lum tik, xchi."
+    },
+    {
+      "number": "27",
+      "text": "Ixlajwi chi', ix yalanxi t'a heb' anima chi' icha tik: Ha in swak' masanil makanhil anh ank'ultak ay yinhatil yet' masanil te te' syak' sat he lo'o yik syak' yip t'a he niwanil."
+    },
+    {
+      "number": "28",
+      "text": "Masanil nok' molb'etzal nok', nok' k'ultakil nok', nok' tzek' nhernhonok ma tzek' jachjon t'a sat lu'um yet' nok' much, a in swak' anh ank'ultak yet' xiltak te te' swaelok nok', xchi. Icha chi' ix aji."
+    },
+    {
+      "number": "29",
+      "text": "Ix yilanoch Dios, te wach' ix aj masanil tas ix sb'o'o. Ix k'ik'b'ixiemi, ix sakb'ixi, ix ek' swakil k'ual."
+    }
+  ]
 }

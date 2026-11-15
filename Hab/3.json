@@ -1,77 +1,81 @@
 {
-    "chapter": "3",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Aton in lesal a in Habacuc in, schekab' in Dios."
-        },
-        {
-            "number": "2",
-            "text": "Mamin Jehová, ayic swab'an yab'ixal masanil tas a b'onac, ste sat in k'ol yuj. B'o icha tas a b'onac t'a peka' chi' t'a ko tiempoal tik. Wach'chom t'a skal yowal a k'ool, ch'ox ok'elk'olal t'ayonh."
-        },
-        {
-            "number": "3",
-            "text": "Ha Dios Axonhej Ochi, scot t'a lum tzalan Parán t'a yol yic Temán. Smacchajel masanil satcha’anh yuj stziquiquial, haxo masanil yol yib'anhk’inal tz'alan wach' lolonel t'ay."
-        },
-        {
-            "number": "4",
-            "text": "Sjawi t'a skal stziquiquial. Tz'elta copoljoc k'ak' t'a yol sk'ab', sch'oxanel spoder k'ub'anel yuj."
-        },
-        {
-            "number": "5",
-            "text": "Ha ilya b'ab'el sb'at yuj, ha t'a spatic tzak'an sb'at chamel."
-        },
-        {
-            "number": "6",
-            "text": "Ayic tz'och waan, tz'ib'xik'e lum lum tik smasanil. Masanil juntzanh nación slaj ib'xik'e yuj xiwelal ayic tz'och k'elan t'a heb'. Ha juntzanh lum witz aytaxon t'a peka', slaj k'e tamaljoc lu'um, slaj em lanhaljoc lu'um. Yujto a Jehová wan sb'oan icha tas sb'onac t'a peka',"
-        },
-        {
-            "number": "7",
-            "text": "yuj chi' swil yochcan heb' anima kajan t'a chonhab' Cusán t'a ilk'olal. Swilpax yochcan heb' kajan t'a chonhab' Madián t'a xivk'olal."
-        },
-        {
-            "number": "8",
-            "text": "Mamin Jehová, manhoc t'ha ha' niwac ha' ix cot owal. Manhok pax t'ha ha' mar ix cot yowal a k'ool. Ayic ix ach b'at t'a owal yic tza satel heb' ajk'ool, ichato ix ach k'e t'a yib'anh a chej, mato ach k'e t'a yol a carruaje yic owal."
-        },
-        {
-            "number": "9",
-            "text": "Ichato ix laj ik'k'eta a jul-lab' t'a yol yet'tal, yic tzach julwaj yet'oc. Ha ha' niwac ha', ix te' k'e ha', ix el ha' t'a smelemal uuj."
-        },
-        {
-            "number": "10",
-            "text": "Ayic ix a ch'oxan a b'a, ix te ib'xik'e lum niwac witz, ix cot niwac yaxnhab' t'a satcha’anh, ix k'anh sk'e chulnaj ha' mar, ayxo smay ix aj sk'e waan ha' ayic ix a ch'oxan a b'a chi'."
-        },
-        {
-            "number": "11",
-            "text": "Ix och waan k'u yet' k'een uj ayic copoljub' yel sk'ak'al a jul-lab' yet' a lanza ayic sb'ati."
-        },
-        {
-            "number": "12",
-            "text": "Yed' yowal a k'ool ix a tek'kanem lum lum tik. Yed' pax a k'ak'alk'olal ix a tek'kanem juntzanh nación."
-        },
-        {
-            "number": "13",
-            "text": "Ix ach elta yic tzach kolwaj t'a a chonhab' yet' t'a winh rey sik'b'ilel uuj. Axo winh yajalil heb' anima te chuk, ix a tek'kanem winh. Ix a satel schonhab' winh, masanto ix checlaj yich."
-        },
-        {
-            "number": "14",
-            "text": "Ha heb' yajal yaj t'a skal heb' ajk'ol chi', a yet' syamk'ab' heb' yic owal, a yet'oc ix a milcham heb' ayic ix ja heb' t'ayonh yic tzonh satanel heb' yalani."
-        },
-        {
-            "number": "15",
-            "text": "Ichato ix ach b'ey t'a yib'anh ha' mar yet' nok' a chej, yuj chi' ix k'e chulnaj ha' mar chi'."
-        },
-        {
-            "number": "16",
-            "text": "Ayic ix wab'an masanil tas ol jawok t'a quib'anh, ix in xivk'ei. Ix ib'xik'e in ti'. Masanil in niwanil ix el yip, ix el pax yip in xub'. Wach'chom icha chi' ol ajoc, palta niwan ol wutoc in k'ol in tanhwan jun k'ual ayic ol jawok yaelal t'a yib'anh heb' tz'ak'an owal qued'oc."
-        },
-        {
-            "number": "17",
-            "text": "Tzin te tzalaj wal uuj ach Jehová in Kolumal, wach'chom manh ol xumakan te' higo, manh ol satan te' uwa yet' te' oliwo, manh ol yak' sat tas tz'avchaji, wach'chom ol satel masanil nok' kalnel yet' nok' wakax t'a yol macte', palta ol walnhej wach' lolonel t'ayach."
-        },
-        {
-            "number": "18",
-            "text": "Mamin Jehová, a ach tzak' wip, tzak'an yip woc yic syal in b'ey icha nok' k'ultaquil chej, tzin ik'ank'e b'aj chaanh, b'aj ol in colchajoc. B'itajokab' jun b'it tik yuj winh scuchb'an heb' sb'itan yet' juntzanh yamk'ab' ayoch sch'anhal."
-        }
-    ]
+  "chapter": "3",
+  "book": "HABACUC",
+  "book_short": "Hab",
+  "aligned": false,
+  "es_verses": 19,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Haton in lesal a in Habacuc in, schekab' in Dios."
+    },
+    {
+      "number": "2",
+      "text": "Mamin Jehová, ayik swab'an yab'ixal masanil tas a b'onak, ste sat in k'ol yuj. B'o icha tas a b'onak t'a peka' chi' t'a ko tiempoal tik. Wach'chom t'a skal yowal a k'ool, ch'ox ok'elk'olal t'ayonh."
+    },
+    {
+      "number": "3",
+      "text": "Ha Dios Axonhej Ochi, skot t'a lum tzalan Parán t'a yol yik Temán. Smakchajel masanil satcha'anh yuj stzikikial, haxo masanil yol yib'anhk'inal tz'alan wach' lolonel t'ay."
+    },
+    {
+      "number": "4",
+      "text": "Sjawi t'a skal stzikikial. Tz'elta kopoljok k'ak' t'a yol sk'ab', sch'oxanel spoder k'ub'anel yuj."
+    },
+    {
+      "number": "5",
+      "text": "Ha ilya b'ab'el sb'at yuj, ha t'a spatik tzak'an sb'at chamel."
+    },
+    {
+      "number": "6",
+      "text": "Ayik tz'och waan, tz'ib'xik'e lum lum tik smasanil. Masanil juntzanh nakión slaj ib'xik'e yuj xiwelal ayik tz'och k'elan t'a heb'. Ha juntzanh lum witz aytaxon t'a peka', slaj k'e tamaljok lu'um, slaj em lanhaljok lu'um. Yujto a Jehová wan sb'oan icha tas sb'onak t'a peka',"
+    },
+    {
+      "number": "7",
+      "text": "yuj chi' swil yochkan heb' anima kajan t'a chonhab' Kusán t'a ilk'olal. Swilpax yochkan heb' kajan t'a chonhab' Madián t'a xiwk'olal."
+    },
+    {
+      "number": "8",
+      "text": "Mamin Jehová, manhok t'a ha' niwak ha' ix kot owal. Manhok pax t'a ha' mar ix kot yowal a k'ool. Ayik ix ach b'at t'a owal yik tza satel heb' ajk'ool, ichato ix ach k'e t'a yib'anh a chej, mato ach k'e t'a yol a karruaje yik owal."
+    },
+    {
+      "number": "9",
+      "text": "Ichato ix laj ik'k'eta a jul-lab' t'a yol yet'tal, yik tzach julwaj yet'ok. Ha ha' niwak ha', ix te' k'e ha', ix el ha' t'a smelemal uuj."
+    },
+    {
+      "number": "10",
+      "text": "Ayik ix a ch'oxan a b'a, ix te ib'xik'e lum niwak witz, ix kot niwak yaxnhab' t'a satcha'anh, ix k'anh sk'e chulnaj ha' mar, ayxo smay ix aj sk'e waan ha' ayik ix a ch'oxan a b'a chi'."
+    },
+    {
+      "number": "11",
+      "text": "Ix och waan k'u yet' k'een uj ayik kopoljub' yel sk'ak'al a jul-lab' yet' a lanza ayik sb'ati."
+    },
+    {
+      "number": "12",
+      "text": "Yet' yowal a k'ool ix a tek'kanem lum lum tik. Yet' pax a k'ak'alk'olal ix a tek'kanem juntzanh nakión."
+    },
+    {
+      "number": "13",
+      "text": "Ix ach elta yik tzach kolwaj t'a a chonhab' yet' t'a winh rey sik'b'ilel uuj. Axo winh yajalil heb' anima te chuk, ix a tek'kanem winh. Ix a satel schonhab' winh, masanto ix cheklaj yich."
+    },
+    {
+      "number": "14",
+      "text": "Ha heb' yajal yaj t'a skal heb' ajk'ol chi', a yet' syamk'ab' heb' yik owal, a yet'ok ix a milcham heb' ayik ix ja heb' t'ayonh yik tzonh satanel heb' yalani."
+    },
+    {
+      "number": "15",
+      "text": "Ichato ix ach b'ey t'a yib'anh ha' mar yet' nok' a chej, yuj chi' ix k'e chulnaj ha' mar chi'."
+    },
+    {
+      "number": "16",
+      "text": "Ayik ix wab'an masanil tas ol jawok t'a kib'anh, ix in xiwk'ei. Ix ib'xik'e in ti'. Masanil in niwanil ix el yip, ix el pax yip in xub'. Wach'chom icha chi' ol ajok, palta niwan ol wutok in k'ol in tanhwan jun k'ual ayik ol jawok yaelal t'a yib'anh heb' tz'ak'an owal ket'ok."
+    },
+    {
+      "number": "17",
+      "text": "Tzin te tzalaj wal uuj ach Jehová in Kolumal, wach'chom manh ol xumakan te' higo, manh ol satan te' uwa yet' te' oliwo, manh ol yak' sat tas tz'awchaji, wach'chom ol satel masanil nok' kalnel yet' nok' wakax t'a yol makte', palta ol walnhej wach' lolonel t'ayach."
+    },
+    {
+      "number": "18",
+      "text": "Mamin Jehová, a ach tzak' wip, tzak'an yip wok yik syal in b'ey icha nok' k'ultakil chej, tzin ik'ank'e b'aj chaanh, b'aj ol in kolchajok. B'itajokab' jun b'it tik yuj winh skuchb'an heb' sb'itan yet' juntzanh yamk'ab' ayoch sch'anhal."
+    }
+  ]
 }

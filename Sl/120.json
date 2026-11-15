@@ -1,33 +1,37 @@
 {
-    "chapter": "120",
-    "verses": [
-        {
-            "number": "1",
-            "text": "Mamin Jehová, ayic ay in och t'a somk'olal ix in awaj t'ayach, a achxo ix ach tak'wi t'ayin."
-        },
-        {
-            "number": "2",
-            "text": "Mamin, colinel t'a lolonel manh yeloc syal heb' naumk'e lolonel t'a in patic."
-        },
-        {
-            "number": "3",
-            "text": "Ex esalwum, ¿tom manh ol yak'cot yaelal Dios t'a eyib'anh yujto tze nachaanh lolonel chi'?"
-        },
-        {
-            "number": "4",
-            "text": "Ol jawok niwan yaelal t'a eyib'anh, ichato ol ex juljoc t'a jul-lab' jay snhi', ma ichato ol ex tz'ab'at yuj tzak'ak' chacxililnac."
-        },
-        {
-            "number": "5",
-            "text": "Ob'iltac in, wal schukal juntzanh anima b'aj kajan in tik. Ek'b'al schukal heb' t'a heb' aj Mesec, ma t'a heb' aj Cedar."
-        },
-        {
-            "number": "6",
-            "text": "Najtilxo kajan in ek' t'a skal heb' malaj snib'ej t'a junk'olal."
-        },
-        {
-            "number": "7",
-            "text": "Ha in tik, malaj in gana t'a owal, ayic swalanel lolonel yic junk'olal t'a skal heb', haxo owal snib'ej heb'."
-        }
-    ]
+  "chapter": "120",
+  "book": "SALMOS",
+  "book_short": "Sl",
+  "aligned": true,
+  "es_verses": 7,
+  "verses": [
+    {
+      "number": "1",
+      "text": "Mamin Jehová, ayik ay in och t'a somk'olal ix in awaj t'ayach, a achxo ix ach tak'wi t'ayin."
+    },
+    {
+      "number": "2",
+      "text": "Mamin, kolinel t'a lolonel manh yelok syal heb' naumk'e lolonel t'a in patik."
+    },
+    {
+      "number": "3",
+      "text": "Ex esalwum, ¿tom manh ol yak'kot yaelal Dios t'a eyib'anh yujto tze nachaanh lolonel chi'?"
+    },
+    {
+      "number": "4",
+      "text": "Ol jawok niwan yaelal t'a eyib'anh, ichato ol ex juljok t'a jul-lab' jay snhi', ma ichato ol ex tz'ab'at yuj tzak'ak' chakxililnak."
+    },
+    {
+      "number": "5",
+      "text": "Ob'iltak in, wal schukal juntzanh anima b'aj kajan in tik. Ek'b'al schukal heb' t'a heb' aj Mesec, ma t'a heb' aj Cedar."
+    },
+    {
+      "number": "6",
+      "text": "Najtilxo kajan in ek' t'a skal heb' malaj snib'ej t'a junk'olal."
+    },
+    {
+      "number": "7",
+      "text": "Ha in tik, malaj in gana t'a owal, ayik swalanel lolonel yik junk'olal t'a skal heb', haxo owal snib'ej heb'."
+    }
+  ]
 }
