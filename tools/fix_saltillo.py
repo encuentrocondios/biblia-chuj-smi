@@ -2,8 +2,8 @@
 """Saltillo entre vocales: en chuj dos vocales no van juntas (ALMG: lu'um, cha'anh, k'o'ol).
 
 - Dos vocales IGUALES en una palabra chuj -> se inserta el saltillo (k'een -> k'e'en).
-- Dos vocales DISTINTAS -> solo las palabras de tools/saltillo_almg.tsv, que la ALMG trae con saltillo
-  (yaelal -> ya'elal). Las demás quedan para revisión: a veces va h (k'ual / k'uhal) o es un préstamo.
+- Dos vocales DISTINTAS en una palabra chuj -> también saltillo (ak'jioch -> ak'ji'och), salvo que el par
+  quede dentro de una palabra española (israel, tiempo) o de «opisio». k'ual es k'uhal (h, según la ALMG).
 - Préstamo terminado en vocal + sufijo chuj (-al, -il, -ok): saltillo en la frontera (spuertail -> spuerta'il;
   la ALMG trae anma'il). Dentro de la palabra española no se toca nada (tiempo, israel).
 - Raíces con forma propia en la ALMG: tiknaik -> tikne'ik («ahora»), yaelal -> yahelal («enfermedad», Gramática normativa).
@@ -36,7 +36,7 @@ for v in vs:
         else: cnt[w.lower()] += 1
 RAICES = {"tiknaik": "tikne'ik", "ya'elal": "yahelal", "yaelal": "yahelal"}
 PRE = ['eyet', 'yet', 'wet', 'ket', 'et', 'ey', 'ko', 'he', 'in', 's', 'y', 'w', 'k', 'e', 'a', '']
-ADAPT = {'kaxa', 'palta', 'ora', 'anima', 'xila', 'mexa'}          # préstamos ya adaptados al chuj
+ADAPT = {'kaxa', 'palta', 'ora', 'anima', 'xila', 'mexa', 'marco', 'wentena'}          # préstamos ya adaptados al chuj
 def sufijo(w):
     for m in re.finditer(r"(?=[aeiouáéíóú](al|il|ok))", w):
         i = m.start(); stem = w[:i + 1]
@@ -45,6 +45,18 @@ def sufijo(w):
                 r = plain(stem[len(p):])
                 if (len(r) >= 4 and r in es) or r in ADAPT: return stem + "'" + w[i + 1:]
     return None
+def dentro_de_espanol(p, i):
+    for L in range(min(len(p), 14), 3, -1):
+        for a in range(max(0, i + 2 - L), min(i, len(p) - L) + 1):
+            if p[a:a + L] in es: return True
+    return False
+def general(w):
+    if 'r' in w or 'opisio' in w: return w
+    p = plain(w); r = ''
+    for i, c in enumerate(w):
+        r += c
+        if i + 1 < len(w) and c in 'aeiou' and w[i + 1] in 'aeiou' and not dentro_de_espanol(p, i): r += "'"
+    return r
 mapa = {}
 for w, n in cnt.items():
     if nom[w] > n or len(w) < 2: continue
@@ -54,7 +66,7 @@ for w, n in cnt.items():
     if g != w: mapa[w] = g
 for w, n in cnt.items():
     if nom[w] > n or len(w) < 2 or not ALFA.match(w) or espanol(w): continue
-    g = lista.get(w) or re.sub(r"([aeiou])(?=\1)", r"\1'", w)
+    g = lista.get(w) or general(w)
     if g != w and w not in mapa: mapa[w] = g
 cambios = collections.Counter()
 for v in vs:
