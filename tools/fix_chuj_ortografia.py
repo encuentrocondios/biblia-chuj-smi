@@ -34,7 +34,10 @@ NAME_REVERT = {'Dawid':'David','Ewa':'Eva','Sarwia':'Sarvia','Níniwe':'Nínive'
 NAME_REVERT_COND = {'Ewa':'Eva','Ewi':'Evi','Awa':'Ava','Sewa':'Seva'}
 
 # Correcciones de palabra completa respaldadas por la ALMG (Gramática descriptiva: «Hatoni» = «Eso es»; «haton» aparece 30 veces y «aton» ninguna)
-WORD_FIXES = {'aton': 'haton', 'atoni': 'hatoni'}
+WORD_FIXES = {'aton': 'haton', 'atoni': 'hatoni',
+              # confirmadas por el usuario el 15-nov-2026 y atestiguadas con h en la ALMG (uke', oye', olan y owal NO llevan h)
+              'axo': 'haxo', "ata'": "hata'", 'ato': 'hato', "et'ok": "het'ok", "eyet'ok": "heyet'ok", "anheja'": "hanheja'", 'alan': 'halan', 'oyan': 'hoyan',
+              'axonhej': 'haxonhej', 'alani': 'halani', "anhejtona'": "hanhejtona'"}
 
 def fix(w):
     def qu(m): return 'K' if m.group(0)[0] == 'Q' else 'k'
