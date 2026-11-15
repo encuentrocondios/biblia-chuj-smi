@@ -42,6 +42,16 @@ WORD_FIXES = {'aton': 'haton', 'atoni': 'hatoni',
               'ilani': 'hilani', 'achxo': 'hachxo', 'eyaj': 'heyaj', 'eyik': 'heyik', "eyila'": "heyila'", 'ama': 'hama', 'eyilani': 'heyilani',
               'elxi': 'helxi', 'into': 'hinto', 'eyilnak': 'heyilnak', "et'nak": "het'nak", 'inye': 'hinye', "uxluche'": "huxluche'", "ab'nak": "hab'nak", 'ilnak': 'hilnak'}
 
+# q' (ortografía antigua) = k'. Ante e/i se escribía q'u: suk'uq'ui -> suk'uk'i. También se deshace «k'ue/k'ui»,
+# resto de un reemplazo anterior que dejó la u (b'ak'uinh -> b'ak'inh). La ALMG no tiene ningún k'ue/k'ui.
+GLOTAL_Q = [(re.compile(r"[qQ]'[uU](?=[eiéíEIÉÍ])"), lambda m: "K'" if m.group(0)[0] == 'Q' else "k'"),
+            (re.compile(r"[qQ]'"), lambda m: "K'" if m.group(0)[0] == 'Q' else "k'"),
+            (re.compile(r"(?<=[kK]')[uU](?=[eiéíEIÉÍ])"), lambda m: '')]
+def fix_glotal(w):
+    if w == "sk'uej": return w
+    for rx, rep in GLOTAL_Q: w = rx.sub(rep, w)
+    return w
+
 def fix(w):
     def qu(m): return 'K' if m.group(0)[0] == 'Q' else 'k'
     w = re.sub(r"[qQ][uU](?=[eiéíEIÉÍ])", qu, w)
@@ -90,7 +100,7 @@ for key, v in verses.items():
     def sub0(m):
         w = m.group(0).replace('’', "'")
         if w.casefold() in ARTIFACTS: w = re.sub(r"(?<=')[hH]", '', w)
-        w = w.replace("d'", "t'").replace("D'", "T'")
+        w = fix_glotal(w.replace("d'", "t'").replace("D'", "T'"))
         if w.casefold() in WORD_FIXES: w = ('H' if w[0].isupper() else 'h') + WORD_FIXES[w.casefold()][1:]
         if w in NAME_REVERT: return NAME_REVERT[w]
         if w in NAME_REVERT_COND and NAME_REVERT_COND[w].casefold() in es_plain: return NAME_REVERT_COND[w]

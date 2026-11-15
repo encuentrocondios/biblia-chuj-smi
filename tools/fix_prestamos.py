@@ -23,7 +23,7 @@ cena jacinto cigüeña coraza cuerda ónice centeno octavo crema cítara queja c
 estacte cebolla cincuenta cocina comandante castañuelas castaño castigo cinco cuarzo policía violín centavo nueve cristiano
 cristal epicúreo estoico escuela dracma secretario codos parque corona coronel capitán capitan caporal capital carta cortina
 culto quintal marco cuchara estaca esquina veneno copia leviatán levita canela campana campamento arquita cobre comino coral
-tamarisco culantro máquina avena cálamo sicómoro navaja junco barco olivo
+tamarisco culantro máquina avena cálamo sicómoro navaja junco barco olivo caro
 cananeo caldeo amalecita heveo saduceo cereteo quereteo ceneo araceo arvadeo cenezeo aveo maacateo cadmoneo caftoritas
 casluhítas sucateo egipcio nicolaíta quenita""".split()
 # partes de nombres compuestos que van en minúscula (Cades-barnea, Abel-bet-maaca...): solo palabra exacta
