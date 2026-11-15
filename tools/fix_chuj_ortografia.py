@@ -37,7 +37,10 @@ NAME_REVERT_COND = {'Ewa':'Eva','Ewi':'Evi','Awa':'Ava','Sewa':'Seva'}
 WORD_FIXES = {'aton': 'haton', 'atoni': 'hatoni',
               # confirmadas por el usuario el 15-nov-2026 y atestiguadas con h en la ALMG (uke', oye', olan y owal NO llevan h)
               'axo': 'haxo', "ata'": "hata'", 'ato': 'hato', "et'ok": "het'ok", "eyet'ok": "heyet'ok", "anheja'": "hanheja'", 'alan': 'halan', 'oyan': 'hoyan',
-              'axonhej': 'haxonhej', 'alani': 'halani', "anhejtona'": "hanhejtona'"}
+              'axonhej': 'haxonhej', 'alani': 'halani', "anhejtona'": "hanhejtona'",
+              # el usuario (15-nov-2026): «la ALMG manda» para las de un solo registro
+              'ilani': 'hilani', 'achxo': 'hachxo', 'eyaj': 'heyaj', 'eyik': 'heyik', "eyila'": "heyila'", 'ama': 'hama', 'eyilani': 'heyilani',
+              'elxi': 'helxi', 'into': 'hinto', 'eyilnak': 'heyilnak', "et'nak": "het'nak", 'inye': 'hinye', "uxluche'": "huxluche'", "ab'nak": "hab'nak", 'ilnak': 'hilnak'}
 
 def fix(w):
     def qu(m): return 'K' if m.group(0)[0] == 'Q' else 'k'
