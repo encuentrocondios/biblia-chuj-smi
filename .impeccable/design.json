@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-15T19:39:46+00:00",
+  "title": "Design System: Biblia Chuj · San Mateo Ixtatán",
+  "extensions": {
+    "colorMeta": {
+      "brasa": {
+        "role": "primary",
+        "displayName": "Brasa del Fogón",
+        "canonical": "#B03E15",
+        "tonalRamp": [
+          "#351306",
+          "#581F0A",
+          "#7B2B0F",
+          "#9B3712",
+          "#BC5B38",
+          "#CC8267",
+          "#DFB2A1",
+          "#EFD8D0"
+        ]
+      },
+      "brasa-marco": {
+        "role": "primary",
+        "displayName": "Brasa sobre Marco",
+        "canonical": "#F28F63",
+        "tonalRamp": [
+          "#492B1E",
+          "#794832",
+          "#A96445",
+          "#D57E57",
+          "#F4A07A",
+          "#F7B69A",
+          "#FAD2C1",
+          "#FCE9E0"
+        ]
+      },
+      "sal-negra": {
+        "role": "neutral",
+        "displayName": "Sal Negra",
+        "canonical": "#1F1A17",
+        "tonalRamp": [
+          "#090807",
+          "#100D0C",
+          "#161210",
+          "#1B1714",
+          "#413C3A",
+          "#6D6A68",
+          "#A5A3A2",
+          "#D2D1D1"
+        ]
+      },
+      "sal-negra-hondo": {
+        "role": "neutral",
+        "displayName": "Sal Negra Honda",
+        "canonical": "#100D0C",
+        "tonalRamp": [
+          "#050404",
+          "#080606",
+          "#0B0908",
+          "#0E0B0B",
+          "#343130",
+          "#646261",
+          "#9F9E9E",
+          "#CFCFCE"
+        ]
+      },
+      "sal": {
+        "role": "neutral",
+        "displayName": "Sal Blanca",
+        "canonical": "#F3F5F4",
+        "tonalRamp": [
+          "#494A49",
+          "#7A7A7A",
+          "#AAACAB",
+          "#D6D8D7",
+          "#F5F6F6",
+          "#F7F8F8",
+          "#FAFBFB",
+          "#FDFDFD"
+        ]
+      },
+      "tinta": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "canonical": "#1A1715",
+        "tonalRamp": [
+          "#080706",
+          "#0D0C0A",
+          "#12100F",
+          "#171412",
+          "#3C3A38",
+          "#6A6867",
+          "#A3A2A1",
+          "#D1D1D0"
+        ]
+      },
+      "niebla": {
+        "role": "neutral",
+        "displayName": "Niebla",
+        "canonical": "#4F5B5D",
+        "tonalRamp": [
+          "#181B1C",
+          "#282E2E",
+          "#374041",
+          "#465052",
+          "#697475",
+          "#8D9496",
+          "#B9BDBE",
+          "#DCDEDF"
+        ]
+      },
+      "celda": {
+        "role": "neutral",
+        "displayName": "Cristal de Sal",
+        "canonical": "#E3E8E7",
+        "tonalRamp": [
+          "#444645",
+          "#727474",
+          "#9FA2A2",
+          "#C8CCCB",
+          "#E7EBEB",
+          "#EDF0EF",
+          "#F4F6F5",
+          "#F9FAFA"
+        ]
+      },
+      "linea": {
+        "role": "neutral",
+        "displayName": "Mortero",
+        "canonical": "#CBD3D2",
+        "tonalRamp": [
+          "#3D3F3F",
+          "#666A69",
+          "#8E9493",
+          "#B3BAB9",
+          "#D3DAD9",
+          "#DDE2E2",
+          "#EAEDED",
+          "#F5F6F6"
+        ]
+      },
+      "borde": {
+        "role": "neutral",
+        "displayName": "Borde de Control",
+        "canonical": "#7A8789",
+        "tonalRamp": [
+          "#252929",
+          "#3D4444",
+          "#555E60",
+          "#6B7779",
+          "#8E999B",
+          "#A9B1B2",
+          "#CACFD0",
+          "#E4E7E7"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Título del capítulo, una sola línea, número en brasa."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Títulos de Libros y del libro elegido."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Rótulos de panel y códigos de libro."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Versículos en Literata; tamaño ajustable con --leer."
+      },
+      "body-secondary": {
+        "displayName": "Body secondary",
+        "purpose": "Comparación en español en cursiva."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Botones, rutas y controles en Atkinson."
+      }
+    },
+    "shadows": [
+      {
+        "name": "acciones",
+        "value": "0 -10px 24px -12px #000a",
+        "purpose": "Barra de acciones de versículo."
+      },
+      {
+        "name": "popover",
+        "value": "0 18px 40px -16px #000b",
+        "purpose": "Panel de ajustes."
+      },
+      {
+        "name": "mortero",
+        "value": "0 0 0 1px #CBD3D2",
+        "purpose": "Contorno de 1px de las celdas de cristal (no es sombra)."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Entrada de lectura y celdas; sin movimiento con reduced-motion."
+      },
+      {
+        "name": "entra-lectura",
+        "value": "550ms",
+        "purpose": "Aparición del capítulo (10px hacia arriba)."
+      },
+      {
+        "name": "entra-celda",
+        "value": "500ms + 14ms por celda",
+        "purpose": "Escalonado de la retícula."
+      },
+      {
+        "name": "sube-acciones",
+        "value": "350ms",
+        "purpose": "Barra de acciones desde abajo."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "ancho",
+        "value": "46rem"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Franja",
+      "kind": "nav",
+      "refersTo": "masthead",
+      "description": "Losa de sal negra con la referencia actual y botones de búsqueda y ajustes.",
+      "html": "<header class=\"ds-mast\"><a class=\"ds-ref\" href=\"#\">Salmo 95</a><button class=\"ds-mbtn\" aria-label=\"Buscar\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M15.2 15.2 20.5 20.5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg></button></header>",
+      "css": ".ds-mast{display:flex;align-items:center;gap:.25rem;height:3.5rem;padding:0 .5rem;background:#1F1A17;color:#F3F5F4;font-family:\"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-ref{flex:1;display:flex;align-items:center;min-height:2.75rem;padding:0 .75rem;border-radius:.5rem;color:inherit;text-decoration:none;font:700 1.125rem/1 \"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-mbtn{display:grid;place-items:center;width:2.75rem;height:2.75rem;border:0;border-radius:.5rem;background:none;color:inherit;cursor:pointer}.ds-ref:hover,.ds-mbtn:hover{background:#ffffff14}.ds-ref:focus-visible,.ds-mbtn:focus-visible{outline:3px solid #F28F63;outline-offset:2px}"
+    },
+    {
+      "name": "Versículo",
+      "kind": "custom",
+      "refersTo": "body",
+      "description": "Número en brasa y texto en Literata; seleccionado con fondo de brasa al 13%.",
+      "html": "<p class=\"ds-v\"><button class=\"ds-n\" type=\"button\">16</button><span>Texto del versículo.</span></p>",
+      "css": ".ds-v{display:grid;grid-template-columns:2.35rem 1fr;align-items:baseline;margin:0;padding:.3rem .5rem .3rem 0;border-radius:.375rem;cursor:pointer;font:400 1.25rem/1.68 Literata,Georgia,serif;color:#1A1715;background:#F3F5F4}.ds-n{border:0;background:none;cursor:pointer;font:700 .72em/1 \"Atkinson Hyperlegible Next\",system-ui,sans-serif;color:#B03E15;padding:0 .45em 0 0;text-align:right}.ds-v:hover{background:#E3E8E78c}.ds-n:focus-visible{outline:3px solid #B03E15;outline-offset:2px}"
+    },
+    {
+      "name": "Celda de cristal",
+      "kind": "card",
+      "refersTo": "crystal-cell",
+      "description": "Firma del selector: celda cuadrada con dos facetas cortadas y mortero de 1px; la actual lleva borde brasa.",
+      "html": "<a class=\"ds-celda\" href=\"#\"><span class=\"ds-cod\">GEN</span><span class=\"ds-nom\">Génesis</span></a>",
+      "css": ".ds-celda{position:relative;display:flex;flex-direction:column;justify-content:center;width:8rem;min-height:4.25rem;padding:.6rem .7rem;box-shadow:0 0 0 1px #CBD3D2;text-decoration:none;color:#1A1715;background:linear-gradient(225deg,#CBD3D2 0 .75rem,transparent calc(.75rem + 1px)),linear-gradient(45deg,#CBD3D2 0 .4rem,transparent calc(.4rem + 1px)),#E3E8E7;font-family:\"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-cod{font:800 1.2rem/1.1 \"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-nom{font:400 .9rem/1.25 \"Atkinson Hyperlegible Next\",system-ui,sans-serif;color:#4F5B5D;margin-top:.2rem}.ds-celda:hover{background:linear-gradient(225deg,#CBD3D2 0 .75rem,transparent calc(.75rem + 1px)),linear-gradient(45deg,#CBD3D2 0 .4rem,transparent calc(.4rem + 1px)),color-mix(in oklab,#E3E8E7 80%,#1A1715)}.ds-celda:focus-visible{outline:3px solid #B03E15;outline-offset:2px}"
+    },
+    {
+      "name": "Botón",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "Contorno de tinta de 2px que se rellena al pasar.",
+      "html": "<button class=\"ds-btn\" type=\"button\">Instalar la aplicación</button>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;justify-content:center;min-height:2.9rem;padding:0 1.1rem;border:2px solid #1A1715;border-radius:.4rem;background:transparent;color:#1A1715;font:700 1rem/1 \"Atkinson Hyperlegible Next\",system-ui,sans-serif;cursor:pointer}.ds-btn:hover{background:#1A1715;color:#F3F5F4}.ds-btn:focus-visible{outline:3px solid #B03E15;outline-offset:2px}"
+    },
+    {
+      "name": "Campo de búsqueda",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Borde de 2px que pasa a brasa en foco; texto en Literata.",
+      "html": "<input class=\"ds-input\" type=\"search\" placeholder=\"Una palabra en chuj\">",
+      "css": ".ds-input{width:16rem;min-height:3.25rem;padding:.6rem 1rem;border:2px solid #7A8789;border-radius:.4rem;background:#F3F5F4;color:#1A1715;font:400 1.2rem/1.2 Literata,Georgia,serif}.ds-input::placeholder{color:#4F5B5D;opacity:1}.ds-input:focus{border-color:#B03E15;outline:0}"
+    },
+    {
+      "name": "Barra inferior",
+      "kind": "nav",
+      "refersTo": "rail",
+      "description": "Losa de sal negra con anterior, Libros y siguiente.",
+      "html": "<nav class=\"ds-rail\"><a class=\"ds-ra\" href=\"#\">&lsaquo;</a><a class=\"ds-ra\" href=\"#\">Libros</a><a class=\"ds-ra\" href=\"#\">&rsaquo;</a></nav>",
+      "css": ".ds-rail{display:grid;grid-template-columns:1fr auto 1fr;height:3.75rem;padding:0 .5rem;background:#1F1A17;color:#F3F5F4;font-family:\"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-ra{display:flex;align-items:center;min-height:2.75rem;padding:0 .9rem;margin:.45rem 0;border-radius:.5rem;color:inherit;text-decoration:none;font:600 1rem/1 \"Atkinson Hyperlegible Next\",system-ui,sans-serif}.ds-ra:hover{background:#ffffff14}.ds-ra:focus-visible{outline:3px solid #F28F63;outline-offset:2px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "La Sal Negra (atz'am k'ik')",
+    "overview": "El visor pertenece a San Mateo Ixtatán por su sal, no por motivos textiles prestados: un marco mineral alrededor de una columna de lectura tranquila. La franja superior y la barra inferior son losas de sal negra con letras de sal blanca; entre ellas, el texto reposa sobre un fondo de sal blanca ligeramente azulada. Un único acento, la brasa del fogón donde hierve la salmuera, marca los números de versículo, el lugar actual y el foco.\n\nLa densidad es baja y la jerarquía plana: nada actúa detrás del texto. El título del capítulo es una sola línea pesada en Literata, con el número en brasa. La interfaz usa Atkinson Hyperlegible Next, pensada para pantallas de gama media a plena luz y vista reducida. El modo oscuro vuelve el fondo de lectura la propia sal negra, tibia y parda.",
+    "keyCharacteristics": [
+      "Marco de sal negra (franja y barra) con columna de lectura de 38rem.",
+      "Un solo acento, la brasa, usado con escasez.",
+      "Serifa Literata para el texto sagrado; sans Atkinson para controles.",
+      "Selector en retícula de cristales de sal: celdas cuadradas, esquinas opuestas cortadas, mortero de 2px.",
+      "Plano por defecto: la profundidad es tonal; solo las superficies flotantes llevan sombra.",
+      "Objetivos táctiles de 2.75rem como mínimo."
+    ],
+    "rules": [
+      {
+        "name": "La Regla de la Única Brasa",
+        "body": "La brasa es el único color con croma; no se añade un segundo acento. Su escasez es lo que señala \"aquí estás\".",
+        "section": "colors"
+      },
+      {
+        "name": "La Regla del Marco Negro",
+        "body": "Franja, barra inferior y barra de acciones son siempre sal negra, también en modo claro; el tema solo cambia el lienzo central.",
+        "section": "colors"
+      },
+      {
+        "name": "La Regla del Apóstrofo",
+        "body": "El apóstrofo de b', t', k', tz', ch' es una letra: se pinta como U+02BC y nunca se parte la palabra ahí.",
+        "section": "typography"
+      },
+      {
+        "name": "La Regla de los Dos Registros",
+        "body": "Serifa para texto bíblico, títulos y resultados; sans solo para controles, códigos y rótulos.",
+        "section": "typography"
+      },
+      {
+        "name": "La Regla de lo Plano en Reposo",
+        "body": "El texto, las celdas y los botones no llevan sombra; solo lo que se superpone la tiene, y es difusa, nunca desplazada y dura.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do usar la brasa (#B03E15) solo para números de versículo, lugar actual, foco y estados marcados.",
+      "Do mantener el marco (franja, barra, acciones) en sal negra en ambos temas.",
+      "Do dar a cada objetivo táctil al menos 2.75rem (2.9rem en botones) y bordes de control de 2px con contraste de 3:1.",
+      "Do componer los selectores como retículas de celdas cuadradas con facetas cortadas y mortero de 2px.",
+      "Do usar Literata para texto y títulos, y Atkinson para controles; servir las fuentes localmente.",
+      "Do respetar `prefers-reduced-motion` y las áreas seguras del dispositivo."
+    ],
+    "donts": [
+      "Don't usar azul genérico de app bíblica ni el crema de \"libro antiguo\".",
+      "Don't añadir un segundo color de acento.",
+      "Don't poner sombras en reposo sobre texto, celdas ni botones.",
+      "Don't partir una palabra en el apóstrofo ni dibujarlo con comilla recta.",
+      "Don't hacer que algo se anime detrás del texto de lectura.",
+      "Don't introducir iconos de glifo ni fuentes de sistema como cara de título; los iconos son símbolos SVG inline."
+    ]
+  }
+}

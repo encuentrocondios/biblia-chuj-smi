@@ -11,3 +11,4 @@ models/
 Thumbs.db
 data/
 logs/
+output/

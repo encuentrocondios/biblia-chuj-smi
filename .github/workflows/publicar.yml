@@ -1,0 +1,28 @@
+name: Publicar API y visor
+
+# Genera la API JSON y el visor desde CHSM_fixed.xml y los publica en la rama `json` (GitHub Pages).
+on:
+  push:
+    branches: [main]
+    paths: [CHSM_fixed.xml, SPARV.xml, visor/**, tools/build_api.py, .github/workflows/publicar.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Generar API y visor
+        run: python tools/build_api.py
+      - name: Publicar en la rama json
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: output
+          publish_branch: json

@@ -1,0 +1,13 @@
+# Nombres propios/topónimos que no deben cambiar (el algoritmo no los detectó por el español)
+Neguev
+Micaía
+Vasti
+Afec
+Acub
+Escol
+Azricam
+Maluc
+Hatac
+Acsa
+Yamec
+Macaz
