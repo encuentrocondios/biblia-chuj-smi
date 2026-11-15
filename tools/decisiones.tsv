@@ -2,7 +2,6 @@
 # tipo: palabra = la palabra entera | inicio = empieza así | fin = termina así | contiene = en cualquier parte | minuscula = palabra entera solo si va en minúscula | queda = revisada, no cambia
 inicio	junel	jun'el	ALMG: jun'el, jun'elxo
 inicio	u'uj	hu'uj	ALMG: hu'uj
-contiene	uk'tak	uktak	ALMG: yuktak
 queda	tzul		no es tz'ul (bordar)
 fin	k'ol	k'o'ol	k'ol, sk'ol, ajk'ol = k'o'ol (los compuestos en -k'olal no cambian: la ALMG trae kusk'olal, wach'k'olal)
 palabra	wuj	wu'uj	por mí
@@ -19,10 +18,6 @@ palabra	u'um	hu'um	ALMG: hu'um (papel)
 queda	tokwal		duda; tok'wal es «jalar», otra palabra
 queda	koch		ko + och, no es k'och (llegar)
 queda	kochi		ídem
-palabra	satchanh	satcha'anh	cielo (ALMG); el contexto coincide: «sDiosal satchanh»
-inicio	jayeto	jaye'to	cuántos… todavía (ALMG: jaye'to)
-inicio	yukub'ixi'al	yukub'ixihal	a los siete/ocho días (ALMG: yukub'ixihal)
-palabra	we'e'i	we'e'i'	brillante (ALMG: we'e'i')
 queda	skol		el sentido en la Biblia no es el de la forma parecida de la ALMG
 queda	tok		el sentido en la Biblia no es el de la forma parecida de la ALMG
 queda	pak		el sentido en la Biblia no es el de la forma parecida de la ALMG
@@ -139,3 +134,12 @@ palabra	ukwa'anh	ukwanh	numeral con -wanh (ukwanh 51 veces)
 palabra	chawa'anh	chawanh	
 palabra	lajchawa'anh	lajchawanh	
 palabra	lajunhwa'anh	lajunhwanh	
+# --- revertidas por el revisor (15-nov-2026): se probaron y no son lo mismo
+queda	yuk'tak		su hermano; «yuktak» suena raro (la ALMG lo trae sin apóstrofo, pero no se sigue)
+queda	uk'tak		
+queda	wuk'tak		
+queda	kuk'tak		
+queda	satchanh		no es lo mismo que satcha'anh
+queda	jayeto		no es jaye'to
+queda	yukub'ixi'al		no es yukub'ixihal
+queda	we'e'i		no es we'e'i'
