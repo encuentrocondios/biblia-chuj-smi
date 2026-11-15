@@ -27,7 +27,7 @@
     },
     {
       "number": "6",
-      "text": "¿Tas yuj ol in q'uixwok tato tzin k'anab'ajej masanil a cheknab'il chi'?"
+      "text": "¿Tas yuj ol in k'ixwok tato tzin k'anab'ajej masanil a cheknab'il chi'?"
     },
     {
       "number": "7",
@@ -127,7 +127,7 @@
     },
     {
       "number": "31",
-      "text": "Mamin Jehová, te naan in kachnab'il ix ak'a', manh in a cha q'uixwok."
+      "text": "Mamin Jehová, te naan in kachnab'il ix ak'a', manh in a cha k'ixwok."
     },
     {
       "number": "32",
@@ -155,7 +155,7 @@
     },
     {
       "number": "38",
-      "text": "Hak'uelk'och t'ayin a in a chekab' in tik, juntzanh tas alb'ilkan uuj t'a heb' ay elk'och t'a yol sat."
+      "text": "Hak'elk'och t'ayin a in a chekab' in tik, juntzanh tas alb'ilkan uuj t'a heb' ay elk'och t'a yol sat."
     },
     {
       "number": "39",
@@ -179,7 +179,7 @@
     },
     {
       "number": "44",
-      "text": "In gana tzin k'anab'ajej a k'ayb'ub'al, malajokab' b'ak'uinh swaktejkani."
+      "text": "In gana tzin k'anab'ajej a k'ayb'ub'al, malajokab' b'ak'inh swaktejkani."
     },
     {
       "number": "45",
@@ -187,7 +187,7 @@
     },
     {
       "number": "46",
-      "text": "Ha t'a yichanh heb' winh rey ol walel a cheknab'il, manh ol in q'uixwoklaj walani."
+      "text": "Ha t'a yichanh heb' winh rey ol walel a cheknab'il, manh ol in k'ixwoklaj walani."
     },
     {
       "number": "47",
@@ -219,7 +219,7 @@
     },
     {
       "number": "54",
-      "text": "Ha a ley ix wak'och in b'itok t'a sat lu'um tik, yujto ek'elb'anhej weq'ui."
+      "text": "Ha a ley ix wak'och in b'itok t'a sat lu'um tik, yujto ek'elb'anhej wek'i."
     },
     {
       "number": "55",
@@ -315,7 +315,7 @@
     },
     {
       "number": "78",
-      "text": "Q'uixwokab'el heb' ak'umtak syutej sb'a, yujto tzin sb'aj heb' wach'chom malaj in mul t'a heb'. Ha inxo tik tzin naub'tanhej a cheknab'il."
+      "text": "K'ixwokab'el heb' ak'umtak syutej sb'a, yujto tzin sb'aj heb' wach'chom malaj in mul t'a heb'. Ha inxo tik tzin naub'tanhej a cheknab'il."
     },
     {
       "number": "79",
@@ -323,15 +323,15 @@
     },
     {
       "number": "80",
-      "text": "Wach'okab'nhej yaj in pensar icha syal a ley, yik wach' malaj b'aj ol in q'uixwok. CAF"
+      "text": "Wach'okab'nhej yaj in pensar icha syal a ley, yik wach' malaj b'aj ol in k'ixwok. CAF"
     },
     {
       "number": "81",
-      "text": "Toxonhej nanon yek' in k'ool b'ak'uinh ol in a kolo', palta a a lolonel swak'och yipok in k'ool."
+      "text": "Toxonhej nanon yek' in k'ool b'ak'inh ol in a kolo', palta a a lolonel swak'och yipok in k'ool."
     },
     {
       "number": "82",
-      "text": "Wan yixtax yol in sat yuj in maklani b'ak'uinh ol elk'och tas alnakkani. Tzin naan icha tik: ¿B'aq'uinh ol ach ja ak' sniwanil in k'ool? xin chi."
+      "text": "Wan yixtax yol in sat yuj in maklani b'ak'inh ol elk'och tas alnakkani. Tzin naan icha tik: ¿B'ak'inh ol ach ja ak' sniwanil in k'ool? xin chi."
     },
     {
       "number": "83",
@@ -339,7 +339,7 @@
     },
     {
       "number": "84",
-      "text": "¿Jantakto tiempo ol wil a in a chekab' in tik? ¿B'aq'uinhto wal ol ak'och syaelal heb' ayoch ajk'olal t'ayin?"
+      "text": "¿Jantakto tiempo ol wil a in a chekab' in tik? ¿B'ak'inhto wal ol ak'och syaelal heb' ayoch ajk'olal t'ayin?"
     },
     {
       "number": "85",
@@ -375,7 +375,7 @@
     },
     {
       "number": "93",
-      "text": "Malaj b'ak'uinh sb'atkan a cheknab'il satk'olal wuuj. Ha yuj a lolonel tik ix ak' in k 'inal."
+      "text": "Malaj b'ak'inh sb'atkan a cheknab'il satk'olal wuuj. Ha yuj a lolonel tik ix ak' in k 'inal."
     },
     {
       "number": "94",
@@ -547,7 +547,7 @@
     },
     {
       "number": "136",
-      "text": "Tzin te oq'ui, yujto malaj yelk'och a k'ayb'ub'al t'a heb' wetanimail. TZADE"
+      "text": "Tzin te ok'i, yujto malaj yelk'och a k'ayb'ub'al t'a heb' wetanimail. TZADE"
     },
     {
       "number": "137",
@@ -571,7 +571,7 @@
     },
     {
       "number": "142",
-      "text": "Ha a tojolal malaj b'ak'uinh slajwi. Ha a k'ayb'ub'al yelnhej syala'."
+      "text": "Ha a tojolal malaj b'ak'inh slajwi. Ha a k'ayb'ub'al yelnhej syala'."
     },
     {
       "number": "143",
@@ -607,7 +607,7 @@
     },
     {
       "number": "151",
-      "text": "Ha hachxo pax Mamin, te lak'an ayach eq'ui, yelton wal syal masanil a cheknab'il."
+      "text": "Ha hachxo pax Mamin, te lak'an ayach ek'i, yelton wal syal masanil a cheknab'il."
     },
     {
       "number": "152",
@@ -643,7 +643,7 @@
     },
     {
       "number": "160",
-      "text": "Ha a lolonel te yel. Tojolton masanil a k'ayb'ub'al, malaj b'ak'uinh ol lajwokelok. SIN"
+      "text": "Ha a lolonel te yel. Tojolton masanil a k'ayb'ub'al, malaj b'ak'inh ol lajwokelok. SIN"
     },
     {
       "number": "161",
