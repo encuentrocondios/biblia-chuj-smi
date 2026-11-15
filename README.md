@@ -29,6 +29,7 @@ Herramientas (`tools/`):
 
 - `build_api.py`: genera la API y empaqueta `visor/` en `output/`.
 - `fix_chuj_ortografia.py`: aplica el alfabeto oficial de la ALMG (sin `c`, `qu`, `v`; `d'` → `t'`) respetando nombres propios (`nombres.txt`). Uso: `python tools/fix_chuj_ortografia.py CHSM_fixed.xml SPARV.xml salida.xml cambios.csv pendientes.csv`
+- `fix_prestamos.py`: devuelve la ortografía española a préstamos y nombres propios (`nacional`, `sacerdote`, `Coat`), dejando prefijos y sufijos chuj. Necesita el texto original: `git show 2b5b0d3:CHSM.xml > original.xml`.
 - `zefania_to_mybible.py`: convierte el XML en módulo `.SQLite3` para MyBible.
 
 El español de comparación es Reina-Valera **1909**. La 1960 tiene derechos de autor y no se incluye.
