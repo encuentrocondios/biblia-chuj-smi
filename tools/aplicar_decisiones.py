@@ -13,6 +13,7 @@ def aplicar(w):
     lw = w.lower()
     for tipo, a, b in reglas:
         if tipo == 'palabra' and lw == a: lw = b
+        elif tipo == 'minuscula' and w == a: lw = b
         elif tipo == 'inicio' and lw.startswith(a): lw = b + lw[len(a):]
         elif tipo == 'fin' and lw.endswith(a): lw = lw[:-len(a)] + b
         elif tipo == 'contiene' and a in lw: lw = lw.replace(a, b)

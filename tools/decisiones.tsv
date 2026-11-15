@@ -1,5 +1,5 @@
 # Decisiones del revisor (hablante), palabra por palabra. Columnas: tipo, antes, después, nota
-# tipo: palabra = la palabra entera | inicio = empieza así | fin = termina así | contiene = en cualquier parte | queda = revisada, no cambia
+# tipo: palabra = la palabra entera | inicio = empieza así | fin = termina así | contiene = en cualquier parte | minuscula = palabra entera solo si va en minúscula | queda = revisada, no cambia
 inicio	junel	jun'el	ALMG: jun'el, jun'elxo
 inicio	u'uj	hu'uj	ALMG: hu'uj
 contiene	uk'tak	uktak	ALMG: yuktak
@@ -61,3 +61,48 @@ queda	k'echa'anh		el sentido en la Biblia no es el de la forma parecida de la AL
 queda	na'		el sentido en la Biblia no es el de la forma parecida de la ALMG
 queda	na'a		el sentido en la Biblia no es el de la forma parecida de la ALMG
 queda	woch		el sentido en la Biblia no es el de la forma parecida de la ALMG
+# --- marcas de persona con h inicial, como la ALMG (hin, hach, hex, honh, ha, hey-)
+palabra	in	hin	
+palabra	inxo	hinxo	
+palabra	innhej	hinnhej	
+palabra	inxonhej	hinxonhej	
+palabra	into	hinto	
+palabra	inton	hinton	
+palabra	inlaj	hinlaj	
+palabra	inxi	hinxi	
+palabra	intaxon	hintaxon	
+palabra	innhejton	hinnhejton	
+palabra	ex	hex	
+palabra	exxo	hexxo	
+palabra	exnhej	hexnhej	
+palabra	exxonhej	hexxonhej	
+palabra	exto	hexto	
+palabra	exton	hexton	
+palabra	exlaj	hexlaj	
+palabra	exxi	hexxi	
+palabra	extaxon	hextaxon	
+palabra	exnhejton	hexnhejton	
+palabra	onh	honh	
+palabra	onhxo	honhxo	
+palabra	onhnhej	honhnhej	
+palabra	onhxonhej	honhxonhej	
+palabra	onhto	honhto	
+palabra	onhton	honhton	
+palabra	onhlaj	honhlaj	
+palabra	onhxi	honhxi	
+palabra	onhtaxon	honhtaxon	
+palabra	onhnhejton	honhnhejton	
+minuscula	ach	hach	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achxo	hachxo	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achnhej	hachnhej	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achxonhej	hachxonhej	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achto	hachto	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achton	hachton	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achlaj	hachlaj	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achtaxon	hachtaxon	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+minuscula	achnhejton	hachnhejton	«Ach» con mayúscula (vocativo: «--Ach Adán») queda pendiente
+palabra	a	ha	tú/tu y partícula de foco (ALMG: ha, ha'in)
+palabra	a'	ha'	él/ella (ALMG: ha')
+palabra	e	he	
+inicio	ey	hey	ustedes (ALMG: heyok'i)
+queda	k'anh		no es kanh
