@@ -134,12 +134,13 @@ palabra	ukwa'anh	ukwanh	numeral con -wanh (ukwanh 51 veces)
 palabra	chawa'anh	chawanh	
 palabra	lajchawa'anh	lajchawanh	
 palabra	lajunhwa'anh	lajunhwanh	
-# --- revertidas por el revisor (15-nov-2026): se probaron y no son lo mismo
 queda	yuk'tak		su hermano; «yuktak» suena raro (la ALMG lo trae sin apóstrofo, pero no se sigue)
 queda	uk'tak		
 queda	wuk'tak		
 queda	kuk'tak		
-queda	satchanh		no es lo mismo que satcha'anh
-queda	jayeto		no es jaye'to
-queda	yukub'ixi'al		no es yukub'ixihal
-queda	we'e'i		no es we'e'i'
+# --- yuk'tak: confirmado por el revisor; la ALMG trae wuk'tak 43 veces y yuktak solo 2
+# --- revisadas contra la ALMG a petición del revisor (15-nov-2026)
+palabra	satchanh	satcha'anh	cielo: Gramática normativa («satcha'anh cielo») y Vocabulario; «satchanh» no aparece en la ALMG
+inicio	jayeto	jaye'to	Vocabulario ALMG: «Jaye'to te' hachemte'» (¿cuántas… todavía?)
+inicio	yukub'ixi'al	yukub'ixihal	Vocabulario ALMG: «Yukub'ixihal» (cada siete días)
+palabra	we'e'i	we'e'i'	Vocabulario ALMG: «Wetzetzi, we'e'i'» (brillante)
