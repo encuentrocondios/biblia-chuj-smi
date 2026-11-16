@@ -23,6 +23,7 @@ El texto vigente es `CHSM.xml` (Zefania XML). Con cada cambio en `main` la acci�
   - `{libro}.json`: libro completo, compacto. `es/{libro}.json`: Reina-Valera 1909 (dominio público) para comparar.
   - `revision.json`: capítulos cuyo número de versículos no coincide con el español (para revisar la traducción).
   - `version.json`: fecha y totales.
+- **Zefania XML para otros programas**: `https://github.com/encuentrocondios/biblia-chuj-smi/releases/latest/download/CHSM.xml`
 - **Módulo de MyBible (Android)**: ver los *releases*. Registry: `https://github.com/encuentrocondios/biblia-chuj-smi/releases/latest/download/CHSMI.registry.json`
 
 Herramientas (`tools/`):
