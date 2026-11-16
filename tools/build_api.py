@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Genera la API JSON estática y empaqueta el visor.
 
-Uso: python tools/build_api.py [--out output] [--chuj CHSM_fixed.xml] [--es SPARV.xml] [--visor visor]
+Uso: python tools/build_api.py [--out output] [--chuj CHSM.xml] [--es SPARV.xml] [--visor visor]
 
 Salida (compatible con la API anterior, solo con campos añadidos):
   books.json                  libros: name, short_name (+ number, testament, chapters, verses)
@@ -43,7 +43,7 @@ def dump(path, obj, indent=None):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--out', default='output'); ap.add_argument('--chuj', default='CHSM_fixed.xml')
+    ap.add_argument('--out', default='output'); ap.add_argument('--chuj', default='CHSM.xml')
     ap.add_argument('--es', default='SPARV.xml'); ap.add_argument('--visor', default='visor')
     a = ap.parse_args()
 

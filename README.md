@@ -14,7 +14,7 @@ Todas las colaboraciones serán revisadas antes de ser aceptadas.
 
 # Visor, API y módulo de MyBible
 
-El texto vigente es `CHSM_fixed.xml` (Zefania XML). Con cada cambio en `main` la acción *Publicar API y visor* genera:
+El texto vigente es `CHSM.xml` (Zefania XML). Con cada cambio en `main` la acción *Publicar API y visor* genera:
 
 - **Visor web instalable (PWA)**: https://encuentrocondios.github.io/biblia-chuj-smi/ (se lee sin conexión y se puede instalar desde el navegador).
 - **API JSON estática** en la misma dirección:
@@ -28,7 +28,7 @@ El texto vigente es `CHSM_fixed.xml` (Zefania XML). Con cada cambio en `main` la
 Herramientas (`tools/`):
 
 - `build_api.py`: genera la API y empaqueta `visor/` en `output/`.
-- `fix_chuj_ortografia.py`: aplica el alfabeto oficial de la ALMG (sin `c`, `qu`, `v`; `d'` → `t'`) respetando nombres propios (`nombres.txt`). Uso: `python tools/fix_chuj_ortografia.py CHSM_fixed.xml SPARV.xml salida.xml cambios.csv pendientes.csv`
+- `fix_chuj_ortografia.py`: aplica el alfabeto oficial de la ALMG (sin `c`, `qu`, `v`; `d'` → `t'`) respetando nombres propios (`nombres.txt`). Uso: `python tools/fix_chuj_ortografia.py CHSM.xml SPARV.xml salida.xml cambios.csv pendientes.csv`
 - `fix_prestamos.py`: devuelve la ortografía española a préstamos y nombres propios (`nacional`, `sacerdote`, `Coat`), dejando prefijos y sufijos chuj. Necesita el texto original: `git show 2b5b0d3:CHSM.xml > original.xml`.
 - `fix_saltillo.py`: saltillo entre vocales (`k'een` → `k'e'en`); las vocales distintas solo según `saltillo_almg.tsv`.
 - `decisiones.tsv` y `aplicar_decisiones.py`: decisiones del revisor (hablante), palabra por palabra, y el script que las aplica.

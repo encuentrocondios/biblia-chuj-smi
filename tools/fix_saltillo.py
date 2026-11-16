@@ -8,7 +8,7 @@
   la ALMG trae anma'il). Dentro de la palabra española no se toca nada (tiempo, israel).
 - Raíces con forma propia en la ALMG: tiknaik -> tikne'ik («ahora»), yaelal -> yahelal («enfermedad», Gramática normativa).
 No se tocan palabras españolas ni nombres propios.
-Uso: fix_saltillo.py CHSM_fixed.xml SPARV.xml salida.xml cambios.csv
+Uso: fix_saltillo.py CHSM.xml SPARV.xml salida.xml cambios.csv
 """
 import re, sys, csv, os, collections, unicodedata
 import xml.etree.ElementTree as ET

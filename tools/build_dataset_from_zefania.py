@@ -6,7 +6,7 @@ build_dataset_from_zefania.py
 
 Uso:
   python build_dataset_from_zefania.py \
-    --chuj CHSMI_fixed.xml \
+    --chuj CHSM.xml \
     --es   LAT.xml \
     --out  data/parallel.csv \
     --logs logs/
@@ -293,7 +293,7 @@ def parse_lat_xml(path: str):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--chuj", required=True, help="Ruta a CHSMI_fixed.xml")
+    ap.add_argument("--chuj", required=True, help="Ruta a CHSM.xml")
     ap.add_argument("--es",   required=True, help="Ruta a LAT.xml (Español Latinoamericano)")
     ap.add_argument("--out",  default="data/parallel.csv", help="CSV paralelo de salida")
     ap.add_argument("--logs", default="logs", help="Carpeta para logs")

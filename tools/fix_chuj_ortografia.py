@@ -2,7 +2,7 @@
 """Ortografía ALMG (1987): sin c, qu, v en palabras chuj.
 Una palabra se deja intacta (y se reporta) si parece nombre propio o préstamo:
 aparece en el versículo equivalente de Reina-Valera (SPARV.xml), por igualdad o por prefijo de 5 letras.
-Uso: fix_chuj_v2.py CHSM_fixed.xml SPARV.xml salida.xml cambios.csv pendientes.csv"""
+Uso: fix_chuj_ortografia.py CHSM.xml SPARV.xml salida.xml cambios.csv pendientes.csv"""
 import re, sys, csv, unicodedata, collections
 import xml.etree.ElementTree as ET
 

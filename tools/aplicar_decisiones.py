@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aplica tools/decisiones.tsv al texto. Uso: aplicar_decisiones.py CHSM_fixed.xml salida.xml cambios.csv"""
+"""Aplica tools/decisiones.tsv al texto. Uso: aplicar_decisiones.py CHSM.xml salida.xml cambios.csv"""
 import re, sys, csv, os, collections
 import xml.etree.ElementTree as ET
 TOK = re.compile(r"[^\W\d_][\w'’]*")

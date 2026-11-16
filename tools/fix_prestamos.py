@@ -8,7 +8,7 @@ adaptados que la ALMG escribe con k (alkal, kalnel, koxtal, mantekat) y los de f
 española (serwil, kostil, wentena) no se tocan.
 
 Necesita el texto original como referencia:  git show 2b5b0d3:CHSM.xml > original.xml
-Uso: fix_prestamos.py CHSM_fixed.xml original.xml SPARV.xml salida.xml cambios.csv
+Uso: fix_prestamos.py CHSM.xml original.xml SPARV.xml salida.xml cambios.csv
 """
 import re, sys, csv, collections, unicodedata
 import xml.etree.ElementTree as ET

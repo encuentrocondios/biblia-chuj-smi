@@ -19,7 +19,7 @@ A reader for La Santa Biblia en Chuj de San Mateo Ixtatán, published by the chu
 The Chuj text of San Mateo Ixtatán, spelled per the ALMG standard alphabet (Gramática normativa Chuj, 2007), read directly from the church's own repository: the text a neighboring reader (MyBible module, generic Bible apps) would not carry in this reviewed orthography.
 
 ## Operating Context
-Text lives in CHSM_fixed.xml (Zefania XML) in the repo; a GitHub Action converts it to JSON on the `json` branch, which GitHub Pages serves (books.json with name and short_name; one file per chapter with chapter and verses[number,text]). The MyBible module is published separately as a release. The translation is under active review by speakers, so the text changes.
+Text lives in CHSM.xml (Zefania XML) in the repo; a GitHub Action converts it to JSON on the `json` branch, which GitHub Pages serves (books.json with name and short_name; one file per chapter with chapter and verses[number,text]). The MyBible module is published separately as a release. The translation is under active review by speakers, so the text changes.
 
 ## Capabilities and Constraints
 - 66 books, 29,991 verses; about 1,100 verses of the Spanish canon are absent in the Chuj text, and some chapters are offset (open issue #5: Lucas 23 is one verse ahead).
@@ -31,7 +31,7 @@ Text lives in CHSM_fixed.xml (Zefania XML) in the repo; a GitHub Action converts
 Name: Biblia Chuj San Mateo Ixtatán. Publisher: Iglesia Encuentro con Dios. No logo or brand palette has been provided.
 
 ## Evidence on Hand
-Full text in CHSM_fixed.xml, Spanish RV 1909 in SPARV.xml, ALMG grammar PDFs in the private repo aalonzolu/chuj_translate. No logo, photography, or testimonials exist; none should be invented.
+Full text in CHSM.xml, Spanish RV 1909 in SPARV.xml, ALMG grammar PDFs in the private repo aalonzolu/chuj_translate. No logo, photography, or testimonials exist; none should be invented.
 
 ## Product Principles
 1. The text is the product: reading comfort beats every other feature.

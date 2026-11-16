@@ -1,10 +1,10 @@
 name: Publicar API y visor
 
-# Genera la API JSON y el visor desde CHSM_fixed.xml y los publica en la rama `json` (GitHub Pages).
+# Genera la API JSON y el visor desde CHSM.xml y los publica en la rama `json` (GitHub Pages).
 on:
   push:
     branches: [main]
-    paths: [CHSM_fixed.xml, SPARV.xml, visor/**, tools/build_api.py, .github/workflows/publicar.yml]
+    paths: [CHSM.xml, SPARV.xml, visor/**, tools/build_api.py, .github/workflows/publicar.yml]
   workflow_dispatch:
 
 permissions:
