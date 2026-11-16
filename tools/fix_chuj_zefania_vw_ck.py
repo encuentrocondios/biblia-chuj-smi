@@ -113,7 +113,7 @@ def process_xml(inp: str, outp: str, skip_title: bool, wl: Set[str]) -> int:
 def main():
     ap = argparse.ArgumentParser(description="Chuj: corrige v→w y c→k (sin tocar 'ch') en XML Zefania; protege whitelist y gentilicios.")
     ap.add_argument("input", help="CHSM.xml")
-    ap.add_argument("output", help="CHSM_fixed.xml")
+    ap.add_argument("output", help="salida.xml")
     ap.add_argument("--skip-titlecase", action="store_true",
                     help="No cambia tokens Tipo Título o MAYÚSCULAS (posibles nombres propios).")
     ap.add_argument("--whitelist", help="Archivo con nombres/formas a preservar (uno por línea).")
